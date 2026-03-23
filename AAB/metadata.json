@@ -1,10 +1,10 @@
 {
-  "id": "BSB",
-  "name": "Berean Standard Bible",
+  "id": "AAB",
+  "name": "Accessible Ancients Bible",
   "direction": "ltr",
-  "englishName": "Berean Standard Bible",
+  "englishName": "Accessible Ancients Bible",
   "language": "eng",
-  "licenseUrl": "https://berean.bible/",
-  "shortName": "BSB",
-  "website": "https://berean.bible/"
+  "licenseUrl": "https://github.com/HelloAOLab/bibles/blob/main/AAB/LICENSE",
+  "shortName": "AAB",
+  "website": "https://helloao.org/"
 }
