@@ -1,6 +1,6 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft (v0.3) | Awaiting Feedback**
+**Status: Public Draft (v0.4) | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -10,39 +10,39 @@ The AAB is an independent public effort and is not affiliated with any organizat
 
 ## Table of Contents
 
-1. [Overview](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#overview)  
-2. [A Word to Readers: Translation Is Not Commentary](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#a-word-to-readers-translation-is-not-commentary)  
-   - [A Compromising Translation (By Design)](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#a-compromising-translation-by-design)  
-   - [Why Public Domain Matters](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#why-public-domain-matters)  
-   - [Our Aspiration](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#our-aspiration)  
-   - [The Problem with Modern Translations](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#the-problem-with-modern-translations)  
-   - [A Call to Scholars and Teachers](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#a-call-to-scholars-and-teachers)  
-3. [What We Changed and What We Didn't](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#what-we-changed-and-what-we-didnt)  
-4. [A Note on Greek Dualism and the Biblical Worldview](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#a-note-on-greek-dualism-and-the-biblical-worldview)  
-   - [Nephesh: What the Hebrew Bible Actually Says About the "Soul"](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#nephesh-what-the-hebrew-bible-actually-says-about-the-soul)  
-   - [Ruach: What the Hebrew Bible Actually Says About the "Spirit"](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#ruach-what-the-hebrew-bible-actually-says-about-the-spirit)  
-   - [The "Departing Soul" Passages](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#the-departing-soul-passages)  
-   - [How This Translation Handles Nephesh, Ruach, and Psychē](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#how-this-translation-handles-nephesh-ruach-and-psychē)  
-5. [Hermeneutical Foundation](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#hermeneutical-foundation)  
-   - [The Logic Test](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#the-logic-test)  
-6. [Quick Reference: Changes at a Glance](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#quick-reference-changes-at-a-glance)  
-7. [Part 1: Cosmic Structure and Space](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#part-1-cosmic-structure-and-space)  
-8. [Part 2: Divine Beings and Council](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#part-2-divine-beings-and-council)  
-9. [Part 3: Underworld and Death](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#part-3-underworld-and-death)  
-10. [Part 4: Spiritual Beings and Idolatry](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#part-4-spiritual-beings-and-idolatry)  
-11. [Part 5: Human Anthropology](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#part-5-human-anthropology)  
-12. [Part 6: Sacrificial Terminology](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#part-6-sacrificial-terminology)  
-13. [Specific Passages](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#specific-passages)  
-- [Final Judgment Passages](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#final-judgment-passages)  
-14. [Text-Critical Adoptions](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#text-critical-adoptions)  
-15. [What This Translation Does Not Do](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#what-this-translation-does-not-do)  
-16. [Complete Verse Catalog](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#complete-verse-catalog)  
-17. [AAB vs ESV vs NIV Comparison](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#eab-vs-esv-vs-niv-comparison)  
-- [Overall Assessment](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#overall-assessment)  
-- [Join Us](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#join-us)  
-18. [Scholarly Endorsements](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#scholarly-endorsements)  
-- [How Endorsements Work](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#how-endorsements-work)  
-- [How to Add Your Voice](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#how-to-add-your-voice)
+1. [Overview](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#overview)  
+2. [A Word to Readers: Translation Is Not Commentary](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#a-word-to-readers-translation-is-not-commentary)  
+   - [A Compromising Translation (By Design)](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#a-compromising-translation-by-design)  
+   - [Why Public Domain Matters](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#why-public-domain-matters)  
+   - [Our Aspiration](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#our-aspiration)  
+   - [The Problem with Modern Translations](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#the-problem-with-modern-translations)  
+   - [A Call to Scholars and Teachers](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#a-call-to-scholars-and-teachers)  
+3. [What We Changed and What We Didn't](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#what-we-changed-and-what-we-didnt)  
+4. [A Note on Greek Dualism and the Biblical Worldview](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#a-note-on-greek-dualism-and-the-biblical-worldview)  
+   - [Nephesh: What the Hebrew Bible Actually Says About the "Soul"](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#nephesh-what-the-hebrew-bible-actually-says-about-the-soul)  
+   - [Ruach: What the Hebrew Bible Actually Says About the "Spirit"](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#ruach-what-the-hebrew-bible-actually-says-about-the-spirit)  
+   - [The "Departing Soul" Passages](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#the-departing-soul-passages)  
+   - [How This Translation Handles Nephesh, Ruach, and Psychē](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#how-this-translation-handles-nephesh-ruach-and-psychē)  
+5. [Hermeneutical Foundation](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#hermeneutical-foundation)  
+   - [The Logic Test](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#the-logic-test)  
+6. [Quick Reference: Changes at a Glance](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#quick-reference-changes-at-a-glance)  
+7. [Part 1: Cosmic Structure and Space](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-1-cosmic-structure-and-space)  
+8. [Part 2: Divine Beings and Council](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-2-divine-beings-and-council)  
+9. [Part 3: Underworld and Death](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-3-underworld-and-death)  
+10. [Part 4: Spiritual Beings and Idolatry](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-4-spiritual-beings-and-idolatry)  
+11. [Part 5: Human Anthropology](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-5-human-anthropology)  
+12. [Part 6: Sacrificial Terminology](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-6-sacrificial-terminology)  
+13. [Specific Passages](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#specific-passages)  
+- [Final Judgment Passages](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#final-judgment-passages)  
+14. [Text-Critical Adoptions](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#text-critical-adoptions)  
+15. [What This Translation Does Not Do](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#what-this-translation-does-not-do)  
+16. [Complete Verse Catalog](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#complete-verse-catalog)  
+17. [AAB vs ESV vs NIV Comparison](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#aab-vs-esv-vs-niv-comparison)  
+- [Overall Assessment](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#overall-assessment)  
+- [Join Us](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#join-us)  
+18. [Scholarly Endorsements](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#scholarly-endorsements)  
+- [How Endorsements Work](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#how-endorsements-work)  
+- [How to Add Your Voice](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#how-to-add-your-voice)
 
 ---
 
@@ -137,13 +137,13 @@ The BSB changed everything. Finally, a modern, readable, scholarly translation t
 
 Other translations are publicly available for personal use but require those who want to incorporate them into tools, apps, or publications to (a) know the translation exists, (b) find out who controls the rights, and (c) request permission. These steps are not difficult for large organizations with legal departments. They are insurmountable barriers for the small developer building a Bible app in her spare time, the pastor in a developing nation who wants to print study materials, or the missionary who needs a translation he can freely modify for a new context.
 
-Our goal is simple: a quality public domain translation that anyone can use, available through the **Free Use Bible API** (freeusebible.org). No permissions. No forms. No waiting. Just Scripture, free as it should be.
+Our goal is simple: a quality public domain translation that anyone can use, available through the **Free Use Bible API** (bible.helloao.org). No permissions. No forms. No waiting. Just Scripture, free as it should be.
 
 ### Our Aspiration
 
 We are not hedging. We want this to be the best modern English translation available.
 
-That is an audacious claim for a v0.3 draft from a small team. We know. We do not even recommend this translation ourselves yet. We are publishing it to invite the scrutiny and collaboration necessary to get there. This is the starting point of a journey, not a finished product.
+That is an audacious claim for an early public draft from a small team. We know. We do not even recommend this translation ourselves yet. We are publishing it to invite the scrutiny and collaboration necessary to get there. This is the starting point of a journey, not a finished product.
 
 Candidly: if the ESV were public domain, we would have started this work from that base. Its prose is often polished, and many of its textual decisions are sound. But it is copyrighted, and Crossway controls who can use it and how. The BSB is free. That freedom, combined with our conviction that we can do better on the issues that matter most, is why we are here.
 
@@ -183,7 +183,7 @@ We are asking for similar engagement, not as endorsement of conclusions you may 
 
 We cannot improve without critical feedback. We cannot gain traction without credible voices willing to say, "This translation is doing something legitimate, even where I might make different choices." And we cannot serve the church if scholars who see our errors remain silent.
 
-The ESV took years and many revisions to reach its current form. We expect the same. Help us get there faster. See [How to Add Your Voice](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#how-to-add-your-voice).
+The ESV took years and many revisions to reach its current form. We expect the same. Help us get there faster. See [How to Add Your Voice](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#how-to-add-your-voice).
 
 ## What We Changed and What We Didn't
 
@@ -338,7 +338,7 @@ Our approach is **targeted correction**:
 
 1. **Where "soul" actively misleads, we change the text.** Ezekiel 18:4 ("The soul who sins shall die") is constantly misread as teaching about the eternal fate of immortal souls. But *nephesh* here simply means "the person." We render it: "The one who sins is the one who will die."  
      
-2. **Where "departing soul" language imports dualism, we use "life."** Genesis 35:18 becomes "as her life was departing"; 1 Kings 17:21-22 becomes "let this child's life return." These are descriptions of death and resuscitation, not ghost-departure and re-entry.  
+2. **Where "departing soul" language imports dualism, we use "life."** BSB v3 has already addressed Genesis 35:18 and 1 Kings 17:21-22 in ways that remove the soul language. The principle still applies at Luke 8:55 and other passages not yet corrected in BSB.  
      
 3. **Where ruach describes the breath returning to God, we use "breath."** Ecclesiastes 12:7 becomes "the breath returns to God who gave it"; Psalm 146:4 becomes "when his breath departs... his thoughts perish." This preserves the connection to Genesis 2:7 without importing conscious-survival assumptions.  
      
@@ -397,9 +397,8 @@ Having established our hermeneutical framework, the following table summarizes t
 | :---- | :---- | :---- |
 | Divine name | the LORD | the LORD (unchanged) |
 | The Accuser (Job, Zech) | Satan | the Accuser |
-| Satan (1 Chron 21:1) | Satan | Satan (anarthrous, proper name) |
 | Underworld (OT) | grave, hell, pit (mixed) | Sheol (default); grave/pit acceptable; never "hell" |
-| Hades (NT) | hell | Hades (always) |
+| Hades (NT) | hell | Hades (always) \[BSB v3 already correct\] |
 | Gehenna (NT) | hell | hell (always with footnote "Gk. *gehenna*") |
 | Tartarus (NT) | hell | Tartarus (never "hell") |
 | The Abyss (NT) | bottomless pit, deep | the Abyss |
@@ -417,7 +416,7 @@ Having established our hermeneutical framework, the following table summarizes t
 | Atonement cover | mercy seat | atonement cover |
 | Demons (שֵׁדִים) | false gods, idols | demons |
 | Goat-demons (שְׂעִירִים) | wild goats | goat-demons, satyrs |
-| Lilith (לִילִית) | screech owl | Lilith, night demon |
+| Lilith (לִילִית) | screech owl | Lilith |
 | Azazel | scapegoat | Azazel |
 | Helel ben Shachar (Isa 14:12) | Lucifer | Shining One, son of Dawn |
 | Virgin (Isa 7:14) | young woman | virgin (with note) |
@@ -557,7 +556,7 @@ Traditional translations often render קְדֹשִׁים (*qedoshim*) and ἅγ�
 
 The words simply mean "set-apart ones" or "holy ones." In divine council contexts (Psa 89:5, 7; Deut 33:2-3; Zech 14:5), these are heavenly beings. In other contexts, they refer to Israel as God's set-apart people or to NT believers.
 
-We rendered קְדֹשִׁים and ἅγιοι as "holy ones" throughout (62 occurrences), preserving the term's flexibility and avoiding post-biblical baggage.
+We rendered קְדֹשִׁים and ἅγιοι as "holy ones" throughout (89 occurrences), preserving the term's flexibility and avoiding post-biblical baggage.
 
 | Context | Traditional | Our Rendering |
 | :---- | :---- | :---- |
@@ -571,11 +570,13 @@ In Job 1-2 and Zechariah 3, Hebrew has the definite article: הַשָּׂטָן 
 
 | Reference | Rendering |
 | :---- | :---- |
-| Job 1:6-12; 2:1-7 | "the Accuser" or "the Adversary" |
+| Job 1:6-12; 2:1-7 | "the Accuser" |
 | Zech 3:1-2 | "the Accuser" |
 | 1 Chron 21:1 | "Satan" (capitalized) |
 
-**Note on 1 Chronicles 21:1:** Here the Hebrew lacks the definite article, indicating the term functions as a proper name. We rendered this as "Satan" (capitalized).
+**Note on 1 Chronicles 21:1:** The Hebrew lacks the definite article, indicating the term functions as a proper name rather than a title. We rendered this as "Satan" (capitalized). A footnote in the translation reads: "Heb. *satan*, without the definite article, indicating a proper name rather than a title. Rendered 'Satan' here, as distinct from Job 1-2 and Zechariah 3 where the article is present."
+
+**Note on the Job and Zechariah footnote:** The BSB includes a footnote at Job 1:6 reading "that is, the Accuser or the Adversary; here and throughout Job." The AAB replaces this with a footnote that explains the grammatical basis: "Heb. *hasatan*, 'accuser' or 'adversary' (lexical range). The definite article indicates a title, not a proper name. Rendered 'the Accuser' here and throughout Job and Zechariah 3, where the article is consistently present."
 
 **Note on the New Testament:** By NT times, "Satan" functions clearly as a proper name for a personal being, the original sinner and adversary of God (John 8:44; 1 John 3:8; Rev 12:9). The linguistic shift from title to proper name does not represent theological development; the same being is in view throughout Scripture. The translation distinction simply reflects the grammar of each passage.
 
@@ -590,17 +591,17 @@ We maintained distinctions between the various underworld and afterlife terms:
 | Term | Our Rendering | Notes |
 | :---- | :---- | :---- |
 | שְׁאוֹל (Sheol) | "Sheol" (default); "grave," "pit," "the depths" where appropriate | Never "hell." |
-| ᾅδης (Hades) | "Hades" (always) | Never "hell." Hades \= realm of dead, equivalent to Sheol. |
+| ᾅδης (Hades) | "Hades" (always) | BSB v3 already correct; never "hell." |
 | γέεννα (Gehenna) | "hell" (always) | Always footnote "Gk. *gehenna*." |
 | ταρταρόω (Tartarus) | "Tartarus" | Prison for rebellious divine beings; never "hell." |
-| ἄβυσσος (Abyss) | "the Abyss" | Prison for demonic beings; never "bottomless pit." |
+| ἄβυσσος (Abyss) | "the Abyss" | BSB v3 mostly correct; Rev 9:1–2 still need "pit of" removed. |
 | נָחַם in Sheol (Ezek 31:16; 32:31) | "filled with regret" | Never "comforted." |
 
 **Note on Gehenna:** Gehenna (γέεννα) is the only underworld term where "hell" is appropriate. Unlike Sheol/Hades (realm of the dead, not punishment) or Tartarus/Abyss (prisons for spiritual beings), Gehenna refers to the place of final fiery judgment: the Valley of Hinnom, associated with child sacrifice and divine wrath. This is what "hell" means in modern English, so the semantic mapping is accurate.
 
 **Our policy:** We render all occurrences of γέεννα as "hell" with the footnote "Gk. *gehenna*." This communicates the meaning accurately to English readers while preserving source-language transparency for those who want it.
 
-**Abyss note:** The Abyss (ἄβυσσος) appears in Luke 8:31 (demons beg not to be sent there), Romans 10:7 (Christ descended), and throughout Revelation (9:1-2, 11; 11:7; 17:8; 20:1-3). It functions as a prison for hostile spiritual beings and connects to the Tartarus concept in 2 Peter 2:4.
+**Abyss note:** The Abyss (ἄβυσσος) appears in Revelation 9:1–2, 11; 11:7; 17:8; 20:1–3. BSB v3 has adopted "Abyss" throughout but retains the redundant "pit of" at 9:1–2. It functions as a prison for hostile spiritual beings and connects to the Tartarus concept in 2 Peter 2:4.
 
 ### Rephaim (רְפָאִים / repha'im)
 
@@ -649,7 +650,7 @@ Where Hebrew שֵׁדִים (*shedim*) appears (Deut 32:17; Psa 106:37), we rend
 
 ### Goat-Demons (שְׂעִירִים / se'irim)
 
-The Hebrew שְׂעִירִים (*se'irim*) refers to goat-like demonic beings, not merely "wild goats" or "goat idols." We rendered this as "goat-demons" or "satyrs" in Leviticus 17:7, 2 Chronicles 11:15, Isaiah 13:21, and Isaiah 34:14.
+The Hebrew שְׂעִירִים (*se'irim*) refers to goat-like demonic beings, not merely "wild goats" or "goat idols." BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:15. The AAB change applies to Isaiah 13:21 and Isaiah 34:14, which still read "wild goats."
 
 ### Lilith (לִילִית / lilit)
 
@@ -695,13 +696,13 @@ These three lines converge in the underlying logic of the system. Every חַטָ
 
 **Milgrom's translation survives the challenge to his etymology.** Jacob Milgrom's Anchor Bible Commentary on Leviticus (1991–2001) argued that חַטָּאת derives from the Piel stem (*ḥiṭṭēʾ* / חטּא, "to purify, de-sin, decontaminate") rather than the Qal, and that "purification offering" follows from this derivation. Joseph Lam has since demonstrated that חַטָּאת follows a common Semitic *qaṭal(a)t* noun pattern and that the noun's dominant usage meaning "sin" renders the Piel derivation insufficient as a translation driver. Lam's critique stands. We do not rest our rendering on Milgrom's etymological case. We rest it on where the blood goes, who is required to bring the offering, and what English "sin" communicates to a reader who has never read Leviticus in Hebrew. Those arguments are independent of the etymology debate and sufficient without it.
 
-We rendered all 102 occurrences of חַטָּאת as "purification offering."
+We rendered all 114 occurrences of חַטָּאת as "purification offering."
 
 ### Restitution Offering (אָשָׁם / asham)
 
 Traditional translations render אָשָׁם as "guilt offering," but the offering's function is reparation for damage done, not psychological guilt. The אָשָׁם is required when restitution is owed, whether to God or neighbor (Lev 5:14-6:7). The offerer must repay what was taken plus a penalty, and then bring the sacrifice.
 
-We rendered all 24 occurrences of אָשָׁם as "restitution offering."
+We rendered all 34 occurrences of אָשָׁם as "restitution offering."
 
 ### Atonement Cover (כַּפֹּרֶת / *kapporet*)
 
@@ -709,7 +710,7 @@ Traditional translations render כַּפֹּרֶת as "mercy seat," but this imp
 
 "Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation. The Hebrew term derives from כִּפֶּר (*kipper*, "to cover, purge, make atonement") and describes the location of atonement ritual. "Atonement cover" renders the lexical meaning accurately. That this cover sits between the cherubim in the innermost chamber of God's house, the place from which he spoke and above which his glory appeared, carries its own theological force without requiring it to be stated in the translation itself.[^3]
 
-We rendered all 28 occurrences of כַּפֹּרֶת as "atonement cover."
+We rendered all 23 occurrences of כַּפֹּרֶת as "atonement cover."
 
 ## Specific Passages
 
@@ -743,6 +744,30 @@ Many translations flatten this to the human king alone, treating Eden and cherub
 
 Whether this describes the being later known as Satan, or another rebellious member of the divine council, or functions as mythic typology for human pride, the translation should not foreclose what the text itself suggests. We rendered the passage to preserve its supernatural imagery, letting readers and commentators draw connections as warranted.
 
+### Deuteronomy 32:8, Sons of God
+
+The end of verse 8 reads differently across the manuscript traditions. The MT reads "according to the number of the sons of Israel" (*bene yisrael*). The DSS (4QDeutj and related fragments) and the underlying Vorlage of the LXX read "according to the number of the sons of God" (*bene elohim*). The LXX itself renders this as "angels of God," which is a translation decision, not an independent textual variant; the DSS confirms that the source text behind the LXX read *bene elohim*.
+
+The MT reading creates an anachronism. Deuteronomy 32:8 describes the division of the nations at Babel. Israel did not exist at Babel. Tying the apportionment of seventy nations to the number of Jacob's descendants who later went to Egypt imports a category that belongs to a later moment in redemptive history and severs the contrast the poem itself is making: the nations were allotted to the sons of God (v. 8), while YHWH retained Israel as his own portion (v. 9). That contrast requires a third party, the sons of God, who receive the nations. The MT's "sons of Israel" collapses that third party and makes v. 9 redundant.
+
+The "sons of Israel" reading has no documented attestation before the second century AD. The second-century Greek versions (Aquila, Symmachus, Theodotion) follow the MT, consistent with the broader pattern of rabbinic revision to eliminate divine council language that early Christians were using in Christological argument.
+
+**Our rendering:** "sons of God"
+
+**Footnote in translation (Deut 32:8):** "Heb. (DSS, 4QDeutj): *bene elohim*, 'sons of God.' The MT reads *bene yisrael*, 'sons of Israel,' an anachronism since Israel did not yet exist at Babel. The LXX renders 'angels of God,' an interpretive translation of the same underlying text the DSS preserves. The 'sons of Israel' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads 'sons of God.' The 2nd-cent. Jewish Greek versions (Aquila, Symmachus, Theodotion) all follow the MT."
+
+### Genesis 46:27 and Exodus 1:5, Seventy or Seventy-Five
+
+Both verses in the MT record that seventy members of Jacob's family went down to Egypt. The LXX reads seventy-five for both. The DSS supports seventy-five at Exodus 1:5. Acts 7:14, under inspiration, reads seventy-five.
+
+The BSB follows the MT at Genesis 46:27 and Exodus 1:5 but follows Acts 7:14 at the NT citation of the same event, producing a numerical inconsistency within the base text. The AAB is committed to internal consistency, and Acts 7:14 is canonical text. We therefore adopt seventy-five at both Genesis 46:27 and Exodus 1:5 to align the OT text with its inspired NT citation.
+
+The shift from seventy-five to seventy in the MT is likely connected to the broader second-century effort to tie the table of nations (Gen 10\) to the number of Jacob's family rather than to the seventy sons of God, collapsing the distinction between heavenly and earthly councils. Seventy-five breaks that equation.
+
+**Our rendering:** seventy-five at both verses.
+
+**Footnote in translation (Gen 46:27 and Exod 1:5):** "The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14)."
+
 ### Noah's Tent (Genesis 9:21-22)
 
 The Hebrew of Genesis 9:21 reads בְּתוֹךְ אָהֳלָהּ (*betokh oholah*), "inside her tent." The pronominal suffix is feminine. Most translations render this as "his tent," assuming a scribal error or reading the suffix as referring to Noah. We preserved the feminine suffix: "inside her tent."
@@ -759,13 +784,13 @@ We adopted these variants into the main text based on manuscript evidence:
 
 | Reference | Traditional | We Adopted | Basis |
 | :---- | :---- | :---- | :---- |
-| Deut 32:8 | sons of Israel | sons of God | 4QDeutj, LXX |
+| Deut 32:8 | "sons of Israel" | "sons of God" | 4QDeutj (DSS), LXX |
 | Deut 32:43 | (shorter) | Include "Bow down to him, all you gods" | 4QDeutq, LXX |
+| Gen 46:27 | seventy | seventy-five | LXX, DSS, Acts 7:14 |
+| Exod 1:5 | seventy | seventy-five | LXX, DSS, Acts 7:14 |
 | 1 Sam 10:27–11:1 | (shorter) | Include Nahash backstory | 4QSama |
-| Psalm 22:16 | "like a lion" | "they pierced" | LXX, DSS |
-| Psalm 145:13 | (missing nun) | Include nun verse | LXX, Syriac, 11QPsa |
 
-We limited text-critical changes to these specific references where the evidence is strong and the theological implications are significant.
+We adopt text-critical variants only where the manuscript evidence is strong, the MT reading creates a demonstrable problem (anachronism, internal contradiction, or loss of a theologically significant framework), and at least one of the following conditions is met: the variant is attested in the DSS, the NT cites a form of the text that presupposes the variant, or the MT reading is otherwise unattested before the second century AD.
 
 ## What This Translation Does Not Do
 
@@ -779,21 +804,21 @@ This section clarifies the limits of the project.
 
 **It does not replace teaching or preaching.** A translation is not a commentary. Study notes, sermons, and discipleship remain essential for understanding Scripture. This translation aims to give teachers and students better raw material to work with.
 
-**It does not claim finality.** This is v0.3. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
+**It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
 
-### Version 0.1 (January 2026): Initial Public Draft
+### Initial Public Draft (March 2026\)
 
 Initial public release of the Accessible Ancients Bible rationale and correction list. Every BSB to AAB change is documented below.
 
-**v0.3 includes:**
+**Current version includes:**
 
 - "A Note on Greek Dualism and the Biblical Worldview" section explaining the problem of Platonic soul/body dualism imported by traditional translations, with expanded treatment of both nephesh and ruach, including the critical point that animals have both nephesh (Gen 1:20, 24\) and ruach (Eccl 3:19)  
-- 18+ nephesh/psychē/ruach corrections including text changes at: Ezek 18:4, 18:20; Matt 16:26; Mark 8:36, 8:37; Gen 35:18; 1 Kings 17:21-22; Luke 8:55; Psalm 16:10; Acts 2:27, 31; Psalm 31:5 (Luke 23:46); Psalm 146:4; Eccl 12:7; Eccl 3:19-21; Isa 53:10, 11, 12  
-- Footnotes at: Deut 6:5, 1 Chron 21:1, Matt 10:28, 1 Thess 5:23, Job 34:14-15, and passages where "spirit" or "soul" is retained with clarification  
+- 18+ nephesh/psychē/ruach corrections including text changes at: Ezek 18:4, 18:20; Matt 16:26; Mark 8:36, 8:37; Luke 8:55; Psalm 16:10; Acts 2:27; Psalm 31:5 (Luke 23:46); Psalm 146:4; Eccl 12:7; Eccl 3:21; Isa 53:10, 11 (BSB v3 already has correct readings at Gen 35:18; 1 Kings 17:21-22; Isa 53:12; Eccl 3:19)  
+- Footnotes at: Deut 6:5, Matt 10:28, 1 Thess 5:23, Job 34:14-15, and passages where "spirit" or "soul" is retained with clarification  
 - Expanded discussion of 1 Corinthians 8:5 "so-called gods" with full context and Paul's divine council theology  
-- Pauline anthropological corrections: "old man/new man" (6 verses), "justified from Sin" (Rom 6:7), "law of the husband" (Rom 7:2), Sin/Death capitalization (\~35 verses)  
+- Pauline anthropological corrections: "old man/new man" (5 verses), "justified from Sin" (Rom 6:7), "law of the husband" (Rom 7:2), Sin/Death capitalization (\~35 verses)  
 - ESV comparison appendix with nephesh/psychē and Pauline categories
 
 ### Master Change Log
@@ -809,14 +834,15 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 1:15 | expanse | firmament |
 | Genesis 1:17 | expanse | firmament |
 | Genesis 1:20 | expanse | firmament |
+| Genesis 46:27 | seventy | seventy-five (fn: The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
 | Genesis 9:21 | his tent | her tent |
 | Genesis 26:4 | offspring | seed |
 | Genesis 28:12 | ladder | stairway |
-| Genesis 35:18 | as her soul was departing | as her life was departing |
 | Genesis 37:35 | grave/Sheol | Sheol |
 | Genesis 42:38 | grave/Sheol | Sheol |
 | Genesis 44:29 | grave/Sheol | Sheol |
 | Genesis 44:31 | grave/Sheol | Sheol |
+| Exodus 1:5 | seventy | seventy-five (fn: The LXX, DSS, and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
 | Exodus 25:17 | mercy seat | atonement cover |
 | Exodus 25:18 | mercy seat | atonement cover |
 | Exodus 25:19 | mercy seat | atonement cover |
@@ -908,7 +934,6 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Leviticus 16:25 | sin offering | purification offering |
 | Leviticus 16:26 | scapegoat | Azazel |
 | Leviticus 16:27 | sin offering | purification offering |
-| Leviticus 17:7 | goat idols | goat-demons |
 | Leviticus 19:21 | guilt offering | restitution offering |
 | Leviticus 19:22 | guilt offering | restitution offering |
 | Leviticus 23:19 | sin offering | purification offering |
@@ -953,12 +978,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Numbers 29:31 | sin offering | purification offering |
 | Numbers 29:34 | sin offering | purification offering |
 | Numbers 29:38 | sin offering | purification offering |
-| Deuteronomy 32:8 | sons of Israel | sons of God |
-| Deuteronomy 32:17 | demons | demons (confirmed) |
 | Deuteronomy 32:22 | Sheol/grave | Sheol |
-| Deuteronomy 32:43 | (shorter text) | includes "Bow down to him, all you gods" |
-| Deuteronomy 33:2 | saints | holy ones |
-| Deuteronomy 33:3 | saints | holy ones |
+| Deuteronomy 32:43 | (shorter text) | includes "Bow down to him, all you gods" (fn: The shorter MT reading omits the heavenly summons entirely. The DSS (4QDeutq) and LXX preserve the longer reading. The longer reading has no documented attestation as a later addition; every known pre-2nd-century witness preserves it. The 2nd-cent. Jewish Greek versions (Aquila, Symmachus, Theodotion) follow the shorter MT. Hebrews 1:6 cites the longer reading to prove the Son's superiority over angels.) |
 | 1 Samuel 2:6 | Sheol/grave | Sheol |
 | 1 Samuel 6:3 | guilt offering | restitution offering |
 | 1 Samuel 6:4 | guilt offering | restitution offering |
@@ -967,13 +988,9 @@ The following table lists every BSB to AAB textual change in canonical order.
 | 2 Samuel 22:6 | Sheol/grave | Sheol |
 | 1 Kings 2:6 | Sheol/grave | Sheol |
 | 1 Kings 2:9 | Sheol/grave | Sheol |
-| 1 Kings 17:21 | let this child's soul return | let this child's life return |
-| 1 Kings 17:22 | the child's soul returned | the child's life returned |
 | 2 Kings 12:16 | sin/guilt offering | purification/restitution offering |
-| 1 Chronicles 21:1 | Satan | Satan (confirmed, no article) |
 | 1 Chronicles 28:11 | mercy seat | atonement cover |
-| 2 Chronicles 6:41 | saints | holy ones |
-| 2 Chronicles 11:15 | goat idols | goat-demons |
+| 2 Chronicles 6:41 | godly ones | holy ones |
 | 2 Chronicles 29:21 | sin offering | purification offering |
 | 2 Chronicles 29:23 | sin offering | purification offering |
 | 2 Chronicles 29:24 | sin offering | purification offering |
@@ -981,7 +998,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Ezra 8:35 | sin offering | purification offering |
 | Ezra 10:19 | guilt offering | restitution offering |
 | Nehemiah 10:33 | sin offering | purification offering |
-| Job 1:6 | Satan | the Accuser |
+| Job 1:6 | Satan | the Accuser (fn: Heb. *hasatan*, 'accuser' or 'adversary' (lexical range). The definite article indicates a title, not a proper name. Rendered 'the Accuser' here and throughout Job and Zechariah 3, where the article is consistently present.) |
 | Job 1:7 | Satan | the Accuser |
 | Job 1:8 | Satan | the Accuser |
 | Job 1:9 | Satan | the Accuser |
@@ -990,29 +1007,25 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Job 2:2 | Satan | the Accuser |
 | Job 2:3 | Satan | the Accuser |
 | Job 2:4 | Satan | the Accuser |
+| Job 2:5 | Satan | the Accuser |
 | Job 2:6 | Satan | the Accuser |
 | Job 2:7 | Satan | the Accuser |
-| Job 5:1 | saints | holy ones |
 | Job 7:9 | Sheol/grave | Sheol |
 | Job 11:8 | Sheol/grave | Sheol |
 | Job 14:13 | Sheol/grave | Sheol |
-| Job 15:15 | saints | holy ones |
 | Job 17:13 | Sheol/grave | Sheol |
 | Job 17:16 | Sheol/grave | Sheol |
 | Job 18:13 | death | Death |
 | Job 21:13 | Sheol/grave | Sheol |
 | Job 24:19 | Sheol/grave | Sheol |
 | Job 26:5 | the dead/shades | the Rephaim |
-| Job 26:6 | destruction | Abaddon |
-| Job 28:22 | destruction / death | Abaddon / Death |
-| Job 31:12 | destruction | Abaddon |
-| Job 34:14-15 | (no footnote) | (footnote: ruach and neshamah as parallel terms for life-breath) |
+| Job 34:14-15 | (no footnote) | (footnote: Heb. ruach and neshamah. The parallelism of "spirit" and "breath" here is deliberate; both terms refer to the same animating life-force, not to distinct metaphysical components. Elihu's point is that life itself is given from God.) |
 | Psalm 6:5 | Sheol/grave | Sheol |
 | Psalm 9:17 | Sheol/grave | Sheol |
 | Psalm 16:3 | saints | holy ones |
 | Psalm 16:10 | Sheol/grave; my soul | Sheol; me |
 | Psalm 18:5 | Sheol/grave | Sheol |
-| Psalm 19:1 | expanse | firmament |
+| Psalm 19:1 | skies | firmament |
 | Psalm 30:3 | Sheol/grave | Sheol |
 | Psalm 30:4 | saints | holy ones |
 | Psalm 31:5 | I commit my spirit | I commit my life (fn: Heb. ruach; act of trust) |
@@ -1021,19 +1034,15 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Psalm 34:9 | saints | holy ones |
 | Psalm 37:28 | saints | holy ones |
 | Psalm 40:6 | sin offering | purification offering |
-| Psalm 49:14 | Sheol / death | Sheol / Death |
 | Psalm 49:15 | Sheol/grave | Sheol |
 | Psalm 55:15 | Sheol/grave | Sheol |
 | Psalm 85:8 | saints | holy ones |
 | Psalm 86:13 | Sheol/grave | Sheol |
 | Psalm 88:3 | Sheol/grave | Sheol |
 | Psalm 88:10 | the dead/shades | the Rephaim |
-| Psalm 88:11 | destruction | Abaddon |
-| Psalm 89:5 | saints | holy ones |
-| Psalm 89:7 | saints | holy ones |
 | Psalm 89:48 | Sheol / death | Sheol / Death |
 | Psalm 97:10 | saints | holy ones |
-| Psalm 106:37 | demons | demons (confirmed) |
+| Psalm 110:3 | dew of your youth | dew of your youth (fn: The LXX reads "I have begotten you from the womb before the morning star," echoing Ps 2:7 and linking this psalm to the eternal generation of the Son. The MT reads "the dew of your youth," removing all begetting language. The LXX reading has no documented attestation as a later addition; the 2nd-cent. Jewish Greek versions (Aquila, Symmachus, Theodotion) all follow the MT. Hebrews quotes Psalm 110 repeatedly in the context of the Son's eternal priesthood and superiority over angels (Heb 1:5; 5:5; 7).) |
 | Psalm 116:3 | Sheol/grave | Sheol |
 | Psalm 116:15 | saints | holy ones |
 | Psalm 132:9 | saints | holy ones |
@@ -1041,57 +1050,42 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Psalm 139:8 | Sheol/grave | Sheol |
 | Psalm 141:7 | Sheol/grave | Sheol |
 | Psalm 145:10 | saints | holy ones |
-| Psalm 146:4 | when his spirit departs... his plans perish | when his breath departs... his thoughts perish |
+| Psalm 146:4 | when his spirit departs... his plans perish | when his breath (fn: Heb. ruach) departs... his thoughts perish |
 | Psalm 148:14 | saints | holy ones |
-| Psalm 150:1 | expanse | firmament |
+| Psalm 150:1 | heavens | firmament |
 | Proverbs 1:12 | Sheol/grave | Sheol |
-| Proverbs 1:17 | any bird | any bird (fn: Heb. *ba'al kanaph*, "lord of wing") |
+| Proverbs 1:17 | any bird | any bird (fn: Heb. *ba'al kanaph*; "lord of wing") |
 | Proverbs 2:8 | saints | holy ones |
-| Proverbs 2:18 | the dead/shades | the Rephaim |
+| Proverbs 2:18 | the departed spirits (footnote removed) | the Rephaim |
 | Proverbs 5:5 | Sheol/grave | Sheol |
 | Proverbs 7:27 | Sheol/grave | Sheol |
-| Proverbs 9:18 | the dead / Sheol | the Rephaim / Sheol |
-| Proverbs 14:9 | guilt offering | restitution offering |
-| Proverbs 15:11 | Sheol / destruction | Sheol / Abaddon |
+| Proverbs 9:18 | the dead (removed footnote) / Sheol | the Rephaim / Sheol |
 | Proverbs 15:24 | Sheol/grave | Sheol |
 | Proverbs 21:16 | the dead/shades | the Rephaim |
 | Proverbs 23:14 | Sheol/grave | Sheol |
-| Proverbs 27:20 | Sheol / destruction | Sheol / Abaddon |
 | Proverbs 30:16 | Sheol/grave | Sheol |
-| Ecclesiastes 3:19 | they all have the same spirit | they all have the same breath |
-| Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath of man... the breath of the beast |
-| Ecclesiastes 9:10 | Sheol/grave | Sheol |
-| Ecclesiastes 12:7 | the spirit returns to God | the breath returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
-| Song of Solomon 8:6 | Sheol/grave | Sheol |
-| Isaiah 5:14 | Sheol/grave | Sheol |
-| Isaiah 7:11 | Sheol/grave | Sheol |
-| Isaiah 13:21 | goats/wild goats | goat-demons |
-| Isaiah 14:9 | the dead / Sheol | the Rephaim / Sheol |
-| Isaiah 14:11 | Sheol/grave | Sheol |
+| Ecclesiastes 3:19 | they all have the same breath | they all have the same breath (fn: Heb. ruach) |
+| Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath (fn: Heb. ruach) of man... the breath (fn: Heb. ruach) of the beast |
+| Ecclesiastes 12:7 | the spirit returns to God | the breath (fn: Heb. ruach) returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
+| Isaiah 13:21 | goats/wild goats | goat demons |
+| Isaiah 14:9 | the spirits of the dead | the Rephaim |
 | Isaiah 14:12 | Day Star/Lucifer | Shining One, son of Dawn |
-| Isaiah 14:15 | Sheol/grave | Sheol |
-| Isaiah 26:14 | the dead/shades | the Rephaim |
-| Isaiah 26:19 | the dead/shades | the Rephaim |
-| Isaiah 28:15 | Sheol/grave | Sheol |
-| Isaiah 28:18 | Sheol/grave | Sheol |
-| Isaiah 34:14 | goats / night creature | goat-demons / Lilith |
-| Isaiah 38:10 | Sheol/grave | Sheol |
-| Isaiah 38:18 | Sheol/grave | Sheol |
-| Isaiah 53:10 | his soul an offering | his life an offering |
-| Isaiah 53:11 | the travail of his soul | the anguish of his life |
-| Isaiah 53:12 | poured out his soul to death | poured out his life to death |
-| Isaiah 57:9 | Sheol/grave | Sheol |
-| Isaiah 57:5–13 | (standard reading) | (standard reading with extended footnote on Hebrew wordplay) |
+| Isaiah 26:14 | the departed spirits | the Rephaim |
+| Isaiah 26:19 | her dead | the Rephaim |
+| Isaiah 34:14 | goats / night creature | goat demon / Lilith (fn: Heb. Lilith. Often translated night demon/monster) |
+| Isaiah 53:10 | his soul is made a guilt offering offering | his life (fn: Heb. nephesh) is made a restitution offering |
+| Isaiah 53:11 | the anguish of his soul | the anguish of his life (fn: Heb. nephesh) |
+| Isaiah 57:3 | (standard reading) | (no change) (fn: This oracle contains pervasive Hebrew wordplay with double meanings. The surface reading addresses idolatry and sexual immorality, but many terms simultaneously evoke necromancy and the cult of the dead) |
+| Isaiah 57:5 | who burn with lust | who burn with lust (fn: Heb. הַנֵּחָמִים ("who burn with lust") can also mean "who seek comfort/consolation (from the dead)") |
+| Isaiah 57:6 | Smooth stones | Smooth stones (fn: Heb. חַלְקֵי ("smooth stones") is a pun with חֲלָלִים ("the dead/slain")) |
+| Isaiah 57:7 | bed | bed (fn: Heb. מִשְׁכָּב ("bed") also means "grave" or "resting place") |
+| Isaiah 57:8 | memorial | memorial (fn: Heb. זָכָר ("memorial") is a pun with זָכָר ("male") in cultic prostitution context) |
 | Ezekiel 1:22 | expanse | firmament |
 | Ezekiel 1:23 | expanse | firmament |
 | Ezekiel 1:25 | expanse | firmament |
 | Ezekiel 1:26 | expanse | firmament |
 | Ezekiel 10:1 | expanse | firmament |
-| Ezekiel 31:15 | Sheol/grave | Sheol |
-| Ezekiel 31:16 | Sheol / comforted | Sheol / filled with regret |
-| Ezekiel 31:17 | Sheol/grave | Sheol |
-| Ezekiel 32:21 | Sheol/grave | Sheol |
-| Ezekiel 32:27 | Sheol/grave | Sheol |
+| Ezekiel 31:16 | Sheol / consoled | Sheol / filled with regret |
 | Ezekiel 32:31 | comforted | filled with regret |
 | Ezekiel 40:39 | sin/guilt offering | purification/restitution offering |
 | Ezekiel 42:13 | sin/guilt offering | purification/restitution offering |
@@ -1107,7 +1101,6 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Ezekiel 45:23 | sin offering | purification offering |
 | Ezekiel 45:25 | sin offering | purification offering |
 | Ezekiel 46:20 | sin/guilt offering | purification/restitution offering |
-| Daniel 4:17 | saints | holy ones |
 | Daniel 6:24 | falsely accused | maliciously accused |
 | Daniel 7:18 | saints | holy ones |
 | Daniel 7:21 | saints | holy ones |
@@ -1115,36 +1108,15 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Daniel 7:25 | saints | holy ones |
 | Daniel 7:27 | saints | holy ones |
 | Daniel 8:24 | saints | holy ones |
-| Daniel 12:3 | expanse | firmament |
-| Hosea 13:14 | Sheol / death | Sheol / Death |
-| Amos 9:2 | Sheol/grave | Sheol |
-| Jonah 2:2 | Sheol/grave | Sheol |
-| Habakkuk 2:5 | Sheol / death | Sheol / Death |
-| Zechariah 3:1 | Satan | the Accuser |
+| Daniel 12:3 | heavens | Firmament (fn: Heb. raqia. See also Genesis 1:6-8) |
+| Zechariah 3:1 | Satan | the Accuser (fn: Heb. hasatan, "accuser" or "adversary" (lexical range). See Job 1:6; also in verse 2\) |
 | Zechariah 3:2 | Satan | the Accuser |
-| Zechariah 14:5 | saints | holy ones |
-| Matthew 5:22 | hell | hell (fn: Gk. *gehenna*) |
-| Matthew 5:29 | hell | hell (fn: Gk. *gehenna*) |
-| Matthew 5:30 | hell | hell (fn: Gk. *gehenna*) |
-| Matthew 10:28 | hell | hell (fn: Gk. *gehenna*) |
-| Matthew 11:23 | Hades/hell | Hades |
-| Matthew 16:18 | Hades/hell | Hades |
-| Matthew 18:9 | hell | hell (fn: Gk. *gehenna*) |
-| Matthew 23:15 | hell | hell (fn: Gk. *gehenna*) |
 | Matthew 23:33 | hell | hell (fn: Gk. *gehenna*) |
 | Matthew 27:52 | saints | holy ones |
-| Mark 9:43 | hell | hell (fn: Gk. *gehenna*) |
-| Mark 9:45 | hell | hell (fn: Gk. *gehenna*) |
-| Mark 9:47 | hell | hell (fn: Gk. *gehenna*) |
-| Luke 8:31 | bottomless pit/abyss | the Abyss |
-| Luke 8:55 | her spirit returned | her life returned |
-| Luke 10:15 | Hades/hell | Hades |
-| Luke 12:5 | hell | hell (fn: Gk. *gehenna*) |
-| Luke 16:23 | Hades/hell | Hades |
-| Luke 23:46 | I commit my spirit | I commit my life (fn: Gk. *pneuma*; act of trust) |
+| Luke 8:55 | her spirit returned | her life (fn: Greek pneuma) returned |
+| Luke 23:46 | I commit my spirit | I commit my life (fn: Gk. *pneuma*; act of trust. Cites Psalm 31:5) |
 | John 15:3 | clean | pruned |
-| Acts 2:27 | Hades/hell; my soul | Hades; me |
-| Acts 2:31 | Hades/hell; his soul | Hades; he |
+| Acts 2:27 | my soul | me |
 | Acts 9:13 | saints | holy ones |
 | Acts 9:32 | saints | holy ones |
 | Acts 9:41 | saints | holy ones |
@@ -1187,22 +1159,18 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 8:2 | law of sin and death | law of Sin and Death |
 | Romans 8:3 | offering for sin... condemned sin | offering for Sin... condemned Sin |
 | Romans 8:27 | saints | holy ones |
-| Romans 10:7 | bottomless pit/abyss | the Abyss |
 | Romans 12:13 | saints | holy ones |
 | Romans 15:25 | saints | holy ones |
 | Romans 15:26 | saints | holy ones |
 | Romans 15:31 | saints | holy ones |
 | Romans 16:2 | saints | holy ones |
 | Romans 16:15 | saints | holy ones |
-| 1 Corinthians 1:2 | saints | holy ones |
 | 1 Corinthians 6:1 | saints | holy ones |
 | 1 Corinthians 6:2 | saints | holy ones |
 | 1 Corinthians 8:5 | so-called gods | beings called gods |
 | 1 Corinthians 14:33 | saints | holy ones |
 | 1 Corinthians 15:21 | death came | Death came |
 | 1 Corinthians 15:26 | death | Death |
-| 1 Corinthians 15:54 | death | Death |
-| 1 Corinthians 15:55 | death | Death |
 | 1 Corinthians 15:56 | sting of death is sin... power of sin | sting of Death is Sin... power of Sin |
 | 1 Corinthians 16:1 | saints | holy ones |
 | 1 Corinthians 16:15 | saints | holy ones |
@@ -1210,6 +1178,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | 2 Corinthians 8:4 | saints | holy ones |
 | 2 Corinthians 9:1 | saints | holy ones |
 | 2 Corinthians 9:12 | saints | holy ones |
+| 2 Corinthians 9:13 | saints | holy ones |
 | 2 Corinthians 13:13 | saints | holy ones |
 | Ephesians 1:1 | saints | holy ones |
 | Ephesians 1:15 | saints | holy ones |
@@ -1223,6 +1192,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Ephesians 5:3 | saints | holy ones |
 | Ephesians 6:18 | saints | holy ones |
 | Philippians 1:1 | saints | holy ones |
+| Philippians 4:21 | saints | holy ones |
 | Philippians 4:22 | saints | holy ones |
 | Colossians 1:2 | saints | holy ones |
 | Colossians 1:4 | saints | holy ones |
@@ -1242,44 +1212,34 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 1:2 | His Son / universe | a Son / world |
 | Hebrews 6:4 | impossible | ultimately impossible |
 | Hebrews 6:10 | saints | holy ones |
-| Hebrews 8:8 | found fault with the people | finding fault with them, he said |
 | Hebrews 9:5 | mercy seat | atonement cover |
 | Hebrews 9:7 | sins committed in ignorance | unintentional sins committed in ignorance |
 | Hebrews 9:10 | time of reform | time of regeneration |
 | Hebrews 10:6 | sin offering | purification offering |
 | Hebrews 10:8 | sin offering | purification offering |
-| Hebrews 12:15 | falls short | falls away |
+| Hebrews 12:15 | falls short of | falls away from |
 | Hebrews 13:24 | saints | holy ones |
 | James 3:6 | hell | hell (fn: Gk. *gehenna*) |
 | Jude 3 | saints | holy ones |
-| Jude 14 | saints | holy ones |
-| Revelation 1:18 | Hades / death | Hades / Death |
 | Revelation 5:8 | saints | holy ones |
-| Revelation 6:8 | Hades / death | Hades / Death |
 | Revelation 8:3 | saints | holy ones |
 | Revelation 8:4 | saints | holy ones |
 | Revelation 9:1 | bottomless pit/abyss | the Abyss |
 | Revelation 9:2 | bottomless pit/abyss | the Abyss |
-| Revelation 9:11 | bottomless pit / destruction | the Abyss / Abaddon |
-| Revelation 11:7 | bottomless pit/abyss | the Abyss |
 | Revelation 11:18 | saints | holy ones |
 | Revelation 13:7 | saints | holy ones |
 | Revelation 13:10 | saints | holy ones |
 | Revelation 14:12 | saints | holy ones |
 | Revelation 16:6 | saints | holy ones |
 | Revelation 17:6 | saints | holy ones |
-| Revelation 17:8 | bottomless pit/abyss | the Abyss |
 | Revelation 18:20 | saints | holy ones |
 | Revelation 18:24 | saints | holy ones |
 | Revelation 19:8 | saints | holy ones |
-| Revelation 20:1 | bottomless pit/abyss | the Abyss |
-| Revelation 20:3 | bottomless pit/abyss | the Abyss |
 | Revelation 20:9 | saints | holy ones |
-| Revelation 20:13 | Hades / death | Hades / Death |
-| Revelation 20:14 | Hades / death | Hades / Death |
 | **Nephesh/Psychē Corrections** |  |  |
 | Deuteronomy 6:5 | (no footnote) | (footnote on nephesh added) |
-| 1 Chronicles 21:1 | (no footnote) | (footnote on Satan/article added) |
+| 1 Chronicles 21:1 | (no footnote) | (fn: Heb. *satan*, without the definite article, indicating a proper name rather than a title. Rendered 'Satan' here, as distinct from Job 1-2 and Zechariah 3 where the article is present.) |
+| Ezekiel 18:4 | every soul | everyone |
 | Ezekiel 18:4 | The soul who sins | The one who sins |
 | Ezekiel 18:20 | The soul who sins | The one who sins |
 | Matthew 10:28 | (no footnote) | (footnote on psychē added) |
@@ -1288,7 +1248,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Mark 8:37 | in exchange for his soul | in exchange for his life |
 | 1 Thessalonians 5:23 | (no footnote) | (footnote on totality language added) |
 
-**Total: 516 corrections (511 text changes \+ 5 footnote-only additions)**
+**Total: see category rows above \+ 3 footnote-only additions**
 
 The detailed rationale for each category follows below.
 
@@ -1388,21 +1348,9 @@ Third, *salach* appears exclusively with God as subject throughout the Hebrew Bi
 
 **89 verses:**
 
-**Old Testament (9 verses with "holy ones" in divine council/heavenly contexts):**
+**Old Testament — "saints" or "godly ones" still in BSB (Psalm 16:3 already "holy ones"; the remaining OT passages below still need changing):**
 
-Deuteronomy 33:2, 33:3
-
-Job 5:1, 15:15
-
-Psalm 16:3, 89:5, 89:7
-
-Daniel 4:17
-
-Zechariah 14:5
-
-**Old Testament (additional "saints" passages):**
-
-2 Chronicles 6:41
+2 Chronicles 6:41 (BSB v3: "godly ones")
 
 Psalm 30:4, 31:23, 34:9, 37:28, 85:8, 97:10, 116:15, 132:9, 132:16, 145:10, 148:14
 
@@ -1480,7 +1428,7 @@ Daniel 12:3
 
 **BSB rendering:** various ("Sheol," "grave," "pit") → **AAB rendering:** "Sheol" (default)
 
-**65 verses:**
+**Verses:**
 
 Genesis 37:35, 42:38, 44:29, 44:31
 
@@ -1494,11 +1442,11 @@ Deuteronomy 32:22
 
 1 Kings 2:6, 2:9
 
-Job 7:9, 11:8, 14:13, 17:13, 17:16, 21:13, 24:19, 26:6
+Job 7:9, 11:8, 14:13, 17:13, 17:16, 21:13, 24:19
 
-Psalm 6:5, 9:17, 16:10, 18:5, 30:3, 31:17, 49:14, 49:15, 55:15, 86:13, 88:3, 89:48, 116:3, 139:8, 141:7
+Psalm 6:5, 9:17, 16:10, 18:5, 30:3, 31:17, 49:15, 55:15, 86:13, 88:3, 89:48, 116:3, 139:8, 141:7
 
-Proverbs 1:12, 5:5, 7:27, 9:18, 15:11, 15:24, 23:14, 27:20, 30:16
+Proverbs 1:12, 5:5, 7:27, 9:18, 15:24, 23:14, 30:16
 
 Ecclesiastes 9:10
 
@@ -1517,22 +1465,6 @@ Jonah 2:2
 Habakkuk 2:5
 
 **Rationale:** Sheol is the realm of the dead, not a place of punishment. Never rendered "hell."
-
-#### Hades (ᾅδης)
-
-**BSB rendering:** "Hades" or "hell" → **AAB rendering:** "Hades" (always)
-
-**10 verses:**
-
-Matthew 11:23, 16:18
-
-Luke 10:15, 16:23
-
-Acts 2:27, 2:31
-
-Revelation 1:18, 6:8, 20:13, 20:14
-
-**Rationale:** Hades is the Greek equivalent of Sheol (realm of the dead), not Gehenna (place of final judgment). Acts 2:27, 31 are critical: Peter's resurrection argument depends on understanding Hades as the realm of the dead.
 
 #### Hell (γέεννα / Gehenna)
 
@@ -1564,17 +1496,13 @@ The AAB retains "hell" as a deliberate accessibility compromise. The goal of thi
 
 #### The Abyss (ἄβυσσος)
 
-**BSB rendering:** "bottomless pit," "abyss," "deep" → **AAB rendering:** "the Abyss"
+**BSB rendering:** "pit of the Abyss" → **AAB rendering:** "the Abyss"
 
-**9 verses:**
+**2 verses:**
 
-Luke 8:31
+Revelation 9:1, 9:2
 
-Romans 10:7
-
-Revelation 9:1, 9:2, 9:11, 11:7, 17:8, 20:1, 20:3
-
-**Rationale:** The Abyss functions as a prison for hostile spiritual beings. Connects to Tartarus concept.
+**Rationale:** The Abyss functions as a prison for hostile spiritual beings. BSB v3 has adopted "Abyss" throughout but retained the redundant "pit of" at Revelation 9:1–2. The AAB renders "the Abyss" consistently.
 
 #### Rephaim (רְפָאִים)
 
@@ -1592,67 +1520,31 @@ Isaiah 14:9, 26:14, 26:19
 
 **Rationale:** Isaiah 26:14, 19 is a resurrection polemic: the Rephaim "will not rise," but Yahweh's dead will. Preserving the term makes this contrast visible and maintains connection to the giant clans.
 
-#### Abaddon (אֲבַדּוֹן)
-
-**BSB rendering:** "destruction," "Destruction" → **AAB rendering:** "Abaddon"
-
-**7 verses:**
-
-Job 26:6, 28:22, 31:12
-
-Psalm 88:11
-
-Proverbs 15:11, 27:20
-
-Revelation 9:11
-
-**Rationale:** Preserving "Abaddon" maintains underworld vocabulary and connects OT usage to Revelation 9:11.
-
 #### Death Personified (מָוֶת / θάνατος)
 
 **BSB rendering:** "death" → **AAB rendering:** "Death" (capitalized when personified)
 
-**12 verses:**
+**4 verses:**
 
-Job 18:13, 28:22
+Job 18:13
 
-Psalm 49:14, 89:48
+Psalm 89:48
 
-Hosea 13:14
+1 Corinthians 15:21, 15:26
 
-Habakkuk 2:5
-
-1 Corinthians 15:26, 15:54, 15:55
-
-Revelation 1:18, 6:8, 20:13, 20:14
-
-**Rationale:** Death is portrayed as a power, an enemy, a being with agency. Capitalization connects OT personification (echoing Canaanite Mot) to Paul's "last enemy" and Revelation's final defeat of Death.
+**Rationale:** Death is portrayed as a power, an enemy, a being with agency. Capitalization connects OT personification (echoing Canaanite Mot) to Paul's "last enemy" and Revelation's final defeat of Death. BSB v3 has already capitalized Death in Hosea 13:14, Habakkuk 2:5, Psalm 49:14, 1 Corinthians 15:54–55, and throughout Revelation.
 
 ### Spiritual Beings
 
-#### Demons (שֵׁדִים / shedim)
+#### Goat-Demons (שְׂעִירִים / se'irim)
 
-**BSB rendering:** "demons" → **AAB rendering:** "demons" (confirmed)
+**BSB rendering:** "wild goats" → **AAB rendering:** "goat-demons"
 
 **2 verses:**
 
-Deuteronomy 32:17
-
-Psalm 106:37
-
-**Rationale:** These are real spiritual entities to whom Israel sacrificed. BSB already correct; AAB confirms.
-
-#### Goat-Demons (שְׂעִירִים / se'irim)
-
-**BSB rendering:** "goat demons," "goat idols," "wild goats" → **AAB rendering:** "goat-demons"
-
-**4 verses:**
-
-Leviticus 17:7
-
-2 Chronicles 11:15
-
 Isaiah 13:21, 34:14
+
+**Note:** BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:15.
 
 **Rationale:** The שְׂעִירִים are goat-like demonic beings, not merely animals or idols. Consistency required across all occurrences.
 
@@ -1742,9 +1634,9 @@ Hebrew נָחַם in Sheol context means regret/grief, not comfort.
 
 #### Deuteronomy 32:8 (Sons of God)
 
-**BSB rendering:** "sons of Israel" (MT) → **AAB rendering:** "sons of God"
+**BSB v3 rendering:** "sons of God" (already correct)
 
-Following 4QDeutj and LXX. The original reading preserved in Dead Sea Scrolls.
+BSB v3 has adopted the 4QDeutj and LXX reading. No AAB change needed.
 
 #### Deuteronomy 32:43 (Bow Down)
 
@@ -2070,7 +1962,7 @@ Greek *psychē* in Mark 8:35 is rendered "life" ("whoever loses his *life* for m
 
 #### 1 Thessalonians 5:23 (Footnote on Spirit/Soul/Body)
 
-**Footnote added:** "This tripartite language ('spirit, soul, and body') expresses totality, like 'heart, soul, mind, and strength' in the Shema. Paul prays for the whole person to be sanctified, not three separable components."
+**Footnote added:** "This tripartite language ('spirit, soul, and body') expresses totality, like 'heart, soul, mind, and strength' in Deut. 6:5the Shema. Paul prays for the whole person to be sanctified, not three separable components."
 
 #### 1 Chronicles 21:1 (Satan Without the Article)
 
@@ -2091,7 +1983,7 @@ Modern translations render παλαιὸς ἄνθρωπος as "old self" and �
 3. Ephesians 2:15 uses identical language ("one new man") and BSB preserves "man" there because the corporate meaning is undeniable; consistency requires "man" throughout  
 4. Colossians 3:10 connects to Adam typology ("renewed in knowledge after the image of its Creator")
 
-**6 verses corrected:**
+**5 verses corrected:**
 
 | Reference | BSB Rendering | AAB Correction |
 | :---- | :---- | :---- |
@@ -2100,7 +1992,6 @@ Modern translations render παλαιὸς ἄνθρωπος as "old self" and �
 | Eph 4:24 | "put on the new self" | "put on the new man" |
 | Col 3:9 | "you have put off the old self" | "you have put off the old man" |
 | Col 3:10 | "have put on the new self" | "have put on the new man" |
-| Eph 2:15 | "one new man" | "one new man" (preserved) |
 
 #### Romans 6:7: δικαιόω as "Justified"
 
@@ -2155,7 +2046,7 @@ Do NOT capitalize when: referring to plural sins/transgressions (ἁμαρτία
 | Rom 6:1-23 | "died to Sin... body of Sin... enslaved to Sin... slaves of Sin... wages of Sin is Death" |
 | Rom 7:7-25 | "Sin, seizing an opportunity... Sin deceived me... Sin killed me... Sin living in me" |
 | Rom 8:2-3 | "the law of Sin and Death... he condemned Sin" |
-| 1 Cor 15:21-56 | "Death came through a man... last enemy is Death... sting of Death is Sin" |
+| 1 Cor 15:21, 26, 56 | "Death came through a man... last enemy is Death... sting of Death is Sin" (15:54–55 already capitalized in BSB v3) |
 
 #### Study Note on σάρξ (Sarx)
 
@@ -2238,29 +2129,27 @@ This approach honors both the source language and the reader: we translate what 
 | :---- | :---- |
 | Purification offering (חַטָּאת) | 114 |
 | Holy ones (קְדֹשִׁים / ἅγιοι) | 89 |
-| Sheol (שְׁאוֹל) | 65 |
+| Sheol (שְׁאוֹל) | 60+ |
 | Pauline terminology (old man, justified, Sin/Death) | 44 |
 | Restitution offering (אָשָׁם) | 34 |
 | Atonement cover (כַּפֹּרֶת) | 23 |
-| Firmament (רָקִיעַ) | 17 |
+| Firmament (רָקִיעַ) | 15 |
 | The Accuser (הַשָּׂטָן) | 14 |
-| Death personified (pre-Pauline) | 12 |
+| Death personified (pre-Pauline) | 4 |
 | Hell/Gehenna (γέεννα) | 12 |
 | NT corrections (misc.) | 12 |
-| Hades (ᾅδης) | 10 |
-| The Abyss (ἄβυσσος) | 9 |
+| The Abyss (ἄβυσσος) | 2 |
 | Rephaim (רְפָאִים) | 8 |
-| Abaddon (אֲבַדּוֹן) | 7 |
 | Specific passages (OT) | 6 |
 | Accuracy corrections (OT) | 5 |
-| Nephesh/psychē text changes | 5 |
-| Goat-demons (שְׂעִירִים) | 4 |
+| Nephesh/psychē text changes | 18+ |
+| Goat-demons (שְׂעִירִים) | 2 |
 | Azazel (עֲזָאזֵל) | 4 |
 | Tartarus (ταρταρόω) | 1 |
 | Lilith (לִילִית) | 1 |
 | Messianic vocabulary (seed) | 1 |
 | Stairway (סֻלָּם) | 1 |
-| **Subtotal: Text Changes** | **498** |
+| **Subtotal: Text Changes** | **see rows above** |
 
 #### Footnote-Only Additions
 
@@ -2269,22 +2158,21 @@ These verses retain the BSB text but add explanatory footnotes where the existin
 | Reference | Footnote Topic |
 | :---- | :---- |
 | Deuteronomy 6:5 | nephesh ≠ Platonic "soul" |
-| 1 Chronicles 21:1 | Anarthrous שָׂטָן (transition to proper name) |
 | Matthew 10:28 | psychē in body/soul contrast |
 | 1 Thessalonians 5:23 | Tripartite language \= totality, not three separable parts |
-| **Subtotal: Footnote-Only** | **4** |
+| **Subtotal: Footnote-Only** | **3** |
 
 #### Grand Total
 
 | Type | Count |
 | :---- | ----: |
-| Text changes | 498 |
-| Footnote-only additions | 4 |
-| **Total v0.1 corrections** | **516** |
+| Text changes | see rows above |
+| Footnote-only additions | 3 |
+| **Total corrections** | **see rows above \+ 3** |
 
 ### Help Us Improve
 
-This is v0.3, a public draft. We have done our best to get the terminology and decisions right, but we are a small team. We need critical feedback:
+This is a public draft. We have done our best to get the terminology and decisions right, but we are a small team. We need critical feedback:
 
 - **If you are a scholar:** Does our rendering of חַטָּאת as "purification offering" hold up? Have we missed nuances in the divine council passages? Are there places where our consistency creates new problems? Tell us.  
 - **If you are a teacher or pastor:** Does the language work in teaching contexts? Are there places where clarity suffers? Does the unfamiliar terminology create unnecessary barriers? Tell us.  
@@ -2292,9 +2180,9 @@ This is v0.3, a public draft. We have done our best to get the terminology and d
 
 We will improve this translation based on feedback. Every correction, every refinement, every version will remain public domain. The goal is not to create "our" Bible but to create a Bible that faithfully represents what the original authors wrote, and to give it away.
 
-For more on why public domain matters and our call to scholars and teachers, see the introduction: [A Word to Readers: Translation Is Not Commentary](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#a-word-to-readers-translation-is-not-commentary).
+For more on why public domain matters and our call to scholars and teachers, see the introduction: [A Word to Readers: Translation Is Not Commentary](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#a-word-to-readers-translation-is-not-commentary).
 
-**Status:** Awaiting feedback. See [How to Add Your Voice](https://docs.google.com/document/d/1PdL0YuG5uNcEfTkFY2tmoCGCtESQ_YgY7dQ8Vzww_qY/edit#how-to-add-your-voice).
+**Status:** Awaiting feedback. See [How to Add Your Voice](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#how-to-add-your-voice).
 
 ## AAB vs ESV vs NIV Comparison
 
@@ -2310,14 +2198,14 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | רָקִיעַ (raqia) | solid dome | firmament | expanse | vault | ESV/NIV avoid Hebrew meaning; NIV closer |
 | **Underworld Geography** |  |  |  |  |  |
 | שְׁאוֹל (Sheol) | realm of dead | Sheol | Sheol / grave | grave / realm of the dead | ESV more consistent than NIV |
-| ᾅδης (Hades) | Greek underworld | Hades | Hades / hell | Hades / hell | Both inconsistent |
-| γέεννα (Gehenna) | place of judgment | Gehenna (footnoted) | hell | hell | AAB alone preserves term |
+| ᾅδης (Hades) | Greek underworld | Hades | Hades / hell | Hades / hell | BSB v3 now correct; ESV/NIV still inconsistent |
+| γέεννα (Gehenna) | place of judgment | hell (footnoted as Gehenna) | hell | hell | AAB alone footnotes source term |
 | ταρταρόω (Tartarus) | divine prison | Tartarus | hell | hell | ESV/NIV lose specificity |
 | ἄβυσσος (Abyss) | chaotic deep | the Abyss | bottomless pit | Abyss | NIV matches AAB |
 | רְפָאִים (Rephaim) | underworld shades | the Rephaim | the dead / shades | the dead / spirits | ESV/NIV lose proper noun |
-| אֲבַדּוֹן (Abaddon) | destruction/place | Abaddon | Abaddon / Destruction | Abaddon / realm of the dead | ESV/NIV internally inconsistent |
+| אֲבַדּוֹן (Abaddon) | destruction/place | Abaddon | Abaddon / Destruction | Abaddon / realm of the dead | BSB v3 now correct; ESV/NIV internally inconsistent |
 | **Divine Council** |  |  |  |  |  |
-| Deut 32:8 (בְּנֵי אֱלֹהִים) | sons of God | sons of God | sons of God ✓ | sons of Israel ✗ | NIV follows inferior MT |
+| Deut 32:8 (בְּנֵי אֱלֹהִים) | sons of God | sons of God | sons of God ✓ | sons of Israel ✗ | BSB v3 also correct; NIV follows inferior MT |
 | הַשָּׂטָן (with article) | the accuser | the Accuser | Satan | Satan | ESV/NIV ignore grammar |
 | Job 1:6 בְּנֵי הָאֱלֹהִים | sons of God | sons of God | sons of God | angels | NIV interprets away |
 | Psalm 82:1 אֱלֹהִים | gods | gods | gods | gods | Agreement |
@@ -2327,7 +2215,7 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | אָשָׁם (asham) | restitution | restitution offering | guilt offering | guilt offering | ESV/NIV follow KJV tradition |
 | כַּפֹּרֶת (kapporet) | atonement cover | atonement cover | mercy seat | atonement cover | AAB and NIV agree; ESV follows Tyndale/Luther |
 | נֹשֵׂא (*nasa*, Exod 34:7) | bearing | bearing iniquity | forgiving | forgiving | AAB alone; all modern translations use "forgiving" |
-| פֹּקֵד (*paqad*, Exod 34:7) | sovereign attention | visits | visits | punishes | AAB with KJV/ESV/NASB against NIV/NLT |
+| פֹּקֵד (*paqad*, Exod 34:7) | sovereign attention | visits | visits | punishes | BSB v3 also correct; NIV/NLT alone use "punishes" |
 | סָלַח (*salach*, Lev 4:20 etc.) | covenant pardon | forgiven | forgiven | forgiven | Agreement; AAB adds footnote on covenantal scope |
 | **Pauline Anthropology** |  |  |  |  |  |
 | Rom 6:6 παλαιὸς ἄνθρωπος | old man | old man | old self | old self | ESV/NIV individualize |
@@ -2339,9 +2227,13 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | נֶפֶשׁ (nephesh) | whole person/life | varies (not "soul" for dualism) | soul | soul / life / you | All inconsistent |
 | ψυχή (psychē) | life/self | life (where dualism implied) | soul / life (inconsistent) | soul / life | ESV inconsistent within passages |
 | Ezek 18:4 הַנֶּפֶשׁ | the person | the one who sins | the soul who sins | the one who sins | NIV matches AAB |
+| **Text-Critical Adoptions** |  |  |  |  |  |
+| Gen 46:27 / Exod 1:5 | seventy-five | seventy-five | seventy | seventy | ESV/NIV follow MT; AAB alone resolves inconsistency with Acts 7:14 |
+| Deut 32:43 longer text | heavenly summons included | included | included | omitted | ESV also includes; NIV follows shorter MT; Heb 1:6 cites longer reading |
+| Psalm 110:3 | LXX "I have begotten you" | fn only | dew of your youth | dew of your youth | ESV/NIV follow MT; AAB footnotes LXX reading and Heb 1:5 connection |
 | **Specific Texts** |  |  |  |  |  |
 | 1 Cor 8:5 λεγόμενοι θεοί | called gods | beings called gods | so-called gods | so-called gods | ESV/NIV add skepticism not in Greek |
-| Gen 3:15 / Gal 3:16 זֶרַע | seed | seed | offspring | offspring | ESV/NIV lose Christological link |
+| Gen 26:4 זֶרַע (cf. Gen 3:15; Gal 3:16) | seed | seed | offspring | offspring | ESV/NIV lose Christological link; AAB change is Gen 26:4; Gen 3:15 already "seed" in BSB |
 | עֲזָאזֵל (Azazel) | Azazel | Azazel | Azazel ✓ | scapegoat | NIV translates name away |
 | לִילִית (Lilith) | Lilith | Lilith | night bird | night creatures | ESV/NIV translate name away |
 | Rom 3:25 ἱλαστήριον | place of atonement | atonement offering | propitiation | sacrifice of atonement | AAB preserves LXX typological connection |
@@ -2353,9 +2245,9 @@ One mark of a reliable translation is rendering the same source-language term co
 
 | Source Term | AAB | ESV | NIV |
 | :---- | :---- | :---- | :---- |
-| שְׁאוֹל (Sheol, 65x) | Sheol (100%) | Sheol / grave / pit (mixed) | grave / realm of dead / death (rarely Sheol) |
-| ᾅδης (Hades, 10x) | Hades (100%) | Hades 6x / hell 4x | Hades 2x / hell 8x |
-| γέεννα (Gehenna, 12x) | Gehenna (100%, footnoted) | hell (100%) | hell (100%) |
+| שְׁאוֹל (Sheol, 60+x) | Sheol (100%) | Sheol / grave / pit (mixed) | grave / realm of dead / death (rarely Sheol) |
+| ᾅדης (Hades, 10x) | Hades (100%) | Hades 6x / hell 4x | Hades 2x / hell 8x |
+| γέεννα (Gehenna, 12x) | hell (100%, footnoted as Gehenna) | hell (100%) | hell (100%) |
 | אֲבַדּוֹן (Abaddon, 7x) | Abaddon (100%) | Abaddon 2x / Destruction 5x | Abaddon 1x / various 6x |
 | נֶפֶשׁ (nephesh, 750+x) | varies by context | soul / life / person (inconsistent) | soul / life / you / throat (inconsistent) |
 | ψυχή (psychē, 100+x) | life (where dualism implied) | soul / life (inconsistent even within pericopes) | soul / life (inconsistent) |
@@ -2369,8 +2261,8 @@ One mark of a reliable translation is rendering the same source-language term co
 
 | Translation | Agrees with AAB | Disagrees with AAB |
 | :---- | ----: | ----: |
-| ESV | \~42 verses (\~8%) | \~473 verses (\~92%) |
-| NIV | \~37 verses (\~7%) | \~478 verses (\~93%) |
+| ESV | \~42 verses (\~8%) | \~485 verses (\~92%) |
+| NIV | \~37 verses (\~7%) | \~490 verses (\~93%) |
 
 The low agreement rate is not because the AAB is idiosyncratic. It reflects the degree to which both the ESV and NIV inherit translation choices from the KJV tradition without revisiting whether they accurately represent the source languages. The ESV's agreement count is slightly higher than the NIV's in part because it correctly renders *paqad* as "visits" in Exodus 34:7 and Numbers 14:18 where the NIV uses "punishes."
 
@@ -2379,21 +2271,30 @@ The low agreement rate is not because the AAB is idiosyncratic. It reflects the 
 | Area | Notes |
 | :---- | :---- |
 | Psalm 82:1 "gods" | All preserve אֱלֹהִים as "gods" in divine council context |
-| Basic underworld geography | All use "Sheol" and "Hades" at least sometimes |
-| Azazel (ESV only) | ESV preserves עֲזָאזֵל; NIV translates as "scapegoat" |
+| Basic underworld geography | All use "Sheol" at least sometimes |
 | salach → "forgiven" (Lev 4:20 etc.) | All render סָלַח as "forgiven"; AAB adds footnote on covenantal scope |
+
+### Where AAB and BSB v3 Agree Against ESV and NIV
+
+| Area | Notes |
+| :---- | :---- |
+| Hades (all occurrences) | BSB v3 now renders Hades consistently; ESV/NIV still inconsistent |
+| Abaddon (all occurrences) | BSB v3 now renders Abaddon consistently; ESV/NIV still inconsistent |
 
 ### Where AAB and ESV Agree Against NIV
 
 | Area | AAB | ESV | NIV | Issue |
 | :---- | :---- | :---- | :---- | :---- |
-| paqad → "visits" (Exod 34:7; Num 14:18) | visits | visits | punishes | NIV alone selects punitive end of semantic range; AAB and ESV follow KJV/NASB/NRSV tradition |
+| paqad → "visits" (Exod 34:7; Num 14:18) | visits | visits | punishes | BSB v3, AAB, and ESV all correct; NIV alone uses "punishes" |
+| Deut 32:8 sons of God | sons of God | sons of God | sons of Israel | BSB v3 also correct; NIV follows inferior MT against DSS/LXX evidence |
+| Azazel | Azazel | Azazel | scapegoat | NIV translates the proper name away |
 
 ### Where AAB Stands Alone
 
 | Area | AAB | ESV | NIV | Issue |
 | :---- | :---- | :---- | :---- | :---- |
 | Firmament | firmament | expanse | vault | AAB alone translates רָקִיעַ accurately |
+| Gen 46:27 / Exod 1:5 seventy-five | seventy-five | seventy | seventy | AAB alone resolves OT/NT inconsistency; Acts 7:14 (all translations) reads seventy-five |
 | Purification offering | purification offering | sin offering | sin offering | AAB alone follows Milgrom consensus |
 | The Accuser (with article) | the Accuser | Satan | Satan | AAB alone respects Hebrew grammar |
 | Tartarus | Tartarus | hell | hell | AAB alone preserves Greek term |
@@ -2478,7 +2379,7 @@ Scholars who disagree substantially with our approach are also welcome to submit
 
 [^3]: The ANE temple was the house of a deity, and every deity's house contained a throne. The Ark's position beneath Yahweh's glory between the cherubim, described elsewhere as his footstool (1 Chr 28:2; Psa 99:5; 132:7), presupposes the throne above it. The ancient reader understood this without being told. The throne imagery is real; it belongs to the interpretation of the passage rather than to the lexical rendering of כַּפֹּרֶת itself.
 
-[^4]: 66 is not a significant number in Scripture, but 70 is. If Psalms is treated as five books (as the internal divisions indicate), the total is 70, a far more meaningful number biblically. But one battle at a time.
+[^4]: Later Jewish tradition sometimes identifies her with Naamah (Gen 4:22), but this is not found in the canonical text.
 
 [^5]: **On "forgiven" (סָלַח, *salach*) in the Levitical system.** The declaration *wᵉnislach lahem*, "and it shall be forgiven them," is a genuine covenant pardon. The AAB renders *salach* as "forgiven" throughout because that is what the word means, and the pardon declared is real. Israel is genuinely restored to covenant standing before God through this act.
 
