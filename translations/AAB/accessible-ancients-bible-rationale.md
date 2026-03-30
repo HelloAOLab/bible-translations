@@ -548,7 +548,7 @@ We did not reduce supernatural *elohim* to "judges," "rulers," or "mighty ones."
 | Job 1:6; 2:1; 38:7 | "sons of God" |
 | Psalm 29:1; 89:6 | "sons of God" or "heavenly beings" |
 
-**A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings (watchers / fallen angels) is the unanimous position of every documented interpreter before c. 221 AD — including 1 Enoch, Jubilees, Philo, Josephus, Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen. The Sethite interpretation (sons of God \= righteous descendants of Seth; Nephilim \= natural human offspring) appears first in Julius Africanus (c. 221 AD), who did not fully commit to it and preserved the angel reading as a live option. It remained a minority position, developing primarily among Syriac church fathers, until Augustine of Hippo (354–430 AD) gave it systematic theological defense in *City of God* (c. 413–426 AD). After Augustine, Luther, Calvin, and Aquinas carried it forward and it became the default in the Western church. The desupernaturalized reading does not achieve cultural prominence until approximately 400 years into Christianity's existence — and the same theologian who systematized Greek anthropological dualism also systematized the Sethite reading of Genesis 6\. The AAB renders "sons of God" because that is what the text says and what every early reader understood it to mean.
+**A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no alternative was entertained until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth) but did not himself commit to it. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen all read Genesis 6 as describing divine beings taking human wives. The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
 
 ### Holy Ones (קְדֹשִׁים / ἅγιοι)
 
@@ -648,13 +648,37 @@ The following section addresses terms for demonic beings and the entities associ
 
 Where Hebrew שֵׁדִים (*shedim*) appears (Deut 32:17; Psa 106:37), we rendered "demons," not "false gods" or "idols." The text affirms these are real spiritual entities to whom Israel sacrificed.
 
+### Keening Creatures / Ohim (אֹחִים / ohim)
+
+Heb. אֹחִים (*ohim*), 'keening ones' or 'keening creatures.' Appears only in Isaiah 13:21. The root points to mournful howling. In Hebrew the -*im* ending marks plural beings rather than abstract qualities; the context places *ohim* alongside a sequence of creatures and spirits none of which is an abstraction; and the ANE material for this desolation formula consistently populates ruins with hostile supernatural beings. The LXX renders it as ἦχος (*echos*, "sound/resonance") rather than a named creature — that reading is the earliest on record, but the -*im* ending, the surrounding company of beings, and Revelation 18:2 all point in the same direction. Revelation reads Babylon's desolation as "a dwelling place of demons, a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *ohim* fill those houses as part of that company. The Songs of the Sage (4Q510, late 1st c. BCE) lists "howlers" alongside demons, Lilith, and spirits of the bastards in a single exorcism formula, confirming that Second Temple readers identified this creature class from the desolation texts as a recognized demonic category.
+
+### Sirens / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
+
+Heb. בְּנוֹת יַעֲנָה (*benot ya'anah*). Most dictionaries and English translations identify it as "daughters of the ostrich" or simply "ostriches." The LXX translators nonetheless rendered it as σειρῆνες (*seirēnes*): supernatural beings with a woman's head and a bird's body whose wailing voices lured the living to their deaths. The bird-form, the lamenting context (Micah 1:8 uses the term as a figure of mournful wailing; Job 30:29 pairs it with תַּנִּים / *tannim* as a figure of desolation), and the surrounding company of supernatural beings all point in the same direction. Revelation 18:2 reads Babylon's desolation as "a dwelling place of demons, a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34. Whatever *benot ya'anah* names as a creature, Revelation requires that these ruined cities be populated by hostile spiritual beings. "Sirens" is the right English choice precisely because modern English speakers inherit a Greco-Roman cultural frame: the word already carries what the LXX translators were reaching for — bird-woman form, wailing voice, a deadly supernatural presence.
+
+Appears at Isaiah 13:21, Isaiah 34:13, and Jeremiah 50:39.
+
 ### Goat-Demons (שְׂעִירִים / se'irim)
 
-The Hebrew שְׂעִירִים (*se'irim*) refers to goat-like demonic beings, not merely "wild goats" or "goat idols." BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:15. The AAB change applies to Isaiah 13:21 and Isaiah 34:14, which still read "wild goats."
+Heb. שְׂעִירִים (*se'irim*), 'hairy ones' or 'goat-beings'; singular שָׂעִיר (*sa'ir*). Leviticus 17:7 prohibits Israel from sacrificing to the *se'irim*, which means they were receiving sacrifices. 2 Chronicles 11:15 records Jeroboam appointing priests for them alongside the golden calves. The LXX renders *se'irim* as δαιμόνια (*daimonia*) in both Isaiah 13:21 and 34:14; Revelation 18:2 uses the same word. "Satyr" is not used as the translation because it imports Greek mythology as the primary frame. "Goat demon" names what the canon establishes: a hostile supernatural being associated with the goat complex, receiving worship in YHWH's place.
+
+BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:15. The AAB change applies to Isaiah 13:21 and Isaiah 34:14.
+
+### Howlers / Iyyim (אִיִּים / iyyim)
+
+Heb. אִיִּים (*iyyim*), 'howlers.' Appear only in this desolation formula (Isa 13:22; 34:14; Jer 50:39), always alongside צִיִּים (*tsiyyim*, 'desert dwellers'). The root points to mournful howling or wailing. The LXX renders the word as ὀνοκένταυρος (*onokentauros*, "donkey-centaur") — not a wild animal but a being of the human-animal hybrid class: part human, part beast, belonging to neither category fully, and therefore uncanny and dangerous. This is the same broad register as the centaur and the satyr in Greek thought, or the composite guardian figures of Mesopotamian iconography — beings that transgress the boundary between the human and animal worlds. That the Greek translators reached for this category rather than any natural creature shows they read *iyyim* as a supernatural being, not a creature of the field. Mizrahi and Patmore (2019) have established that the demon list in the Songs of the Sage (4Q510, late 1st c. BCE) derives its *iyyim* directly from the Isaiah desolation passages through a documented exegetical tradition, confirming that Second Temple readers recognized this creature class as a demonic category. That reading is consistent with the canonical placement of *iyyim* in immediate parallel with *se'irim* (goat demons who received cultic worship, Lev 17:7) and with Lilith in the same verse. Revelation 18:2 reads Babylon's desolation as "a dwelling place of demons, a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *iyyim* fill that company. "Howlers" names what the Hebrew root attests; the LXX's rendering suggests the ancient translators understood them as belonging to the category of composite, boundary-crossing beings.
+
+### Dragons / Tannim (תַּנִּים / תַּנִּין / tannim / tannin)
+
+Heb. תַּנִּים / תַּנִּין (*tannim* / *tannin*), 'sea-dragon' or 'chaos-creature.' Canonical range runs from chaos-dragon (Ps 74:13; Isa 27:1; Isa 51:9, where *tannin* parallels Rahab) to the devouring sea-beast of creation (Gen 1:21; Job 7:12). Within the same Babylon oracle corpus, Jeremiah 51:34 applies the word directly to Nebuchadnezzar: "he has swallowed me like a dragon." The LXX renders δράκοντες (*drakontes*) throughout; the KJV renders "dragons." Most modern translations default to "jackals," a choice driven by naturalistic assumptions about the vocabulary of desolation rather than by the canonical weight of the term; throughout the Hebrew Bible *tannin* is overwhelmingly a chaos adversary, not a wild dog.
+
+Appears at Isaiah 13:22, Isaiah 34:13, and multiple other desolation texts.
 
 ### Lilith (לִילִית / lilit)
 
-In Isaiah 34:14, we preserved "Lilith" or "night demon" rather than obscuring the term as "screech owl" or "night creature."
+Heb. לִילִית (*lilit*), 'night-demon.' BDB identifies her as "a female night-demon haunting desolate Edom, borrowed from Babylonian tradition." The Babylonian *lilitu* and *ardat lili* are supernatural beings of desolate places and night. The Great Isaiah Scroll from Qumran renders the word in the plural (*liliyyot*), suggesting a class rather than a unique figure. The Songs of the Sage (4Q510, late 1st c. BCE) contains the earliest unambiguous identification of Lilith as a supernatural being within a catalog of demons; the passage lists her alongside "spirits of the bastards, demons, howlers, and desert dwellers" — the precise cluster of beings populating the Isaiah and Jeremiah desolation texts. That text is secondary to the canonical witness, but it confirms that Second Temple readers recognized these figures, Lilith included, as hostile spiritual beings rather than unusual wildlife.
+
+In Isaiah 34:14, we preserved "Lilith" rather than obscuring the term as "screech owl" or "night creature."
 
 ### Azazel (עֲזָאזֵל / 'aza'zel)
 
@@ -716,15 +740,17 @@ We rendered all 23 occurrences of כַּפֹּרֶת as "atonement cover."
 
 The passages in this section require individual treatment because they involve textual, interpretive, or theological questions that go beyond simple terminology.
 
-### Shining One, Son of Dawn (Isaiah 14:12)
+### Morning Star, Son of Dawn (Isaiah 14:12)
 
-The Hebrew phrase הֵילֵל בֶּן־שָׁחַר (*helel ben shachar*) means "Shining One, son of Dawn," a morning star reference used in a taunt against the king of Babylon. Crucially, "Dawn" (Shachar/Shahar) is not only a poetic time reference. In the ancient West Semitic world, Shahar is attested as a dawn deity in Ugaritic material. Isaiah is speaking from within that cultural world, using its stock imagery to mock imperial arrogance.
+The Hebrew phrase הֵילֵל בֶּן־שָׁחַר (*helel ben shachar*). *Helel* denotes brightness or the morning star (Venus at dawn). *Shachar* ("Dawn") appears in Ugaritic texts (KTU 1.23) as a son of El, the creator-God and chief deity of the Canaanite pantheon, and a member of the divine assembly. The Hebrew "sons of God" (בְּנֵי הָאֱלֹהִים, *bene ha-elohim*) belongs to the same category (cf. Job 1:6; Deut 32:8). The taunt of Isaiah 14 is a *mashal* (v. 4), a proverbial song, and *helel*'s aspiration ("I will ascend to heaven; above the stars of God I will set my throne on high," v. 13) maps onto the divine council cosmology: the fall from heaven is a degradation within the council, a stripping of station among the assembly of the divine sons. Psalm 82 operates on the same structure, where *elohim* are judged and sentenced to die "like men" for corrupting their governance role.
 
 The KJV imported Latin tradition: "O Lucifer, son of the morning\!" But "Lucifer" is a Latin word that obscures the Hebrew phrase and its ancient Canaanite background.
 
-**Our rendering:** "Shining One, son of Dawn"
+The *helel* passage is not primarily speculation about the origin of Satan; it is a taunt song that draws on divine council imagery to pronounce the final verdict on the king of Babylon, whose pride replicated the primal pattern of a son of God grasping at the throne above his station.
 
-This translates what the Hebrew says. Nothing here denies later biblical connections to spiritual rebellion; it simply refuses to replace Isaiah's Hebrew imagery with a Latin label that hides the ancient backdrop.
+**Our rendering:** "morning star, son of the dawn"
+
+This translates what the Hebrew says while retaining the astronomical image (*helel* = the bright morning star) and preserving the divine council backdrop. Nothing here denies later biblical connections to spiritual rebellion; it simply refuses to replace Isaiah's Hebrew imagery with a Latin label that hides the ancient backdrop.
 
 ### Isaiah 7:14, Virgin
 
@@ -835,6 +861,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 1:17 | expanse | firmament |
 | Genesis 1:20 | expanse | firmament |
 | Genesis 46:27 | seventy | seventy-five (fn: The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
+| Genesis 6:4 | "in those days—and afterward as well—when the sons of God had relations with the daughters of men. And they bore them children who became the mighty men of old, men of renown" | "in those days, and also afterward, when the sons of God went in to the daughters of man, who bore children to them. These were the mighty men who were of old, the men of renown" (fn: The reading of "sons of God" as supernatural beings is the unbroken position of every documented interpreter through c. 221 AD. The Sethite interpretation appears first in Julius Africanus (c. 221 AD). Augustine popularized it in City of God (c. 413–426 AD). The DSS and Second Temple sources confirm the supernatural reading as that of the biblical authors themselves.) |
 | Genesis 9:21 | his tent | her tent |
 | Genesis 26:4 | offspring | seed |
 | Genesis 28:12 | ladder | stairway |
@@ -1067,12 +1094,15 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Ecclesiastes 3:19 | they all have the same breath | they all have the same breath (fn: Heb. ruach) |
 | Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath (fn: Heb. ruach) of man... the breath (fn: Heb. ruach) of the beast |
 | Ecclesiastes 12:7 | the spirit returns to God | the breath (fn: Heb. ruach) returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
-| Isaiah 13:21 | goats/wild goats | goat demons |
+| Isaiah 13:21 | ostriches / wild goats / howling creatures | Sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / keening creatures (fn: Heb. אֹחִים, ohim) |
+| Isaiah 13:22 | hyenas / jackals | Howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin; LXX δράκοντες) |
 | Isaiah 14:9 | the spirits of the dead | the Rephaim |
-| Isaiah 14:12 | Day Star/Lucifer | Shining One, son of Dawn |
+| Isaiah 14:12 | Day Star/Lucifer | morning star, son of the dawn (fn: Heb. הֵילֵל בֶּן־שָׁחַר, helel ben shachar; Shachar attested as dawn deity in Ugaritic texts) |
 | Isaiah 26:14 | the departed spirits | the Rephaim |
 | Isaiah 26:19 | her dead | the Rephaim |
-| Isaiah 34:14 | goats / night creature | goat demon / Lilith (fn: Heb. Lilith. Often translated night demon/monster) |
+| Isaiah 34:13 | jackals / ostriches | dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin; LXX δράκοντες) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) |
+| Isaiah 34:14 | hyenas / goat / night creature | howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / Lilith (fn: Heb. לִילִית, lilit; BDB 'female night-demon; borrowed from Babylonian tradition') |
+| Jeremiah 50:39 | hyenas / ostriches / "it will never" / "lived in" | howlers (fn: Heb. אִיִּים, iyyim) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah) / "she will never" / "settled" |
 | Isaiah 53:10 | his soul is made a guilt offering offering | his life (fn: Heb. nephesh) is made a restitution offering |
 | Isaiah 53:11 | the anguish of his soul | the anguish of his life (fn: Heb. nephesh) |
 | Isaiah 57:3 | (standard reading) | (no change) (fn: This oracle contains pervasive Hebrew wordplay with double meanings. The surface reading addresses idolatry and sexual immorality, but many terms simultaneously evoke necromancy and the cult of the dead) |
@@ -1536,9 +1566,29 @@ Psalm 89:48
 
 ### Spiritual Beings
 
+#### Keening Creatures / Ohim (אֹחִים / ohim)
+
+**BSB rendering:** "owls" / "howling creatures" → **AAB rendering:** "keening creatures"
+
+**1 verse:**
+
+Isaiah 13:21
+
+**Rationale:** The -*im* ending marks plural beings. The ANE desolation formula populates ruins with hostile supernatural beings. The LXX renders ἦχος ('sound/resonance'); but the surrounding company of beings and Revelation 18:2 confirm this is a demonic creature class. See full discussion in the Spiritual Beings section above.
+
+#### Sirens / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
+
+**BSB rendering:** "ostriches" / "daughters of an ostrich" → **AAB rendering:** "sirens"
+
+**3 verses:**
+
+Isaiah 13:21, Isaiah 34:13, Jeremiah 50:39
+
+**Rationale:** The LXX renders σειρῆνες (seirēnes): supernatural bird-women. Revelation 18:2 requires hostile spiritual beings in these ruins. "Sirens" carries the LXX's meaning into English — bird-woman form, wailing voice, deadly supernatural presence. See full discussion in the Spiritual Beings section above.
+
 #### Goat-Demons (שְׂעִירִים / se'irim)
 
-**BSB rendering:** "wild goats" → **AAB rendering:** "goat-demons"
+**BSB rendering:** "wild goats" → **AAB rendering:** "goat demons"
 
 **2 verses:**
 
@@ -1546,7 +1596,27 @@ Isaiah 13:21, 34:14
 
 **Note:** BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:15.
 
-**Rationale:** The שְׂעִירִים are goat-like demonic beings, not merely animals or idols. Consistency required across all occurrences.
+**Rationale:** The *se'irim* received sacrifices (Lev 17:7) and had priests appointed for them (2 Chr 11:15). The LXX renders δαιμόνια. They are hostile supernatural beings, not merely animals or idols. See full discussion in the Spiritual Beings section above.
+
+#### Howlers / Iyyim (אִיִּים / iyyim)
+
+**BSB rendering:** "hyenas" → **AAB rendering:** "howlers"
+
+**3 verses:**
+
+Isaiah 13:22, Isaiah 34:14, Jeremiah 50:39
+
+**Rationale:** The LXX renders ὀνοκένταυρος ('donkey-centaur'), a composite human-animal hybrid being — not a natural animal. Second Temple readers recognized iyyim as a demonic category (Songs of the Sage, 4Q510). "Howlers" names what the Hebrew root attests. See full discussion in the Spiritual Beings section above.
+
+#### Dragons / Tannim (תַּנִּים / תַּנִּין / tannim / tannin)
+
+**BSB rendering:** "jackals" → **AAB rendering:** "dragons"
+
+**2 verses (desolation texts):**
+
+Isaiah 13:22, Isaiah 34:13
+
+**Rationale:** Throughout the Hebrew Bible *tannin* is overwhelmingly a chaos adversary (Ps 74:13; Isa 27:1; 51:9; Jer 51:34), not a wild dog. The LXX renders δράκοντες throughout; the KJV renders 'dragons.' Most modern translations default to 'jackals,' driven by naturalistic assumptions. See full discussion in the Spiritual Beings section above.
 
 #### Lilith (לִילִית)
 
@@ -1556,7 +1626,7 @@ Isaiah 13:21, 34:14
 
 Isaiah 34:14
 
-**Rationale:** Lilith is a known demonic figure in ANE literature. "Night creature" obscures the reference.
+**Rationale:** Lilith is a known demonic figure in ANE and Babylonian literature (BDB: "female night-demon haunting desolate Edom"). The Great Isaiah Scroll renders the plural *liliyyot*, suggesting a class. The Songs of the Sage (4Q510) lists her in a demonic catalog alongside howlers and desert dwellers. "Night creature" obscures the reference. See full discussion in the Spiritual Beings section above.
 
 #### Azazel (עֲזָאזֵל)
 
@@ -1620,11 +1690,11 @@ The prophets confirm what the calendar implies. Jeremiah 31:34 presents the forg
 
 Hebrew בְּתוֹךְ אָהֳלָהּ has feminine suffix. "Saw his father's nakedness" is an idiom for sexual violation of one's father's wife (Lev 18:8; 20:11).
 
-#### Isaiah 14:12 (Shining One)
+#### Isaiah 14:12 (Morning Star, Son of Dawn)
 
-**BSB rendering:** "Day Star" or "Lucifer" → **AAB rendering:** "Shining One, son of Dawn"
+**BSB rendering:** "Day Star" or "Lucifer" → **AAB rendering:** "morning star, son of the dawn"
 
-Hebrew הֵילֵל בֶּן־שָׁחַר. "Lucifer" is Latin tradition; the Hebrew refers to the morning star with ANE mythological backdrop (Shahar as dawn deity).
+Hebrew הֵילֵל בֶּן־שָׁחַר. "Lucifer" is Latin tradition; the Hebrew refers to the morning star (*helel* = Venus at dawn) with ANE mythological backdrop (*Shahar* as dawn deity in Ugaritic texts). The taunt draws on divine council cosmology to pronounce the final verdict on the king of Babylon. See the full discussion in the Specific Passages section above.
 
 #### Ezekiel 31:16; 32:31 (Sheol Inhabitants)
 
