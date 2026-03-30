@@ -439,7 +439,6 @@ Having established our hermeneutical framework, the following table summarizes t
 | Pruning (John 15:3) | clean | pruned |
 | Son (Heb 1:2) | His Son | a Son |
 | Ultimately Impossible (Heb 6:4) | impossible | ultimately impossible |
-| Finding fault (Heb 8:8) | found fault with the people | finding fault with them, he said |
 | Unintentional sins (Heb 9:7) | sins committed in ignorance | unintentional sins committed in ignorance |
 | Time of reform (Heb 9:10) | time of reform | time of regeneration |
 | Falls short (Heb 12:15) | falls short | falls away |
@@ -1893,16 +1892,6 @@ However, Scripture demonstrates that impossibility operates in different senses.
 The impossibility in Hebrews 6:4 is likewise ontological. The author's argument throughout Hebrews centers on Christ's ἐφάπαξ (once-for-all) sacrifice (7:27; 9:12; 10:10). The impossibility in view is the impossibility of recrucifying Christ (v. 6), of demanding a second once-for-all offering, of belonging to Christ while simultaneously treating his blood as worthless.
 
 This is NOT a statement that someone who doubts, struggles, or even walks away from faith cannot later genuinely repent. Christ is not recrucified each time someone believes; the prodigal returned; Peter was restored; the door remains open to all who turn back. The qualifier "ultimately" signals that the impossibility operates at the level of Christ's sufficient work and the either-or nature of covenant belonging, not at the level of individual human experience. The exhortation is to persevere, because there is no Plan B and no second sacrifice waiting if you treat Christ's finished work as nothing.
-
-#### Hebrews 8:8 (Finding Fault)
-
-**BSB rendering:** "God found fault with the people" → **AAB rendering:** "finding fault with them, he said..."
-
-The Greek μεμφόμενος γὰρ αὐτοὺς λέγει has been read by some (including the NET) as ambiguous: was the fault with Israel, or with the first covenant itself? The AAB follows the BSB and the majority of translations in reading αὐτούς as the direct object of μεμφόμενος ("finding fault with them"), not as the indirect object of λέγει ("saying to them").
-
-The grammatical case resolves this. Throughout the New Testament, when λέγω takes a person as its indirect object (the person addressed), the Greek uses the dative case. The accusative αὐτούς here is the direct object of the participle μεμφόμενος, not the indirect object of λέγει. The NET's alternative reading would require a dative, not an accusative. The fault is with the people.
-
-This is consistent with the argument of Hebrews: the first covenant was not defective in itself but was made with a people who did not keep it (v. 9). The need for a new covenant arises from human faithlessness, which is precisely what the new covenant addresses by writing the law on hearts rather than stone (vv. 10–12).
 
 #### Hebrews 9:7 (Unintentional Sins)
 
