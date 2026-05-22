@@ -1,6 +1,6 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft v0.5 | Awaiting Feedback**
+**Status: Public Draft v0.6 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -539,6 +539,8 @@ We did not reduce supernatural *elohim* to "judges," "rulers," or "mighty ones."
 
 | Reference | Rendering |
 | :---- | :---- |
+| Gen 3:5 | "you will be like gods" |
+| Gen 3:22 | "like one of us" |
 | Psalm 82:1 | "God stands in the divine council; among the gods he renders judgment" |
 | Psalm 82:6 | "You are gods, sons of the Most High, all of you" |
 | Exod 21:6 | "bring him to God" (singular) |
@@ -546,6 +548,8 @@ We did not reduce supernatural *elohim* to "judges," "rulers," or "mighty ones."
 | Gen 6:2, 4 | "sons of God" (never "sons of nobles" or "descendants of Seth") |
 | Job 1:6; 2:1; 38:7 | "sons of God" |
 | Psalm 29:1; 89:6 | "sons of God" or "heavenly beings" |
+
+**A note on Genesis 3:5 and 3:22:** The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings" — the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular), following the Trinitarian reading. The AAB renders "like gods" because the plural is what the Hebrew says and because Genesis 3:22 confirms it: God himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
 
 **A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no alternative was entertained until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth) but did not himself commit to it. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen all read Genesis 6 as describing divine beings taking human wives. The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
 
@@ -860,7 +864,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 1:17 | expanse | firmament |
 | Genesis 1:20 | expanse | firmament |
 | Genesis 46:27 | seventy | seventy-five (fn: The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
-| Genesis 3:5 | you will be like God | you will be like gods (fn: Heb. כֵּאלֹהִים, ke'elohim, 'like elohim/divine beings.' Same word used for divine council members. Genesis 3:22 confirms: "the man has become like one of Us.") |
+| Genesis 3:5 | you will be like God | you will be like gods (fn: Heb. כֵּאלֹהִים, ke'elohim, 'like elohim/divine beings.' The same word used for members of the assembly of heavenly beings. Genesis 3:22 confirms: "the man has become like one of us.") |
+| Genesis 3:22 | like one of Us | like one of us (fn: "One of us" reflects the assembly of heavenly beings who surround God's throne. The sons of God were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The serpent's promise in v. 5, that the man and woman would become "like gods" (ke'elohim), is confirmed here by God himself.) |
 | Genesis 6:4 | "in those days—and afterward as well—when the sons of God had relations with the daughters of men. And they bore them children who became the mighty men of old, men of renown" | "in those days, and also afterward, when the sons of God went in to the daughters of man, who bore children to them. These were the mighty men who were of old, the men of renown" (fn: The reading of "sons of God" as supernatural beings is the unbroken position of every documented interpreter through c. 221 AD. The Sethite interpretation appears first in Julius Africanus (c. 221 AD). Augustine popularized it in City of God (c. 413–426 AD). The DSS and Second Temple sources confirm the supernatural reading as that of the biblical authors themselves.) |
 | Genesis 9:21 | his tent | her tent |
 | Genesis 26:4 | offspring | seed |
