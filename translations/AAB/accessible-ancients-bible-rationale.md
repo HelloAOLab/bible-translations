@@ -581,7 +581,16 @@ In Job 1-2 and Zechariah 3, Hebrew has the definite article: הַשָּׂטָן 
 
 **Note on the Job and Zechariah footnote:** The BSB includes a footnote at Job 1:6 reading "that is, the Accuser or the Adversary; here and throughout Job." The AAB replaces this with a footnote that explains the grammatical basis: "Heb. *hasatan*, 'accuser' or 'adversary' (lexical range). The definite article indicates a title, not a proper name. Rendered 'the Accuser' here and throughout Job and Zechariah 3, where the article is consistently present."
 
-**Note on the New Testament:** By NT times, "Satan" functions clearly as a proper name for a personal being, the original sinner and adversary of God (John 8:44; 1 John 3:8; Rev 12:9). The linguistic shift from title to proper name does not represent theological development; the same being is in view throughout Scripture. The translation distinction simply reflects the grammar of each passage.
+**Note on the New Testament:** Greek proper names routinely take the definite article — Jesus, Paul, Peter — without that article signaling a title. The presence of the article with Σατανᾶς in the NT does not carry the same grammatical signal that הַשָּׂטָן carries in Hebrew, where the article marks a title rather than a proper name. The AAB therefore renders Σατανᾶς as "Satan" throughout the NT except in four passages where the NT author is most clearly invoking the specific OT scenes in Job 1–2 and Zechariah 3. The basis for these four exceptions is canonical and intertextual, not grammatical.
+
+| Verse | Rendering |
+| :---- | :---- |
+| Luke 22:31 | "the Accuser" |
+| Romans 16:20 | "the Accuser" |
+| Revelation 12:9 | "the Accuser" |
+| Revelation 20:2 | "the Accuser" |
+
+**Footnote (identical for all four instances):** "Satan" is an equally valid translation here. The AAB renders "the Accuser" in these passages to preserve the explicit connection the NT author is drawing to the heavenly accuser of Job 1–2 and Zechariah 3, where the Hebrew הַשָּׂטָן ("the Accuser") functions as a title. Both renderings are defensible.
 
 ## Part 3: Underworld and Death
 
@@ -1096,6 +1105,9 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Proverbs 21:16 | the dead/shades | the Rephaim |
 | Proverbs 23:14 | Sheol/grave | Sheol |
 | Proverbs 30:16 | Sheol/grave | Sheol |
+| Ecclesiastes 1:2 | "Futility of futilities... Everything is futile!" | "Vapor of vapors... Everything is vapor!" (fn: Heb. הֶבֶל, hebel, literally breath/mist/vapor. Rendered "vapor" throughout Ecclesiastes to preserve the concrete image. See rationale.) |
+| Ecclesiastes 2:8 | many concubines | musical instruments (fn: Heb. שִׁדָּה וְשִׁדּוֹת, shiddah wəshiddot, hapax legomenon. Ancient witness tradition converges on luxury/festivity rather than concubinage. See rationale.) |
+| Ecclesiastes 2:15; 2:19; 2:21; 2:23; 2:26; 3:19; 4:4; 4:8; 4:16; 5:10; 6:2; 6:9; 7:6; 8:10; 8:14; 11:8; 12:8 (and all other הֶבֶל occurrences) | futile / futility | vapor |
 | Ecclesiastes 3:19 | they all have the same breath | they all have the same breath (fn: Heb. ruach) |
 | Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath (fn: Heb. ruach) of man... the breath (fn: Heb. ruach) of the beast |
 | Ecclesiastes 12:7 | the spirit returns to God | the breath (fn: Heb. ruach) returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
@@ -1149,6 +1161,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Matthew 23:33 | hell | hell (fn: Gk. *gehenna*) |
 | Matthew 27:52 | saints | holy ones |
 | Luke 8:55 | her spirit returned | her life (fn: Greek pneuma) returned |
+| Luke 22:31 | Satan | the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | Luke 23:46 | I commit my spirit | I commit my life (fn: Gk. *pneuma*; act of trust. Cites Psalm 31:5) |
 | John 15:3 | clean | pruned |
 | Acts 2:27 | my soul | me |
@@ -1200,6 +1213,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 15:31 | saints | holy ones |
 | Romans 16:2 | saints | holy ones |
 | Romans 16:15 | saints | holy ones |
+| Romans 16:20 | Satan | the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | 1 Corinthians 6:1 | saints | holy ones |
 | 1 Corinthians 6:2 | saints | holy ones |
 | 1 Corinthians 8:5 | so-called gods | beings called gods |
@@ -1261,6 +1275,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Revelation 8:4 | saints | holy ones |
 | Revelation 9:1 | bottomless pit/abyss | the Abyss |
 | Revelation 9:2 | bottomless pit/abyss | the Abyss |
+| Revelation 12:9 | called the devil and Satan | called the devil and the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | Revelation 11:18 | saints | holy ones |
 | Revelation 13:7 | saints | holy ones |
 | Revelation 13:10 | saints | holy ones |
@@ -1270,6 +1285,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Revelation 18:20 | saints | holy ones |
 | Revelation 18:24 | saints | holy ones |
 | Revelation 19:8 | saints | holy ones |
+| Revelation 20:2 | the devil and Satan | the devil and the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | Revelation 20:9 | saints | holy ones |
 | **Nephesh/Psychē Corrections** |  |  |
 | Deuteronomy 6:5 | (no footnote) | (footnote on nephesh added) |
@@ -2028,6 +2044,18 @@ Greek *psychē* in Mark 8:35 is rendered "life" ("whoever loses his *life* for m
 #### 1 Thessalonians 5:23 (Footnote on Spirit/Soul/Body)
 
 **Footnote added:** "This tripartite language ('spirit, soul, and body') expresses totality, like 'heart, soul, mind, and strength' in Deut. 6:5the Shema. Paul prays for the whole person to be sanctified, not three separable components."
+
+#### Ecclesiastes: הֶבֶל Rendered "Vapor" Throughout
+
+The Hebrew הֶבֶל (*hebel*) literally means breath, mist, or vapor: something real and visible for a moment but impossible to grasp or hold. Traditional English translations render it "vanity" (KJV, ESV) or "meaningless" (NIV) or "futility" (BSB), all of which are interpretive abstractions foreign to the word itself. The AAB renders it "vapor" throughout Ecclesiastes to preserve the concrete image the author chose.
+
+This rendering allows the book's two great refrains to work together as the author intended: vapor and chasing the wind are both atmospheric phenomena — things you can see but cannot hold. "Vanity," "meaningless," and "futility" each import a theological or emotional interpretation. "Vapor" leaves the image intact and lets the reader supply the application, which is what a wisdom text invites.
+
+**All occurrences of הֶבֶל in Ecclesiastes are rendered "vapor."** The opening and closing refrain ("vapor of vapors, everything is vapor," 1:2; 12:8) sets the frame. Every individual verdict ("this too is vapor") echoes it.
+
+#### Ecclesiastes 2:8: שִׁדָּה וְשִׁדּוֹת Rendered "Musical Instruments"
+
+The Hebrew שִׁדָּה וְשִׁדּוֹת (*shiddah wəshiddot*) is a hapax legomenon — appearing nowhere else in the Hebrew Bible — whose meaning was already disputed in antiquity. Ancient translations diverge: the LXX and Aramaic Targum point toward service and hospitality roles; Babylonian rabbinic tradition reads male and female demons; Palestinian tradition reads carriages; other rabbinic sources treat it as a type of ornate chest. Isaac ibn Ghiyath (d. 1089), the first rabbinic commentator on Qohelet, surveyed all these traditions and concluded the best interpretation is a wondrous musical instrument that existed in the time of the Kingdom and was lost when the First Temple was destroyed (b. Sotah 48b). The Arabic cognate root *shada* carries the sense of something good, pleasant, and desirable. Modern scholarship has proposed "concubines" based on a Hebrew cognate connection, but this reading has the weakest support from the ancient witness tradition and conflicts with the contextual coherence of the list, where every other item is a lawful dominion-oriented acquisition. The AAB renders "musical instruments" as the reading best supported by the ancient evidence while acknowledging the term remains uncertain.
 
 #### 1 Chronicles 21:1 (Satan Without the Article)
 
