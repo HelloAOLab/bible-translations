@@ -860,6 +860,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 1:17 | expanse | firmament |
 | Genesis 1:20 | expanse | firmament |
 | Genesis 46:27 | seventy | seventy-five (fn: The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
+| Genesis 3:5 | you will be like God | you will be like gods (fn: Heb. כֵּאלֹהִים, ke'elohim, 'like elohim/divine beings.' Same word used for divine council members. Genesis 3:22 confirms: "the man has become like one of Us.") |
 | Genesis 6:4 | "in those days—and afterward as well—when the sons of God had relations with the daughters of men. And they bore them children who became the mighty men of old, men of renown" | "in those days, and also afterward, when the sons of God went in to the daughters of man, who bore children to them. These were the mighty men who were of old, the men of renown" (fn: The reading of "sons of God" as supernatural beings is the unbroken position of every documented interpreter through c. 221 AD. The Sethite interpretation appears first in Julius Africanus (c. 221 AD). Augustine popularized it in City of God (c. 413–426 AD). The DSS and Second Temple sources confirm the supernatural reading as that of the biblical authors themselves.) |
 | Genesis 9:21 | his tent | her tent |
 | Genesis 26:4 | offspring | seed |
