@@ -2270,6 +2270,8 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | רְפָאִים (Rephaim) | underworld shades | the Rephaim | the dead / shades | the dead / spirits | ESV/NIV lose proper noun |
 | אֲבַדּוֹן (Abaddon) | destruction/place | Abaddon | Abaddon / Destruction | Abaddon / realm of the dead | BSB v3 now correct; ESV/NIV internally inconsistent |
 | **Divine Council** |  |  |  |  |  |
+| Gen 3:5 כֵּאלֹהִים | like divine beings | like gods | like God | like God | ESV/NIV singular flattens Hebrew plural |
+| Gen 3:22 "one of us" | assembly of heavenly beings | like one of us | like one of us | like one of us | ESV/NIV lowercase correctly; AAB adds footnote connecting to Job 38:7 |
 | Deut 32:8 (בְּנֵי אֱלֹהִים) | sons of God | sons of God | sons of God ✓ | sons of Israel ✗ | BSB v3 also correct; NIV follows inferior MT |
 | הַשָּׂטָן (with article) | the accuser | the Accuser | Satan | Satan | ESV/NIV ignore grammar |
 | Job 1:6 בְּנֵי הָאֱלֹהִים | sons of God | sons of God | sons of God | angels | NIV interprets away |
@@ -2301,6 +2303,11 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | Gen 26:4 זֶרַע (cf. Gen 3:15; Gal 3:16) | seed | seed | offspring | offspring | ESV/NIV lose Christological link; AAB change is Gen 26:4; Gen 3:15 already "seed" in BSB |
 | עֲזָאזֵל (Azazel) | Azazel | Azazel | Azazel ✓ | scapegoat | NIV translates name away |
 | לִילִית (Lilith) | Lilith | Lilith | night bird | night creatures | ESV/NIV translate name away |
+| שְׂעִירִים (se'irim, Isa 13:21; 34:14) | goat-like demons | goat demons | wild goats | wild goats | ESV/NIV naturalize; LXX renders δαιμόνια |
+| בְּנוֹת יַעֲנָה (benot ya'anah) | supernatural bird-women | sirens | owls / ostriches | owls / ostriches | LXX renders σειρῆνες; ESV/NIV naturalize |
+| אִיִּים (iyyim, desolation formula) | composite beings | howlers | hyenas | hyenas | LXX renders ὀνοκένταυρος (donkey-centaur); ESV/NIV naturalize |
+| תַּנִּים / תַּנִּין (tannim/tannin) | chaos-creature | dragons | jackals | jackals | LXX renders δράκοντες; ESV/NIV naturalize against canonical weight |
+| אֹחִים (ohim, Isa 13:21) | mournful beings | keening creatures | owls | owls | LXX renders ἦχος; -im ending marks plural beings |
 | Rom 3:25 ἱλαστήριον | place of atonement | atonement offering | propitiation | sacrifice of atonement | AAB preserves LXX typological connection |
 | Heb 6:4 ἀδύνατον | impossible | ultimately impossible | impossible | impossible | AAB qualifier signals ontological register |
 
