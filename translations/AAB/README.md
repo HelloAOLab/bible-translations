@@ -1,6 +1,6 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft v0.5 | Awaiting Feedback**
+**Status: Public Draft v0.6 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 

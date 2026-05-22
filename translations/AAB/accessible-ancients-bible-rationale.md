@@ -1,6 +1,6 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft v0.5 | Awaiting Feedback**
+**Status: Public Draft v0.6 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -539,6 +539,8 @@ We did not reduce supernatural *elohim* to "judges," "rulers," or "mighty ones."
 
 | Reference | Rendering |
 | :---- | :---- |
+| Gen 3:5 | "you will be like gods" |
+| Gen 3:22 | "like one of us" |
 | Psalm 82:1 | "God stands in the divine council; among the gods he renders judgment" |
 | Psalm 82:6 | "You are gods, sons of the Most High, all of you" |
 | Exod 21:6 | "bring him to God" (singular) |
@@ -546,6 +548,8 @@ We did not reduce supernatural *elohim* to "judges," "rulers," or "mighty ones."
 | Gen 6:2, 4 | "sons of God" (never "sons of nobles" or "descendants of Seth") |
 | Job 1:6; 2:1; 38:7 | "sons of God" |
 | Psalm 29:1; 89:6 | "sons of God" or "heavenly beings" |
+
+**A note on Genesis 3:5 and 3:22:** The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings" — the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular), following the Trinitarian reading. The AAB renders "like gods" because the plural is what the Hebrew says and because Genesis 3:22 confirms it: God himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
 
 **A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no alternative was entertained until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth) but did not himself commit to it. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen all read Genesis 6 as describing divine beings taking human wives. The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
 
@@ -577,7 +581,16 @@ In Job 1-2 and Zechariah 3, Hebrew has the definite article: הַשָּׂטָן 
 
 **Note on the Job and Zechariah footnote:** The BSB includes a footnote at Job 1:6 reading "that is, the Accuser or the Adversary; here and throughout Job." The AAB replaces this with a footnote that explains the grammatical basis: "Heb. *hasatan*, 'accuser' or 'adversary' (lexical range). The definite article indicates a title, not a proper name. Rendered 'the Accuser' here and throughout Job and Zechariah 3, where the article is consistently present."
 
-**Note on the New Testament:** By NT times, "Satan" functions clearly as a proper name for a personal being, the original sinner and adversary of God (John 8:44; 1 John 3:8; Rev 12:9). The linguistic shift from title to proper name does not represent theological development; the same being is in view throughout Scripture. The translation distinction simply reflects the grammar of each passage.
+**Note on the New Testament:** Greek proper names routinely take the definite article — Jesus, Paul, Peter — without that article signaling a title. The presence of the article with Σατανᾶς in the NT does not carry the same grammatical signal that הַשָּׂטָן carries in Hebrew, where the article marks a title rather than a proper name. The AAB therefore renders Σατανᾶς as "Satan" throughout the NT except in four passages where the NT author is most clearly invoking the specific OT scenes in Job 1–2 and Zechariah 3. The basis for these four exceptions is canonical and intertextual, not grammatical.
+
+| Verse | Rendering |
+| :---- | :---- |
+| Luke 22:31 | "the Accuser" |
+| Romans 16:20 | "the Accuser" |
+| Revelation 12:9 | "the Accuser" |
+| Revelation 20:2 | "the Accuser" |
+
+**Footnote (identical for all four instances):** "Satan" is an equally valid translation here. The AAB renders "the Accuser" in these passages to preserve the explicit connection the NT author is drawing to the heavenly accuser of Job 1–2 and Zechariah 3, where the Hebrew הַשָּׂטָן ("the Accuser") functions as a title. Both renderings are defensible.
 
 ## Part 3: Underworld and Death
 
@@ -860,7 +873,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 1:17 | expanse | firmament |
 | Genesis 1:20 | expanse | firmament |
 | Genesis 46:27 | seventy | seventy-five (fn: The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
-| Genesis 3:5 | you will be like God | you will be like gods (fn: Heb. כֵּאלֹהִים, ke'elohim, 'like elohim/divine beings.' Same word used for divine council members. Genesis 3:22 confirms: "the man has become like one of Us.") |
+| Genesis 3:5 | you will be like God | you will be like gods (fn: Heb. כֵּאלֹהִים, ke'elohim, 'like elohim/divine beings.' The same word used for members of the assembly of heavenly beings. Genesis 3:22 confirms: "the man has become like one of us.") |
+| Genesis 3:22 | like one of Us | like one of us (fn: "One of us" reflects the assembly of heavenly beings who surround God's throne. The sons of God were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The serpent's promise in v. 5, that the man and woman would become "like gods" (ke'elohim), is confirmed here by God himself.) |
 | Genesis 6:4 | "in those days—and afterward as well—when the sons of God had relations with the daughters of men. And they bore them children who became the mighty men of old, men of renown" | "in those days, and also afterward, when the sons of God went in to the daughters of man, who bore children to them. These were the mighty men who were of old, the men of renown" (fn: The reading of "sons of God" as supernatural beings is the unbroken position of every documented interpreter through c. 221 AD. The Sethite interpretation appears first in Julius Africanus (c. 221 AD). Augustine popularized it in City of God (c. 413–426 AD). The DSS and Second Temple sources confirm the supernatural reading as that of the biblical authors themselves.) |
 | Genesis 9:21 | his tent | her tent |
 | Genesis 26:4 | offspring | seed |
@@ -1091,6 +1105,9 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Proverbs 21:16 | the dead/shades | the Rephaim |
 | Proverbs 23:14 | Sheol/grave | Sheol |
 | Proverbs 30:16 | Sheol/grave | Sheol |
+| Ecclesiastes 1:2 | "Futility of futilities... Everything is futile!" | "Vapor of vapors... Everything is vapor!" (fn: Heb. הֶבֶל, hebel, literally breath/mist/vapor. Rendered "vapor" throughout Ecclesiastes to preserve the concrete image. See rationale.) |
+| Ecclesiastes 2:8 | many concubines | musical instruments (fn: Heb. שִׁדָּה וְשִׁדּוֹת, shiddah wəshiddot, hapax legomenon. Ancient witness tradition converges on luxury/festivity rather than concubinage. See rationale.) |
+| Ecclesiastes 2:15; 2:19; 2:21; 2:23; 2:26; 3:19; 4:4; 4:8; 4:16; 5:10; 6:2; 6:9; 7:6; 8:10; 8:14; 11:8; 12:8 (and all other הֶבֶל occurrences) | futile / futility | vapor |
 | Ecclesiastes 3:19 | they all have the same breath | they all have the same breath (fn: Heb. ruach) |
 | Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath (fn: Heb. ruach) of man... the breath (fn: Heb. ruach) of the beast |
 | Ecclesiastes 12:7 | the spirit returns to God | the breath (fn: Heb. ruach) returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
@@ -1144,6 +1161,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Matthew 23:33 | hell | hell (fn: Gk. *gehenna*) |
 | Matthew 27:52 | saints | holy ones |
 | Luke 8:55 | her spirit returned | her life (fn: Greek pneuma) returned |
+| Luke 22:31 | Satan | the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | Luke 23:46 | I commit my spirit | I commit my life (fn: Gk. *pneuma*; act of trust. Cites Psalm 31:5) |
 | John 15:3 | clean | pruned |
 | Acts 2:27 | my soul | me |
@@ -1195,6 +1213,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 15:31 | saints | holy ones |
 | Romans 16:2 | saints | holy ones |
 | Romans 16:15 | saints | holy ones |
+| Romans 16:20 | Satan | the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | 1 Corinthians 6:1 | saints | holy ones |
 | 1 Corinthians 6:2 | saints | holy ones |
 | 1 Corinthians 8:5 | so-called gods | beings called gods |
@@ -1256,6 +1275,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Revelation 8:4 | saints | holy ones |
 | Revelation 9:1 | bottomless pit/abyss | the Abyss |
 | Revelation 9:2 | bottomless pit/abyss | the Abyss |
+| Revelation 12:9 | called the devil and Satan | called the devil and the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | Revelation 11:18 | saints | holy ones |
 | Revelation 13:7 | saints | holy ones |
 | Revelation 13:10 | saints | holy ones |
@@ -1265,6 +1285,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Revelation 18:20 | saints | holy ones |
 | Revelation 18:24 | saints | holy ones |
 | Revelation 19:8 | saints | holy ones |
+| Revelation 20:2 | the devil and Satan | the devil and the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | Revelation 20:9 | saints | holy ones |
 | **Nephesh/Psychē Corrections** |  |  |
 | Deuteronomy 6:5 | (no footnote) | (footnote on nephesh added) |
@@ -2024,6 +2045,18 @@ Greek *psychē* in Mark 8:35 is rendered "life" ("whoever loses his *life* for m
 
 **Footnote added:** "This tripartite language ('spirit, soul, and body') expresses totality, like 'heart, soul, mind, and strength' in Deut. 6:5the Shema. Paul prays for the whole person to be sanctified, not three separable components."
 
+#### Ecclesiastes: הֶבֶל Rendered "Vapor" Throughout
+
+The Hebrew הֶבֶל (*hebel*) literally means breath, mist, or vapor: something real and visible for a moment but impossible to grasp or hold. Traditional English translations render it "vanity" (KJV, ESV) or "meaningless" (NIV) or "futility" (BSB), all of which are interpretive abstractions foreign to the word itself. The AAB renders it "vapor" throughout Ecclesiastes to preserve the concrete image the author chose.
+
+This rendering allows the book's two great refrains to work together as the author intended: vapor and chasing the wind are both atmospheric phenomena — things you can see but cannot hold. "Vanity," "meaningless," and "futility" each import a theological or emotional interpretation. "Vapor" leaves the image intact and lets the reader supply the application, which is what a wisdom text invites.
+
+**All occurrences of הֶבֶל in Ecclesiastes are rendered "vapor."** The opening and closing refrain ("vapor of vapors, everything is vapor," 1:2; 12:8) sets the frame. Every individual verdict ("this too is vapor") echoes it.
+
+#### Ecclesiastes 2:8: שִׁדָּה וְשִׁדּוֹת Rendered "Musical Instruments"
+
+The Hebrew שִׁדָּה וְשִׁדּוֹת (*shiddah wəshiddot*) is a hapax legomenon — appearing nowhere else in the Hebrew Bible — whose meaning was already disputed in antiquity. Ancient translations diverge: the LXX and Aramaic Targum point toward service and hospitality roles; Babylonian rabbinic tradition reads male and female demons; Palestinian tradition reads carriages; other rabbinic sources treat it as a type of ornate chest. Isaac ibn Ghiyath (d. 1089), the first rabbinic commentator on Qohelet, surveyed all these traditions and concluded the best interpretation is a wondrous musical instrument that existed in the time of the Kingdom and was lost when the First Temple was destroyed (b. Sotah 48b). The Arabic cognate root *shada* carries the sense of something good, pleasant, and desirable. Modern scholarship has proposed "concubines" based on a Hebrew cognate connection, but this reading has the weakest support from the ancient witness tradition and conflicts with the contextual coherence of the list, where every other item is a lawful dominion-oriented acquisition. The AAB renders "musical instruments" as the reading best supported by the ancient evidence while acknowledging the term remains uncertain.
+
 #### 1 Chronicles 21:1 (Satan Without the Article)
 
 **Footnote added:** "Heb. *śāṭān* without the definite article. In Job and Zechariah, *haśśāṭān* (with article) is rendered 'the Accuser' as a title describing a function. Here the anarthrous form may function as a proper name."
@@ -2265,6 +2298,8 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | רְפָאִים (Rephaim) | underworld shades | the Rephaim | the dead / shades | the dead / spirits | ESV/NIV lose proper noun |
 | אֲבַדּוֹן (Abaddon) | destruction/place | Abaddon | Abaddon / Destruction | Abaddon / realm of the dead | BSB v3 now correct; ESV/NIV internally inconsistent |
 | **Divine Council** |  |  |  |  |  |
+| Gen 3:5 כֵּאלֹהִים | like divine beings | like gods | like God | like God | ESV/NIV singular flattens Hebrew plural |
+| Gen 3:22 "one of us" | assembly of heavenly beings | like one of us | like one of us | like one of us | ESV/NIV lowercase correctly; AAB adds footnote connecting to Job 38:7 |
 | Deut 32:8 (בְּנֵי אֱלֹהִים) | sons of God | sons of God | sons of God ✓ | sons of Israel ✗ | BSB v3 also correct; NIV follows inferior MT |
 | הַשָּׂטָן (with article) | the accuser | the Accuser | Satan | Satan | ESV/NIV ignore grammar |
 | Job 1:6 בְּנֵי הָאֱלֹהִים | sons of God | sons of God | sons of God | angels | NIV interprets away |
@@ -2296,6 +2331,11 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | Gen 26:4 זֶרַע (cf. Gen 3:15; Gal 3:16) | seed | seed | offspring | offspring | ESV/NIV lose Christological link; AAB change is Gen 26:4; Gen 3:15 already "seed" in BSB |
 | עֲזָאזֵל (Azazel) | Azazel | Azazel | Azazel ✓ | scapegoat | NIV translates name away |
 | לִילִית (Lilith) | Lilith | Lilith | night bird | night creatures | ESV/NIV translate name away |
+| שְׂעִירִים (se'irim, Isa 13:21; 34:14) | goat-like demons | goat demons | wild goats | wild goats | ESV/NIV naturalize; LXX renders δαιμόνια |
+| בְּנוֹת יַעֲנָה (benot ya'anah) | supernatural bird-women | sirens | owls / ostriches | owls / ostriches | LXX renders σειρῆνες; ESV/NIV naturalize |
+| אִיִּים (iyyim, desolation formula) | composite beings | howlers | hyenas | hyenas | LXX renders ὀνοκένταυρος (donkey-centaur); ESV/NIV naturalize |
+| תַּנִּים / תַּנִּין (tannim/tannin) | chaos-creature | dragons | jackals | jackals | LXX renders δράκοντες; ESV/NIV naturalize against canonical weight |
+| אֹחִים (ohim, Isa 13:21) | mournful beings | keening creatures | owls | owls | LXX renders ἦχος; -im ending marks plural beings |
 | Rom 3:25 ἱλαστήριον | place of atonement | atonement offering | propitiation | sacrifice of atonement | AAB preserves LXX typological connection |
 | Heb 6:4 ἀδύνατον | impossible | ultimately impossible | impossible | impossible | AAB qualifier signals ontological register |
 
