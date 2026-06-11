@@ -1,6 +1,6 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft v0.6 | Awaiting Feedback**
+**Status: Public Draft v0.8 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -199,7 +199,7 @@ The AAB makes selective foreignizing choices. We preserve unfamiliar terms where
 | Underworld | Sheol, Hades, Gehenna, Tartarus, Abyss | Biblical authors distinguished these; collapsing to "hell" loses geography |
 | Entities | Rephaim, Azazel, Lilith, Abaddon | Proper names should be transliterated, not translated away |
 | Divine council | "the Accuser" (with article), "sons of God," "holy ones" | Grammar and worldview require it |
-| Sacrificial system | "purification offering," "restitution offering," "atonement cover" | Milgrom consensus; traditional terms import wrong theology |
+| Sacrificial system | "purification offering," "reparation offering," "throne seat," "ascension offering," "well-being offering," "effect purgation," "Day of Purgation" | Milgrom/Rillera consensus on the Levitical framing; traditional terms import wrong theology |
 | Messianic vocabulary | "seed" not "offspring" | Preserves Christological connections (Gen 3:15 → Gal 3:16) |
 | Nephesh/psychē (targeted) | "being," "life," "one who" where clear; "soul" with footnotes elsewhere | Hebrew nephesh is not Platonic "soul"; de-Platonizing where it misleads |
 
@@ -407,17 +407,9 @@ Having established our hermeneutical framework, the following table summarizes t
 | Abaddon (destruction) | destruction | Abaddon |
 | Death personified | death | Death (capitalized) |
 | Sky dome | expanse, vault, dome | firmament |
-| Jacob's ladder (Gen 28:12) | ladder | stairway (temple stairs) |
 | Divine beings | judges, rulers, mighty ones | gods, spirits, divine beings |
-| Council members (Deut 32:8) | sons of Israel | sons of God |
-| Set-apart ones | saints | holy ones |
-| Chattat offering | sin offering | purification offering |
-| Asham offering | guilt offering | restitution offering |
-| Atonement cover | mercy seat | atonement cover |
-| Demons (שֵׁדִים) | false gods, idols | demons |
-| Goat-demons (שְׂעִירִים) | wild goats | goat-demons, satyrs |
-| Lilith (לִילִית) | screech owl | Lilith |
-| Azazel | scapegoat | Azazel |
+| Asham offering | guilt offering | reparation offering |
+| Atonement cover | mercy seat | throne seat |
 | Helel ben Shachar (Isa 14:12) | Lucifer | Shining One, son of Dawn |
 | Virgin (Isa 7:14) | young woman | virgin (with note) |
 | Anointed cherub (Ezek 28\) | human king only | divine being who fell |
@@ -722,7 +714,7 @@ The Levitical sacrificial system uses technical vocabulary that traditional tran
 
 Traditional translations render חַטָּאת as "sin offering," but this miscommunicates the sacrifice's function to English readers in ways the Hebrew does not permit.
 
-**The blood goes to the sanctuary, not the sinner.** Throughout Leviticus 4 and 16, the blood of the חַטָּאת is applied to the altar, the tent of meeting, and the mercy seat (*kapporeth* / כַּפֹּרֶת, "atonement cover"), not to the offerer (Lev 4:25; 16:14–16). If the primary function were moral expiation of the individual, this is exactly backwards. The ritual decontaminates sacred space so God's presence can remain among his people.
+**The blood goes to the sanctuary, not the sinner.** Throughout Leviticus 4 and 16, the blood of the חַטָּאת is applied to the altar, the tent of meeting, and the throne seat (*kapporet* / כַּפֹּרֶת), not to the offerer (Lev 4:25; 16:14–16). If the primary function were moral expiation of the individual, this is exactly backwards. The ritual decontaminates sacred space so God's presence can remain among his people.
 
 **The offering is required where no moral failure occurred.** The חַטָּאת is prescribed after childbirth (Lev 12), after contact with a corpse (Num 19), and after recovery from skin disease (Lev 14). A woman who has just given birth is not being charged with sin. Yet she requires the same sacrificial mechanism as one who sinned inadvertently (*shegagah* / שְׁגָגָה, "inadvertency"). The ritual addresses a condition rather than exclusively a moral offense. Impurity (*ṭumʾāh* / טֻמְאָה, "uncleanness") has many causes; moral failure is one, ritual contamination another. The חַטָּאת addresses the condition regardless of cause.
 
@@ -734,19 +726,80 @@ These three lines converge in the underlying logic of the system. Every חַטָ
 
 We rendered all 114 occurrences of חַטָּאת as "purification offering."
 
-### Restitution Offering (אָשָׁם / asham)
+### Reparation Offering (אָשָׁם / asham)
 
-Traditional translations render אָשָׁם as "guilt offering," but the offering's function is reparation for damage done, not psychological guilt. The אָשָׁם is required when restitution is owed, whether to God or neighbor (Lev 5:14-6:7). The offerer must repay what was taken plus a penalty, and then bring the sacrifice.
+Traditional translations render אָשָׁם as "guilt offering," but the offering's function is making amends for a breach, not addressing psychological guilt. The אָשָׁם is required when amends are owed, whether to God or neighbor (Lev 5:14-6:7). The offerer must repay what was taken plus one-fifth, and then bring the sacrifice.
 
-We rendered all 34 occurrences of אָשָׁם as "restitution offering."
+Earlier drafts of the AAB rendered אָשָׁם as "restitution offering." We have followed Milgrom (and Rillera) in adopting "reparation offering" instead, for a precise reason: several אָשָׁם cases involve trespass against the LORD's holy things (Lev 5:14–16), where no property can simply be returned to a wronged human party; the assessed value is paid to the sanctuary. "Restitution" implies a wronged party receiving their property back. "Reparation" covers amends for the breach itself, whether the wronged party is human or divine. Restitution of property, where possible, is a separate payment that accompanies the offering; it is not what the offering itself is.
 
-### Atonement Cover (כַּפֹּרֶת / *kapporet*)
+We rendered all 34 occurrences of אָשָׁם as "reparation offering."
 
-Traditional translations render כַּפֹּרֶת as "mercy seat," but this imports a concept not found in the Hebrew. The כַּפֹּרֶת is the solid gold lid of the Ark of the Covenant, the place where Yahweh's presence dwelt between the cherubim (Exod 25:22). The blood of the purification offering is applied here on the Day of Atonement (Lev 16:14–15).
+### Throne Seat (כַּפֹּרֶת / *kapporet*)
 
-"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation. The Hebrew term derives from כִּפֶּר (*kipper*, "to cover, purge, make atonement") and describes the location of atonement ritual. "Atonement cover" renders the lexical meaning accurately. That this cover sits between the cherubim in the innermost chamber of God's house, the place from which he spoke and above which his glory appeared, carries its own theological force without requiring it to be stated in the translation itself.[^3]
+Traditional translations render כַּפֹּרֶת as "mercy seat" or "atonement cover." The כַּפֹּרֶת is the solid gold lid of the Ark of the Covenant, and Scripture is consistent about what stands above it: the LORD "sits enthroned between the cherubim" (1 Sam 4:4; 2 Sam 6:2; Ps 80:1; 99:1; Isa 37:16). Ezekiel hears it stated outright of the sanctuary: "this is the place of My throne" (Ezek 43:7). David calls the Ark the "footstool of our God" (1 Chr 28:2; cf. Ps 99:5; 132:7), and a footstool presupposes the throne above it. The temple is the deity's house, and every ANE deity's house contained a throne; the כַּפֹּרֶת between the cherubim is where the divine *pater familias* sits in His house (see Heiser, *The Unseen Realm*, on the throne room and the assembly of heavenly beings; Schloen, *The House of the Father*, on the temple as the god's household).
 
-We rendered all 23 occurrences of כַּפֹּרֶת as "atonement cover."
+"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation — though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purgation the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5) — God presents Christ as the throne seat, the meeting place of heaven and earth, where purgation happens in the presence of the enthroned God.[^3]
+
+We rendered all occurrences of כַּפֹּרֶת (and ἱλαστήριον in Heb 9:5) as "throne seat."
+
+### Effect Purgation (כִּפֶּר / *kipper*)
+
+Traditional translations render the verb כִּפֶּר as "make atonement." English "atonement" has come to suggest appeasement, satisfaction, or the payment of a penalty. The Hebrew names an act of cleansing. In cultic contexts כִּפֶּר corresponds to Akkadian *kuppuru*, "to wipe, rub off, purify," a standard term in Mesopotamian ritual texts: in the Babylonian Akitu festival the shrine of Nabu was purged (*kuppuru*) by wiping the sanctuary. The direct objects of cultic כִּפֶּר in the Hebrew Bible are sancta: the altar (Lev 8:15; 16:18–19), the sanctuary (Lev 16:16–20, 33), the house (Lev 14:53). When a person benefits, the idiom is *kipper ʿal*, "effect purgation on behalf of." Milgrom's formulation: the blood is a ritual detergent. The offering purges; forgiveness is God's response to the completed purgation ("the priest shall effect purgation for him, and he shall be forgiven," Lev 4:31).
+
+Three textual observations confirm that the system's logic is purgation, not penalty. First, the stated instrument is lifeblood, not death: "it is the blood that effects purgation by means of the life" (Lev 17:11). Second, slaughter is preparatory and delegated to the lay offerer (Lev 1:5; 3:2; 4:24); the distinctly priestly acts are blood manipulation and altar service. If death were the ritually freighted moment, it would not be performed by laity. Third, a destitute offerer may bring a grain purification offering with no blood and no death at all, and the formula still applies: "the priest shall effect purgation for him... and he shall be forgiven" (Lev 5:11–13). Purgation without death is possible within the system itself.
+
+We rendered cultic כִּפֶּר as "effect purgation" throughout (~82 verb forms), including the poetic occurrences previously rendered "atoned for" (now "purged": Isa 6:7; 22:14; 27:9; Prov 16:6; Deut 21:8). The non-cultic ransom register of the root (כֹּפֶר, *kofer*, Exod 21:30; 30:12; Num 35:31–32) is distinct, and conflating the two registers is precisely what the priestly texts do not do; accordingly the census payment of Exodus 30:15–16 is rendered "ransom money," not purgation vocabulary.
+
+### The Day of Purgation (יוֹם הַכִּפֻּרִים / *yom hakkippurim*)
+
+Following from the rendering of כִּפֶּר, the festival traditionally called the "Day of Atonement" is rendered the "Day of Purgation" (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9). The Hebrew name is plural — "day of purgations" — and Leviticus 16 states the day's function explicitly: the sanctuary is purged "of the impurities of the Israelites and their transgressions" (16:16), "because on this day purgation will be made for you to cleanse you, and you will be clean from all your sins before the LORD" (16:30). The day cleanses God's house; the people's cleansing is its stated outcome. Footnotes at every occurrence carry the traditional name so no reader is stranded.
+
+The same chapter preserves a distinction most translations flatten. Two goats: one is the purification offering whose blood purges the sanctuary and which carries no sin; the other, the goat for Azazel, receives Israel's sins by a two-handed transfer with confession (the only sin transfer in the Torah) and is precisely *not* sacrificed — it is not slaughtered, its blood is never offered, and it is driven out of the camp. Sin transfer and sacrifice are mutually exclusive operations in Leviticus 16, performed on two different goats. The dispatch of the Azazel goat belongs to a recognized ANE ritual genre of elimination rites (Hittite rituals of Ashella, Ambazzi, and Uhhamuwa; Eblaite goat-dispatch rites), a genre distinct from altar sacrifice — and Leviticus 16 preserves exactly that genre distinction.
+
+### Ascension Offering (עֹלָה / *olah*)
+
+Traditional translations render עֹלָה as "burnt offering." The Hebrew word means "that which ascends," from עָלָה (*alah*, "to go up"); it names the offering's ascent to God in smoke, not its burning. The evidence that "burnt offering" mistranslates the name is internal to the Hebrew Bible. Hebrew has a separate word for "wholly burnt" — כָּלִיל (*kalil*, Deut 13:16; 33:10; Ps 51:19) — and 1 Samuel 7:9 uses both together: עוֹלָה כָּלִיל, "a whole ascension offering." If עֹלָה meant "burnt offering," *kalil* would be redundant there. The two words carry two distinct ideas: עֹלָה names the direction, כָּלִיל the disposal. Judges 13:20 puns on the name — as the flame *went up* (עָלָה) from the altar, the angel of the LORD *ascended* (עָלָה) in the flame of the עֹלָה — a triple wordplay invisible in any translation that says "burnt offering."
+
+The burning emphasis entered through the LXX's ὁλοκαύτωμα ("wholly burnt"), thence the Vulgate's *holocaustum* and Tyndale's "burnt offering." It is the Greek interpretation, not the Hebrew name. The comparative evidence sharpens the point: Ugaritic, the closest cognate cult, named its equivalent offering *šrp*, from the verb "to burn." Israel's neighbors named this rite by its burning; Israel named it by its ascent.
+
+"Ascension offering" has a serious translation pedigree: Everett Fox renders עֹלָה "offering-up," following Buber-Rosenzweig's *Darhöhung* and Chouraqui's *montée*; Peter Leithart argues for "ascension offering" directly. We note honestly that Milgrom, Rillera, and the NRSV retain the conventional "burnt offering"; the AAB's choice follows its consistent policy of preserving the concrete image the Hebrew chose. We rendered all 281 occurrences (including Gk. ὁλοκαύτωμα at Mark 12:33 and Heb 10:6, 8, footnoted) as "ascension offering," with כָּלִיל instances rendered "whole offering."
+
+### Well-Being Offering (שְׁלָמִים / *shelamim*)
+
+Traditional translations render שְׁלָמִים as "peace offering." The word derives from שָׁלוֹם (*shalom*, "wholeness, well-being"), and the offering's defining feature is that the offerer eats it: the rite culminates in a shared meal in God's presence (Lev 7:15–16; Deut 12:7). "Peace offering" suggests reconciliation from estrangement — the wrong register. This is not a sacrifice that repairs a breach; it is a fellowship meal that constitutes and renews communion. The altar is "the table of the LORD" (Mal 1:7, 12; Ezek 41:22), and across the ANE, eating together created and ratified kinship and covenant bonds.
+
+The distinction carries doctrinal weight (Rillera). The שְׁלָמִים is explicitly non-atoning: no sin is in view, and no kipper formula attaches to it. The covenant-inauguration rite of Exodus 24 used ascension and well-being offerings — not purification offerings — and culminated in the elders eating and drinking in God's presence (Exod 24:5, 9–11). The Last Supper's "blood of the covenant" (Matt 26:28) cites that rite, and the meal context matches the well-being pattern: the disciples participate by eating and drinking. "Well-being offering" (Milgrom; NRSV "offering of well-being") keeps that register visible. We rendered all 85 occurrences as "well-being offering."
+
+### Soothing Aroma (רֵיחַ נִיחוֹחַ / *reach nichoach*)
+
+Traditional translations render the formula "pleasing aroma." The Hebrew נִיחוֹחַ derives from נוּחַ (*nuach*, "to rest, settle"); the aroma soothes, settles, quiets. "Pleasing" gives the generic effect; "soothing" preserves the Hebrew image — and the canonical wordplay. In Genesis 8:21 it is **Noah** (נֹחַ) whose offering produces the נִיחוֹחַ: the man named Rest offers the aroma of rest, and God's response is a covenant of restraint. The pun is the author's, and "pleasing aroma" erases it. The formula also marks the register of the gift offerings: the ascension offering's stated purpose is this aroma that attracts and entreats the divine presence (Gen 8:21; Lev 1:9) — an invitational function, not a purgative one (so also Eph 5:2, where Christ's self-gift is "a fragrant sacrificial offering," the gift register, footnoted). We rendered all 41 occurrences as "soothing aroma."
+
+### Atoning and Non-Atoning Sacrifices: The Levitical Framing
+
+The five offerings of Leviticus 1–7 are differentiated, not interchangeable (Rillera, *Lamb of the Free*, following Milgrom). The ascension offering entreats and attracts the divine presence; the grain offering renders tribute (no blood, no death — its existence alone falsifies any definition of sacrifice that requires a victim's death); the well-being offering constitutes fellowship in a shared meal; only the purification and reparation offerings effect purgation in the technical sense. Which offering a New Testament text evokes determines what theological work the image can do.
+
+The system also states its own ceiling: sacrifice covers inadvertent sin and impurity, while the person who sins "with a high hand" (בְּיָד רָמָה, Num 15:30, footnoted) has no sacrifice — defiant covenant-breaking is answered by God Himself, and its remedy is the forgiveness and new heart that God alone provides (Jer 31:31–34; Ezek 36:25–27). This is the gap the new covenant's "forgiveness of sins" language fills; it is covenant-renewal language, not sacrificial-mechanism language.
+
+The comparative evidence is decisive on what the Levitical cult is not. The ANE possessed genuine ritual substitution — the Mesopotamian substitute king (*šar pūḫi*) absorbed the king's portended fate and was put to death; *namburbi* rituals transferred evil onto figurines and animals that were destroyed. That penalty-transfer machinery was available, named, and practiced in Israel's environment, and the altar cult of Leviticus conspicuously declines to build on it. Where Israel preserves the transfer-and-disposal genre at all, it is the non-sacrificial Azazel goat. The nearest functional analogue to the purification offering is the Hittite *zurki* blood rites (Feder), which run in the purgation direction: blood treats contaminated and consecrated things, not condemned persons.
+
+The New Testament applies the whole repertoire to Jesus, and the AAB's renderings and footnotes preserve which register each text invokes:
+
+| NT text | Image | Levitical register | AAB treatment |
+| :---- | :---- | :---- | :---- |
+| John 1:29; 1 Cor 5:7; John 19:14, 36 | Passover lamb | Protective and communal meal; non-atoning | Footnotes at John 1:29 and 1 Cor 5:7 |
+| Matt 26:28 par. | Blood of the covenant | Exod 24 covenant inauguration; meal | Footnote at Matt 26:28 |
+| Rom 3:25; Heb 9:5 | ἱλαστήριον | The throne seat (kapporet); purgation site | "throne seat" (Heb 9:5); expanded footnote (Rom 3:25) |
+| Heb 2:17 | ἱλάσκεσθαι | Kipper; purgation/cleansing | "make purification," with footnote |
+| Heb 13:11–13 | περὶ ἁμαρτίας carcass outside the camp | Purification offering disposal | "purification offering," with footnote |
+| Rom 8:3; 2 Cor 5:21 | περὶ ἁμαρτίας / ἁμαρτία | Purification offering idiom (contested) | Text unchanged; footnotes present both readings |
+| 1 John 2:2; 4:10 | ἱλασμός | Kipper; cleansing, not appeasement (cf. 1 John 1:7, 9) | "purification offering," with footnotes |
+| Eph 5:2 | Fragrant offering | Ascension/gift register | Footnote |
+| 1 Pet 2:21–25 (Isa 53) | Servant bearing sin | Burden-bearing (nasa), non-cultic | "bearing iniquity" renderings (Exod 34:7; Num 14:18; Isa 53) |
+
+Through all of it the New Testament's stated relation between Jesus's death and believers is participatory — baptized into his death (Rom 6:3–8), co-crucified (Gal 2:19–20), conformed to his death (Phil 3:10), sharing the cup (1 Cor 10:16). The translation does not adjudicate atonement theology; it restores the Levitical categories the NT authors were actually using, and lets the footnotes carry the traditional alternatives.
+
+**Key sources:** Jacob Milgrom, *Leviticus 1–16*, Anchor Bible (1991); Andrew Remington Rillera, *Lamb of the Free* (Cascade, 2024); Yitzhaq Feder, *Blood Expiation in Hittite and Biblical Ritual* (SBL, 2011); David P. Wright, *The Disposal of Impurity* (Scholars Press, 1987); David M. Moffitt, *Atonement and the Logic of Resurrection in the Epistle to the Hebrews* (Brill, 2011); Jonathan Klawans, *Impurity and Sin in Ancient Judaism* (Oxford, 2000); Michael S. Heiser, *The Unseen Realm* (Lexham, 2015), on the throne seat; J. David Schloen, *The House of the Father as Fact and Symbol* (Eisenbrauns, 2001); Peter Leithart and Everett Fox on the ascension offering.
+
 
 ## Specific Passages
 
@@ -846,6 +899,30 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.8 (June 2026\)
+
+Contextual footnotes extending the Levitical framing of v0.7, plus one text change:
+
+- Isaiah 53:5: "punishment" re-rendered "chastening" (Heb. musar — discipline, instruction, as in Prov 1:2-3; 3:11), with footnote
+- Isaiah 53:10: footnote on the LXX reading ("the Lord wills to cleanse Him of His wound") and the handing-over idiom (paredōken) of vv. 6, 12 cited in Rom 4:25 and 8:32
+- Custodial nasaʾ ʿawon footnotes at Lev 10:17; Num 18:1; Exod 28:38 (priestly responsibility idiom, cross-referenced)
+- Lev 16:5: footnote on the two goats as one purification offering with two operations (purge and dispatch), with the Lev 14:4-7 two-bird parallel
+- Mal 1:7 and Ezek 41:22: footnotes on the altar named the table of the LORD and the ANE temple-as-house framework (Ps 50:12-13; Exod 24:9-11; Deut 12:7)
+- Rom 4:25 and 8:32: footnotes identifying paredothē/paredōken as the verb of Isa 53:6, 12 LXX (cf. Acts 2:23)
+
+### Public Draft v0.7 (June 2026\)
+
+Sacrificial terminology overhaul following the Levitical framing of Milgrom and Rillera (*Lamb of the Free*, 2024):
+
+- כִּפֶּר rendered "effect purgation" throughout (~82 verb forms); "Day of Atonement" renamed "Day of Purgation" with footnotes carrying the traditional name
+- כַּפֹּרֶת re-rendered from "atonement cover" to "throne seat" (24 verses incl. Heb 9:5), on the enthroned-between-the-cherubim texts (1 Sam 4:4; Ps 80:1; 99:1; Ezek 43:7); cf. Heiser
+- אָשָׁם re-rendered from "restitution offering" to "reparation offering" (34 verses), following Milgrom on sacral trespass
+- עֹלָה rendered "ascension offering" (281 verses); כָּלִיל instances rendered "whole offering"
+- שְׁלָמִים rendered "well-being offering" (85 verses); רֵיחַ נִיחוֹחַ rendered "soothing aroma" (41 verses)
+- Leviticus 17:11 corrected to "for your lives... by means of the life" (nephesh policy)
+- NT hilas- words re-rendered: Heb 2:17 "make purification"; 1 John 2:2 and 4:10 "purification offering"; Heb 13:11 "purification offering"; expanded footnotes at Rom 3:25, Rom 8:3, 2 Cor 5:21
+- New footnotes: Gen 8:20–21; Lev 1:4; 3:1; 5:15; 16:21; 16:30; 23:27; 25:9; Exod 25:17; 30:16; Num 15:30; 29:7; Ps 51:7; Matt 26:28; Mark 12:33; John 1:29; 1 Cor 5:7; Eph 5:2; Heb 10:6; Acts 27:9
+
 ### Initial Public Draft (March 2026\)
 
 Initial public release of the Accessible Ancients Bible rationale and correction list. Every BSB to AAB change is documented below.
@@ -884,25 +961,25 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 44:29 | grave/Sheol | Sheol |
 | Genesis 44:31 | grave/Sheol | Sheol |
 | Exodus 1:5 | seventy | seventy-five (fn: The LXX, DSS, and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
-| Exodus 25:17 | mercy seat | atonement cover |
-| Exodus 25:18 | mercy seat | atonement cover |
-| Exodus 25:19 | mercy seat | atonement cover |
-| Exodus 25:20 | mercy seat | atonement cover |
-| Exodus 25:21 | mercy seat | atonement cover |
-| Exodus 25:22 | mercy seat | atonement cover |
-| Exodus 26:34 | mercy seat | atonement cover |
+| Exodus 25:17 | mercy seat | throne seat |
+| Exodus 25:18 | mercy seat | throne seat |
+| Exodus 25:19 | mercy seat | throne seat |
+| Exodus 25:20 | mercy seat | throne seat |
+| Exodus 25:21 | mercy seat | throne seat |
+| Exodus 25:22 | mercy seat | throne seat |
+| Exodus 26:34 | mercy seat | throne seat |
 | Exodus 29:14 | sin offering | purification offering |
 | Exodus 29:36 | sin offering | purification offering |
-| Exodus 30:6 | mercy seat | atonement cover |
+| Exodus 30:6 | mercy seat | throne seat |
 | Exodus 30:10 | sin offering | purification offering |
-| Exodus 31:7 | mercy seat | atonement cover |
-| Exodus 35:12 | mercy seat | atonement cover |
-| Exodus 37:6 | mercy seat | atonement cover |
-| Exodus 37:7 | mercy seat | atonement cover |
-| Exodus 37:8 | mercy seat | atonement cover |
-| Exodus 37:9 | mercy seat | atonement cover |
-| Exodus 39:35 | mercy seat | atonement cover |
-| Exodus 40:20 | mercy seat | atonement cover |
+| Exodus 31:7 | mercy seat | throne seat |
+| Exodus 35:12 | mercy seat | throne seat |
+| Exodus 37:6 | mercy seat | throne seat |
+| Exodus 37:7 | mercy seat | throne seat |
+| Exodus 37:8 | mercy seat | throne seat |
+| Exodus 37:9 | mercy seat | throne seat |
+| Exodus 39:35 | mercy seat | throne seat |
+| Exodus 40:20 | mercy seat | throne seat |
 | Leviticus 4:3 | sin offering | purification offering |
 | Leviticus 4:8 | sin offering | purification offering |
 | Leviticus 4:14 | sin offering | purification offering |
@@ -920,20 +997,20 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Leviticus 5:9 | sin offering | purification offering |
 | Leviticus 5:11 | sin offering | purification offering |
 | Leviticus 5:12 | sin offering | purification offering |
-| Leviticus 5:15 | guilt offering | restitution offering |
-| Leviticus 5:16 | guilt offering | restitution offering |
-| Leviticus 5:18 | guilt offering | restitution offering |
-| Leviticus 5:19 | guilt offering | restitution offering |
-| Leviticus 6:6 | guilt offering | restitution offering |
-| Leviticus 6:17 | sin/guilt offering | purification/restitution offering |
+| Leviticus 5:15 | guilt offering | reparation offering |
+| Leviticus 5:16 | guilt offering | reparation offering |
+| Leviticus 5:18 | guilt offering | reparation offering |
+| Leviticus 5:19 | guilt offering | reparation offering |
+| Leviticus 6:6 | guilt offering | reparation offering |
+| Leviticus 6:17 | sin/guilt offering | purification/reparation offering |
 | Leviticus 6:18 | will become holy | must be holy |
 | Leviticus 6:25 | sin offering | purification offering |
 | Leviticus 6:30 | sin offering | purification offering |
-| Leviticus 7:1 | guilt offering | restitution offering |
-| Leviticus 7:2 | guilt offering | restitution offering |
-| Leviticus 7:5 | guilt offering | restitution offering |
-| Leviticus 7:7 | sin/guilt offering | purification/restitution offering |
-| Leviticus 7:37 | sin/guilt offering | purification/restitution offering |
+| Leviticus 7:1 | guilt offering | reparation offering |
+| Leviticus 7:2 | guilt offering | reparation offering |
+| Leviticus 7:5 | guilt offering | reparation offering |
+| Leviticus 7:7 | sin/guilt offering | purification/reparation offering |
+| Leviticus 7:37 | sin/guilt offering | purification/reparation offering |
 | Leviticus 8:2 | sin offering | purification offering |
 | Leviticus 8:14 | sin offering | purification offering |
 | Leviticus 9:2 | sin offering | purification offering |
@@ -948,20 +1025,20 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Leviticus 10:19 | sin offering | purification offering |
 | Leviticus 12:6 | sin offering | purification offering |
 | Leviticus 12:8 | sin offering | purification offering |
-| Leviticus 14:12 | guilt offering | restitution offering |
-| Leviticus 14:13 | sin/guilt offering | purification/restitution offering |
-| Leviticus 14:14 | guilt offering | restitution offering |
-| Leviticus 14:17 | guilt offering | restitution offering |
+| Leviticus 14:12 | guilt offering | reparation offering |
+| Leviticus 14:13 | sin/guilt offering | purification/reparation offering |
+| Leviticus 14:14 | guilt offering | reparation offering |
+| Leviticus 14:17 | guilt offering | reparation offering |
 | Leviticus 14:19 | sin offering | purification offering |
-| Leviticus 14:21 | guilt offering | restitution offering |
+| Leviticus 14:21 | guilt offering | reparation offering |
 | Leviticus 14:22 | sin offering | purification offering |
-| Leviticus 14:24 | guilt offering | restitution offering |
-| Leviticus 14:25 | guilt offering | restitution offering |
-| Leviticus 14:28 | guilt offering | restitution offering |
+| Leviticus 14:24 | guilt offering | reparation offering |
+| Leviticus 14:25 | guilt offering | reparation offering |
+| Leviticus 14:28 | guilt offering | reparation offering |
 | Leviticus 14:31 | sin offering | purification offering |
 | Leviticus 15:15 | sin offering | purification offering |
 | Leviticus 15:30 | sin offering | purification offering |
-| Leviticus 16:2 | mercy seat | atonement cover |
+| Leviticus 16:2 | mercy seat | throne seat |
 | Leviticus 16:3 | sin offering | purification offering |
 | Leviticus 16:5 | sin offering | purification offering |
 | Leviticus 16:6 | sin offering | purification offering |
@@ -969,18 +1046,18 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Leviticus 16:9 | sin offering | purification offering |
 | Leviticus 16:10 | scapegoat / atonement | Azazel / expiation |
 | Leviticus 16:11 | sin offering | purification offering |
-| Leviticus 16:13 | mercy seat | atonement cover |
-| Leviticus 16:14 | mercy seat | atonement cover |
-| Leviticus 16:15 | sin offering / mercy seat | purification offering / atonement cover |
+| Leviticus 16:13 | mercy seat | throne seat |
+| Leviticus 16:14 | mercy seat | throne seat |
+| Leviticus 16:15 | sin offering / mercy seat | purification offering / throne seat |
 | Leviticus 16:25 | sin offering | purification offering |
 | Leviticus 16:26 | scapegoat | Azazel |
 | Leviticus 16:27 | sin offering | purification offering |
-| Leviticus 19:21 | guilt offering | restitution offering |
-| Leviticus 19:22 | guilt offering | restitution offering |
+| Leviticus 19:21 | guilt offering | reparation offering |
+| Leviticus 19:22 | guilt offering | reparation offering |
 | Leviticus 23:19 | sin offering | purification offering |
 | Leviticus 26:30 | lifeless remains | stele |
 | Numbers 6:11 | sin offering | purification offering |
-| Numbers 6:12 | guilt offering | restitution offering |
+| Numbers 6:12 | guilt offering | reparation offering |
 | Numbers 6:14 | sin offering | purification offering |
 | Numbers 6:16 | sin offering | purification offering |
 | Numbers 7:16 | sin offering | purification offering |
@@ -996,7 +1073,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Numbers 7:76 | sin offering | purification offering |
 | Numbers 7:82 | sin offering | purification offering |
 | Numbers 7:87 | sin offering | purification offering |
-| Numbers 7:89 | mercy seat | atonement cover |
+| Numbers 7:89 | mercy seat | throne seat |
 | Numbers 8:8 | sin offering | purification offering |
 | Numbers 8:12 | sin offering | purification offering |
 | Numbers 15:24 | sin offering | purification offering |
@@ -1004,7 +1081,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Numbers 15:27 | sin offering | purification offering |
 | Numbers 16:30 | Sheol/grave | Sheol |
 | Numbers 16:33 | Sheol/grave | Sheol |
-| Numbers 18:9 | sin/guilt offering | purification/restitution offering |
+| Numbers 18:9 | sin/guilt offering | purification/reparation offering |
 | Numbers 19:9 | sin offering | purification offering |
 | Numbers 19:17 | sin offering | purification offering |
 | Numbers 28:15 | sin offering | purification offering |
@@ -1022,22 +1099,22 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Deuteronomy 32:22 | Sheol/grave | Sheol |
 | Deuteronomy 32:43 | (shorter text) | includes "Bow down to him, all you gods" (fn: The shorter MT reading omits the heavenly summons entirely. The DSS (4QDeutq) and LXX preserve the longer reading. The longer reading has no documented attestation as a later addition; every known pre-2nd-century witness preserves it. The 2nd-cent. Jewish Greek versions (Aquila, Symmachus, Theodotion) follow the shorter MT. Hebrews 1:6 cites the longer reading to prove the Son's superiority over angels.) |
 | 1 Samuel 2:6 | Sheol/grave | Sheol |
-| 1 Samuel 6:3 | guilt offering | restitution offering |
-| 1 Samuel 6:4 | guilt offering | restitution offering |
-| 1 Samuel 6:8 | guilt offering | restitution offering |
-| 1 Samuel 6:17 | guilt offering | restitution offering |
+| 1 Samuel 6:3 | guilt offering | reparation offering |
+| 1 Samuel 6:4 | guilt offering | reparation offering |
+| 1 Samuel 6:8 | guilt offering | reparation offering |
+| 1 Samuel 6:17 | guilt offering | reparation offering |
 | 2 Samuel 22:6 | Sheol/grave | Sheol |
 | 1 Kings 2:6 | Sheol/grave | Sheol |
 | 1 Kings 2:9 | Sheol/grave | Sheol |
-| 2 Kings 12:16 | sin/guilt offering | purification/restitution offering |
-| 1 Chronicles 28:11 | mercy seat | atonement cover |
+| 2 Kings 12:16 | sin/guilt offering | purification/reparation offering |
+| 1 Chronicles 28:11 | mercy seat | throne seat |
 | 2 Chronicles 6:41 | godly ones | holy ones |
 | 2 Chronicles 29:21 | sin offering | purification offering |
 | 2 Chronicles 29:23 | sin offering | purification offering |
 | 2 Chronicles 29:24 | sin offering | purification offering |
 | Ezra 6:17 | sin offering | purification offering |
 | Ezra 8:35 | sin offering | purification offering |
-| Ezra 10:19 | guilt offering | restitution offering |
+| Ezra 10:19 | guilt offering | reparation offering |
 | Nehemiah 10:33 | sin offering | purification offering |
 | Job 1:6 | Satan | the Accuser (fn: Heb. *hasatan*, 'accuser' or 'adversary' (lexical range). The definite article indicates a title, not a proper name. Rendered 'the Accuser' here and throughout Job and Zechariah 3, where the article is consistently present.) |
 | Job 1:7 | Satan | the Accuser |
@@ -1120,7 +1197,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Isaiah 34:13 | jackals / ostriches | dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin; LXX δράκοντες) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) |
 | Isaiah 34:14 | hyenas / goat / night creature | howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / Lilith (fn: Heb. לִילִית, lilit; BDB 'female night-demon; borrowed from Babylonian tradition') |
 | Jeremiah 50:39 | hyenas / ostriches / "it will never" / "lived in" | howlers (fn: Heb. אִיִּים, iyyim) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah) / "she will never" / "settled" |
-| Isaiah 53:10 | his soul is made a guilt offering offering | his life (fn: Heb. nephesh) is made a restitution offering |
+| Isaiah 53:10 | his soul is made a guilt offering | his life (fn: Heb. nephesh) is made a reparation offering |
 | Isaiah 53:11 | the anguish of his soul | the anguish of his life (fn: Heb. nephesh) |
 | Isaiah 57:3 | (standard reading) | (no change) (fn: This oracle contains pervasive Hebrew wordplay with double meanings. The surface reading addresses idolatry and sexual immorality, but many terms simultaneously evoke necromancy and the cult of the dead) |
 | Isaiah 57:5 | who burn with lust | who burn with lust (fn: Heb. הַנֵּחָמִים ("who burn with lust") can also mean "who seek comfort/consolation (from the dead)") |
@@ -1134,20 +1211,20 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Ezekiel 10:1 | expanse | firmament |
 | Ezekiel 31:16 | Sheol / consoled | Sheol / filled with regret |
 | Ezekiel 32:31 | comforted | filled with regret |
-| Ezekiel 40:39 | sin/guilt offering | purification/restitution offering |
-| Ezekiel 42:13 | sin/guilt offering | purification/restitution offering |
+| Ezekiel 40:39 | sin/guilt offering | purification/reparation offering |
+| Ezekiel 42:13 | sin/guilt offering | purification/reparation offering |
 | Ezekiel 43:19 | sin offering | purification offering |
 | Ezekiel 43:21 | sin offering | purification offering |
 | Ezekiel 43:22 | sin offering | purification offering |
 | Ezekiel 43:25 | sin offering | purification offering |
 | Ezekiel 44:27 | sin offering | purification offering |
-| Ezekiel 44:29 | sin/guilt offering | purification/restitution offering |
+| Ezekiel 44:29 | sin/guilt offering | purification/reparation offering |
 | Ezekiel 45:17 | sin offering | purification offering |
 | Ezekiel 45:19 | sin offering | purification offering |
 | Ezekiel 45:22 | sin offering | purification offering |
 | Ezekiel 45:23 | sin offering | purification offering |
 | Ezekiel 45:25 | sin offering | purification offering |
-| Ezekiel 46:20 | sin/guilt offering | purification/restitution offering |
+| Ezekiel 46:20 | sin/guilt offering | purification/reparation offering |
 | Daniel 6:24 | falsely accused | maliciously accused |
 | Daniel 7:18 | saints | holy ones |
 | Daniel 7:21 | saints | holy ones |
@@ -1261,7 +1338,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 1:2 | His Son / universe | a Son / world |
 | Hebrews 6:4 | impossible | ultimately impossible |
 | Hebrews 6:10 | saints | holy ones |
-| Hebrews 9:5 | mercy seat | atonement cover |
+| Hebrews 9:5 | mercy seat | throne seat |
 | Hebrews 9:7 | sins committed in ignorance | unintentional sins committed in ignorance |
 | Hebrews 9:10 | time of reform | time of regeneration |
 | Hebrews 10:6 | sin offering | purification offering |
@@ -1287,6 +1364,47 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Revelation 19:8 | saints | holy ones |
 | Revelation 20:2 | the devil and Satan | the devil and the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
 | Revelation 20:9 | saints | holy ones |
+| **Sacrificial System: Levitical Framing (v0.7)** |  |  |
+| All עֹלָה occurrences (281 verses, incl. Mark 12:33; Heb 10:6, 8) | burnt offering | ascension offering (fn at Gen 8:20: Heb. olah, 'that which ascends'; kalil datum; Judges 13:20 wordplay) |
+| All שְׁלָמִים occurrences (85 verses) | peace offering | well-being offering (fn at Lev 3:1: Heb. shelamim, fellowship meal, non-atoning) |
+| All רֵיחַ נִיחוֹחַ occurrences (41 verses) | pleasing aroma | soothing aroma (fn at Gen 8:21: Noah/nichoach wordplay) |
+| All cultic כִּפֶּר verb forms (~82 verses) | make atonement / atoned for | effect purgation / purged (fn at Lev 1:4) |
+| All אָשָׁם occurrences (34 verses) | guilt offering (AAB v0.6: restitution offering) | reparation offering (fn at Lev 5:15) |
+| All כַּפֹּרֶת occurrences + Heb 9:5 (24 verses) | mercy seat (AAB v0.6: atonement cover) | throne seat (fn at Exod 25:17: enthroned between the cherubim) |
+| Day of Atonement (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9) | Day of Atonement | Day of Purgation (fn at Lev 23:27: yom hakkippurim, 'day of purgations') |
+| Genesis 8:20–21 | (no footnotes) | (footnotes on olah and nichoach added) |
+| Exodus 30:15–16 | atonement money / to atone for your lives | ransom money / to effect purgation for your lives (fn: kofer, non-cultic ransom register) |
+| Leviticus 16:21 | (no footnote) | (footnote: two-handed sin transfer; the Azazel goat is not sacrificed) |
+| Leviticus 16:30 | atonement will be made | purgation will be made (fn on the Day of Purgation) |
+| Leviticus 17:11 | to make atonement for your souls... makes atonement for the soul | to effect purgation for your lives... effects purgation by means of the life (fn: life, not death, effects purgation) |
+| Deuteronomy 13:16; 33:10; Psalm 51:19 | whole burnt offering(s) | whole offering(s) (fn: Heb. kalil) |
+| 1 Samuel 7:9 | whole burnt offering | whole ascension offering (fn: olah kalil, two words, two ideas) |
+| Numbers 15:30 | (no footnote) | (footnote: beyad ramah, high-handed sin beyond sacrifice) |
+| Psalm 51:7 | (no footnote) | (footnote: 'un-sin me' with hyssop, the applicator of the blood rites) |
+| Psalm 65:3; 79:9 | atone for | purge |
+| Matthew 26:28 | (no footnote) | (footnote: Exod 24:8 covenant meal; Jer 31:34 forgiveness) |
+| Mark 12:33 | burnt offerings | ascension offerings (fn: Gk. holokautoma) |
+| John 1:29 | (no footnote) | (footnote: Passover lamb; airei as removal language) |
+| Romans 3:25 | (fn: Or as a propitiation) | (fn expanded: hilasterion = the throne seat, kapporet) |
+| Romans 8:3 | (fn: Literally...and for sin) | (fn expanded: peri hamartias as the LXX purification-offering idiom) |
+| 1 Corinthians 5:7 | (no footnote) | (footnote: Passover protective and communal, not atoning) |
+| 2 Corinthians 5:21 | (fn: Or a sin offering) | (fn: Or a purification offering; solidarity, not transfer of punishment) |
+| Ephesians 5:2 | (no footnote) | (footnote: ascension/gift register) |
+| Hebrews 2:17 | to make atonement (fn: Or to make propitiation) | to make purification (fn: Gk. hilaskesthai renders kipper) |
+| Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
+| 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos; cleansing, not appeasement) |
+| 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Contextual Footnotes (v0.8)** |  |  |
+| Isaiah 53:5 | the punishment that brought us peace | the chastening that brought us peace (fn: Heb. musar — discipline, chastening, instruction, as in Prov 1:2-3; 3:11) |
+| Isaiah 53:10 | (no footnote on v. 10a) | (fn: LXX 'the Lord wills to cleanse Him of His wound'; paredōken idiom of vv. 6, 12 cited in Rom 4:25; 8:32) |
+| Leviticus 10:17 | (no footnote) | (fn: nasaʾ ʿawon — priestly custodial responsibility idiom; cf. Num 18:1; Exod 28:38) |
+| Numbers 18:1 | (no footnote) | (fn: nasaʾ ʿawon — the priestly house answers for the sanctuary in its charge; cf. Lev 10:17; Exod 28:38) |
+| Exodus 28:38 | (no footnote) | (fn: nasaʾ ʿawon — Aaron carries responsibility for the consecrated gifts as steward; cf. Lev 10:17; Num 18:1) |
+| Leviticus 16:5 | (no footnote) | (fn: two goats designated one purification offering — purge limb and dispatch limb; Lev 14:4-7 two-bird parallel) |
+| Malachi 1:7 | (no footnote) | (fn: the altar called the table of the LORD; ANE temple-as-house; Ps 50:12-13; Exod 24:9-11; Deut 12:7) |
+| Ezekiel 41:22 | (no footnote) | (fn: cf. Mal 1:7, 12 — the altar named as the table of the LORD) |
+| Romans 4:25 | (no footnote) | (fn: Gk. paredothē — the verb of Isa 53:6, 12 LXX; cf. Acts 2:23; Rom 8:32) |
+| Romans 8:32 | (no footnote) | (fn: Gk. paredōken — the same verb as Rom 4:25 and Isa 53:6, 12 LXX) |
 | **Nephesh/Psychē Corrections** |  |  |
 | Deuteronomy 6:5 | (no footnote) | (footnote on nephesh added) |
 | 1 Chronicles 21:1 | (no footnote) | (fn: Heb. *satan*, without the definite article, indicating a proper name rather than a title. Rendered 'Satan' here, as distinct from Job 1-2 and Zechariah 3 where the article is present.) |
@@ -1333,9 +1451,9 @@ Hebrews 10:6, 10:8
 
 **Rationale:** The Hebrew חַטָּאת derives from a root meaning "to purify/cleanse" in the piel stem. The blood is applied to sanctuary furniture, not the offerer. Required for ritual impurity (childbirth, skin disease) with no moral component. "Sin offering" imports post-biblical soteriology; "purification offering" reflects the Hebrew semantic range and ritual function per Milgrom's Anchor Bible Commentary.
 
-#### Restitution Offering (אָשָׁם / asham)
+#### Reparation Offering (אָשָׁם / asham)
 
-**BSB rendering:** "guilt offering" → **AAB rendering:** "restitution offering"
+**BSB rendering:** "guilt offering" → **AAB rendering:** "reparation offering"
 
 **34 verses:**
 
@@ -1353,11 +1471,11 @@ Proverbs 14:9
 
 Ezekiel 40:39, 42:13, 44:29, 46:20
 
-**Rationale:** The אָשָׁם requires reparation for damage done. The offerer must repay what was taken plus a penalty, then bring the sacrifice. "Guilt offering" suggests psychological guilt; "restitution offering" reflects the actual function.
+**Rationale:** The אָשָׁם requires making amends for a breach against God or neighbor. The offerer must repay what was taken plus one-fifth, then bring the sacrifice. "Guilt offering" suggests psychological guilt. "Reparation offering" (Milgrom) is preferred over "restitution offering" because several asham cases involve trespass against the LORD's holy things (Lev 5:14–16), where no property can simply be returned to a wronged human party; "reparation" covers amends for the breach itself, whether the wronged party is human or divine, while restitution of property, where possible, is a separate payment alongside the offering.
 
-#### Atonement Cover (כַּפֹּרֶת / *kapporet*)
+#### Throne Seat (כַּפֹּרֶת / *kapporet*)
 
-**BSB rendering:** "mercy seat" → **AAB rendering:** "atonement cover"
+**BSB rendering:** "mercy seat" → **AAB rendering:** "throne seat"
 
 **23 verses:**
 
@@ -1371,7 +1489,7 @@ Numbers 7:89
 
 Hebrews 9:5
 
-**Rationale:** The כַּפֹּרֶת is the solid gold lid of the Ark where Yahweh's presence dwelt between the cherubim. "Atonement cover" renders the lexical meaning of the root כִּפֶּר (*kipper*, "to cover, purge, make atonement") directly. "Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation. The throne imagery associated with the Ark (1 Chr 28:2; Psa 99:5; 132:7) belongs to the footnote: every ANE deity's house contained a throne, and the Ark's position presupposes one above it, but that is interpretation of context, not the lexical meaning of כַּפֹּרֶת itself.
+**Rationale:** The כַּפֹּרֶת is the solid gold lid of the Ark, and Scripture consistently places the enthroned LORD above it: He "sits enthroned between the cherubim" (1 Sam 4:4; Ps 80:1; 99:1; Isa 37:16); the Ark is His footstool (1 Chr 28:2; Ps 99:5; 132:7); "this is the place of My throne" (Ezek 43:7). "Mercy seat" (Tyndale via Luther's *Gnadenstuhl*) is interpretation, though its instinct that the object is a seat was right. "Atonement cover" (NIV; earlier AAB drafts) keeps the kipper link but loses the throne, and the throne is the point: on the Day of Purgation the blood is presented before the enthroned LORD (Lev 16:14–15). The LXX renders כַּפֹּרֶת as ἱλαστήριον, the word Paul applies to Christ (Rom 3:25; cf. Heb 9:5). See the full Throne Seat section above; cf. Heiser, *The Unseen Realm*.
 
 #### Forgiven (סָלַח / salach)
 
@@ -1806,7 +1924,7 @@ The Greek verb καθαίρει (v.2, "he prunes") and adjective καθαροί 
 
 **BSB rendering:** "atoning sacrifice" → **AAB rendering:** "atonement offering"
 
-Greek ἱλαστήριον (*hilasterion*) is the same word the LXX uses for כַּפֹּרֶת (atonement cover). Paul is making a deliberate typological move: Christ is the antitype of the atonement cover, the place where God's presence meets humanity and where the accumulated iniquity carried forward under the old administration is finally terminated rather than deferred. "Atonement offering" preserves that connection. The OT system bore iniquity forward under forbearance (*paresis* / πάρεσις); the cross is where what was carried is discharged completely.
+Greek ἱλαστήριον (*hilasterion*) is the same word the LXX uses for כַּפֹּרֶת (throne seat). Paul is making a deliberate typological move: Christ is the antitype of the throne seat, the place where God's presence meets humanity and where the accumulated iniquity carried forward under the old administration is finally terminated rather than deferred. "Atonement offering" preserves that connection. The OT system bore iniquity forward under forbearance (*paresis* / πάρεσις); the cross is where what was carried is discharged completely.
 
 #### 1 Corinthians 8:5–6 and 2 Thessalonians 2:4 (So-Called Gods)
 
@@ -1919,7 +2037,7 @@ This is NOT a statement that someone who doubts, struggles, or even walks away f
 
 **BSB rendering:** "sins committed in ignorance" → **AAB rendering:** "unintentional sins committed in ignorance"
 
-Adding "unintentional" clarifies that the Day of Atonement sacrifices addressed שְׁגָגָה (inadvertent, unintentional sins), not high-handed rebellion. This aligns with the Levitical system and the author's argument.
+Adding "unintentional" clarifies that the Day of Purgation sacrifices addressed שְׁגָגָה (inadvertent, unintentional sins), not high-handed rebellion. This aligns with the Levitical system and the author's argument.
 
 #### Hebrews 9:10 (Time of Regeneration)
 
@@ -2307,8 +2425,14 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | קְדֹשִׁים (holy ones) | set-apart ones | holy ones | saints | holy people / saints | All miss divine council refs |
 | **Sacrificial System** |  |  |  |  |  |
 | חַטָּאת (chattat) | purification | purification offering | sin offering | sin offering | ESV/NIV follow KJV tradition |
-| אָשָׁם (asham) | restitution | restitution offering | guilt offering | guilt offering | ESV/NIV follow KJV tradition |
-| כַּפֹּרֶת (kapporet) | atonement cover | atonement cover | mercy seat | atonement cover | AAB and NIV agree; ESV follows Tyndale/Luther |
+| אָשָׁם (asham) | reparation | reparation offering | guilt offering | guilt offering | ESV/NIV follow KJV tradition; AAB follows Milgrom |
+| כַּפֹּרֶת (kapporet) | throne of the presence | throne seat | mercy seat | atonement cover | AAB alone; the kapporet is where the LORD sits enthroned between the cherubim |
+| עֹלָה (olah) | that which ascends | ascension offering | burnt offering | burnt offering | AAB alone; Heb. names the ascent, kalil names the burning (1 Sam 7:9) |
+| שְׁלָמִים (shelamim) | well-being, fellowship meal | well-being offering | peace offering | fellowship offering | AAB follows Milgrom/NRSV; NIV partially captures the meal |
+| רֵיחַ נִיחוֹחַ (reach nichoach) | soothing, restful aroma | soothing aroma | pleasing aroma | pleasing aroma | AAB alone preserves the Noah/nichoach wordplay (Gen 8:21) |
+| כִּפֶּר (kipper) | to purge, wipe clean | effect purgation | make atonement | make atonement | AAB follows Milgrom; Akkadian kuppuru, 'to wipe' |
+| יוֹם הַכִּפֻּרִים (yom hakkippurim) | day of purgations | Day of Purgation | Day of Atonement | Day of Atonement | AAB alone; footnoted with traditional name at every occurrence |
+| ἱλασμός (hilasmos, 1 Jn 2:2; 4:10) | purgation, cleansing | purification offering | propitiation | atoning sacrifice | AAB renders the LXX kipper register; ESV imports appeasement |
 | נֹשֵׂא (*nasa*, Exod 34:7) | bearing | bearing iniquity | forgiving | forgiving | AAB alone; all modern translations use "forgiving" |
 | פֹּקֵד (*paqad*, Exod 34:7) | sovereign attention | visits | visits | punishes | BSB v3 also correct; NIV/NLT alone use "punishes" |
 | סָלַח (*salach*, Lev 4:20 etc.) | covenant pardon | forgiven | forgiven | forgiven | Agreement; AAB adds footnote on covenantal scope |
@@ -2477,7 +2601,7 @@ Scholars who disagree substantially with our approach are also welcome to submit
 
 [^2]: The books commonly called the Apocrypha were not considered Scripture by the wider Jewish or Christian communities in antiquity. The Jewish canon was settled without them; Jerome explicitly distinguished them from canonical books; no ecumenical council of the undivided church defined them as Scripture. The Council of Trent (1546) was a late, contested response to the Reformation. A few early writers favored including 1 Enoch, and Jude 14-15 quotes from it, but no wider movement succeeded in expanding the canon.
 
-[^3]: The ANE temple was the house of a deity, and every deity's house contained a throne. The Ark's position beneath Yahweh's glory between the cherubim, described elsewhere as his footstool (1 Chr 28:2; Psa 99:5; 132:7), presupposes the throne above it. The ancient reader understood this without being told. The throne imagery is real; it belongs to the interpretation of the passage rather than to the lexical rendering of כַּפֹּרֶת itself.
+[^3]: The ANE temple was the house of a deity, and every deity's house contained a throne. The Ark's position beneath Yahweh's glory between the cherubim, described elsewhere as his footstool (1 Chr 28:2; Psa 99:5; 132:7), presupposes the throne above it. The ancient reader understood this without being told. Earlier drafts of the AAB rendered כַּפֹּרֶת "atonement cover" and confined the throne to this footnote; v0.7 adopts "throne seat" in the text, judging that the enthronement texts (1 Sam 4:4; Ps 80:1; 99:1; Isa 37:16; Ezek 43:7) make the throne the object's primary canonical identification rather than an interpretive overlay. See Heiser, *The Unseen Realm*; Schloen, *The House of the Father*.
 
 [^4]: Later Jewish tradition sometimes identifies her with Naamah (Gen 4:22), but this is not found in the canonical text.
 
