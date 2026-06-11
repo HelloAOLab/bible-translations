@@ -1,6 +1,6 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft v0.7 | Awaiting Feedback**
+**Status: Public Draft v0.8 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -899,6 +899,17 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.8 (June 2026\)
+
+Contextual footnotes extending the Levitical framing of v0.7, plus one text change:
+
+- Isaiah 53:5: "punishment" re-rendered "chastening" (Heb. musar — discipline, instruction, as in Prov 1:2-3; 3:11), with footnote
+- Isaiah 53:10: footnote on the LXX reading ("the Lord wills to cleanse Him of His wound") and the handing-over idiom (paredōken) of vv. 6, 12 cited in Rom 4:25 and 8:32
+- Custodial nasaʾ ʿawon footnotes at Lev 10:17; Num 18:1; Exod 28:38 (priestly responsibility idiom, cross-referenced)
+- Lev 16:5: footnote on the two goats as one purification offering with two operations (purge and dispatch), with the Lev 14:4-7 two-bird parallel
+- Mal 1:7 and Ezek 41:22: footnotes on the altar named the table of the LORD and the ANE temple-as-house framework (Ps 50:12-13; Exod 24:9-11; Deut 12:7)
+- Rom 4:25 and 8:32: footnotes identifying paredothē/paredōken as the verb of Isa 53:6, 12 LXX (cf. Acts 2:23)
+
 ### Public Draft v0.7 (June 2026\)
 
 Sacrificial terminology overhaul following the Levitical framing of Milgrom and Rillera (*Lamb of the Free*, 2024):
@@ -1383,6 +1394,17 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos; cleansing, not appeasement) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Contextual Footnotes (v0.8)** |  |  |
+| Isaiah 53:5 | the punishment that brought us peace | the chastening that brought us peace (fn: Heb. musar — discipline, chastening, instruction, as in Prov 1:2-3; 3:11) |
+| Isaiah 53:10 | (no footnote on v. 10a) | (fn: LXX 'the Lord wills to cleanse Him of His wound'; paredōken idiom of vv. 6, 12 cited in Rom 4:25; 8:32) |
+| Leviticus 10:17 | (no footnote) | (fn: nasaʾ ʿawon — priestly custodial responsibility idiom; cf. Num 18:1; Exod 28:38) |
+| Numbers 18:1 | (no footnote) | (fn: nasaʾ ʿawon — the priestly house answers for the sanctuary in its charge; cf. Lev 10:17; Exod 28:38) |
+| Exodus 28:38 | (no footnote) | (fn: nasaʾ ʿawon — Aaron carries responsibility for the consecrated gifts as steward; cf. Lev 10:17; Num 18:1) |
+| Leviticus 16:5 | (no footnote) | (fn: two goats designated one purification offering — purge limb and dispatch limb; Lev 14:4-7 two-bird parallel) |
+| Malachi 1:7 | (no footnote) | (fn: the altar called the table of the LORD; ANE temple-as-house; Ps 50:12-13; Exod 24:9-11; Deut 12:7) |
+| Ezekiel 41:22 | (no footnote) | (fn: cf. Mal 1:7, 12 — the altar named as the table of the LORD) |
+| Romans 4:25 | (no footnote) | (fn: Gk. paredothē — the verb of Isa 53:6, 12 LXX; cf. Acts 2:23; Rom 8:32) |
+| Romans 8:32 | (no footnote) | (fn: Gk. paredōken — the same verb as Rom 4:25 and Isa 53:6, 12 LXX) |
 | **Nephesh/Psychē Corrections** |  |  |
 | Deuteronomy 6:5 | (no footnote) | (footnote on nephesh added) |
 | 1 Chronicles 21:1 | (no footnote) | (fn: Heb. *satan*, without the definite article, indicating a proper name rather than a title. Rendered 'Satan' here, as distinct from Job 1-2 and Zechariah 3 where the article is present.) |
