@@ -1,6 +1,6 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft v0.8 | Awaiting Feedback**
+**Status: Public Draft v0.9 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -199,7 +199,7 @@ The AAB makes selective foreignizing choices. We preserve unfamiliar terms where
 | Underworld | Sheol, Hades, Gehenna, Tartarus, Abyss | Biblical authors distinguished these; collapsing to "hell" loses geography |
 | Entities | Rephaim, Azazel, Lilith, Abaddon | Proper names should be transliterated, not translated away |
 | Divine council | "the Accuser" (with article), "sons of God," "holy ones" | Grammar and worldview require it |
-| Sacrificial system | "purification offering," "reparation offering," "throne seat," "ascension offering," "well-being offering," "effect purgation," "Day of Purgation" | Milgrom/Rillera consensus on the Levitical framing; traditional terms import wrong theology |
+| Sacrificial system | "purification offering," "reparation offering," "throne seat," "ascension offering," "well-being offering," "effect purgation," "Day of Purification" | Milgrom/Rillera consensus on the Levitical framing; traditional terms import wrong theology |
 | Messianic vocabulary | "seed" not "offspring" | Preserves Christological connections (Gen 3:15 → Gal 3:16) |
 | Nephesh/psychē (targeted) | "being," "life," "one who" where clear; "soul" with footnotes elsewhere | Hebrew nephesh is not Platonic "soul"; de-Platonizing where it misleads |
 
@@ -738,7 +738,7 @@ We rendered all 34 occurrences of אָשָׁם as "reparation offering."
 
 Traditional translations render כַּפֹּרֶת as "mercy seat" or "atonement cover." The כַּפֹּרֶת is the solid gold lid of the Ark of the Covenant, and Scripture is consistent about what stands above it: the LORD "sits enthroned between the cherubim" (1 Sam 4:4; 2 Sam 6:2; Ps 80:1; 99:1; Isa 37:16). Ezekiel hears it stated outright of the sanctuary: "this is the place of My throne" (Ezek 43:7). David calls the Ark the "footstool of our God" (1 Chr 28:2; cf. Ps 99:5; 132:7), and a footstool presupposes the throne above it. The temple is the deity's house, and every ANE deity's house contained a throne; the כַּפֹּרֶת between the cherubim is where the divine *pater familias* sits in His house (see Heiser, *The Unseen Realm*, on the throne room and the assembly of heavenly beings; Schloen, *The House of the Father*, on the temple as the god's household).
 
-"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation — though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purgation the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5) — God presents Christ as the throne seat, the meeting place of heaven and earth, where purgation happens in the presence of the enthroned God.[^3]
+"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation — though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purification the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5) — God presents Christ as the throne seat, the meeting place of heaven and earth, where purgation happens in the presence of the enthroned God.[^3]
 
 We rendered all occurrences of כַּפֹּרֶת (and ἱλαστήριον in Heb 9:5) as "throne seat."
 
@@ -750,11 +750,11 @@ Three textual observations confirm that the system's logic is purgation, not pen
 
 We rendered cultic כִּפֶּר as "effect purgation" throughout (~82 verb forms), including the poetic occurrences previously rendered "atoned for" (now "purged": Isa 6:7; 22:14; 27:9; Prov 16:6; Deut 21:8). The non-cultic ransom register of the root (כֹּפֶר, *kofer*, Exod 21:30; 30:12; Num 35:31–32) is distinct, and conflating the two registers is precisely what the priestly texts do not do; accordingly the census payment of Exodus 30:15–16 is rendered "ransom money," not purgation vocabulary.
 
-### The Day of Purgation (יוֹם הַכִּפֻּרִים / *yom hakkippurim*)
+### The Day of Purification (יוֹם הַכִּפֻּרִים / *yom hakkippurim*)
 
-Following from the rendering of כִּפֶּר, the festival traditionally called the "Day of Atonement" is rendered the "Day of Purgation" (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9). The Hebrew name is plural, "day of purgations," and Leviticus 16 states the day's function explicitly: the sanctuary is purged "of the impurities of the Israelites and their transgressions" (16:16), "because on this day purgation will be made for you to cleanse you, and you will be clean from all your sins before the LORD" (16:30). The day cleanses God's house; the people's cleansing is its stated outcome. Footnotes at every occurrence carry the traditional name so no reader is stranded.
+Following from the rendering of כִּפֶּר, the festival traditionally called the "Day of Atonement" is rendered the "Day of Purification" (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9). The Hebrew name is plural, "day of purgations," and Leviticus 16 states the day's function explicitly: the sanctuary is purged "of the impurities of the Israelites and their transgressions" (16:16), "because on this day purgation will be made for you to cleanse you, and you will be clean from all your sins before the LORD" (16:30). The day cleanses God's house; the people's cleansing is its stated outcome. Footnotes at every occurrence carry the traditional name so no reader is stranded.
 
-We considered "Day of Decontamination," which captures the Milgrom framing more transparently for a modern reader, since *kipper* / *kuppuru* is exactly the removal of a contaminating agent from a place. We kept "Day of Purgation" in the text on two grounds: it preserves the morphological link to the verb "effect purgation" that renders *kipper* everywhere else (the Hebrew day is visibly the *kipper* day), and "decontamination" clashes in register with the surrounding sacrificial vocabulary. Instead the footnotes carry the modern gloss, and they name what is being decontaminated: **death**. Every source of ritual impurity is death or its likeness (a corpse; skin disease, "as one dead," Num 12:12; the loss of life-bearing fluids), and Israel's sins defile the sanctuary by the same logic (Lev 16:16). The purgative is blood because "the life is in the blood" (Lev 17:11): life applied against the encroachment of death. The day is the annual decontamination of God's house from the death that mortal, sinful people deposit on it.
+We considered "Day of Decontamination," which captures the Milgrom framing more transparently for a modern reader, since *kipper* / *kuppuru* is exactly the removal of a contaminating agent from a place. We kept "Day of Purification" in the text on two grounds: it preserves the morphological link to the verb "effect purgation" that renders *kipper* everywhere else (the Hebrew day is visibly the *kipper* day), and "decontamination" clashes in register with the surrounding sacrificial vocabulary. Instead the footnotes carry the modern gloss, and they name what is being decontaminated: **death**. Every source of ritual impurity is death or its likeness (a corpse; skin disease, "as one dead," Num 12:12; the loss of life-bearing fluids), and Israel's sins defile the sanctuary by the same logic (Lev 16:16). The purgative is blood because "the life is in the blood" (Lev 17:11): life applied against the encroachment of death. The day is the annual decontamination of God's house from the death that mortal, sinful people deposit on it.
 
 The footnotes also state what the day **cannot** do, because the law marks its own ceiling. The day purges only ritual impurity and inadvertent sin, the matters the purification offering exists to handle (Num 15:27–28). It does not address deliberate, high-handed sin, which has no sacrifice at all (Num 15:30–31) and which the day's own statute answers by cutting off whoever will not humble himself (Lev 23:29). It does not cleanse the polluted land, which is purged either by justice (Num 35:33) or by the removal of the people, when the land at last keeps its sabbath rest (Lev 26:34–35; 2 Chr 36:21). And it does not lift the guilt of deliberate sin from the offender; for that the law looks beyond the cult, to repentance, restitution, and the LORD's own pardon (Num 5:6–7; 2 Sam 12:13).
 
@@ -903,6 +903,15 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.9 (June 2026\)
+
+Household-transfer and ransom register footnotes; "Day of Purification" rename; Romans 3:25 text correction:
+
+- Romans 3:25: "atonement offering" re-rendered "place of purgation" (Gk. hilasterion = kapporet, the locus of purgation; cf. Exod 25:17; Heb 9:5); footnote updated, "Or as a propitiation" removed
+- "Day of Purgation" renamed "Day of Purification" throughout (consistent with "purification offering" for chattat; kipper verb "effect purgation" unchanged)
+- New footnotes carrying the household-transfer and ransom register, each proposition tied to its key passages. God holds title to every person by creation (Ezek 18:4; Ps 24:1); Satan holds by permitted power as a jailer (Luke 4:6; Job 1:12; Heb 2:14-15); the captor is overpowered and stripped (Col 2:15; Matt 12:29; Luke 11:21-22); the captives are won back for God (Rev 5:9; Acts 20:28); the death is shared (2 Cor 5:14; 1 Cor 15:22). Verses: Matt 20:28 (lytron); 1 Tim 2:6 (antilytron); Rev 5:9 (agorazo, with the nations under fallen stewards, Deut 32:8-9; Ps 82); 2 Cor 11:2 and Rom 7:4 (the prior bond as the unfaithfulness the prophets call adultery, dissolved only by death, 1 Cor 6:16; Hos 2:2-13; Ezek 16:32; Deut 24:1-4); Rom 1:6; Rom 6:5 (symphytoi, co-death)
+- Contested-atonement footnotes rewritten to give the cleansing reading and address the common rendering: 1 John 2:2 and 4:10 (hilasmos) and Heb 2:17 (hilaskesthai) translate the Hebrew kipper, 'to purge, wipe clean' (Lev 1:4), so the picture is cleansing (the blood cleanses, 1 John 1:7, 9), provided out of God's love (1 John 4:10). The bare 'Or propitiation' alternatives were removed; the notes name the common rendering ('atoning sacrifice,' 'propitiation') and state why the AAB renders 'purification offering' / 'make purification.'
+
 ### Public Draft v0.8 (June 2026\)
 
 Contextual footnotes extending the Levitical framing of v0.7, plus one text change:
@@ -918,7 +927,7 @@ Contextual footnotes extending the Levitical framing of v0.7, plus one text chan
 
 Sacrificial terminology overhaul following the Levitical framing of Milgrom and Rillera (*Lamb of the Free*, 2024):
 
-- כִּפֶּר rendered "effect purgation" throughout (~82 verb forms); "Day of Atonement" renamed "Day of Purgation" with footnotes carrying the traditional name
+- כִּפֶּר rendered "effect purgation" throughout (~82 verb forms); "Day of Atonement" renamed "Day of Purification" with footnotes carrying the traditional name
 - כַּפֹּרֶת re-rendered from "atonement cover" to "throne seat" (24 verses incl. Heb 9:5), on the enthroned-between-the-cherubim texts (1 Sam 4:4; Ps 80:1; 99:1; Ezek 43:7); cf. Heiser
 - אָשָׁם re-rendered from "restitution offering" to "reparation offering" (34 verses), following Milgrom on sacral trespass
 - עֹלָה rendered "ascension offering" (281 verses); כָּלִיל instances rendered "whole offering"
@@ -1375,11 +1384,11 @@ The following table lists every BSB to AAB textual change in canonical order.
 | All cultic כִּפֶּר verb forms (~82 verses) | make atonement / atoned for | effect purgation / purged (fn at Lev 1:4) |
 | All אָשָׁם occurrences (34 verses) | guilt offering (AAB v0.6: restitution offering) | reparation offering (fn at Lev 5:15) |
 | All כַּפֹּרֶת occurrences + Heb 9:5 (24 verses) | mercy seat (AAB v0.6: atonement cover) | throne seat (fn at Exod 25:17: enthroned between the cherubim) |
-| Day of Atonement (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9) | Day of Atonement | Day of Purgation (fn at Lev 23:27: yom hakkippurim, 'day of purgations') |
+| Day of Atonement (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9) | Day of Atonement | Day of Purification (fn at Lev 23:27: yom hakkippurim, 'day of purgations') |
 | Genesis 8:20–21 | (no footnotes) | (footnotes on olah and nichoach added) |
 | Exodus 30:15–16 | atonement money / to atone for your lives | ransom money / to effect purgation for your lives (fn: kofer, non-cultic ransom register) |
 | Leviticus 16:21 | (no footnote) | (footnote: two-handed sin transfer; the Azazel goat is not sacrificed) |
-| Leviticus 16:30 | atonement will be made | purgation will be made (fn on the Day of Purgation) |
+| Leviticus 16:30 | atonement will be made | purgation will be made (fn on the Day of Purification) |
 | Leviticus 17:11 | to make atonement for your souls... makes atonement for the soul | to effect purgation for your lives... effects purgation by means of the life (fn: life, not death, effects purgation) |
 | Deuteronomy 13:16; 33:10; Psalm 51:19 | whole burnt offering(s) | whole offering(s) (fn: Heb. kalil) |
 | 1 Samuel 7:9 | whole burnt offering | whole ascension offering (fn: olah kalil, two words, two ideas) |
@@ -1398,8 +1407,18 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos; cleansing, not appeasement) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Household-Transfer and Ransom Register (v0.9)** |  |  |
+| Romans 3:25 | atonement offering | place of purgation (fn: Gk. hilasterion = kapporet, locus of purgation; "Or as a propitiation" removed) |
+| "Day of Purgation" (all occurrences) | Day of Purgation | Day of Purification (consistent with "purification offering"; verb "effect purgation" unchanged) |
+| Matthew 20:28 | (no footnote) | (fn: Gk. lytron; Satan is jailer not owner, Acts 26:18; Jesus as kinsman-redeemer, hold broken from within, nothing paid to captor) |
+| 1 Timothy 2:6 | (no footnote) | (fn: Gk. antilytron; captor is Satan; Jesus as kinsman-redeemer, Heb 2:14-15) |
+| Revelation 5:9 | (no footnote) | (fn: Gk. agorazo; holy ones acquired for God out of the nations Satan held captive; Luke 4:6 = delegated power, not title) |
+| 2 Corinthians 11:2 | (no footnote) | (fn: betrothal; those joined to Christ were held captive in Satan's house and brought out by His blood, John 8:44; 1 John 5:19; Acts 26:18) |
+| Romans 1:6 | (no footnote) | (fn: before Christ, held captive by Satan, John 8:44; 1 John 3:8; 5:19; gospel = transfer out of his power, Acts 26:18; Col 1:13) |
+| Romans 6:5 | (no footnote) | (fn: Gk. symphytoi; death shared not substituted; transfer passes through death into resurrection) |
+| Romans 7:4 | (no footnote) | (fn: law of marriage releases at death, Deut 24:1-4; shared death dissolves the bond; transfer out of Satan's power into God's, Acts 26:18) |
 | **Contextual Footnotes (v0.8)** |  |  |
-| Leviticus 23:27; 16:30 | (Day of Purgation footnotes) | (footnotes expanded: kipper as decontamination; death-contamination and the life/death polarity, Lev 17:11; and the day's limits — no high-handed sin, no land-cleansing, no absolution of deliberate guilt) |
+| Leviticus 23:27; 16:30 | (Day of Purification footnotes) | (footnotes expanded: kipper as decontamination; death-contamination and the life/death polarity, Lev 17:11; and the day's limits — no high-handed sin, no land-cleansing, no absolution of deliberate guilt) |
 | Isaiah 53:5 | the punishment that brought us peace | the chastening that brought us peace (fn: Heb. musar — discipline, chastening, instruction, as in Prov 1:2-3; 3:11) |
 | Isaiah 53:10 | (no footnote on v. 10a) | (fn: LXX 'the Lord wills to cleanse Him of His wound'; paredōken idiom of vv. 6, 12 cited in Rom 4:25; 8:32) |
 | Leviticus 10:17 | (no footnote) | (fn: nasaʾ ʿawon — priestly custodial responsibility idiom; cf. Num 18:1; Exod 28:38) |
@@ -1494,7 +1513,7 @@ Numbers 7:89
 
 Hebrews 9:5
 
-**Rationale:** The כַּפֹּרֶת is the solid gold lid of the Ark, and Scripture consistently places the enthroned LORD above it: He "sits enthroned between the cherubim" (1 Sam 4:4; Ps 80:1; 99:1; Isa 37:16); the Ark is His footstool (1 Chr 28:2; Ps 99:5; 132:7); "this is the place of My throne" (Ezek 43:7). "Mercy seat" (Tyndale via Luther's *Gnadenstuhl*) is interpretation, though its instinct that the object is a seat was right. "Atonement cover" (NIV; earlier AAB drafts) keeps the kipper link but loses the throne, and the throne is the point: on the Day of Purgation the blood is presented before the enthroned LORD (Lev 16:14–15). The LXX renders כַּפֹּרֶת as ἱλαστήριον, the word Paul applies to Christ (Rom 3:25; cf. Heb 9:5). See the full Throne Seat section above; cf. Heiser, *The Unseen Realm*.
+**Rationale:** The כַּפֹּרֶת is the solid gold lid of the Ark, and Scripture consistently places the enthroned LORD above it: He "sits enthroned between the cherubim" (1 Sam 4:4; Ps 80:1; 99:1; Isa 37:16); the Ark is His footstool (1 Chr 28:2; Ps 99:5; 132:7); "this is the place of My throne" (Ezek 43:7). "Mercy seat" (Tyndale via Luther's *Gnadenstuhl*) is interpretation, though its instinct that the object is a seat was right. "Atonement cover" (NIV; earlier AAB drafts) keeps the kipper link but loses the throne, and the throne is the point: on the Day of Purification the blood is presented before the enthroned LORD (Lev 16:14–15). The LXX renders כַּפֹּרֶת as ἱλαστήριον, the word Paul applies to Christ (Rom 3:25; cf. Heb 9:5). See the full Throne Seat section above; cf. Heiser, *The Unseen Realm*.
 
 #### Forgiven (סָלַח / salach)
 
@@ -2042,7 +2061,7 @@ This is NOT a statement that someone who doubts, struggles, or even walks away f
 
 **BSB rendering:** "sins committed in ignorance" → **AAB rendering:** "unintentional sins committed in ignorance"
 
-Adding "unintentional" clarifies that the Day of Purgation sacrifices addressed שְׁגָגָה (inadvertent, unintentional sins), not high-handed rebellion. This aligns with the Levitical system and the author's argument.
+Adding "unintentional" clarifies that the Day of Purification sacrifices addressed שְׁגָגָה (inadvertent, unintentional sins), not high-handed rebellion. This aligns with the Levitical system and the author's argument.
 
 #### Hebrews 9:10 (Time of Regeneration)
 
@@ -2436,7 +2455,7 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | שְׁלָמִים (shelamim) | well-being, fellowship meal | well-being offering | peace offering | fellowship offering | AAB follows Milgrom/NRSV; NIV partially captures the meal |
 | רֵיחַ נִיחוֹחַ (reach nichoach) | soothing, restful aroma | soothing aroma | pleasing aroma | pleasing aroma | AAB alone preserves the Noah/nichoach wordplay (Gen 8:21) |
 | כִּפֶּר (kipper) | to purge, wipe clean | effect purgation | make atonement | make atonement | AAB follows Milgrom; Akkadian kuppuru, 'to wipe' |
-| יוֹם הַכִּפֻּרִים (yom hakkippurim) | day of purgations | Day of Purgation | Day of Atonement | Day of Atonement | AAB alone; footnoted with traditional name at every occurrence |
+| יוֹם הַכִּפֻּרִים (yom hakkippurim) | day of purgations | Day of Purification | Day of Atonement | Day of Atonement | AAB alone; footnoted with traditional name at every occurrence |
 | ἱλασμός (hilasmos, 1 Jn 2:2; 4:10) | purgation, cleansing | purification offering | propitiation | atoning sacrifice | AAB renders the LXX kipper register; ESV imports appeasement |
 | נֹשֵׂא (*nasa*, Exod 34:7) | bearing | bearing iniquity | forgiving | forgiving | AAB alone; all modern translations use "forgiving" |
 | פֹּקֵד (*paqad*, Exod 34:7) | sovereign attention | visits | visits | punishes | BSB v3 also correct; NIV/NLT alone use "punishes" |
