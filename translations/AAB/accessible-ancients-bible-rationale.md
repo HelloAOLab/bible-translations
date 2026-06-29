@@ -909,7 +909,7 @@ Household-transfer and ransom register footnotes; "Day of Purification" rename; 
 
 - Romans 3:25: "atonement offering" re-rendered "place of purgation" (Gk. hilasterion = kapporet, the locus of purgation; cf. Exod 25:17; Heb 9:5); footnote updated, "Or as a propitiation" removed
 - "Day of Purgation" renamed "Day of Purification" throughout (consistent with "purification offering" for chattat; kipper verb "effect purgation" unchanged)
-- New footnotes carrying the household-transfer and ransom register: Matt 20:28 (lytron); 1 Tim 2:6 (antilytron); Rev 5:9 (agorazo); 2 Cor 11:2 (bride price; Satan's household); Rom 1:6 (belonged to Satan before Christ); Rom 6:5 (symphytoi, co-death not substitution); Rom 7:4 (death transfers the prior belonging to Satan)
+- New footnotes carrying the household-transfer and ransom register, stated as captivity (not ownership): Satan holds captive by power, not by title; the captor's hold is broken from within and nothing is paid to him. Matt 20:28 (lytron); 1 Tim 2:6 (antilytron); Rev 5:9 (agorazo); 2 Cor 11:2 (betrothal; held captive in Satan's house, brought out); Rom 1:6 (held captive by Satan before Christ); Rom 6:5 (symphytoi, co-death not substitution); Rom 7:4 (law of marriage released by death, Deut 24:1-4; transfer out of Satan's power into God's)
 
 ### Public Draft v0.8 (June 2026\)
 
@@ -1409,13 +1409,13 @@ The following table lists every BSB to AAB textual change in canonical order.
 | **Household-Transfer and Ransom Register (v0.9)** |  |  |
 | Romans 3:25 | atonement offering | place of purgation (fn: Gk. hilasterion = kapporet, locus of purgation; "Or as a propitiation" removed) |
 | "Day of Purgation" (all occurrences) | Day of Purgation | Day of Purification (consistent with "purification offering"; verb "effect purgation" unchanged) |
-| Matthew 20:28 | (no footnote) | (fn: Gk. lytron; captor is Satan, Acts 26:18; Jesus as kinsman-redeemer; cf. 1 Tim 2:6; 1 Pet 1:18) |
+| Matthew 20:28 | (no footnote) | (fn: Gk. lytron; Satan is jailer not owner, Acts 26:18; Jesus as kinsman-redeemer, hold broken from within, nothing paid to captor) |
 | 1 Timothy 2:6 | (no footnote) | (fn: Gk. antilytron; captor is Satan; Jesus as kinsman-redeemer, Heb 2:14-15) |
-| Revelation 5:9 | (no footnote) | (fn: Gk. agorazo; holy ones purchased out of the nations belonging to Satan, Luke 4:6; 1 John 5:19; Acts 26:18) |
-| 2 Corinthians 11:2 | (no footnote) | (fn: bride price; bride belonged to Satan's household, John 8:44; 1 John 3:8; Acts 26:18) |
-| Romans 1:6 | (no footnote) | (fn: before Christ, belonged to Satan, John 8:44; 1 John 3:8; 5:19; gospel = transfer, Acts 26:18; Col 1:13) |
+| Revelation 5:9 | (no footnote) | (fn: Gk. agorazo; holy ones acquired for God out of the nations Satan held captive; Luke 4:6 = delegated power, not title) |
+| 2 Corinthians 11:2 | (no footnote) | (fn: betrothal; those joined to Christ were held captive in Satan's house and brought out by His blood, John 8:44; 1 John 5:19; Acts 26:18) |
+| Romans 1:6 | (no footnote) | (fn: before Christ, held captive by Satan, John 8:44; 1 John 3:8; 5:19; gospel = transfer out of his power, Acts 26:18; Col 1:13) |
 | Romans 6:5 | (no footnote) | (fn: Gk. symphytoi; death shared not substituted; transfer passes through death into resurrection) |
-| Romans 7:4 | (no footnote) | (fn: death breaks prior belonging to Satan; resurrection constitutes new belonging to Christ) |
+| Romans 7:4 | (no footnote) | (fn: law of marriage releases at death, Deut 24:1-4; shared death dissolves the bond; transfer out of Satan's power into God's, Acts 26:18) |
 | **Contextual Footnotes (v0.8)** |  |  |
 | Leviticus 23:27; 16:30 | (Day of Purgation footnotes) | (footnotes expanded: kipper as decontamination; death-contamination and the life/death polarity, Lev 17:11; and the day's limits — no high-handed sin, no land-cleansing, no absolution of deliberate guilt) |
 | Isaiah 53:5 | the punishment that brought us peace | the chastening that brought us peace (fn: Heb. musar — discipline, chastening, instruction, as in Prov 1:2-3; 3:11) |
