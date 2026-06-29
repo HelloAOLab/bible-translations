@@ -1418,7 +1418,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 6:5 | (no footnote) | (fn: Gk. symphytoi; death shared not substituted; transfer passes through death into resurrection) |
 | Romans 7:4 | (no footnote) | (fn: law of marriage releases at death, Deut 24:1-4; shared death dissolves the bond; transfer out of Satan's power into God's, Acts 26:18) |
 | **Contextual Footnotes (v0.8)** |  |  |
-| Leviticus 23:27; 16:30 | (Day of Purgation footnotes) | (footnotes expanded: kipper as decontamination; death-contamination and the life/death polarity, Lev 17:11; and the day's limits — no high-handed sin, no land-cleansing, no absolution of deliberate guilt) |
+| Leviticus 23:27; 16:30 | (Day of Purification footnotes) | (footnotes expanded: kipper as decontamination; death-contamination and the life/death polarity, Lev 17:11; and the day's limits — no high-handed sin, no land-cleansing, no absolution of deliberate guilt) |
 | Isaiah 53:5 | the punishment that brought us peace | the chastening that brought us peace (fn: Heb. musar — discipline, chastening, instruction, as in Prov 1:2-3; 3:11) |
 | Isaiah 53:10 | (no footnote on v. 10a) | (fn: LXX 'the Lord wills to cleanse Him of His wound'; paredōken idiom of vv. 6, 12 cited in Rom 4:25; 8:32) |
 | Leviticus 10:17 | (no footnote) | (fn: nasaʾ ʿawon — priestly custodial responsibility idiom; cf. Num 18:1; Exod 28:38) |
@@ -2455,7 +2455,7 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | שְׁלָמִים (shelamim) | well-being, fellowship meal | well-being offering | peace offering | fellowship offering | AAB follows Milgrom/NRSV; NIV partially captures the meal |
 | רֵיחַ נִיחוֹחַ (reach nichoach) | soothing, restful aroma | soothing aroma | pleasing aroma | pleasing aroma | AAB alone preserves the Noah/nichoach wordplay (Gen 8:21) |
 | כִּפֶּר (kipper) | to purge, wipe clean | effect purgation | make atonement | make atonement | AAB follows Milgrom; Akkadian kuppuru, 'to wipe' |
-| יוֹם הַכִּפֻּרִים (yom hakkippurim) | day of purgations | Day of Purgation | Day of Atonement | Day of Atonement | AAB alone; footnoted with traditional name at every occurrence |
+| יוֹם הַכִּפֻּרִים (yom hakkippurim) | day of purgations | Day of Purification | Day of Atonement | Day of Atonement | AAB alone; footnoted with traditional name at every occurrence |
 | ἱλασμός (hilasmos, 1 Jn 2:2; 4:10) | purgation, cleansing | purification offering | propitiation | atoning sacrifice | AAB renders the LXX kipper register; ESV imports appeasement |
 | נֹשֵׂא (*nasa*, Exod 34:7) | bearing | bearing iniquity | forgiving | forgiving | AAB alone; all modern translations use "forgiving" |
 | פֹּקֵד (*paqad*, Exod 34:7) | sovereign attention | visits | visits | punishes | BSB v3 also correct; NIV/NLT alone use "punishes" |
