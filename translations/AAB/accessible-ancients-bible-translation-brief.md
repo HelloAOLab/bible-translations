@@ -811,7 +811,7 @@ Through all of it the New Testament's stated relation between Jesus's death and 
 
 ### Faith, Faithfulness, and Allegiance
 
-Two decisions govern how the AAB renders the *pistis* word group. First, where the Greek phrase *pistis Christou* is grammatically a genitive that can be read either as "faith in Christ" or as "the faithfulness of Christ," the AAB renders it as Christ's own faithfulness (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12). Christ is the faithful head and firstborn Son whose faithful obedience His people share (Rom 5:19; Phil 2:8); the believer's own trust is not erased but stands alongside, often in the same verse (Gal 2:16, "we too have believed in Christ Jesus"). Where the Greek is a verb of believing directed at Christ, or *pistis* with *en* ("in"), the AAB keeps "believe in Christ" (Gal 2:16; 3:26), because there the object is unambiguous.
+Two decisions govern how the AAB renders the *pistis* word group. First, where the Greek phrase *pistis Christou* is grammatically a genitive that can be read either as "faith in Christ" or as "the faithfulness of Christ," the AAB renders it as Christ's own faithfulness (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12; Jas 2:1). Christ is the faithful head and firstborn Son whose faithful obedience His people share (Rom 5:19; Phil 2:8); the believer's own trust is not erased but stands alongside, often in the same verse (Gal 2:16, "we too have believed in Christ Jesus"). Where the Greek is a verb of believing directed at Christ, or *pistis* with *en* ("in"), the AAB keeps "believe in Christ" (Gal 2:16; 3:26), because there the object is unambiguous.
 
 Second, *pistis* and *pisteuō* are rendered "faith" and "believe," but the reader should hear loyal trust and allegiance, not bare mental agreement. In the household world of Scripture, to believe is to give one's allegiance to a head and to hold to Him: the demons agree that God is one and shudder (Jas 2:19), while saving faith confesses Christ as Lord (Rom 10:9) and shows itself in obedience (Rom 1:5; 16:26). Footnotes carry this at the key texts.
 
@@ -925,7 +925,7 @@ This section clarifies the limits of the project.
 
 Faith, law, and justification read inside the household framework (see Part 7):
 
-- *pistis Christou* rendered as Christ's own faithfulness where the Greek genitive allows it (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12), primary footnote at Rom 3:22; unambiguous "believe in Christ" verbs kept (Gal 2:16; 3:26)
+- *pistis Christou* rendered as Christ's own faithfulness where the Greek genitive allows it (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12; Jas 2:1), primary footnote at Rom 3:22; unambiguous "believe in Christ" verbs kept (Gal 2:16; 3:26)
 - *pistis* / *pisteuō* kept as "faith / believe" with footnotes carrying loyal trust and allegiance (John 3:16 primary; Rom 1:5; 10:9)
 - Justification, law, and works of the law footnoted as the verdict serving household transfer and the law as household charter (Rom 3:20, 24)
 - Colossians 2:11, 13: "sinful nature" corrected to "flesh" (*sarx*) with footnotes
