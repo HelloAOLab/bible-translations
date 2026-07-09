@@ -30,9 +30,9 @@ This translation prioritizes readability while making targeted corrections where
 
 The AAB translation is released into the public domain. We want churches, ministries, and developers to use it freely without licensing restrictions or fees. See the [Creative Commons 0 License](https://creativecommons.org/public-domain/cc0/) for mote information.
 
-## Rationale
+## Translation Brief
 
-See the complete [Rationale](./accessible-ancients-bible-rationale.md) document for more information.
+See the complete [Translation Brief](./accessible-ancients-bible-translation-brief.md) for the goals, rationale, and interpretive commitments behind every change.
 
 -----
 

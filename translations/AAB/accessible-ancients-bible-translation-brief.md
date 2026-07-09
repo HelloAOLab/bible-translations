@@ -1,5 +1,7 @@
 # Accessible Ancients Bible
 
+## Translation Brief
+
 **Status: Public Draft v0.9 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
@@ -938,7 +940,7 @@ Sacrificial terminology overhaul following the Levitical framing of Milgrom and 
 
 ### Initial Public Draft (March 2026\)
 
-Initial public release of the Accessible Ancients Bible rationale and correction list. Every BSB to AAB change is documented below.
+Initial public release of the Accessible Ancients Bible Translation Brief and correction list. Every BSB to AAB change is documented below.
 
 **Current version includes:**
 
