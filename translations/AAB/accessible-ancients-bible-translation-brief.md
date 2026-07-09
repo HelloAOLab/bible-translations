@@ -1,6 +1,8 @@
 # Accessible Ancients Bible
 
-**Status: Public Draft v0.9 | Awaiting Feedback**
+## Translation Brief
+
+**Status: Public Draft v0.10 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -805,6 +807,26 @@ Through all of it the New Testament's stated relation between Jesus's death and 
 **Key sources:** Jacob Milgrom, *Leviticus 1–16*, Anchor Bible (1991); Andrew Remington Rillera, *Lamb of the Free* (Cascade, 2024); Yitzhaq Feder, *Blood Expiation in Hittite and Biblical Ritual* (SBL, 2011); David P. Wright, *The Disposal of Impurity* (Scholars Press, 1987); David M. Moffitt, *Atonement and the Logic of Resurrection in the Epistle to the Hebrews* (Brill, 2011); Jonathan Klawans, *Impurity and Sin in Ancient Judaism* (Oxford, 2000); Michael S. Heiser, *The Unseen Realm* (Lexham, 2015), on the throne seat; J. David Schloen, *The House of the Father as Fact and Symbol* (Eisenbrauns, 2001); Peter Leithart and Everett Fox on the ascension offering.
 
 
+## Part 7: Faith, Law, and Justification
+
+### Faith, Faithfulness, and Allegiance
+
+Two decisions govern how the AAB renders the *pistis* word group. First, where the Greek phrase *pistis Christou* is grammatically a genitive that can be read either as "faith in Christ" or as "the faithfulness of Christ," the AAB renders it as Christ's own faithfulness (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12; Jas 2:1). Christ is the faithful head and firstborn Son whose faithful obedience His people share (Rom 5:19; Phil 2:8); the believer's own trust is not erased but stands alongside, often in the same verse (Gal 2:16, "we too have believed in Christ Jesus"). Where the Greek is a verb of believing directed at Christ, or *pistis* with *en* ("in"), the AAB keeps "believe in Christ" (Gal 2:16; 3:26), because there the object is unambiguous.
+
+Second, *pistis* and *pisteuō* are rendered "faith" and "believe," but the reader should hear loyal trust and allegiance, not bare mental agreement. To believe is to give one's allegiance to a head and to hold to Him: the demons agree that God is one and shudder (Jas 2:19), while saving faith confesses Christ as Lord (Rom 10:9) and shows itself in obedience (Rom 1:5; 16:26). Footnotes carry this at the key texts.
+
+### Law, Righteousness, and Justification
+
+For most of Protestant history Paul was read as fighting legalism: "works of the law" meant human effort to earn salvation, and justification meant an individual sinner acquitted and credited with Christ's righteousness. The New Perspective (E. P. Sanders, James Dunn, N. T. Wright) challenged that picture. Sanders showed that Second Temple Judaism did not teach earning one's way in; Israel was already in the covenant by God's gracious election, and law-keeping was how one stayed in. Dunn argued that "works of the law" names the identity markers, circumcision, food laws, and Sabbath, that separated Jew from Gentile. Wright recast justification as a declaration about who belongs to God's people rather than only a courtroom verdict about an individual. A traditional Reformed reading has pushed back, holding that Paul does confront self-righteousness and does teach an individual, credited righteousness.
+
+The New Perspective is a move in the right direction that stops short of the root. Its gain is real: it relocated Paul's question from a private merit-ledger to the question of belonging, who is counted among God's people and on what terms. Its limit is that it names the destination too thinly, as covenant or ethnic membership, without saying what that belonging finally is.
+
+Scripture names it more precisely. Belonging to God's people is family membership under a head: adoption into the Father's house through union with Christ, the firstborn Son in whom His people are made one body (Gal 3:26-29; 4:5-7; Rom 8:15-17; Eph 2:19). This holds together what both sides saw only in part. The New Perspective is right that the issue is belonging and not a private merit-account; the older Reformed reading is right that God's verdict is real and forensic and not a mere social label. The two meet once the verdict is seen to serve the transfer: the Father's genuine declaration that a person stands right with Him is the act that admits that person into His household (Gal 4:5-7). Acquittal and belonging are not rival meanings of justification; they are one act, the verdict that opens the door of the house.
+
+This decides the terms. The law (*nomos*; Heb. *torah*) is the charter of God's household, the terms of a relationship God had already established by rescuing His people (Exod 19:4-6), never the ladder by which anyone climbs in. "Works of the law" (*erga nomou*) are the practices that marked out membership in that household, such as circumcision, food laws, and Sabbath (Gal 2:11-14); the point is not only that they divided Jew from Gentile but that no one enters through them, because entry is through union with the head (Gal 2:16; 3:2-5). To justify (*dikaioō*) is the Father's real verdict that a person stands right with Him, the verdict that admits into the family; it both acquits and declares a person to belong, because in a household those are one act (Gal 4:5-7; Rom 8:15-17). Righteousness (Heb. *tsedaqah*; Gk. *dikaiosynē*) is right standing in that household. Members share it by union with the righteous head rather than by a tally of their own (Rom 5:19; 2 Cor 5:21; Phil 3:9), so the forensic and the participatory are one; its measure is the Father's own character, since the head's nature defines what is right for the whole house (Deut 32:4; 1 John 3:7).
+
+The AAB keeps the familiar renderings in the main text and carries this reading in footnotes at the load-bearing passages (Rom 3-4; Gal 2-4).
+
 ## Specific Passages
 
 The passages in this section require individual treatment because they involve textual, interpretive, or theological questions that go beyond simple terminology.
@@ -903,6 +925,15 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.10 (June 2026\)
+
+Faith, law, and justification read as belonging to God's household under Christ its head (see Part 7):
+
+- *pistis Christou* rendered as Christ's own faithfulness where the Greek genitive allows it (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12; Jas 2:1), primary footnote at Rom 3:22; unambiguous "believe in Christ" verbs kept (Gal 2:16; 3:26)
+- *pistis* / *pisteuō* kept as "faith / believe" with footnotes carrying loyal trust and allegiance (John 3:16 primary; Rom 1:5; 10:9)
+- Justification, law, and works of the law footnoted as the verdict serving household transfer and the law as household charter (Rom 3:20, 24)
+- Colossians 2:11, 13: "sinful nature" corrected to "flesh" (*sarx*) with footnotes
+
 ### Public Draft v0.9 (June 2026\)
 
 Household-transfer and ransom register footnotes; "Day of Purification" rename; Romans 3:25 text correction:
@@ -938,7 +969,7 @@ Sacrificial terminology overhaul following the Levitical framing of Milgrom and 
 
 ### Initial Public Draft (March 2026\)
 
-Initial public release of the Accessible Ancients Bible rationale and correction list. Every BSB to AAB change is documented below.
+Initial public release of the Accessible Ancients Bible Translation Brief and correction list. Every BSB to AAB change is documented below.
 
 **Current version includes:**
 
