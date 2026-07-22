@@ -1662,7 +1662,7 @@ Zechariah 3:1, 3:2 (twice in v.2)
 
 **Note:** 1 Chronicles 21:1 retains "Satan" (no definite article, functioning as proper name).
 
-**Rationale:** The Hebrew הַשָּׂטָן with the definite article is grammatically a title ("the adversary/accuser"), not a proper name. A faithful translation reflects the grammar of each passage. The same personal being is in view throughout Scripture; by NT times "Satan" functions as a proper name (John 8:44; 1 John 3:8; Rev 12:9). The linguistic shift from title to name does not represent theological development, only a change in how the language refers to the same entity.
+**Rationale:** The Hebrew הַשָּׂטָן with the definite article is grammatically a title ("the adversary/accuser"), not a proper name. A faithful translation reflects the grammar of each passage. The same personal being is in view throughout Scripture. By NT times "Satan" (Gk. Satanas) generally functions as a proper name (John 8:44; 1 John 3:8). Where a New Testament author draws the reader back to the heavenly accuser of Job 1-2 and Zechariah 3, the AAB renders "the Accuser" to keep that connection visible (Luke 22:31; Rev 12:9-10, where "the accuser of our brothers" stands in the very next line; Rev 20:2; Rom 16:20), with a footnote at each noting that "Satan" is an equally valid rendering. The New Testament names him more plainly and brings into fuller view what the Old Testament already shows of him.
 
 ### Firmament (רָקִיעַ / raqia)
 
