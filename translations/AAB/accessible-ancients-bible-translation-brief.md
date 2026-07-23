@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.10 | Awaiting Feedback**
+**Status: Public Draft v0.11 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -429,7 +429,7 @@ Having established our hermeneutical framework, the following table summarizes t
 | Holiness contagion (Lev 6:18) | will become holy | must be holy |
 | Expiation (Lev 16:10) | atonement | expiation |
 | So-called gods (1 Cor 8:5; 2 Thess 2:4) | so-called gods | beings called gods / everything called a god |
-| Hilasterion (Rom 3:25) | atoning sacrifice | atonement offering |
+| Hilasterion (Rom 3:25) | atoning sacrifice | place of purgation |
 | Pruning (John 15:3) | clean | pruned |
 | Son (Heb 1:2) | His Son | a Son |
 | Ultimately Impossible (Heb 6:4) | impossible | ultimately impossible |
@@ -740,7 +740,7 @@ We rendered all 34 occurrences of אָשָׁם as "reparation offering."
 
 Traditional translations render כַּפֹּרֶת as "mercy seat" or "atonement cover." The כַּפֹּרֶת is the solid gold lid of the Ark of the Covenant, and Scripture is consistent about what stands above it: the LORD "sits enthroned between the cherubim" (1 Sam 4:4; 2 Sam 6:2; Ps 80:1; 99:1; Isa 37:16). Ezekiel hears it stated outright of the sanctuary: "this is the place of My throne" (Ezek 43:7). David calls the Ark the "footstool of our God" (1 Chr 28:2; cf. Ps 99:5; 132:7), and a footstool presupposes the throne above it. The temple is the deity's house, and every ANE deity's house contained a throne; the כַּפֹּרֶת between the cherubim is where the divine *pater familias* sits in His house (see Heiser, *The Unseen Realm*, on the throne room and the assembly of heavenly beings; Schloen, *The House of the Father*, on the temple as the god's household).
 
-"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation — though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purification the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5) — God presents Christ as the throne seat, the meeting place of heaven and earth, where purgation happens in the presence of the enthroned God.[^3]
+"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation — though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purification the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5). The AAB keeps "throne seat" for the object (Heb 9:5) and renders the function Paul applies to Christ as "place of purgation" (Rom 3:25): Christ is the place where purgation happens, in the presence of the enthroned God.[^3]
 
 We rendered all occurrences of כַּפֹּרֶת (and ἱλαστήριον in Heb 9:5) as "throne seat."
 
@@ -794,7 +794,7 @@ The New Testament applies the whole repertoire to Jesus, and the AAB's rendering
 | :---- | :---- | :---- | :---- |
 | John 1:29; 1 Cor 5:7; John 19:14, 36 | Passover lamb | Protective and communal meal; non-atoning | Footnotes at John 1:29 and 1 Cor 5:7 |
 | Matt 26:28 par. | Blood of the covenant | Exod 24 covenant inauguration; meal | Footnote at Matt 26:28 |
-| Rom 3:25; Heb 9:5 | ἱλαστήριον | The throne seat (kapporet); purgation site | "throne seat" (Heb 9:5); expanded footnote (Rom 3:25) |
+| Rom 3:25; Heb 9:5 | ἱλαστήριον | The throne seat (kapporet); purgation site | "throne seat" (Heb 9:5); "place of purgation" (Rom 3:25), with footnote |
 | Heb 2:17 | ἱλάσκεσθαι | Kipper; purgation/cleansing | "make purification," with footnote |
 | Heb 13:11–13 | περὶ ἁμαρτίας carcass outside the camp | Purification offering disposal | "purification offering," with footnote |
 | Rom 8:3; 2 Cor 5:21 | περὶ ἁμαρτίας / ἁμαρτία | Purification offering idiom (contested) | Text unchanged; footnotes present both readings |
@@ -811,7 +811,7 @@ Through all of it the New Testament's stated relation between Jesus's death and 
 
 ### Faith, Faithfulness, and Allegiance
 
-Two decisions govern how the AAB renders the *pistis* word group. First, where the Greek phrase *pistis Christou* is grammatically a genitive that can be read either as "faith in Christ" or as "the faithfulness of Christ," the AAB renders it as Christ's own faithfulness (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12; Jas 2:1). Christ is the faithful head and firstborn Son whose faithful obedience His people share (Rom 5:19; Phil 2:8); the believer's own trust is not erased but stands alongside, often in the same verse (Gal 2:16, "we too have believed in Christ Jesus"). Where the Greek is a verb of believing directed at Christ, or *pistis* with *en* ("in"), the AAB keeps "believe in Christ" (Gal 2:16; 3:26), because there the object is unambiguous.
+Two decisions govern how the AAB renders the *pistis* word group. First, where the Greek phrase *pistis Christou* is grammatically a genitive that can be read either as "faith in Christ" or as "the faithfulness of Christ," the AAB renders it as Christ's own faithfulness (Rom 3:22, 26; Gal 2:16, 20; 3:22; Phil 3:9; Eph 3:12; Jas 2:1). Christ is the faithful head and firstborn Son whose faithful obedience His people share (Rom 5:19; Phil 2:8); the believer's own trust is not erased but stands alongside, often in the same verse (Gal 2:16, "we too have believed in Christ Jesus"). Where the Greek is a verb of believing directed at Christ, or *pistis* with a preposition (*en*, *eis*, *pros*), the AAB keeps "believe in Christ" (Gal 2:16; 3:26; Acts 24:24; Col 2:5), because there the object is unambiguous.
 
 Second, *pistis* and *pisteuō* are rendered "faith" and "believe," but the reader should hear loyal trust and allegiance, not bare mental agreement. To believe is to give one's allegiance to a head and to hold to Him: the demons agree that God is one and shudder (Jas 2:19), while saving faith confesses Christ as Lord (Rom 10:9) and shows itself in obedience (Rom 1:5; 16:26). Footnotes carry this at the key texts.
 
@@ -924,6 +924,23 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.11 (July 2026\)
+
+Whole-person (nephesh/psychē) corrections, Hebrew-accuracy fixes, and footnote enrichment:
+
+- psychē/nephesh rendered as life/self, not "soul," where it means physical life or a person: Luke 21:19; Rev 18:13 ("human lives"); Jas 5:20; 1:21; 1 Pet 1:9 (primary psychē footnote); Heb 10:39; 1 Pet 2:11; 2:25; Heb 13:17 (Heb 6:19 kept as "anchor for the soul")
+- Rev 6:9; 20:4: "the souls of those who had been slain/beheaded" -> "those who had been slain/beheaded," with a footnote that psychas names the whole living self, not a disembodied soul
+- Hab 2:4: "his soul is not upright" -> "he is not upright within him"; "live by faith" -> "live by his faithfulness" (emunah)
+- Ps 8:5: "than the angels" -> "than the heavenly beings" (elohim), footnote noting the Greek OT / Heb 2:7 "angels"
+- Exod 3:14: footnote linking ehyeh to v.12 ("I will be with you"), the Name as pledge of presence
+- Gen 4:7: footnote on rovets / Akkadian rabitsu (sin as a predator crouching at the door)
+- Gen 1:2: footnote on ruach (wind/breath/Spirit)
+- Lev 1:4: purgation-vs-purification rationale added; Rom 3:25 pointer to it
+- Lev 16:10: expiation/Azazel footnote (the live goat carries sin away into the wilderness)
+- Luke 20:18: "this stone" -> "that stone" (Gk. ekeinon)
+- Heb 9:5: footnote cross-linked to Rom 3:25 (one Greek word, two renderings)
+- Brief doc-sync: Rom 3:25 comparison-table and prose updated to "place of purgation"
 
 ### Public Draft v0.10 (June 2026\)
 
@@ -1429,15 +1446,32 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Matthew 26:28 | (no footnote) | (footnote: Exod 24:8 covenant meal; Jer 31:34 forgiveness) |
 | Mark 12:33 | burnt offerings | ascension offerings (fn: Gk. holokautoma) |
 | John 1:29 | (no footnote) | (footnote: Passover lamb; airei as removal language) |
-| Romans 3:25 | (fn: Or as a propitiation) | (fn expanded: hilasterion = the throne seat, kapporet) |
+| Romans 3:25 | atonement offering (fn: Or as a propitiation) | place of purgation (fn: hilasterion = the kapporet; propitiation removed) |
 | Romans 8:3 | (fn: Literally...and for sin) | (fn expanded: peri hamartias as the LXX purification-offering idiom) |
 | 1 Corinthians 5:7 | (no footnote) | (footnote: Passover protective and communal, not atoning) |
 | 2 Corinthians 5:21 | (fn: Or a sin offering) | (fn: Or a purification offering; solidarity, not transfer of punishment) |
 | Ephesians 5:2 | (no footnote) | (footnote: ascension/gift register) |
 | Hebrews 2:17 | to make atonement (fn: Or to make propitiation) | to make purification (fn: Gk. hilaskesthai renders kipper) |
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
-| 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos; cleansing, not appeasement) |
+| 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Whole-Person and Hebrew Accuracy (v0.11)** |  |  |
+| Luke 21:19 | gain your souls | gain your lives |
+| Revelation 18:13 | souls of slaves | human lives |
+| James 5:20 | save his soul from death | save his life from death |
+| James 1:21 | save your souls | save your lives |
+| 1 Peter 1:9 | salvation of your souls | salvation of your lives (fn: psychē is the whole living person) |
+| Hebrews 10:39 | preserve their souls | preserve their lives |
+| 1 Peter 2:11 | war against your soul | war against your life |
+| 1 Peter 2:25 | Overseer of your souls | Overseer of your lives |
+| Hebrews 13:17 | watch over your souls | watch over your lives |
+| Revelation 6:9; 20:4 | the souls of those slain/beheaded | those who had been slain/beheaded (fn: psychas, the whole self) |
+| Habakkuk 2:4 | his soul is not upright; live by faith | he is not upright within him; live by his faithfulness (emunah) |
+| Psalm 8:5 | a little lower than the angels | a little lower than the heavenly beings (fn: Heb. elohim; Gk./Heb 2:7 "angels") |
+| Luke 20:18 | this stone | that stone (Gk. ekeinon) |
+| Philippians 4:3 | yokefellow | true companion (fn: syzygos) |
+| Colossians 2:11, 13 | sinful nature | flesh (sarx) |
+| Genesis 4:7; 1:2; Exodus 3:14 | (no/short footnote) | (footnotes: rovets/rabitsu; ruach; ehyeh linked to Exod 3:12) |
 | **Household-Transfer and Ransom Register (v0.9)** |  |  |
 | Romans 3:25 | atonement offering | place of purgation (fn: Gk. hilasterion = kapporet, locus of purgation; "Or as a propitiation" removed) |
 | "Day of Purgation" (all occurrences) | Day of Purgation | Day of Purification (consistent with "purification offering"; verb "effect purgation" unchanged) |
@@ -1628,7 +1662,7 @@ Zechariah 3:1, 3:2 (twice in v.2)
 
 **Note:** 1 Chronicles 21:1 retains "Satan" (no definite article, functioning as proper name).
 
-**Rationale:** The Hebrew הַשָּׂטָן with the definite article is grammatically a title ("the adversary/accuser"), not a proper name. A faithful translation reflects the grammar of each passage. The same personal being is in view throughout Scripture; by NT times "Satan" functions as a proper name (John 8:44; 1 John 3:8; Rev 12:9). The linguistic shift from title to name does not represent theological development, only a change in how the language refers to the same entity.
+**Rationale:** The Hebrew הַשָּׂטָן with the definite article is grammatically a title ("the adversary/accuser"), not a proper name. A faithful translation reflects the grammar of each passage. The same personal being is in view throughout Scripture. By NT times "Satan" (Gk. Satanas) generally functions as a proper name (John 8:44; 1 John 3:8). Where a New Testament author draws the reader back to the heavenly accuser of Job 1-2 and Zechariah 3, the AAB renders "the Accuser" to keep that connection visible (Luke 22:31; Rev 12:9-10, where "the accuser of our brothers" stands in the very next line; Rev 20:2; Rom 16:20), with a footnote at each noting that "Satan" is an equally valid rendering. The New Testament names him more plainly and brings into fuller view what the Old Testament already shows of him.
 
 ### Firmament (רָקִיעַ / raqia)
 
