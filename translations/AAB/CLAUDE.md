@@ -59,10 +59,26 @@ The act is "purgation"; the offering and the day are named by their result, "pur
 
 ## Workflow
 
-Branch `claude/update-bible-aab-3gE8Q`, PR into `main`. For every change:
+Branch `claude/update-bible-aab-3gE8Q`, PR into `main`.
+
+**Start every round by syncing the branch**, before making any edit:
+
+```
+git fetch origin
+git checkout claude/update-bible-aab-3gE8Q
+git merge --ff-only origin/main
+```
+
+This branch is reused across rounds, so it is usually behind `main` after the last PR merged. Syncing first keeps each round on a current base.
+
+Then for every change:
 
 1. Make the edit, then `./tools/aab.py validate`.
 2. Update the Brief: bump the status line, add a verse-catalog entry, and add master-change-log rows.
-3. Commit and push; open or update the PR.
+3. Commit and push.
+4. **Check whether the last PR merged before assuming a PR is open.** `git log origin/main..HEAD --oneline` shows what still needs one. A merged PR cannot take new commits; those need a new PR.
+5. Open the PR (or update it if one is genuinely still open).
+
+The repo owner is new to git and merges through the GitHub web UI. Handle all git operations, and report status in plain English: state the PR number, what it contains, and whether it is open or merged. Never leave it ambiguous which PR is live.
 
 Discuss substantive translation choices before applying them. Mechanical fixes (typos, XML, doc-sync of decisions already made) can be applied directly.
