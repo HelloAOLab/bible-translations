@@ -906,9 +906,9 @@ We adopted these variants into the main text based on manuscript evidence:
 | Gen 46:27 | seventy | seventy-five | LXX, DSS, Acts 7:14 |
 | Exod 1:5 | seventy | seventy-five | LXX, DSS, Acts 7:14 |
 | 1 Sam 10:27–11:1 | (shorter) | Include Nahash backstory | 4QSama |
-| John 5:3b–4 | (omitted) | Include the waiting clause and the angel stirring the water | Diatessaron (2nd c.), Tertullian, Old Latin, Syriac; required by the man's reply in 5:7 |
+| John 5:3b–4 | (omitted) | Include the waiting clause and the angel stirring the water | Diatessaron (2nd c.), Tertullian, Old Latin, Syriac; cf. Rev 16:5; 22:1-2 |
 
-We adopt text-critical variants only where the manuscript evidence is strong, the MT reading creates a demonstrable problem (anachronism, internal contradiction, or loss of a theologically significant framework), and at least one of the following conditions is met: the variant is attested in the DSS, the NT cites a form of the text that presupposes the variant, or the MT reading is otherwise unattested before the second century AD. For New Testament variants the same restraint applies, with one added consideration: where a passage is missing from the earliest Greek manuscripts but the tradition is attested in second- and third-century witnesses and the surrounding narrative depends on it, the AAB includes it and states the evidence in a footnote. John 5:3b-4 is the one such case.
+We adopt text-critical variants only where the manuscript evidence is strong, the MT reading creates a demonstrable problem (anachronism, internal contradiction, or loss of a theologically significant framework), and at least one of the following conditions is met: the variant is attested in the DSS, the NT cites a form of the text that presupposes the variant, or the MT reading is otherwise unattested before the second century AD. For New Testament variants the same restraint applies, with one added consideration: where a passage is missing from the earliest Greek manuscripts but the tradition is attested in second- and third-century witnesses and the surrounding narrative depends on it, the AAB includes it and sets out the manuscript evidence in a footnote without arguing the case either way. John 5:3b-4 is the one such case.
 
 ## What This Translation Does Not Do
 
@@ -928,7 +928,7 @@ This section clarifies the limits of the project.
 
 ### Public Draft v0.12 (August 2026\)
 
-- John 5:3b-4 restored to the main text (the waiting clause and the angel stirring the pool), with a footnote giving the manuscript evidence on both sides. The earliest Greek manuscripts omit it, but the tradition is attested by Tatian's Diatessaron in the second century, Tertullian in the third, and the Old Latin and Syriac versions, and the man's reply in 5:7 assumes it.
+- John 5:3b-4 restored to the main text (the waiting clause and the angel stirring the pool). The footnote states the manuscript evidence plainly rather than arguing a case: the earliest Greek copies omit it, Alexandrinus marks it as disputed, the later Greek tradition carries it, the two halves travel separately, and the tradition is attested earlier by Tatian's Diatessaron, Tertullian, and the Old Latin and Syriac versions, with Johannine parallels at Rev 16:5 and 22:1-2. The AAB prints it, hopeful it is genuine, while noting the weaker manuscript support.
 
 ### Public Draft v0.11 (July 2026\)
 
@@ -1461,7 +1461,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
 | **Text-Critical (v0.12)** |  |  |
-| John 5:3-4 | (5:3b and v.4 omitted; footnote only) | included in the text: 'awaiting the moving of the waters' and the angel stirring the pool (fn: earliest Greek manuscripts omit; Diatessaron, Tertullian, Old Latin, Syriac attest; verse 7 assumes it) |
+| John 5:3-4 | (5:3b and v.4 omitted; footnote only) | included in the text: 'awaiting the moving of the waters' and the angel stirring the pool (fn: manuscript evidence stated plainly; cf. Rev 16:5; 22:1-2) |
 | **Whole-Person and Hebrew Accuracy (v0.11)** |  |  |
 | Luke 21:19 | gain your souls | gain your lives |
 | Revelation 18:13 | souls of slaves | human lives |
