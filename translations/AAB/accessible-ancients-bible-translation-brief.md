@@ -887,13 +887,13 @@ The shift from seventy-five to seventy in the MT is likely connected to the broa
 
 ### Noah's Tent (Genesis 9:21-22)
 
-The Hebrew of Genesis 9:21 reads בְּתוֹךְ אָהֳלָהּ (*betokh oholah*), "inside her tent." The pronominal suffix is feminine. Most translations render this as "his tent," assuming a scribal error or reading the suffix as referring to Noah. We preserved the feminine suffix: "inside her tent."
+The Hebrew of Genesis 9:21 reads בְּתוֹךְ אָהֳלֹה (*betokh oholoh*). The word ends in the letter *he*, which ordinarily marks "her," so the consonants read "inside her tent." The Masoretic vowel marks point the word as "his," and the same spelling is used of Abram's and Jacob's tents at Genesis 12:8, 13:3, and 35:21, where the Masoretes note the written form אהלה alongside the read form אהלו. Those vowel marks are a later layer than the consonants, and the unpointed word can be read either way, so "her" is as defensible as "his" on the consonantal text. We render "inside her tent," on the grounds given in the next paragraph.
 
 The phrase "saw his father's nakedness" (Gen 9:22) is not merely visual. Leviticus 18:8 and 20:11 use "uncover the nakedness of your father" as a specific idiom for sexual relations with one's father's wife. Ham "saw his father's nakedness" in "her tent." The text implies that Ham violated Noah's wife. This explains why Canaan bears the curse: he may be the offspring of this act.
 
 Noah's wife is not named in Scripture.[^4] The text's reticence invites the reader to discern what happened without spelling it out. We followed the Masoretic text as written.
 
-**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholah*, "her tent," notes that the ending is the ordinary feminine form and so belongs to a woman, and states that most English translations print "his tent" by treating that ending as an unusual spelling of "his," while the AAB reads it as it normally reads. Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
+**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholoh*, notes that the final *he* ordinarily marks "her" so the consonants read "her tent," states that the vowel marks producing "his" were added centuries later and that "her" is as defensible as "his" in the Hebrew itself, names the common rendering with its basis (the later marks and the parallel spellings at Gen 12:8; 13:3; 35:21), and gives the AAB's reason from the idiom in verse 22 and the curse on Canaan. Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
 
 ## Text-Critical Adoptions
 
