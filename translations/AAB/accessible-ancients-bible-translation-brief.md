@@ -887,13 +887,13 @@ The shift from seventy-five to seventy in the MT is likely connected to the broa
 
 ### Noah's Tent (Genesis 9:21-22)
 
-The Hebrew of Genesis 9:21 reads בְּתוֹךְ אָהֳלָהּ (*betokh oholah*), "inside her tent." The pronominal suffix is feminine. Most translations render this as "his tent," assuming a scribal error or reading the suffix as referring to Noah. We preserved the feminine suffix: "inside her tent."
+The Hebrew of Genesis 9:21 reads בְּתוֹךְ אָהֳלֹה (*betokh oholoh*). The word ends in the letter *he*, which ordinarily marks "her," so the consonants read "inside her tent." The Masoretic vowel marks point the word as "his," and the same spelling is used of Abram's and Jacob's tents at Genesis 12:8, 13:3, and 35:21, where the Masoretes note the written form אהלה alongside the read form אהלו. Those parallels explain why translators default to "his," and they do not settle Genesis 9:21, since in each of them a man pitches a tent with no woman in the scene, while here a wife is present and the episode turns on a sexual violation. The vowel marks are a later layer than the consonants, and the unpointed word can be read either way, so "her" is as defensible as "his" on the consonantal text. We render "inside her tent," because that reading is equally available in the Hebrew and carries far more explanatory power, as the next paragraph sets out.
 
 The phrase "saw his father's nakedness" (Gen 9:22) is not merely visual. Leviticus 18:8 and 20:11 use "uncover the nakedness of your father" as a specific idiom for sexual relations with one's father's wife. Ham "saw his father's nakedness" in "her tent." The text implies that Ham violated Noah's wife. This explains why Canaan bears the curse: he may be the offspring of this act.
 
 Noah's wife is not named in Scripture.[^4] The text's reticence invites the reader to discern what happened without spelling it out. We followed the Masoretic text as written.
 
-**Footnote in translation:** "Heb. 'her tent'; traditionally rendered 'his tent.' See Lev 18:8."
+**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholoh*, notes that the final *he* ordinarily marks "her" so the consonants read "her tent," states that the vowel marks producing "his" were added centuries later and that "her" is as defensible as "his" in the Hebrew itself, names the common rendering with its basis (the later marks and the parallel spellings at Gen 12:8; 13:3; 35:21), and gives the AAB's reason from the idiom in verse 22 and the curse on Canaan. Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
 
 ## Text-Critical Adoptions
 
@@ -928,6 +928,7 @@ This section clarifies the limits of the project.
 
 ### Public Draft v0.12 (August 2026\)
 
+- Genesis 9:21 and 9:22: footnotes added for the feminine "her tent" and for the Torah's legal sense of uncovering a father's nakedness, which the Brief had described but the text had never carried
 - John 5:3b-4 restored to the main text (the waiting clause and the angel stirring the pool). The footnote states the manuscript evidence plainly rather than arguing a case: the earliest Greek copies omit it, Alexandrinus marks it as disputed, the later Greek tradition carries it, the two halves travel separately, and the tradition is attested earlier by Tatian's Diatessaron, Tertullian, and the Old Latin and Syriac versions, with Johannine parallels at Rev 16:5 and 22:1-2. The AAB prints it, hopeful it is genuine, while noting the weaker manuscript support.
 
 ### Public Draft v0.11 (July 2026\)
@@ -1460,7 +1461,9 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
-| **Text-Critical (v0.12)** |  |  |
+| **Text-Critical and Footnotes (v0.12)** |  |  |
+| Genesis 9:21 | (no footnote) | (fn: Heb. oholah, "her tent"; feminine ending; most translations print "his tent") |
+| Genesis 9:22 | (no footnote) | (fn: uncovering a father's nakedness as Torah legal idiom, Lev 18:8; 20:11; accounts for the curse on Canaan, Gen 9:25) |
 | John 5:3-4 | (5:3b and v.4 omitted; footnote only) | included in the text: 'awaiting the moving of the waters' and the angel stirring the pool (fn: manuscript evidence stated plainly; cf. Rev 16:5; 22:1-2) |
 | **Whole-Person and Hebrew Accuracy (v0.11)** |  |  |
 | Luke 21:19 | gain your souls | gain your lives |
