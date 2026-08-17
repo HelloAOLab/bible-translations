@@ -893,7 +893,7 @@ The phrase "saw his father's nakedness" (Gen 9:22) is not merely visual. Levitic
 
 Noah's wife is not named in Scripture.[^4] The text's reticence invites the reader to discern what happened without spelling it out. We followed the Masoretic text as written.
 
-**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholah*, "her tent," notes that the ending is feminine and so belongs to a woman, and states that most English translations print "his tent." Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
+**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholah*, "her tent," notes that the ending is the ordinary feminine form and so belongs to a woman, and states that most English translations print "his tent" by treating that ending as an unusual spelling of "his," while the AAB reads it as it normally reads. Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
 
 ## Text-Critical Adoptions
 
