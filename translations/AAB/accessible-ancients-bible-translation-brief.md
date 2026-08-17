@@ -893,7 +893,7 @@ The phrase "saw his father's nakedness" (Gen 9:22) is not merely visual. Levitic
 
 Noah's wife is not named in Scripture.[^4] The text's reticence invites the reader to discern what happened without spelling it out. We followed the Masoretic text as written.
 
-**Footnote in translation:** "Heb. 'her tent'; traditionally rendered 'his tent.' See Lev 18:8."
+**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholah*, "her tent," notes that the ending is feminine and so belongs to a woman, and states that most English translations print "his tent." Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
 
 ## Text-Critical Adoptions
 
@@ -928,6 +928,7 @@ This section clarifies the limits of the project.
 
 ### Public Draft v0.12 (August 2026\)
 
+- Genesis 9:21 and 9:22: footnotes added for the feminine "her tent" and for the Torah's legal sense of uncovering a father's nakedness, which the Brief had described but the text had never carried
 - John 5:3b-4 restored to the main text (the waiting clause and the angel stirring the pool). The footnote states the manuscript evidence plainly rather than arguing a case: the earliest Greek copies omit it, Alexandrinus marks it as disputed, the later Greek tradition carries it, the two halves travel separately, and the tradition is attested earlier by Tatian's Diatessaron, Tertullian, and the Old Latin and Syriac versions, with Johannine parallels at Rev 16:5 and 22:1-2. The AAB prints it, hopeful it is genuine, while noting the weaker manuscript support.
 
 ### Public Draft v0.11 (July 2026\)
@@ -1460,7 +1461,9 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
-| **Text-Critical (v0.12)** |  |  |
+| **Text-Critical and Footnotes (v0.12)** |  |  |
+| Genesis 9:21 | (no footnote) | (fn: Heb. oholah, "her tent"; feminine ending; most translations print "his tent") |
+| Genesis 9:22 | (no footnote) | (fn: uncovering a father's nakedness as Torah legal idiom, Lev 18:8; 20:11; accounts for the curse on Canaan, Gen 9:25) |
 | John 5:3-4 | (5:3b and v.4 omitted; footnote only) | included in the text: 'awaiting the moving of the waters' and the angel stirring the pool (fn: manuscript evidence stated plainly; cf. Rev 16:5; 22:1-2) |
 | **Whole-Person and Hebrew Accuracy (v0.11)** |  |  |
 | Luke 21:19 | gain your souls | gain your lives |
