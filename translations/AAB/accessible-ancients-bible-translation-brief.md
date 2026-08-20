@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.12 | Awaiting Feedback**
+**Status: Public Draft v0.13 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -926,6 +926,10 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.13 (August 2026\)
+
+- Acts 1:18: "he fell headlong" re-rendered "he came to lie face down." Gk. prenes describes the position of a body, face down or prostrate, and the participle joined to it is genomenos, "having become," not a verb of falling, so the Greek reports where Judas ended up rather than how he got there. Footnote added naming the common rendering.
+
 ### Public Draft v0.12 (August 2026\)
 
 - Genesis 9:21 and 9:22: footnotes added for the feminine "her tent" and for the Torah's legal sense of uncovering a father's nakedness, which the Brief had described but the text had never carried
@@ -1461,6 +1465,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Lexical (v0.13)** |  |  |
+| Acts 1:18 | he fell headlong | he came to lie face down (fn: Gk. prenes, face down or prostrate; the verb with it is "became," not "fell") |
 | **Text-Critical and Footnotes (v0.12)** |  |  |
 | Genesis 9:21 | (no footnote) | (fn: Heb. oholah, "her tent"; feminine ending; most translations print "his tent") |
 | Genesis 9:22 | (no footnote) | (fn: uncovering a father's nakedness as Torah legal idiom, Lev 18:8; 20:11; accounts for the curse on Canaan, Gen 9:25) |
