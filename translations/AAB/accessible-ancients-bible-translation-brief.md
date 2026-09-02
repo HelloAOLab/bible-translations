@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.13 | Awaiting Feedback**
+**Status: Public Draft v0.14 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -926,6 +926,11 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.14 (September 2026\)
+
+- Genesis 22:2 and 22:13: footnotes added on the ascension offering. The note at v. 2 gives the sense of olah, its stated purpose of drawing God's presence near (Lev 1:9), its law (Lev 1:3-9), and the fact that it is not the offering that deals with sin (Lev 4:20; 5:16); it explains the one-handed gesture as marking ownership by contrast with the two-handed transfer with confession (Lev 1:4; 16:21); and it states that the binding is a test (v. 1) of a thing the Torah forbids (Lev 18:21; Deut 12:31), halted by the angel with a ram given in Isaac's place, closing with Moriah as the temple site (2 Chr 3:1) and the echo at Rom 8:32.
+- Genesis 24:64: "she got down from her camel" to "she quickly got down from her camel," with a footnote. The ordinary verb for dismounting is yarad (2 Kgs 5:21); here the text uses naphal, used elsewhere of falling facedown before someone of significance (Gen 17:3; 1 Sam 25:23).
+
 ### Public Draft v0.13 (August 2026\)
 
 - Acts 1:18: "he fell headlong" re-rendered "he came to lie face down." Gk. prenes describes the position of a body, face down or prostrate, and the participle joined to it is genomenos, "having become," not a verb of falling, so the Greek reports where Judas ended up rather than how he got there. Footnote added naming the common rendering.
@@ -1465,6 +1470,10 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Lexical and Footnotes (v0.14)** |  |  |
+| Genesis 22:2 | (no footnote) | (fn: olah, "that which ascends"; purpose is the soothing aroma drawing God near, Lev 1:9; law at Lev 1:3-9; not the offering that deals with sin, Lev 4:20; 5:16; one hand marks ownership against the two-handed transfer, Lev 1:4; 16:21; a test, v. 1, of what the Torah forbids, Lev 18:21; Deut 12:31; Moriah, 2 Chr 3:1; Rom 8:32) |
+| Genesis 22:13 | (textual note only) | (added fn: the ram takes Isaac's place in the same offering) |
+| Genesis 24:64 | she got down from her camel | she quickly got down from her camel (fn: Heb. naphal, not the ordinary yarad; cf. Gen 17:3; 1 Sam 25:23) |
 | **Lexical (v0.13)** |  |  |
 | Acts 1:18 | he fell headlong | he came to lie face down (fn: Gk. prenes, face down or prostrate; the verb with it is "became," not "fell") |
 | **Text-Critical and Footnotes (v0.12)** |  |  |
