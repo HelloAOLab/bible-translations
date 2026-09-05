@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.13 | Awaiting Feedback**
+**Status: Public Draft v0.15 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -762,6 +762,14 @@ The footnotes also state what the day **cannot** do, because the law marks its o
 
 The same chapter preserves a distinction most translations flatten. Two goats: one is the purification offering whose blood purges the sanctuary and which carries no sin; the other, the goat for Azazel, receives Israel's sins by a two-handed transfer with confession (the only sin transfer in the Torah) and is precisely *not* sacrificed — it is not slaughtered, its blood is never offered, and it is driven out of the camp. Sin transfer and sacrifice are mutually exclusive operations in Leviticus 16, performed on two different goats. The dispatch of the Azazel goat belongs to a recognized ANE ritual genre of elimination rites (Hittite rituals of Ashella, Ambazzi, and Uhhamuwa; Eblaite goat-dispatch rites), a genre distinct from altar sacrifice — and Leviticus 16 preserves exactly that genre distinction.
 
+### Bashan, the Rephaim, and the Sons of God
+
+The Bashan material involves groups that are easily conflated, and the footnotes keep them apart. The Watchers of the Genesis 6 rebellion, the Nephilim and Rephaim descended from or associated with them, and the sons of God allotted the nations at Deuteronomy 32:8 are distinct. Deuteronomy 32:8-9 says the Most High apportioned the nations according to the number of the sons of God and kept Israel as His own portion; it does not say those rulers were already corrupt when the nations were allotted to them, and Psalm 82 describes a later corruption and sentence. "Territorial gods" is explanatory shorthand rather than the name of a class in Deuteronomy 32, and "corrupt" describes what those rulers became rather than what God appointed them to be.
+
+The "bulls of Bashan" therefore belong to the Rephaim and the cult of the venerated royal dead, not to the rulers of Deuteronomy 32. Scripture traces the line itself: the Anakim came from the Nephilim (Num 13:33), the Anakim were reckoned as Rephaim (Deut 2:11, 20-21), and the Nephilim were born of the union in Genesis 6:4. Bashan was Og's kingdom and is called the land of the Rephaim (Deut 3:11, 13; Josh 13:12), while the same word names the dead (Job 26:5; Ps 88:10; Isa 14:9; 26:14). Ugaritic texts summon the Rephaim of the underworld at Ashtaroth and Edrei, the cities Scripture assigns to Og (Josh 12:4-5; 13:12). Footnotes at Psalm 22:12, Amos 4:1, and Amos 4:3 carry this; the Amos 4:3 note records "Hermon" as a conjecture with no Hebrew manuscript support, and does not treat the Gilgal of Amos 4:4 as Gilgal Rephaim, since Amos names Bethel and Gilgal as northern cult centers and that Gilgal is unrelated to Rujm el-Hiri.
+
+**Key sources:** Michael S. Heiser, "Deuteronomy 32:8 and the Sons of God," *Bibliotheca Sacra* 158 (2001): 52-74, and *Demons* (Lexham, 2020); Robert D. Miller II, "Baals of Bashan," *Revue Biblique* 121 (2014): 506-15; Derek P. Gilbert, *Last Clash of the Titans* (2018) and, with Sharon K. Gilbert, *Veneration* (2019).
+
 ### Ascension Offering (עֹלָה / *olah*)
 
 Traditional translations render עֹלָה as "burnt offering." The Hebrew word means "that which ascends," from עָלָה (*alah*, "to go up"); it names the offering's ascent to God in smoke, not its burning. The evidence that "burnt offering" mistranslates the name is internal to the Hebrew Bible. Hebrew has a separate word for "wholly burnt" — כָּלִיל (*kalil*, Deut 13:16; 33:10; Ps 51:19) — and 1 Samuel 7:9 uses both together: עוֹלָה כָּלִיל, "a whole ascension offering." If עֹלָה meant "burnt offering," *kalil* would be redundant there. The two words carry two distinct ideas: עֹלָה names the direction, כָּלִיל the disposal. Judges 13:20 puns on the name — as the flame *went up* (עָלָה) from the altar, the angel of the LORD *ascended* (עָלָה) in the flame of the עֹלָה — a triple wordplay invisible in any translation that says "burnt offering."
@@ -910,6 +918,8 @@ We adopted these variants into the main text based on manuscript evidence:
 
 We adopt text-critical variants only where the manuscript evidence is strong, the MT reading creates a demonstrable problem (anachronism, internal contradiction, or loss of a theologically significant framework), and at least one of the following conditions is met: the variant is attested in the DSS, the NT cites a form of the text that presupposes the variant, or the MT reading is otherwise unattested before the second century AD. For New Testament variants the same restraint applies, with one added consideration: where a passage is missing from the earliest Greek manuscripts but the tradition is attested in second- and third-century witnesses and the surrounding narrative depends on it, the AAB includes it and sets out the manuscript evidence in a footnote without arguing the case either way. John 5:3b-4 is the one such case.
 
+The discovery of the Dead Sea Scrolls in the late 1940s showed that the Greek text of Deuteronomy 32:8 and 32:43 had been translating a Hebrew text far older than anything then available. Before those scrolls were found, a reader could, perhaps, reasonably have supposed the Greek had embellished. We now have that Hebrew in hand, and the oldest sources available to us agree with what had been presumed to be the later Greek reading. Adopting these readings therefore does not mean trusting a Greek translation over the Hebrew, but adopting the reading of the oldest Hebrew texts we have access to.
+
 ## What This Translation Does Not Do
 
 This section clarifies the limits of the project.
@@ -925,6 +935,17 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.15 (September 2026\)
+
+- Deuteronomy 32:43 and Hebrews 1:6: notes now explain that elohim identifies beings by the realm they belong to rather than by rank, covering God Most High down to the spirit of the dead Samuel (1 Sam 28:13), and that Greek had no word of that range, so "gods," "sons of God," and "angels of God" render one Hebrew word. The Deut 32:43 note also drops an argument from silence and states its manuscript claim within its actual scope.
+- Psalm 22:12, Amos 4:1, Amos 4:3: Bashan footnotes added or expanded, identifying the "mighty ones of Bashan" with the Rephaim and the venerated royal dead rather than with the sons of God of Deuteronomy 32.
+- Psalm 88:10: repeated word corrected ("for the the Rephaim").
+
+### Public Draft v0.14 (September 2026\)
+
+- Genesis 22:2 and 22:13: footnotes added on the ascension offering. The note at v. 2 gives the sense of olah, its stated purpose of drawing God's presence near (Lev 1:9), its law (Lev 1:3-9), and the fact that it is not the offering that deals with sin (Lev 4:20; 5:16); it explains the one-handed gesture as marking ownership by contrast with the two-handed transfer with confession (Lev 1:4; 16:21); and it states that the binding is a test (v. 1) of a thing the Torah forbids (Lev 18:21; Deut 12:31), halted by the angel with a ram given in Isaac's place, closing with Moriah as the temple site (2 Chr 3:1) and the echo at Rom 8:32.
+- Genesis 24:64: "she got down from her camel" to "she quickly got down from her camel," with a footnote. The ordinary verb for dismounting is yarad (2 Kgs 5:21); here the text uses naphal, used elsewhere of falling facedown before someone of significance (Gen 17:3; 1 Sam 25:23).
 
 ### Public Draft v0.13 (August 2026\)
 
@@ -1465,6 +1486,17 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Elohim, Bashan, and Footnotes (v0.15)** |  |  |
+| Deuteronomy 32:43 | (fn: witnesses only) | (fn adds: elohim names beings by realm, not rank, 1 Sam 28:13; Ps 82:1, 6; "angel" means messenger; renderings are translation decisions, not variants) |
+| Hebrews 1:6 | (fn: Deuteronomy 32:43, see DSS and LXX) | (fn: line absent from MT but present in 4QDeutq and the Greek; elohim range; "gods," "sons of God," "angels of God" render one word) |
+| Psalm 22:12 | (no footnote) | (fn: literally "mighty ones of Bashan"; Og and the land of the Rephaim; Nephilim to Anakim to Rephaim, Num 13:33; Deut 2:11, 20-21; Gen 6:4; Rephaim also the dead; Ugaritic summons at Ashtaroth and Edrei) |
+| Amos 4:1 | (no footnote) | (fn: wealthy women of Samaria in the figure of Bashan cattle; land of the Rephaim; Ps 82:3-4 echo of shared injustice) |
+| Amos 4:3 | (fn: possibly Mount Hermon) | (fn: haharmonah a hapax; Greek "mountain Romman"; "Hermon" a conjecture with no Hebrew manuscript support) |
+| Psalm 88:10 | for the the Rephaim | for the Rephaim |
+| **Lexical and Footnotes (v0.14)** |  |  |
+| Genesis 22:2 | (no footnote) | (fn: olah, "that which ascends"; purpose is the soothing aroma drawing God near, Lev 1:9; law at Lev 1:3-9; not the offering that deals with sin, Lev 4:20; 5:16; one hand marks ownership against the two-handed transfer, Lev 1:4; 16:21; a test, v. 1, of what the Torah forbids, Lev 18:21; Deut 12:31; Moriah, 2 Chr 3:1; Rom 8:32) |
+| Genesis 22:13 | (textual note only) | (added fn: the ram takes Isaac's place in the same offering) |
+| Genesis 24:64 | she got down from her camel | she quickly got down from her camel (fn: Heb. naphal, not the ordinary yarad; cf. Gen 17:3; 1 Sam 25:23) |
 | **Lexical (v0.13)** |  |  |
 | Acts 1:18 | he fell headlong | he came to lie face down (fn: Gk. prenes, face down or prostrate; the verb with it is "became," not "fell") |
 | **Text-Critical and Footnotes (v0.12)** |  |  |
