@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.15 | Awaiting Feedback**
+**Status: Public Draft v0.16 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -762,6 +762,18 @@ The footnotes also state what the day **cannot** do, because the law marks its o
 
 The same chapter preserves a distinction most translations flatten. Two goats: one is the purification offering whose blood purges the sanctuary and which carries no sin; the other, the goat for Azazel, receives Israel's sins by a two-handed transfer with confession (the only sin transfer in the Torah) and is precisely *not* sacrificed — it is not slaughtered, its blood is never offered, and it is driven out of the camp. Sin transfer and sacrifice are mutually exclusive operations in Leviticus 16, performed on two different goats. The dispatch of the Azazel goat belongs to a recognized ANE ritual genre of elimination rites (Hittite rituals of Ashella, Ambazzi, and Uhhamuwa; Eblaite goat-dispatch rites), a genre distinct from altar sacrifice — and Leviticus 16 preserves exactly that genre distinction.
 
+### The Exodus as Marriage (Exodus 11:1)
+
+Exodus 11:1 reads כִּי כְּשַׁלְּחוֹ כָּלָה, and the consonants כלה carry both *kalah*, "completely," and *kallah*, "bride." The Masoretic vocalization gives "completely," which most translations follow. The AAB renders "as a bride," on the convergence of three lines of evidence.
+
+**Grammatical.** The word attaches to the sending, not to the driving out, so the common rendering must move it across a clause boundary; "send you away completely" is awkward, and the line has long been treated as a crux. *Shalach* is the verb for sending a daughter off in marriage, and the goods she departs with are her *shilluchim*, her send-off gift, the word used when Pharaoh gave Gezer to his daughter on her marriage (1 Kgs 9:16). The same verb sends a wife away in divorce (Deut 24:1), and *garash*, "drive out," is the root of *gerushah*, "divorced woman" (Lev 21:7, 14). Both registers are active at once.
+
+**Literary and structural.** The dowry follows immediately (Exod 11:2; 12:35-36), and the pattern is already established in Genesis, where a Pharaoh takes Sarai, is struck with plagues, and sends her away with wealth (Gen 12:14-20).
+
+**Canonical.** God takes Israel with the verb for taking a wife (Exod 6:7), brings her to Himself (Exod 19:4), and binds her at Sinai, which is what makes His jealousy a husband's (Exod 20:5; 34:14). Jeremiah recalls the wilderness as "your love as a bride" (Jer 2:2), Ezekiel as a covenant by which she became His (Ezek 16:8), and both then call her idolatry adultery (Hos 2:2-13; Ezek 16:32). Paul presents the church as a bride to one husband (2 Cor 11:2; Eph 5:31-32), and the canon closes with the marriage of the Lamb (Rev 19:7; 21:2, 9).
+
+The AAB does not treat the Masoretic vocalization as binding where the grammatical, structural, and canonical evidence converges against it. Footnotes at Exodus 11:1, 20:5, and 34:14 carry this, and the jealousy note at 20:5 supplies the Old Testament ground for the marriage register the notes at Romans 7:4 and 2 Corinthians 11:2 already use.
+
 ### Bashan, the Rephaim, and the Sons of God
 
 The Bashan material involves groups that are easily conflated, and the footnotes keep them apart. The Watchers of the Genesis 6 rebellion, the Nephilim and Rephaim descended from or associated with them, and the sons of God allotted the nations at Deuteronomy 32:8 are distinct. Deuteronomy 32:8-9 says the Most High apportioned the nations according to the number of the sons of God and kept Israel as His own portion; it does not say those rulers were already corrupt when the nations were allotted to them, and Psalm 82 describes a later corruption and sentence. "Territorial gods" is explanatory shorthand rather than the name of a class in Deuteronomy 32, and "corrupt" describes what those rulers became rather than what God appointed them to be.
@@ -935,6 +947,11 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.16 (September 2026\)
+
+- Exodus 11:1: "he will drive you out completely" to "when he sends you away as a bride, he will surely drive you out from here," reading the consonants as kallah rather than kalah. The word attaches to the sending, the dowry follows at once (11:2; 12:35-36), and the canon reads the Exodus as a marriage (Exod 6:7; 19:4; Jer 2:2; Ezek 16:8).
+- Exodus 20:5 and 34:14: first footnotes in the AAB on the jealousy of God, grounding it as a husband's jealousy and tracing the marriage from Sinai through the prophets to the marriage of the Lamb.
 
 ### Public Draft v0.15 (September 2026\)
 
@@ -1486,6 +1503,10 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **The Exodus as Marriage (v0.16)** |  |  |
+| Exodus 11:1 | he will drive you out completely | he sends you away as a bride, he will surely drive you out from here (fn: kallah vs kalah; shalach and shilluchim, 1 Kgs 9:16; garash and gerushah, Lev 21:7, 14; Gen 12:14-20; Exod 6:7; 19:4; Jer 2:2; Ezek 16:8) |
+| Exodus 20:5 | (no footnote) | (fn: God's jealousy is a husband's; Exod 6:7; 19:4; Hos 2:2-13; Ezek 16:32; Jer 3:1-8; 2 Cor 11:2; Eph 5:31-32; Rev 19:7; 21:2, 9) |
+| Exodus 34:14 | (no footnote) | (fn: Heb. qanna, made a name; see note on Exod 20:5) |
 | **Elohim, Bashan, and Footnotes (v0.15)** |  |  |
 | Deuteronomy 32:43 | (fn: witnesses only) | (fn adds: elohim names beings by realm, not rank, 1 Sam 28:13; Ps 82:1, 6; "angel" means messenger; renderings are translation decisions, not variants) |
 | Hebrews 1:6 | (fn: Deuteronomy 32:43, see DSS and LXX) | (fn: line absent from MT but present in 4QDeutq and the Greek; elohim range; "gods," "sons of God," "angels of God" render one word) |
