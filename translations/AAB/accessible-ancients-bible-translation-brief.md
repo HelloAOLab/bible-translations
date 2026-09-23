@@ -758,6 +758,14 @@ The footnotes also state what the day **cannot** do, because the law marks its o
 
 The same chapter preserves a distinction most translations flatten. Two goats: one is the purification offering whose blood purges the sanctuary and which carries no sin; the other, the goat for Azazel, receives Israel's sins by a two-handed transfer with confession (the only sin transfer in the Torah) and is precisely *not* sacrificed — it is not slaughtered, its blood is never offered, and it is driven out of the camp. Sin transfer and sacrifice are mutually exclusive operations in Leviticus 16, performed on two different goats. The dispatch of the Azazel goat belongs to a recognized ANE ritual genre of elimination rites (Hittite rituals of Ashella, Ambazzi, and Uhhamuwa; Eblaite goat-dispatch rites), a genre distinct from altar sacrifice — and Leviticus 16 preserves exactly that genre distinction.
 
+### Corporate Singulars and the Household
+
+Hebrew often lets a nation, tribe, or house speak and be addressed as one person: "I," "me," "my lot," singular "you," "my brother." The BSB, and so the AAB before v0.17, turned these into "we," "us," and "our." The singular carries the text's own family logic: nations are brothers ("your brother Israel," Num 20:14; "your brother Jacob," Obad 10), a tribe speaks as one son (Judg 1:3), and a head speaks of his household as himself (Gen 34:30).
+
+Where Hebrew speaks of or to a people, tribe, or house as one person, the AAB keeps the singular. Where Hebrew mixes singular and plural within one speech, the AAB keeps the mix. Where English cannot carry the singular without confusion, the AAB keeps the plural and footnotes the Hebrew singular. The singular is kept as the Hebrew's own wording; where a leader speaks through messengers (Deut 2:26-28), the "I" may be the leader speaking for the people, and the rendering does not decide between the two.
+
+The same household logic appears in "son of the house" (ben bayit), a member of the household who is not the head's own offspring. Genesis 15:3-4 sets "a son of my house" against an heir from Abram's own body, and the AAB now keeps the phrase.
+
 ### The Exodus as Marriage (Exodus 11:1)
 
 Exodus 11:1 reads כִּי כְּשַׁלְּחוֹ כָּלָה, and the consonants כלה carry both *kalah*, "completely," and *kallah*, "bride." The Masoretic vocalization gives "completely," which most translations follow. The AAB renders "as a bride," on the convergence of three lines of evidence.
@@ -950,6 +958,8 @@ This section clarifies the limits of the project.
 - Exodus 21:6, 22:8, 22:9: "judges" corrected to "God," as the Brief already required; footnotes note the common rendering.
 - 1 Samuel 2:25: footnote "Or the judges" removed. 1 Samuel 28:13: "a god" to "a spirit," with a footnote on elohim.
 - Genesis 32:24: a leftover note about capitalizing pronouns replaced with a note on the wrestler (v. 30; Hos 12:3-4).
+- Corporate singulars restored where Hebrew speaks of a people, tribe, or house as one person: Genesis 34:30; Numbers 20:18-20; 21:22; Deuteronomy 2:27-28; Joshua 17:14, 17; Judges 1:3; 11:17, 19; 20:23, 28; 2 Samuel 19:42-43. New Brief section, "Corporate Singulars and the Household."
+- Genesis 15:3: "a servant in my household" to "a son of my house," with a note; Ecclesiastes 2:7 gains a matching note.
 - Audit of Brief against text: the throne seat restored at Exodus 25:19 and 37:8, where it had dropped out of the verse; Psalm 40:6 "burnt offerings" to "ascension offerings," matching its quotation at Hebrews 10:6; Daniel 8:24 "the holy people" to "the people of the holy ones," matching 7:27; Ezra 6:10 "sweet aroma" to "soothing aroma," the Aramaic form of the same formula; Colossians 3 heading "New Self" to "New Man."
 - Gehenna: "hell" to "Gehenna" in all 12 verses, with a primary note at Matthew 5:22 stressing that Isaiah 66:24 describes corpses, not living people, and that the dead now wait in Hades (Luke 16:23, new note). New notes at John 1:5, Matthew 6:13, and Hebrews 2:14 on Satan's power as darkness and death, reached through temptation and sin.
 - Isaiah 14:12: "morning star, son of the dawn" to "Shining One, son of Dawn," with a note on the Ugaritic background; "morning star" is Christ's title (Rev 22:16).
@@ -1520,6 +1530,18 @@ The following table lists every BSB to AAB textual change in canonical order.
 | 1 Samuel 2:25 | (fn: Or the judges) | (footnote removed) |
 | 1 Samuel 28:13 | I see a god | I see a spirit (fn: Heb. elohim; the dead Samuel; no exact English equivalent) |
 | Genesis 32:24 | (fn: Or Man; pronouns may be capitalized) | (fn: Heb. ish; v. 30; Hos 12:3-4; Gen 18:2; Judg 13:22) |
+| Genesis 34:30 | We are few in number | I am few in number |
+| Numbers 20:18 | travel through our land, or we will come out | pass through me, or I will come out |
+| Numbers 20:19 | if we or our herds drink... let us pass | if we drink your water, I and my livestock, I will pay... let me pass |
+| Numbers 20:20 | confront the Israelites | Edom came out to confront him (fn: Israel as one person; Gen 25:23-26) |
+| Numbers 21:22; Deuteronomy 2:27-28; Judges 11:17 | let us pass... | let me pass... (Hebrew singular) |
+| Judges 11:19 | into our own place | into my own place |
+| Joshua 17:14, 17 | given us... We have many people / You have many people | given me... I am a numerous people / You are a numerous people |
+| Judges 1:3 | the men of Judah said to their brothers the Simeonites... | Judah said to Simeon his brother... (fn: tribes as brothers; Gen 29:33, 35) |
+| Judges 20:23, 28 | Should we... against our brothers the Benjamites... them | Should I... against the sons of Benjamin my brother... him |
+| 2 Samuel 19:42-43 | the men of Israel / the men of Judah... we... us | Israel answered Judah... I... me (fn: each tribe as one person) |
+| Genesis 15:3 | a servant in my household | a son of my house (fn: ben beti; v. 4; Gen 14:14; 17:12) |
+| Ecclesiastes 2:7 | (no footnote) | (fn: sons of the house; see Gen 15:3) |
 | Exodus 25:19; 37:8 | all made from one piece of gold | all made of one piece with the throne seat |
 | Psalm 40:6 | Burnt offerings | Ascension offerings |
 | Daniel 8:24 | the holy people | the people of the holy ones |
