@@ -525,7 +525,7 @@ The following section addresses how we rendered terms for spiritual beings other
 
 ### Elohim and Divine Council Language
 
-*Elohim* names beings of the spirit realm: God, a single divine being, the gods of the nations, the heavenly host, and the spirits of the dead (1 Sam 28:13). It can be singular or plural, and context decides which is meant. It is never used of an ordinary living human being. Where Moses is made "like God" to Pharaoh and to Aaron (Exod 4:16; 7:1), he stands in God's place toward them; he is not called a divine being. The AAB therefore never reduces *elohim* to "judges," "rulers," or "mighty ones."
+*Elohim* names beings of the spirit realm: God, a single divine being, the gods of the nations, the heavenly host, and the spirits of the dead (1 Sam 28:13). It can be singular or plural, and context decides which is meant. It is never used of an ordinary living human being. Where Moses is made "like God" to Pharaoh and to Aaron (Exod 4:16; 7:1), he stands in God's place toward them; he is not called a divine being. Psalm 82 addresses heavenly beings, not human judges: they are sentenced to die like mortals (82:7), a sentence carried out at the last judgment (Isa 24:21-22; Rev 20:10, 14), and Jesus argues from the psalm on that basis (John 10:34-36). The one human called elohim is Jesus, who is both God and man (Ps 45:6; Heb 1:8-9). The AAB therefore never reduces *elohim* to "judges," "rulers," or "mighty ones."
 
 | Reference | Rendering |
 | :---- | :---- |
@@ -950,6 +950,7 @@ This section clarifies the limits of the project.
 - Exodus 21:6, 22:8, 22:9: "judges" corrected to "God," as the Brief already required; footnotes note the common rendering.
 - 1 Samuel 2:25: footnote "Or the judges" removed. 1 Samuel 28:13: "a god" to "a spirit," with a footnote on elohim.
 - Genesis 32:24: a leftover note about capitalizing pronouns replaced with a note on the wrestler (v. 30; Hos 12:3-4).
+- Psalm 82:1, 82:7, John 10:34, Psalm 45:6: first footnotes on Psalm 82, which had none. The psalm addresses heavenly beings sentenced to death (Isa 24:21-22; Rev 20:10, 14); Jesus argues from it as the Son one with the Father (John 10:30, 36, 38; Ps 82:8); the one human called elohim is Jesus (Heb 1:8-9).
 
 ### Public Draft v0.16 (September 2026\)
 
@@ -1513,6 +1514,10 @@ The following table lists every BSB to AAB textual change in canonical order.
 | 1 Samuel 2:25 | (fn: Or the judges) | (footnote removed) |
 | 1 Samuel 28:13 | I see a god | I see a spirit (fn: Heb. elohim; the dead Samuel; no exact English equivalent) |
 | Genesis 32:24 | (fn: Or Man; pronouns may be capitalized) | (fn: Heb. ish; v. 30; Hos 12:3-4; Gen 18:2; Judg 13:22) |
+| Psalm 82:1 | (no footnote) | (fn: the divine assembly of heavenly beings; Ps 89:5-7; Deut 32:8) |
+| Psalm 82:7 | (no footnote) | (fn: sentence of death on heavenly beings; Isa 24:21-22; Matt 25:41; Rev 20:10, 14) |
+| John 10:34 | (fn: Psalms 82:6) | (fn: Ps 82 speaks of heavenly elohim; Jesus claims more, vv. 30, 36, 38; Ps 82:8; v. 39) |
+| Psalm 45:6 | (no footnote) | (fn: Heb. elohim; fulfilled in the Son, God and man, Heb 1:8-9) |
 | **The Exodus as Marriage (v0.16)** |  |  |
 | Exodus 11:1 | he will drive you out completely | he sends you away as a bride, he will surely drive you out from here (fn: kallah vs kalah; shalach and shilluchim, 1 Kgs 9:16; garash and gerushah, Lev 21:7, 14; Gen 12:14-20; Exod 6:7; 19:4; Jer 2:2; Ezek 16:8) |
 | Exodus 20:5 | (no footnote) | (fn: God's jealousy is a husband's; Exod 6:7; 19:4; Hos 2:2-13; Ezek 16:32; Jer 3:1-8; 2 Cor 11:2; Eph 5:31-32; Rev 19:7; 21:2, 9) |
