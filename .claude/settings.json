@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "mcp__Dave_MCP"
+      "mcp__Dave_MCP",
+      "mcp__Dave_MCP__*"
     ]
   }
 }
