@@ -39,7 +39,7 @@ The Accessible Ancients Bible (AAB), a public-domain translation derived from th
 | sarx | flesh | sinful nature |
 | pistis Christou (genitive) | the faithfulness of Christ | faith in Christ |
 | raqia | firmament | expanse |
-| Sheol / Hades / Gehenna / Tartarus | kept distinct | hell |
+| Sheol / Hades / Gehenna / Tartarus / Abyss | each kept by name | hell (modern "hell" suggests a present realm of torment; Sheol/Hades is where the dead wait, Gehenna the judgment to come) |
 
 The act is "purgation"; the offering and the day are named by their result, "purification." Both are deliberate. See the note on Lev 1:4.
 
