@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.16 | Awaiting Feedback**
+**Status: Public Draft v0.17 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -401,7 +401,7 @@ Having established our hermeneutical framework, the following table summarizes t
 | The Accuser (Job, Zech) | Satan | the Accuser |
 | Underworld (OT) | grave, hell, pit (mixed) | Sheol (default); grave/pit acceptable; never "hell" |
 | Hades (NT) | hell | Hades (always) \[BSB v3 already correct\] |
-| Gehenna (NT) | hell | hell (always with footnote "Gk. *gehenna*") |
+| Gehenna (NT) | hell | Gehenna (always) |
 | Tartarus (NT) | hell | Tartarus (never "hell") |
 | The Abyss (NT) | bottomless pit, deep | the Abyss |
 | Sheol inhabitants (Ezek) | "comforted" | "filled with regret" |
@@ -525,20 +525,16 @@ The following section addresses how we rendered terms for spiritual beings other
 
 ### Elohim and Divine Council Language
 
-When *elohim* refers to the God of Israel, we rendered it as "God."
-
-When *elohim* refers to other spiritual beings (plural predication, or context indicates beings other than Yahweh), we rendered it as "gods," "divine beings," "spirits," or "heavenly beings" as context fits.
-
-We did not reduce supernatural *elohim* to "judges," "rulers," or "mighty ones."
+*Elohim* names beings of the spirit realm: God, a single divine being, the gods of the nations, the heavenly host, and the spirits of the dead (1 Sam 28:13). It can be singular or plural, and context decides which is meant. It is never used of an ordinary living human being. Where Moses is made "like God" to Pharaoh and to Aaron (Exod 4:16; 7:1), he stands in God's place toward them; he is not called a divine being. Psalm 82 addresses heavenly beings, not human judges: they are sentenced to die like mortals (82:7), a sentence carried out at the last judgment (Isa 24:21-22; Rev 20:10, 14), and Jesus argues from the psalm on that basis (John 10:34-36). The one human called elohim is Jesus, who is both God and man (Ps 45:6; Heb 1:8-9). The AAB therefore never reduces *elohim* to "judges," "rulers," or "mighty ones."
 
 | Reference | Rendering |
 | :---- | :---- |
 | Gen 3:5 | "you will be like gods" |
 | Gen 3:22 | "like one of us" |
-| Psalm 82:1 | "God stands in the divine council; among the gods he renders judgment" |
-| Psalm 82:6 | "You are gods, sons of the Most High, all of you" |
+| Psalm 82:1 | "God presides in the divine assembly; He renders judgment among the gods" |
+| Psalm 82:6 | "You are gods; you are all sons of the Most High" |
 | Exod 21:6 | "bring him to God" (singular) |
-| 1 Sam 28:13 | "a spirit coming up from the earth" |
+| 1 Sam 28:13 | "a spirit coming up out of the earth" (fn: Heb. elohim) |
 | Gen 6:2, 4 | "sons of God" (never "sons of nobles" or "descendants of Seth") |
 | Job 1:6; 2:1; 38:7 | "sons of God" |
 | Psalm 29:1; 89:6 | "sons of God" or "heavenly beings" |
@@ -598,14 +594,14 @@ We maintained distinctions between the various underworld and afterlife terms:
 | :---- | :---- | :---- |
 | שְׁאוֹל (Sheol) | "Sheol" (default); "grave," "pit," "the depths" where appropriate | Never "hell." |
 | ᾅδης (Hades) | "Hades" (always) | BSB v3 already correct; never "hell." |
-| γέεννα (Gehenna) | "hell" (always) | Always footnote "Gk. *gehenna*." |
+| γέεννα (Gehenna) | "Gehenna" (always) | Primary note at Matt 5:22; the others point to it. |
 | ταρταρόω (Tartarus) | "Tartarus" | Prison for rebellious divine beings; never "hell." |
 | ἄβυσσος (Abyss) | "the Abyss" | BSB v3 mostly correct; Rev 9:1–2 still need "pit of" removed. |
 | נָחַם in Sheol (Ezek 31:16; 32:31) | "filled with regret" | Never "comforted." |
 
-**Note on Gehenna:** Gehenna (γέεννα) is the only underworld term where "hell" is appropriate. Unlike Sheol/Hades (realm of the dead, not punishment) or Tartarus/Abyss (prisons for spiritual beings), Gehenna refers to the place of final fiery judgment: the Valley of Hinnom, associated with child sacrifice and divine wrath. This is what "hell" means in modern English, so the semantic mapping is accurate.
+**Note on Gehenna:** Gehenna (γέεννα) is the Hebrew *ge hinnom*, the Valley of Hinnom on Jerusalem's edge (Josh 15:8), where children were burned to Molech (2 Kgs 23:10; Jer 7:31) and which Jeremiah renamed the Valley of Slaughter, a place of unburied corpses (Jer 7:32-33). Isaiah ends his book with the corpses of the rebels, whose worm never dies and whose fire is never quenched (Isa 66:24); those are dead bodies, not living people, and Jesus takes up the words for Gehenna (Mark 9:48). Gehenna is the place of final judgment and death, the second death (Rev 20:14; 21:8). It is not where the dead are now: they wait in Sheol/Hades (Luke 16:23; Rev 20:13), and Hades itself is thrown into the lake of fire at the judgment (Rev 20:14).
 
-**Our policy:** We render all occurrences of γέεννα as "hell" with the footnote "Gk. *gehenna*." This communicates the meaning accurately to English readers while preserving source-language transparency for those who want it.
+**Our policy:** We render all occurrences of γέεννα as "Gehenna." In modern English "hell" suggests a present realm of torment, ruled by Satan, where the dead already are. None of Scripture's terms describes that. Sheol/Hades is the present waiting place; Gehenna and the lake of fire are the judgment still to come. No one is yet in the place modern English calls "hell": it is where Satan and those who follow him will be cast (Rev 20:10, 15). Satan's present power is darkness and death (Acts 26:18; Luke 22:53; Heb 2:14), exercised through temptation, which leads to sin, which leads to sharing his fate (John 8:44; Rom 6:23). Footnotes at John 1:5, Matthew 6:13, and Hebrews 2:14 carry this.
 
 **Abyss note:** The Abyss (ἄβυσσος) appears in Revelation 9:1–2, 11; 11:7; 17:8; 20:1–3. BSB v3 has adopted "Abyss" throughout but retains the redundant "pit of" at 9:1–2. It functions as a prison for hostile spiritual beings and connects to the Tartarus concept in 2 Peter 2:4.
 
@@ -947,6 +943,20 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.17 (September 2026\)
+
+- Elohim rule restated: elohim names beings of the spirit realm, singular or plural by context, and is never used of an ordinary living human. The previous wording tied plural meaning to plural grammar, which the AAB text itself did not follow (Gen 20:13; 35:7).
+- Exodus 21:6, 22:8, 22:9: "judges" corrected to "God," as the Brief already required; footnotes note the common rendering.
+- 1 Samuel 2:25: footnote "Or the judges" removed. 1 Samuel 28:13: "a god" to "a spirit," with a footnote on elohim.
+- Genesis 32:24: a leftover note about capitalizing pronouns replaced with a note on the wrestler (v. 30; Hos 12:3-4).
+- Audit of Brief against text: the throne seat restored at Exodus 25:19 and 37:8, where it had dropped out of the verse; Psalm 40:6 "burnt offerings" to "ascension offerings," matching its quotation at Hebrews 10:6; Daniel 8:24 "the holy people" to "the people of the holy ones," matching 7:27; Ezra 6:10 "sweet aroma" to "soothing aroma," the Aramaic form of the same formula; Colossians 3 heading "New Self" to "New Man."
+- Gehenna: "hell" to "Gehenna" in all 12 verses, with a primary note at Matthew 5:22 stressing that Isaiah 66:24 describes corpses, not living people, and that the dead now wait in Hades (Luke 16:23, new note). New notes at John 1:5, Matthew 6:13, and Hebrews 2:14 on Satan's power as darkness and death, reached through temptation and sin.
+- Isaiah 14:12: "morning star, son of the dawn" to "Shining One, son of Dawn," with a note on the Ugaritic background; "morning star" is Christ's title (Rev 22:16).
+- Exodus 30:15-16: "effect purgation" to "make ransom," matching the ransom register the note already described.
+- Notes citing Ugarit, 1 Enoch, and Akkadian texts now give the reader a rough date and place.
+- Seed restored in the Abrahamic promises that Galatians 3:16 argues from: Genesis 12:7; 13:15-16; 17:8; 22:17-18; 24:7; 26:4. Genesis 22:17 now keeps the Hebrew singular, "your seed will possess the gate of his enemies."
+- Psalm 82:1, 82:7, John 10:34, Psalm 45:6: first footnotes on Psalm 82, which had none. The psalm addresses heavenly beings sentenced to death (Isa 24:21-22; Rev 20:10, 14); Jesus argues from it as the Son one with the Father (John 10:30, 36, 38; Ps 82:8); the one human called elohim is Jesus (Heb 1:8-9).
 
 ### Public Draft v0.16 (September 2026\)
 
@@ -1503,6 +1513,28 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Elohim Doc-Sync (v0.17)** |  |  |
+| Exodus 21:6 | bring him before the judges | bring him to God (fn: Heb. ha-elohim; many read "judges"; cf. Deut 15:17) |
+| Exodus 22:8 | appear before the judges | appear before God (fn: see note on 21:6) |
+| Exodus 22:9 | before the judges... whom the judges find guilty | before God... whom God condemns (fn: Heb. elohim) |
+| 1 Samuel 2:25 | (fn: Or the judges) | (footnote removed) |
+| 1 Samuel 28:13 | I see a god | I see a spirit (fn: Heb. elohim; the dead Samuel; no exact English equivalent) |
+| Genesis 32:24 | (fn: Or Man; pronouns may be capitalized) | (fn: Heb. ish; v. 30; Hos 12:3-4; Gen 18:2; Judg 13:22) |
+| Exodus 25:19; 37:8 | all made from one piece of gold | all made of one piece with the throne seat |
+| Psalm 40:6 | Burnt offerings | Ascension offerings |
+| Daniel 8:24 | the holy people | the people of the holy ones |
+| Ezra 6:10 | sweet aroma | soothing aroma |
+| Genesis 12:7; 13:15-16; 15:5, 13, 18; 17:7-10, 19; 21:12; 22:17-18; 24:7; 26:3-4, 24; 28:4, 13-14; 32:12; 35:12; 48:4 | offspring / descendants | seed |
+| Matthew 5:22 (and 11 others) | hell (fn: Greek Gehenna) | Gehenna (fn at 5:22: Valley of Hinnom; Isa 66:24 corpses; second death; the dead in Hades) |
+| Luke 16:23 | (no footnote) | (fn: Hades, the realm of the dead; Rev 20:13-14) |
+| John 1:5; Matthew 6:13; Hebrews 2:14 | (none / Or from evil) | (fn: darkness as Satan's realm, Acts 26:18; the evil one; the power of death) |
+| Isaiah 14:12 | O morning star, son of the dawn | O Shining One, son of Dawn (fn: Ugarit, about 1400-1200 BC; Zaphon; Rev 22:16) |
+| Exodus 30:15-16 | to effect purgation for your lives | to make ransom for your lives |
+| Genesis 22:17 | your descendants will possess the gates of their enemies | your seed will possess the gate of his enemies |
+| Psalm 82:1 | (no footnote) | (fn: the divine assembly of heavenly beings; Ps 89:5-7; Deut 32:8) |
+| Psalm 82:7 | (no footnote) | (fn: sentence of death on heavenly beings; Isa 24:21-22; Matt 25:41; Rev 20:10, 14) |
+| John 10:34 | (fn: Psalms 82:6) | (fn: Ps 82 speaks of heavenly elohim; Jesus claims more, vv. 30, 36, 38; Ps 82:8; v. 39) |
+| Psalm 45:6 | (no footnote) | (fn: Heb. elohim; fulfilled in the Son, God and man, Heb 1:8-9) |
 | **The Exodus as Marriage (v0.16)** |  |  |
 | Exodus 11:1 | he will drive you out completely | he sends you away as a bride, he will surely drive you out from here (fn: kallah vs kalah; shalach and shilluchim, 1 Kgs 9:16; garash and gerushah, Lev 21:7, 14; Gen 12:14-20; Exod 6:7; 19:4; Jer 2:2; Ezek 16:8) |
 | Exodus 20:5 | (no footnote) | (fn: God's jealousy is a husband's; Exod 6:7; 19:4; Hos 2:2-13; Ezek 16:32; Jer 3:1-8; 2 Cor 11:2; Eph 5:31-32; Rev 19:7; 21:2, 9) |
@@ -1795,7 +1827,7 @@ Habakkuk 2:5
 
 #### Hell (γέεννα / Gehenna)
 
-**BSB rendering:** "hell" → **AAB rendering:** "hell" (with footnote "Gk. *gehenna*")
+**BSB rendering:** "hell" → **AAB rendering:** "Gehenna" (v0.17)
 
 **12 verses:**
 
@@ -1807,9 +1839,7 @@ Luke 12:5
 
 James 3:6
 
-**Rationale:** A fully foreignizing translation would transliterate "Gehenna" here, as the AAB does with Sheol, Hades, Tartarus, and the Abyss. Gehenna is the Valley of Hinnom, a specific place with a specific history, and "hell" imports Dante's Inferno and centuries of medieval imagery that are foreign to the text. The AVT will transliterate.
-
-The AAB retains "hell" as a deliberate accessibility compromise. The goal of this translation is to move readers toward the ancient world in steps, not all at once. "Gehenna" would be more accurate; "hell" is recognizable enough that readers do not stumble. A footnote at every occurrence preserves the source term and flags the compromise. Readers who want full transliteration should consult the AVT.
+**Rationale:** Gehenna is the Valley of Hinnom, a specific place with a specific history, and "hell" imports a present underworld of torment foreign to the text. Earlier drafts kept "hell" as an accessibility compromise; from v0.17 the AAB keeps the name Jesus used, as it already does with Sheol, Hades, Tartarus, and the Abyss. See the Note on Gehenna above.
 
 #### Tartarus (ταρταρόω)
 
@@ -2568,7 +2598,7 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | **Underworld Geography** |  |  |  |  |  |
 | שְׁאוֹל (Sheol) | realm of dead | Sheol | Sheol / grave | grave / realm of the dead | ESV more consistent than NIV |
 | ᾅδης (Hades) | Greek underworld | Hades | Hades / hell | Hades / hell | BSB v3 now correct; ESV/NIV still inconsistent |
-| γέεννα (Gehenna) | place of judgment | hell (footnoted as Gehenna) | hell | hell | AAB alone footnotes source term |
+| γέεννα (Gehenna) | place of judgment | Gehenna | hell | hell | AAB alone keeps the source term |
 | ταρταρόω (Tartarus) | divine prison | Tartarus | hell | hell | ESV/NIV lose specificity |
 | ἄβυσσος (Abyss) | chaotic deep | the Abyss | bottomless pit | Abyss | NIV matches AAB |
 | רְפָאִים (Rephaim) | underworld shades | the Rephaim | the dead / shades | the dead / spirits | ESV/NIV lose proper noun |
@@ -2629,7 +2659,7 @@ One mark of a reliable translation is rendering the same source-language term co
 | :---- | :---- | :---- | :---- |
 | שְׁאוֹל (Sheol, 60+x) | Sheol (100%) | Sheol / grave / pit (mixed) | grave / realm of dead / death (rarely Sheol) |
 | ᾅדης (Hades, 10x) | Hades (100%) | Hades 6x / hell 4x | Hades 2x / hell 8x |
-| γέεννα (Gehenna, 12x) | hell (100%, footnoted as Gehenna) | hell (100%) | hell (100%) |
+| γέεννα (Gehenna, 12x) | Gehenna (100%) | hell (100%) | hell (100%) |
 | אֲבַדּוֹן (Abaddon, 7x) | Abaddon (100%) | Abaddon 2x / Destruction 5x | Abaddon 1x / various 6x |
 | נֶפֶשׁ (nephesh, 750+x) | varies by context | soul / life / person (inconsistent) | soul / life / you / throat (inconsistent) |
 | ψυχή (psychē, 100+x) | life (where dualism implied) | soul / life (inconsistent even within pericopes) | soul / life (inconsistent) |
