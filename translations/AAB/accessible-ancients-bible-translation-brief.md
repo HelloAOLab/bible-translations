@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.16 | Awaiting Feedback**
+**Status: Public Draft v0.17 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -525,20 +525,16 @@ The following section addresses how we rendered terms for spiritual beings other
 
 ### Elohim and Divine Council Language
 
-When *elohim* refers to the God of Israel, we rendered it as "God."
-
-When *elohim* refers to other spiritual beings (plural predication, or context indicates beings other than Yahweh), we rendered it as "gods," "divine beings," "spirits," or "heavenly beings" as context fits.
-
-We did not reduce supernatural *elohim* to "judges," "rulers," or "mighty ones."
+*Elohim* names beings of the spirit realm: God, a single divine being, the gods of the nations, the heavenly host, and the spirits of the dead (1 Sam 28:13). It can be singular or plural, and context decides which is meant. It is never used of an ordinary living human being. Where Moses is made "like God" to Pharaoh and to Aaron (Exod 4:16; 7:1), he stands in God's place toward them; he is not called a divine being. The AAB therefore never reduces *elohim* to "judges," "rulers," or "mighty ones."
 
 | Reference | Rendering |
 | :---- | :---- |
 | Gen 3:5 | "you will be like gods" |
 | Gen 3:22 | "like one of us" |
-| Psalm 82:1 | "God stands in the divine council; among the gods he renders judgment" |
-| Psalm 82:6 | "You are gods, sons of the Most High, all of you" |
+| Psalm 82:1 | "God presides in the divine assembly; He renders judgment among the gods" |
+| Psalm 82:6 | "You are gods; you are all sons of the Most High" |
 | Exod 21:6 | "bring him to God" (singular) |
-| 1 Sam 28:13 | "a spirit coming up from the earth" |
+| 1 Sam 28:13 | "a spirit coming up out of the earth" (fn: Heb. elohim) |
 | Gen 6:2, 4 | "sons of God" (never "sons of nobles" or "descendants of Seth") |
 | Job 1:6; 2:1; 38:7 | "sons of God" |
 | Psalm 29:1; 89:6 | "sons of God" or "heavenly beings" |
@@ -947,6 +943,13 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.17 (September 2026\)
+
+- Elohim rule restated: elohim names beings of the spirit realm, singular or plural by context, and is never used of an ordinary living human. The previous wording tied plural meaning to plural grammar, which the AAB text itself did not follow (Gen 20:13; 35:7).
+- Exodus 21:6, 22:8, 22:9: "judges" corrected to "God," as the Brief already required; footnotes note the common rendering.
+- 1 Samuel 2:25: footnote "Or the judges" removed. 1 Samuel 28:13: "a god" to "a spirit," with a footnote on elohim.
+- Genesis 32:24: a leftover note about capitalizing pronouns replaced with a note on the wrestler (v. 30; Hos 12:3-4).
 
 ### Public Draft v0.16 (September 2026\)
 
@@ -1503,6 +1506,13 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Elohim Doc-Sync (v0.17)** |  |  |
+| Exodus 21:6 | bring him before the judges | bring him to God (fn: Heb. ha-elohim; many read "judges"; cf. Deut 15:17) |
+| Exodus 22:8 | appear before the judges | appear before God (fn: see note on 21:6) |
+| Exodus 22:9 | before the judges... whom the judges find guilty | before God... whom God condemns (fn: Heb. elohim) |
+| 1 Samuel 2:25 | (fn: Or the judges) | (footnote removed) |
+| 1 Samuel 28:13 | I see a god | I see a spirit (fn: Heb. elohim; the dead Samuel; no exact English equivalent) |
+| Genesis 32:24 | (fn: Or Man; pronouns may be capitalized) | (fn: Heb. ish; v. 30; Hos 12:3-4; Gen 18:2; Judg 13:22) |
 | **The Exodus as Marriage (v0.16)** |  |  |
 | Exodus 11:1 | he will drive you out completely | he sends you away as a bride, he will surely drive you out from here (fn: kallah vs kalah; shalach and shilluchim, 1 Kgs 9:16; garash and gerushah, Lev 21:7, 14; Gen 12:14-20; Exod 6:7; 19:4; Jer 2:2; Ezek 16:8) |
 | Exodus 20:5 | (no footnote) | (fn: God's jealousy is a husband's; Exod 6:7; 19:4; Hos 2:2-13; Ezek 16:32; Jer 3:1-8; 2 Cor 11:2; Eph 5:31-32; Rev 19:7; 21:2, 9) |
