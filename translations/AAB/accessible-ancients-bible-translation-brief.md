@@ -950,6 +950,8 @@ This section clarifies the limits of the project.
 - Exodus 21:6, 22:8, 22:9: "judges" corrected to "God," as the Brief already required; footnotes note the common rendering.
 - 1 Samuel 2:25: footnote "Or the judges" removed. 1 Samuel 28:13: "a god" to "a spirit," with a footnote on elohim.
 - Genesis 32:24: a leftover note about capitalizing pronouns replaced with a note on the wrestler (v. 30; Hos 12:3-4).
+- Audit of Brief against text: the throne seat restored at Exodus 25:19 and 37:8, where it had dropped out of the verse; Psalm 40:6 "burnt offerings" to "ascension offerings," matching its quotation at Hebrews 10:6; Daniel 8:24 "the holy people" to "the people of the holy ones," matching 7:27; Ezra 6:10 "sweet aroma" to "soothing aroma," the Aramaic form of the same formula; Colossians 3 heading "New Self" to "New Man."
+- Seed restored in the Abrahamic promises that Galatians 3:16 argues from: Genesis 12:7; 13:15-16; 17:8; 22:17-18; 24:7; 26:4. Genesis 22:17 now keeps the Hebrew singular, "your seed will possess the gate of his enemies."
 - Psalm 82:1, 82:7, John 10:34, Psalm 45:6: first footnotes on Psalm 82, which had none. The psalm addresses heavenly beings sentenced to death (Isa 24:21-22; Rev 20:10, 14); Jesus argues from it as the Son one with the Father (John 10:30, 36, 38; Ps 82:8); the one human called elohim is Jesus (Heb 1:8-9).
 
 ### Public Draft v0.16 (September 2026\)
@@ -1514,6 +1516,12 @@ The following table lists every BSB to AAB textual change in canonical order.
 | 1 Samuel 2:25 | (fn: Or the judges) | (footnote removed) |
 | 1 Samuel 28:13 | I see a god | I see a spirit (fn: Heb. elohim; the dead Samuel; no exact English equivalent) |
 | Genesis 32:24 | (fn: Or Man; pronouns may be capitalized) | (fn: Heb. ish; v. 30; Hos 12:3-4; Gen 18:2; Judg 13:22) |
+| Exodus 25:19; 37:8 | all made from one piece of gold | all made of one piece with the throne seat |
+| Psalm 40:6 | Burnt offerings | Ascension offerings |
+| Daniel 8:24 | the holy people | the people of the holy ones |
+| Ezra 6:10 | sweet aroma | soothing aroma |
+| Genesis 12:7; 13:15-16; 17:8; 22:17-18; 24:7; 26:4 | offspring / descendants | seed |
+| Genesis 22:17 | your descendants will possess the gates of their enemies | your seed will possess the gate of his enemies |
 | Psalm 82:1 | (no footnote) | (fn: the divine assembly of heavenly beings; Ps 89:5-7; Deut 32:8) |
 | Psalm 82:7 | (no footnote) | (fn: sentence of death on heavenly beings; Isa 24:21-22; Matt 25:41; Rev 20:10, 14) |
 | John 10:34 | (fn: Psalms 82:6) | (fn: Ps 82 speaks of heavenly elohim; Jesus claims more, vv. 30, 36, 38; Ps 82:8; v. 39) |
