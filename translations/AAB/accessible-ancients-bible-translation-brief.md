@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.17 | Awaiting Feedback**
+**Status: Public Draft v0.18 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -764,6 +764,8 @@ Hebrew often lets a nation, tribe, or house speak and be addressed as one person
 
 Where Hebrew speaks of or to a people, tribe, or house as one person, the AAB keeps the singular. Where Hebrew mixes singular and plural within one speech, the AAB keeps the mix. Where English cannot carry the singular without confusion, the AAB keeps the plural and footnotes the Hebrew singular. The singular is kept as the Hebrew's own wording; where a leader speaks through messengers (Deut 2:26-28), the "I" may be the leader speaking for the people, and the rendering does not decide between the two.
 
+The gods of the nations have houses too. Hebrew uses one word, *bet*, for the house of the LORD and for the house of Baal, Dagon, or Rimmon; a god's temple was his house, where he dwelt as head of a household of servants and worshipers. From v0.18 the AAB renders *bet* with a god's name as "house" throughout, as it already did for the house of the LORD, so that the rival households stand side by side as the text sets them (Ezra 1:7; 1 Sam 5:2-4). A footnote at Judges 9:4 explains, and later passages point back to it. Where the Hebrew has *hekhal* ("palace, temple"), "temple" stays.
+
 The same household logic appears in "son of the house" (ben bayit), a member of the household who is not the head's own offspring. Genesis 15:3-4 sets "a son of my house" against an heir from Abram's own body, and the AAB now keeps the phrase.
 
 ### The Exodus as Marriage (Exodus 11:1)
@@ -951,6 +953,16 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.18 (September 2026\)
+
+- *Bet* with a god's name rendered "house," as for the house of the LORD: Judges 9:4, 46; 16:26-30; 1 Samuel 5:2, 5; 31:9-10; 1 Kings 16:32; 2 Kings 5:18; 10:21-27; 11:18; 19:37; 1 Chronicles 10:10; 2 Chronicles 23:17; 32:21; Ezra 1:7; Isaiah 37:38; Jeremiah 43:12-13. Footnote at Judges 9:4. 1 Chronicles 10:9 corrected: the Hebrew has no "temple" ("to their idols and to the people").
+- Joshua 7:14 "family by family" to "household by household" (*bayit*).
+- Leviticus 22:10 "no one outside a priest's family" to "no outsider" (*zar*), since 22:11 admits the priest's household slaves; matches Numbers 18:7.
+- Deuteronomy 1:39 "good from evil" to "good and evil," the phrase of Genesis 2:17; 3:5, 22.
+- Judges 11:8, 9, 11 "leader" to "head" (*rosh*), matching 10:18.
+- Genesis 34:17 "our sister" to "our daughter" (*bittenu*), with a footnote: the brothers speak for their father's house.
+- Joshua 17:14 restores "one lot and one portion" and "until now the LORD has blessed me."
 
 ### Public Draft v0.17 (September 2026\)
 
@@ -1523,6 +1535,15 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **Household Vocabulary (v0.18)** |  |  |
+| Judges 9:4 (and 23 other verses) | temple of Baal / Dagon / Rimmon / their gods | house of Baal / Dagon / Rimmon / their gods (fn at Judg 9:4: Heb. bet; the LORD's house and the gods' houses) |
+| 1 Chronicles 10:9 | in the temple of their idols | to their idols (fn: Heb.; cf. 1 Sam 31:9) |
+| Joshua 7:14 | family by family | household by household |
+| Leviticus 22:10 | No one outside a priest's family | No outsider |
+| Deuteronomy 1:39 | good from evil | good and evil |
+| Judges 11:8, 9, 11 | leader | head |
+| Genesis 34:17 | our sister | our daughter (fn: the brothers speak for their father's house) |
+| Joshua 17:14 | only one portion... blessed me abundantly | only one lot and one portion... for until now the LORD has blessed me |
 | **Elohim Doc-Sync (v0.17)** |  |  |
 | Exodus 21:6 | bring him before the judges | bring him to God (fn: Heb. ha-elohim; many read "judges"; cf. Deut 15:17) |
 | Exodus 22:8 | appear before the judges | appear before God (fn: see note on 21:6) |
