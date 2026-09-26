@@ -758,7 +758,9 @@ The footnotes also state what the day **cannot** do, because the law marks its o
 
 The same chapter preserves a distinction most translations flatten. Two goats: one is the purification offering whose blood purges the sanctuary and which carries no sin; the other, the goat for Azazel, receives Israel's sins by a two-handed transfer with confession (the only sin transfer in the Torah) and is precisely *not* sacrificed — it is not slaughtered, its blood is never offered, and it is driven out of the camp. Sin transfer and sacrifice are mutually exclusive operations in Leviticus 16, performed on two different goats. The dispatch of the Azazel goat belongs to a recognized ANE ritual genre of elimination rites (Hittite rituals of Ashella, Ambazzi, and Uhhamuwa; Eblaite goat-dispatch rites), a genre distinct from altar sacrifice — and Leviticus 16 preserves exactly that genre distinction.
 
-### Corporate Singulars and the Household
+### The Family as One: Singulars and the Household
+
+Ancient families did not think of themselves as individuals who happened to live together. The head and his family were bound so closely that what was done to one member was done to the whole house and to its head, the head could speak for the house as himself, and his name named the house. Scripture assumes this throughout. God tells Abimelech "you are as good as dead" and extends the sentence to "you and all who belong to you" (Gen 20:3, 7). One man's theft is "Israel has sinned" (Josh 7:1, 11). The wrong done to Jacob's daughter is "an outrage in Israel," the head's new name naming his whole house (Gen 32:28; 34:7), and the nation that later bears the name is that house grown. Jesus says, "whatever you did for one of the least of these brothers of Mine, you did for Me" (Matt 25:40). The AAB keeps this logic visible in its renderings and explains it in footnotes, rather than recasting it in modern individual terms.
 
 Hebrew often lets a nation, tribe, or house speak and be addressed as one person: "I," "me," "my lot," singular "you," "my brother." The BSB, and so the AAB before v0.17, turned these into "we," "us," and "our." The singular carries the text's own family logic: nations are brothers ("your brother Israel," Num 20:14; "your brother Jacob," Obad 10), a tribe speaks as one son (Judg 1:3), and a head speaks of his household as himself (Gen 34:30).
 
@@ -961,6 +963,7 @@ This section clarifies the limits of the project.
 - Leviticus 22:10 "no one outside a priest's family" to "no outsider" (*zar*), since 22:11 admits the priest's household slaves; matches Numbers 18:7.
 - Deuteronomy 1:39 "good from evil" to "good and evil," the phrase of Genesis 2:17; 3:5, 22.
 - Judges 11:8, 9, 11 "leader" to "head" (*rosh*), matching 10:18.
+- Genesis 34:7: the bare note "Or against Israel" replaced with a note on nebalah be-yisrael, "an outrage in Israel": its first use, the head's name naming his whole house, the ancient understanding that a wrong to one member is a wrong to the whole family, and the phrase's later uses (Deut 22:21; Josh 7:15; Judg 20:6, 10; Jer 29:23; 2 Sam 13:12). Judges 20:6 and 20:10 now render the phrase as "outrage" like its other uses. Brief household section retitled and opened with a paragraph on the same logic.
 - Genesis 34:17 "our sister" to "our daughter" (*bittenu*), with a footnote: the brothers speak for their father's house.
 - Joshua 17:14 restores "one lot and one portion" and "until now the LORD has blessed me."
 
@@ -1542,6 +1545,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Leviticus 22:10 | No one outside a priest's family | No outsider |
 | Deuteronomy 1:39 | good from evil | good and evil |
 | Judges 11:8, 9, 11 | leader | head |
+| Genesis 34:7 | (fn: Or against Israel) | (fn: nebalah be-yisrael; first use; the head's name names the house; a wrong to one member is a wrong to all; later uses) |
+| Judges 20:6, 10 | lewd and disgraceful act / atrocity in Israel | lewd and outrageous act / outrage in Israel |
 | Genesis 34:17 | our sister | our daughter (fn: the brothers speak for their father's house) |
 | Joshua 17:14 | only one portion... blessed me abundantly | only one lot and one portion... for until now the LORD has blessed me |
 | **Elohim Doc-Sync (v0.17)** |  |  |
