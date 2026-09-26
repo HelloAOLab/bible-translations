@@ -964,6 +964,7 @@ This section clarifies the limits of the project.
 - Deuteronomy 1:39 "good from evil" to "good and evil," the phrase of Genesis 2:17; 3:5, 22.
 - Judges 11:8, 9, 11 "leader" to "head" (*rosh*), matching 10:18.
 - Genesis 34:7: the bare note "Or against Israel" replaced with a note on nebalah be-yisrael, "an outrage in Israel": its first use, the head's name naming his whole house, the ancient understanding that a wrong to one member is a wrong to the whole family, and the phrase's later uses (Deut 22:21; Josh 7:15; Judg 20:6, 10; Jer 29:23; 2 Sam 13:12). Judges 20:6 and 20:10 now render the phrase as "outrage" like its other uses. Brief household section retitled and opened with a paragraph on the same logic.
+- Hosea 1:4 restores "the kingdom of the house of Israel" (mamlekhut bet yisrael), which pairs with "the house of Jehu" earlier in the verse.
 - Genesis 34:17 "our sister" to "our daughter" (*bittenu*), with a footnote: the brothers speak for their father's house.
 - Joshua 17:14 restores "one lot and one portion" and "until now the LORD has blessed me."
 
@@ -1547,6 +1548,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Judges 11:8, 9, 11 | leader | head |
 | Genesis 34:7 | (fn: Or against Israel) | (fn: nebalah be-yisrael; first use; the head's name names the house; a wrong to one member is a wrong to all; later uses) |
 | Judges 20:6, 10 | lewd and disgraceful act / atrocity in Israel | lewd and outrageous act / outrage in Israel |
+| Hosea 1:4 | the kingdom of Israel | the kingdom of the house of Israel |
 | Genesis 34:17 | our sister | our daughter (fn: the brothers speak for their father's house) |
 | Joshua 17:14 | only one portion... blessed me abundantly | only one lot and one portion... for until now the LORD has blessed me |
 | **Elohim Doc-Sync (v0.17)** |  |  |
