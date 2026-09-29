@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.18 | Awaiting Feedback**
+**Status: Public Draft v0.19 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -527,6 +527,8 @@ The following section addresses how we rendered terms for spiritual beings other
 
 *Elohim* names beings of the spirit realm: God, a single divine being, the gods of the nations, the heavenly host, and the spirits of the dead (1 Sam 28:13). It can be singular or plural, and context decides which is meant. It is never used of an ordinary living human being. Where Moses is made "like God" to Pharaoh and to Aaron (Exod 4:16; 7:1), he stands in God's place toward them; he is not called a divine being. Psalm 82 addresses heavenly beings, not human judges: they are sentenced to die like mortals (82:7), a sentence carried out at the last judgment (Isa 24:21-22; Rev 20:10, 14), and Jesus argues from the psalm on that basis (John 10:34-36). The one human called elohim is Jesus, who is both God and man (Ps 45:6; Heb 1:8-9). The AAB therefore never reduces *elohim* to "judges," "rulers," or "mighty ones."
 
+**Angel (*mal'ak*, *angelos*).** Both words mean "messenger," one who is sent; they name a task, not a kind of being. Of about 213 uses of *mal'ak* in the Hebrew Bible, roughly half are human messengers (Gen 32:3; Num 20:14), including prophets and priests (Hag 1:13; Mal 2:7). Scripture's names for heavenly beings by nature and rank are others: *elohim*, sons of God, holy ones, the host of heaven, cherubim, seraphim. The word broadened by stages. In the early narratives a heavenly messenger is marked by God's name ("the angel of the LORD," Gen 16:7). Some psalms already use "angels" as a class term in parallel with the heavenly host (Ps 103:20-21; 148:2; Job 4:18). In the Persian period, from the late 500s BC, Zechariah's interpreting angel (Zech 1:9) and Daniel's named and ranked beings (Dan 8:16; 10:13) make angels characters in their own right. By the Hellenistic period, about 250 to 100 BC, "angel" is the general term: the Greek Old Testament renders "sons of God" as "angels of God" (Job 1:6; 2:1; Deut 32:8) and *elohim* as "angels" (Ps 8:5; 97:7; 138:1), and 1 Enoch (oldest parts about 300 to 200 BC), Jubilees (about 150 BC), and the Dead Sea Scrolls use it as the ordinary word for the heavenly host. In the New Testament *angelos* usually means a heavenly being but can still mean a human messenger (Luke 7:24; 9:52; Jas 2:25; Mark 1:2). Later rabbinic Hebrew narrowed *mal'akh* to heavenly beings alone and used *shaliach*, from the same root "to send," for a human agent. Hebrews reads "angels" at 1:6 and 2:7 because it quotes the Greek Old Testament, which already carried the broadened sense; the AAB's Hebrew-based renderings at Ps 8:5 ("heavenly beings") and Ps 97:7 and 138:1 ("gods") give the older word behind it. The AAB renders *mal'ak* "messenger" where the sender is human and "angel" where the messenger is heavenly, with notes at Genesis 16:7 and Matthew 1:20.
+
 | Reference | Rendering |
 | :---- | :---- |
 | Gen 3:5 | "you will be like gods" |
@@ -955,6 +957,11 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.19 (September 2026\)
+
+- Where a non-Israelite speaks of elohim without naming Israel's God, the text renders what the speaker means: Genesis 41:38 "in whom is the spirit of the gods" (Pharaoh); Exodus 8:19 "the finger of a god" (Egypt's magicians); Jonah 1:6 "call upon your god... this god" (the ship's captain, among sailors each crying to his own god, 1:5); 1 Samuel 29:9 "a messenger of the gods" (Achish). Where the narrator confirms that God spoke, or the speaker names the God of Israel, "God" stands (2 Chr 35:21-22; Gen 20:3; Judg 7:14; Jon 3:5-9).
+- Angel: notes at Genesis 16:7 (replacing a leftover note about capitalizing pronouns) and Matthew 1:20 explain that mal'ak and angelos mean "messenger" and trace how "angel" widened into the general word for heavenly beings; new Brief paragraph with the timeline.
 
 ### Public Draft v0.18 (September 2026\)
 
@@ -1539,6 +1546,14 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **v0.19** |  |  |
+| Genesis 41:38 | in whom the Spirit of God abides (fn: Or the spirit of the gods) | in whom is the spirit of the gods |
+| Exodus 8:19 | the finger of God | the finger of a god |
+| Genesis 16:7 | (fn: Or Angel; pronouns may be capitalized) | (fn: mal'ak, "messenger"; a task, not a kind of being; the widening to a general term, Ps 148:2 to the Greek OT, about 250-100 BC) |
+| Matthew 1:20 | (no footnote) | (fn: angelos, "messenger"; still used of humans, Luke 7:24; 9:52; Jas 2:25; Mark 1:2; see Gen 16:7) |
+| Psalm 8:5 | (fn ends: Or than God) | (fn adds: see note on Gen 16:7) |
+| Jonah 1:6 | your God... this God | your god... this god |
+| 1 Samuel 29:9 | an angel of God | a messenger of the gods |
 | **Household Vocabulary (v0.18)** |  |  |
 | Judges 9:4 (and 23 other verses) | temple of Baal / Dagon / Rimmon / their gods | house of Baal / Dagon / Rimmon / their gods (fn at Judg 9:4: Heb. bet; the LORD's house and the gods' houses) |
 | 1 Chronicles 10:9 | in the temple of their idols | to their idols (fn: Heb.; cf. 1 Sam 31:9) |
