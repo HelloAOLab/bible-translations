@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.18 | Awaiting Feedback**
+**Status: Public Draft v0.19 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -956,6 +956,10 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.19 (September 2026\)
+
+- Genesis 41:38: "in whom the Spirit of God abides" to "in whom is the spirit of the gods." The speaker is the king of Egypt, and elohim is read by context; the footnote notes that Joseph has credited God (vv. 16, 25).
+
 ### Public Draft v0.18 (September 2026\)
 
 - *Bet* with a god's name rendered "house," as for the house of the LORD: Judges 9:4, 46; 16:26-30; 1 Samuel 5:2, 5; 31:9-10; 1 Kings 16:32; 2 Kings 5:18; 10:21-27; 11:18; 19:37; 1 Chronicles 10:10; 2 Chronicles 23:17; 32:21; Ezra 1:7; Isaiah 37:38; Jeremiah 43:12-13. Footnote at Judges 9:4. 1 Chronicles 10:9 corrected: the Hebrew has no "temple" ("to their idols and to the people").
@@ -1539,6 +1543,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **v0.19** |  |  |
+| Genesis 41:38 | in whom the Spirit of God abides (fn: Or the spirit of the gods) | in whom is the spirit of the gods (fn: Heb. ruach elohim; an Egyptian king speaking; Joseph credits God, vv. 16, 25) |
 | **Household Vocabulary (v0.18)** |  |  |
 | Judges 9:4 (and 23 other verses) | temple of Baal / Dagon / Rimmon / their gods | house of Baal / Dagon / Rimmon / their gods (fn at Judg 9:4: Heb. bet; the LORD's house and the gods' houses) |
 | 1 Chronicles 10:9 | in the temple of their idols | to their idols (fn: Heb.; cf. 1 Sam 31:9) |
