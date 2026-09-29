@@ -958,7 +958,7 @@ This section clarifies the limits of the project.
 
 ### Public Draft v0.19 (September 2026\)
 
-- Genesis 41:38: "in whom the Spirit of God abides" to "in whom is the spirit of the gods." The speaker is the king of Egypt, and elohim is read by context; the footnote notes that Joseph has credited God (vv. 16, 25).
+- Where a non-Israelite speaks of elohim without naming Israel's God, the text renders what the speaker means: Genesis 41:38 "in whom is the spirit of the gods" (Pharaoh); Exodus 8:19 "the finger of a god" (Egypt's magicians); Jonah 1:6 "call upon your god... this god" (the ship's captain, among sailors each crying to his own god, 1:5); 1 Samuel 29:9 "a messenger of the gods" (Achish). Where the narrator confirms that God spoke, or the speaker names the God of Israel, "God" stands (2 Chr 35:21-22; Gen 20:3; Judg 7:14; Jon 3:5-9).
 
 ### Public Draft v0.18 (September 2026\)
 
@@ -1544,7 +1544,10 @@ The following table lists every BSB to AAB textual change in canonical order.
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
 | **v0.19** |  |  |
-| Genesis 41:38 | in whom the Spirit of God abides (fn: Or the spirit of the gods) | in whom is the spirit of the gods (fn: Heb. ruach elohim; an Egyptian king speaking; Joseph credits God, vv. 16, 25) |
+| Genesis 41:38 | in whom the Spirit of God abides (fn: Or the spirit of the gods) | in whom is the spirit of the gods |
+| Exodus 8:19 | the finger of God | the finger of a god |
+| Jonah 1:6 | your God... this God | your god... this god |
+| 1 Samuel 29:9 | an angel of God | a messenger of the gods |
 | **Household Vocabulary (v0.18)** |  |  |
 | Judges 9:4 (and 23 other verses) | temple of Baal / Dagon / Rimmon / their gods | house of Baal / Dagon / Rimmon / their gods (fn at Judg 9:4: Heb. bet; the LORD's house and the gods' houses) |
 | 1 Chronicles 10:9 | in the temple of their idols | to their idols (fn: Heb.; cf. 1 Sam 31:9) |
