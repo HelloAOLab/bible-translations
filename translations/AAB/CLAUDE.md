@@ -1,6 +1,8 @@
 # AAB working notes
 
-The Accessible Ancients Bible (AAB), a public-domain translation derived from the BSB. 66 USX files in this folder, one per book.
+The Accessible Ancients Bible (AAB), a public-domain translation derived from the BSB. 66 USX files in this folder, one per file-book.
+
+**Book count:** the files follow the standard 66-book division, but the AAB counts **70 books**: Psalms is five books by its own internal divisions (1-41, 42-72, 73-89, 90-106, 107-150), and 70 is biblically significant where 66 is not (see the Brief, note 1). Say "70 books" when speaking of the canon, and "66 files" only when speaking of the USX files.
 
 **Read before changing anything:**
 - `accessible-ancients-bible-translation-brief.md` — the governing document: goals, rationale, every interpretive commitment, and the master change log. Current status line is the version of record.
@@ -14,7 +16,7 @@ The Accessible Ancients Bible (AAB), a public-domain translation derived from th
 ./tools/aab.py find "soul"         # search running TEXT (footnotes excluded)
 ./tools/aab.py findnotes "kipper"  # search footnotes
 ./tools/aab.py count "purgation"   # per-book counts in running text
-./tools/aab.py validate            # XML-validate all 66 books
+./tools/aab.py validate            # XML-validate all 66 USX files
 ./tools/aab.py replace GEN.usx "old" "new"   # safe 1-match replace + validate
 ```
 
