@@ -55,7 +55,11 @@ The act is "purgation"; the offering and the day are named by their result, "pur
 
 ## Private reference material
 
-`reference/` is gitignored. Working papers (systematic theology, the family/corporate-person framework, Lamb of the Free notes) live there locally.
+`reference/` is gitignored. Working papers (systematic theology, the family/corporate-person framework, Lamb of the Free notes) live there locally, along with published reference works:
+
+- `reference/DDD.pdf`: *Dictionary of Deities and Demons in the Bible* (van der Toorn, Becking, van der Horst, 2nd ed., 1999). Use it for gods, demons, and spiritual beings named in the text (e.g. Lilith, the se'irim, siyyim, ohim, iyyim, tannin, Azazel). It is copyrighted: never commit it or move it out of `reference/`. The Brief may cite it by name as published scholarship; footnotes still cite Scripture. Search it with `pdftotext reference/DDD.pdf - | grep -n -i -A8 "TERM"`.
+
+Cloud sessions start from a fresh clone and cannot see `reference/`; only sessions on the owner's machine can read it.
 
 **Use them as background only.** They are never named, cited, or alluded to in a footnote, in the Brief, or in a commit message. Footnotes cite Scripture. This rule is absolute.
 
