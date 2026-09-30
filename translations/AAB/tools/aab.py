@@ -6,7 +6,7 @@
   ./tools/aab.py find "soul"          search running TEXT (footnotes excluded)
   ./tools/aab.py findnotes "kipper"   search footnotes only
   ./tools/aab.py count "purgation"    count in running text, by book
-  ./tools/aab.py validate             XML-validate all 66 books
+  ./tools/aab.py validate             XML-validate all 66 USX files (70 books, Psalms as five)
   ./tools/aab.py replace FILE.usx "old" "new"    safe single-match replace + validate
 
 Notes on searching: `find` strips footnotes first, so it reports only what a
@@ -130,7 +130,7 @@ def cmd_validate():
             bad.append((os.path.basename(path), e))
     for name, err in bad:
         print('FAIL %s: %s' % (name, err))
-    print('%d/%d books valid' % (len(books()) - len(bad), len(books())))
+    print('%d/%d USX files valid' % (len(books()) - len(bad), len(books())))
     return 1 if bad else 0
 
 

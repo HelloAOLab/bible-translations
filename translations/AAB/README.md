@@ -24,11 +24,11 @@ This translation prioritizes readability while making targeted corrections where
 
 **Use of Extra-Biblical Sources:** We consult the Apocrypha, pseudepigrapha (such as 1 Enoch), and wider Ancient Near Eastern literature, not as authoritative Scripture, but as essential background for determining semantic range and understanding what the original audience would have heard. When Isaiah uses imagery that echoes Canaanite mythology, or when Jude alludes to 1 Enoch, knowing those sources illuminates the biblical text. We use them as context, not canon.
 
-**Public Domain:** This translation is released into the public domain. We want churches, ministries, and developers to use it freely without licensing restrictions or fees.
+**Public Domain:** This translation is released into the public domain, together with its footnotes, the Translation Brief, and the AAB Footnote Drafting Policy. We want churches, ministries, and developers to use them freely without licensing restrictions or fees.
 
 ## License
 
-The AAB translation is released into the public domain. We want churches, ministries, and developers to use it freely without licensing restrictions or fees. See the [Creative Commons 0 License](https://creativecommons.org/public-domain/cc0/) for mote information.
+The AAB translation, its footnotes, the Translation Brief, and the AAB Footnote Drafting Policy are released into the public domain. We want churches, ministries, and developers to use them freely without licensing restrictions or fees. See the [Creative Commons 0 License](https://creativecommons.org/public-domain/cc0/) for more information.
 
 ## Translation Brief
 
