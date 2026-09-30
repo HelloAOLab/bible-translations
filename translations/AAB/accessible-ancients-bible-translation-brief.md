@@ -66,7 +66,7 @@ This translation prioritizes readability while making targeted corrections where
 
 **Use of Extra-Biblical Sources:** We consult the Apocrypha, pseudepigrapha (such as 1 Enoch), and wider Ancient Near Eastern literature, not as authoritative Scripture, but as essential background for determining semantic range and understanding what the original audience would have heard. When Isaiah uses imagery that echoes Canaanite mythology, or when Jude alludes to 1 Enoch, knowing those sources illuminates the biblical text. We use them as context, not canon.
 
-**Public Domain:** This translation is released into the public domain. We want churches, ministries, and developers to use it freely without licensing restrictions or fees.
+**Public Domain:** This translation is released into the public domain, together with its footnotes, this Translation Brief, and the AAB Footnote Drafting Policy. We want churches, ministries, and developers to use them freely without licensing restrictions or fees.
 
 ## A Word to Readers: Translation Is Not Commentary
 
@@ -110,9 +110,9 @@ For a more uncompromising and therefore more foreignizing work, we are developin
 
 ### Why Public Domain Matters
 
-**This translation is public domain and will remain so forever.**
+**This translation is public domain and will remain so forever.** The dedication covers the text, the footnotes, this Translation Brief, and the footnote drafting policy alike.
 
-We are releasing the Accessible Ancients Bible under a CC0 public domain dedication because we believe Scripture belongs to everyone. There are no licensing fees, no restrictions, no permissions needed. Use it in apps, study tools, church bulletins, academic papers, commercial products, or anything else. Fork it. Improve it. Build on it. This is a permanent, irrevocable commitment.
+We are releasing the Accessible Ancients Bible under a CC0 public domain dedication because we believe Scripture belongs to everyone. There are no licensing fees, no restrictions, no permissions needed. The same holds for this Brief and the footnotes: quote them, adapt them, or reuse them without asking. Use it in apps, study tools, church bulletins, academic papers, commercial products, or anything else. Fork it. Improve it. Build on it. This is a permanent, irrevocable commitment.
 
 Why does this matter? Because access to Scripture is hindered by barriers most readers never see.
 

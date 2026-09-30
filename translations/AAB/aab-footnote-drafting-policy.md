@@ -75,3 +75,7 @@ When the same proposition appears in more than one note, state it the same way a
 ## 17. Formatting
 
 Use no em dashes except inside a direct quotation. Use no horizontal dividers.
+
+## Public Domain
+
+This policy, like the AAB translation, its footnotes, and the Translation Brief, is released into the public domain under a [CC0 dedication](https://creativecommons.org/public-domain/cc0/). Use, adapt, or reuse it freely.
