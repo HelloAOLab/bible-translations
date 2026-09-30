@@ -671,7 +671,7 @@ BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:1
 
 ### Howlers / Iyyim (אִיִּים / iyyim)
 
-Heb. אִיִּים (*iyyim*), 'howlers.' Appear only in this desolation formula (Isa 13:22; 34:14; Jer 50:39), always alongside צִיִּים (*tsiyyim*, 'desert dwellers'). The root points to mournful howling or wailing. The LXX renders the word as ὀνοκένταυρος (*onokentauros*, "donkey-centaur"): not a wild animal but a being of the human-animal hybrid class: part human, part beast, belonging to neither category fully, and therefore uncanny and dangerous. This is the same broad register as the centaur and the satyr in Greek thought, or the composite guardian figures of Mesopotamian iconography, beings that transgress the boundary between the human and animal worlds. That the Greek translators reached for this category rather than any natural creature shows they read *iyyim* as a supernatural being, not a creature of the field. Mizrahi and Patmore (2019) have established that the demon list in the Songs of the Sage (4Q510, late 1st c. BCE) derives its *iyyim* directly from the Isaiah desolation passages through a documented exegetical tradition, confirming that Second Temple readers recognized this creature class as a demonic category. That reading is consistent with the canonical placement of *iyyim* in immediate parallel with *se'irim* (goat demons who received cultic worship, Lev 17:7) and with Lilith in the same verse. Revelation 18:2 reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *iyyim* fill that company. "Howlers" names what the Hebrew root attests; the LXX's rendering suggests the ancient translators understood them as belonging to the category of composite, boundary-crossing beings.
+Heb. אִיִּים (*iyyim*), 'howlers.' Appear only in this desolation formula (Isa 13:22; 34:14; Jer 50:39), always alongside צִיִּים (*tsiyyim*, 'desert dwellers'). The root points to mournful howling or wailing. The LXX renders the word as ὀνοκένταυρος (*onokentauros*, "donkey-centaur"): not a wild animal but a being of the human-animal hybrid class: part human, part beast, belonging to neither category fully, and therefore uncanny and dangerous. This is the same broad register as the centaur and the satyr in Greek thought, or the composite guardian figures of Mesopotamian iconography, beings that transgress the boundary between the human and animal worlds. That the Greek translators reached for this category rather than any natural creature shows they read *iyyim* as a supernatural being, not a creature of the field. The demon list in the Songs of the Sage (4Q510, late 1st c. BCE) draws on these same Isaiah desolation passages: after Lilith it names the *ohim* (Isa 13:21) and, as usually restored, the *tsiyyim*, the constant partners of the *iyyim*. Second Temple readers took this company of desolation creatures as demons. That reading is consistent with the canonical placement of *iyyim* in immediate parallel with *se'irim* (goat demons who received cultic worship, Lev 17:7) and with Lilith in the same verse. Revelation 18:2 reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *iyyim* fill that company. "Howlers" names what the Hebrew root attests; the LXX's rendering suggests the ancient translators understood them as belonging to the category of composite, boundary-crossing beings.
 
 ### Dragons / Tannim (תַּנִּים / תַּנִּין / tannim / tannin)
 
@@ -969,6 +969,11 @@ A review of every change from v0.1 onward, correcting slips that later rounds le
 - Household: Joshua 7:18 "Zabdi's household," the twin of 7:14; Jeremiah 43:13 "the house of the sun."
 - Footnote quotations brought into line with the AAB's own wording: Rev 18:2 (in the notes at Isa 13:21-22; Jer 50:39), Acts 26:18 (John 1:5), Exod 3:12 (Exod 3:14), Num 12:12 (Lev 23:27), Rom 3:25 ("presented"), Ezek 41:22 (Mal 1:7).
 - Footnote citations and claims corrected: Gen 24:64 (1 Sam 25:23 shows both verbs; 2 Kgs 5:21 used naphal), Exod 11:1 (Jer 3:8-9 for Jeremiah), Gen 34:7 (Hamor's proposal is vv. 21-22), Rom 7:4 (Deut 24 removed; it permits remarriage), Gen 46:27 and Exod 1:5 (the claim that no early witness reads seventy removed, since Deut 10:22 does), Isa 53:10 (LXX paredothē at v. 12), Ps 51:7, Lev 16:5, Rev 5:9, John 5:3 (Codex Alexandrinus), Isa 13:21 (the claim that the -im ending marks beings removed), the tannim notes at Isa 13:22 and 34:13 (the LXX renders "dragons" often, not throughout), and the iyyim notes (the Songs of the Sage list the ohim, not the iyyim).
+- Leviticus 16:8, 10, 26: "for the Azazel" / "as the Azazel" to "for Azazel" / "to Azazel," so the text agrees with the notes: Azazel is the one to whom the goat is sent, not the goat.
+- "Seed" (Gk. *sperma*) carried into the New Testament quotations of the promises to Abraham: Acts 3:25; Rom 4:13, 16, 18; 9:7-8; Heb 11:18, with a note at Acts 3:25 (the promise runs through one Seed, Christ, Gal 3:16). Hebrews 6:14 now reads "multiply you," as the Greek has it, with a note on Gen 22:17.
+- Ecclesiastes headings: "Futile" and "Futility" to "Vapor," matching the text.
+- Judges 19:24 "vile thing" to "outrage" (*nebalah*). Micah 7:18 "pardons iniquity" to "bears iniquity" (*nose' avon*), matching Exod 34:7, with a note. *Tannim* "jackals" to "dragons" in the desolation formula (Isa 35:7; Jer 9:11; 10:22; 49:33; 51:37; Ps 44:19), with pointers to Isa 13:22 replacing "Or serpents or dragons."
+- Notes rewritten: Genesis 6:4 now rests on Scripture (Job 1:6; 38:7; 2 Pet 2:4-5; Jude 6-7) rather than the history of interpretation; Ecclesiastes 2:8 now gives its reason from the text (1 Kgs 10:12) rather than from later commentators; Matthew 10:28 explains why "soul" stands there (Luke 23:43; Rev 6:9); Romans 3:25 now explains for a new reader why hilasterion is a place, the throne seat, rather than a sacrifice.
 - Brief: Isaiah 14:12 sections updated to "Shining One, son of Dawn"; Romans 3:25 section updated to "place of purgation"; the Day of Purification rationale and its v0.7 history corrected; change-log rows for Luke 22:31, Rom 16:20, Rev 12:9, 20:2, Matt 20:28, 2 Cor 11:2 and Rom 7:4 rewritten to match the notes; Part 7 added to the table of contents; em dashes removed from Brief prose.
 
 ### Public Draft v0.19 (September 2026\)
@@ -1351,18 +1356,18 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Proverbs 23:14 | Sheol/grave | Sheol |
 | Proverbs 30:16 | Sheol/grave | Sheol |
 | Ecclesiastes 1:2 | "Futility of futilities... Everything is futile!" | "Vapor of vapors... Everything is vapor!" (fn: Heb. הֶבֶל, hebel, literally breath/mist/vapor. Rendered "vapor" throughout Ecclesiastes to preserve the concrete image. See rationale.) |
-| Ecclesiastes 2:8 | many concubines | musical instruments (fn: Heb. שִׁדָּה וְשִׁדּוֹת, shiddah wəshiddot, hapax legomenon. Ancient witness tradition converges on luxury/festivity rather than concubinage. See rationale.) |
+| Ecclesiastes 2:8 | many concubines | musical instruments (fn: Heb. שִׁדָּה וְשִׁדּוֹת, shiddah wəshiddot, a phrase found only here; follows the singers, cf. 1 Kgs 10:12; commonly 'concubines.' See rationale.) |
 | Ecclesiastes 2:15; 2:19; 2:21; 2:23; 2:26; 3:19; 4:4; 4:8; 4:16; 5:10; 6:2; 6:9; 7:6; 8:10; 8:14; 11:8; 12:8 (and all other הֶבֶל occurrences) | futile / futility | vapor |
 | Ecclesiastes 3:19 | they all have the same breath | they all have the same breath (fn: Heb. ruach) |
 | Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath (fn: Heb. ruach) of man... the breath (fn: Heb. ruach) of the beast |
 | Ecclesiastes 12:7 | the spirit returns to God | the breath (fn: Heb. ruach) returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
 | Isaiah 13:21 | ostriches / wild goats / howling creatures | Sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / keening creatures (fn: Heb. אֹחִים, ohim) |
-| Isaiah 13:22 | hyenas / jackals | Howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin; LXX δράκοντες) |
+| Isaiah 13:22 | hyenas / jackals | Howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin) |
 | Isaiah 14:9 | the spirits of the dead | the Rephaim |
 | Isaiah 14:12 | Day Star/Lucifer | morning star, son of the dawn (fn: Heb. הֵילֵל בֶּן־שָׁחַר, helel ben shachar; Shachar attested as dawn deity in Ugaritic texts) |
 | Isaiah 26:14 | the departed spirits | the Rephaim |
 | Isaiah 26:19 | her dead | the Rephaim |
-| Isaiah 34:13 | jackals / ostriches | dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin; LXX δράκοντες) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) |
+| Isaiah 34:13 | jackals / ostriches | dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) |
 | Isaiah 34:14 | hyenas / goat / night creature | howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / Lilith (fn: Heb. לִילִית, lilit; BDB 'female night-demon; borrowed from Babylonian tradition') |
 | Jeremiah 50:39 | hyenas / ostriches / "it will never" / "lived in" | howlers (fn: Heb. אִיִּים, iyyim) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah) / "she will never" / "settled" |
 | Isaiah 53:10 | his soul is made a guilt offering | his life (fn: Heb. nephesh) is made a reparation offering |
@@ -1573,6 +1578,14 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Judges 13:11; Zechariah 1:8 | you; him | You; Him |
 | Joshua 7:18 | the family of Zabdi | Zabdi's household |
 | Jeremiah 43:13 | the temple of the sun | the house of the sun |
+| Leviticus 16:8, 10, 26 | for the Azazel / as the Azazel | for Azazel / to Azazel |
+| Acts 3:25; Romans 4:13, 16, 18; 9:7-8; Hebrews 11:18 | offspring / descendants | seed (fn at Acts 3:25: Gk. sperma; one Seed, Christ, Gal 3:16) |
+| Hebrews 6:14 | multiply your descendants | multiply you (fn: Gen 22:17 "your seed"; Hebrews' shorter form) |
+| Ecclesiastes (headings) | Everything Is Futile; The Futility of Pleasure / Work / Power / Wealth / Life | Everything Is Vapor; Pleasure / Work / Power / Wealth / Life Is Vapor |
+| Judges 19:24 | such a vile thing | such an outrage |
+| Micah 7:18 | pardons iniquity | bears iniquity (fn: nose' avon, Exod 34:7; v. 19) |
+| Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37; Psalm 44:19 | jackals (fn: Or serpents or dragons) | dragons (fn: Heb. tannim; see note on Isa 13:22) |
+| Genesis 6:4; Ecclesiastes 2:8; Matthew 10:28; Romans 3:25 | (notes resting on later interpreters, or unclear) | (notes rewritten on Scripture and for a new reader) |
 | Footnotes (Gen 8:20; 16:7; 18:1; 22:2; 24:64; 34:7; 46:27; Exod 1:5; 3:14; 11:1; Lev 16:5; 23:27; Ps 51:7; Isa 13:21-22; 34:13-14; 53:10; Jer 50:39; Mal 1:7; Ezek 41:22; John 1:5; 5:3; Rom 3:25; 7:4; Rev 5:9) | (misquotations, wrong citations, stale wording) | (corrected; see v0.20 catalog) |
 | **v0.19** |  |  |
 | Genesis 41:38 | in whom the Spirit of God abides (fn: Or the spirit of the gods) | in whom is the spirit of the gods |
@@ -2045,9 +2058,9 @@ Isaiah 13:22, Isaiah 34:14, Jeremiah 50:39
 
 **BSB rendering:** "jackals" → **AAB rendering:** "dragons"
 
-**2 verses (desolation texts):**
+**8 verses (desolation texts):**
 
-Isaiah 13:22, Isaiah 34:13
+Isaiah 13:22, Isaiah 34:13 (full notes); Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37; Psalm 44:19 (from v0.20, with pointers to Isa 13:22). Where *tannim* describes an animal's behavior (howling, Mic 1:8; Job 30:29; nursing young, Lam 4:3; honoring God, Isa 43:20) or where the form differs (*tannot*, Mal 1:3), the older rendering stands.
 
 **Rationale:** Throughout the Hebrew Bible *tannin* is overwhelmingly a chaos adversary (Ps 74:13; Isa 27:1; 51:9; Jer 51:34), not a wild dog. The LXX often renders δράκοντες (Jer 9:11; Mic 1:8); the KJV renders 'dragons.' Most modern translations default to 'jackals,' driven by naturalistic assumptions. See full discussion in the Spiritual Beings section above.
 
@@ -2752,7 +2765,7 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | שְׂעִירִים (se'irim, Isa 13:21; 34:14) | goat-like demons | goat demons | wild goats | wild goats | ESV/NIV naturalize; LXX renders δαιμόνια |
 | בְּנוֹת יַעֲנָה (benot ya'anah) | supernatural bird-women | sirens | owls / ostriches | owls / ostriches | LXX renders σειρῆνες; ESV/NIV naturalize |
 | אִיִּים (iyyim, desolation formula) | composite beings | howlers | hyenas | hyenas | LXX renders ὀνοκένταυρος (donkey-centaur); ESV/NIV naturalize |
-| תַּנִּים / תַּנִּין (tannim/tannin) | chaos-creature | dragons | jackals | jackals | LXX renders δράκοντες; ESV/NIV naturalize against canonical weight |
+| תַּנִּים / תַּנִּין (tannim/tannin) | chaos-creature | dragons | jackals | jackals | LXX often renders δράκοντες; ESV/NIV naturalize against canonical weight |
 | אֹחִים (ohim, Isa 13:21) | mournful beings | keening creatures | owls | owls | LXX renders ἦχος |
 | Rom 3:25 ἱλαστήριον | place of atonement | place of purgation | propitiation | sacrifice of atonement | AAB preserves LXX typological connection |
 | Heb 6:4 ἀδύνατον | impossible | ultimately impossible | impossible | impossible | AAB qualifier signals ontological register |
