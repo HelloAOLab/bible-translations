@@ -7,7 +7,7 @@
   ./tools/aab.py findnotes "kipper"   search footnotes only
   ./tools/aab.py count "purgation"    count in running text, by book
   ./tools/aab.py validate             XML-validate all 66 USX files (70 books, Psalms as five)
-  ./tools/aab.py replace FILE.usx "old" "new"    safe single-match replace + validate
+  ./tools/aab.py replace FILE.usx "old" "new"    safe single-match replace (+ XML validate for .usx)
 
 Notes on searching: `find` strips footnotes first, so it reports only what a
 reader sees in the translation. This is the check to run before claiming a term
@@ -141,13 +141,15 @@ def cmd_replace(fname, old, new):
     if n != 1:
         sys.exit('Refusing: found %d matches (need exactly 1) for:\n  %s' % (n, old[:120]))
     open(path, 'w', encoding='utf-8').write(c.replace(old, new))
-    try:
-        ET.parse(path)
-    except Exception as e:
-        sys.exit('XML INVALID after edit: %s' % e)
+    if path.endswith('.usx'):
+        try:
+            ET.parse(path)
+        except Exception as e:
+            sys.exit('XML INVALID after edit: %s' % e)
     if '—' in new:
         print('WARNING: new text contains an em dash (house style forbids it)')
-    print('Replaced 1 occurrence in %s; XML valid' % os.path.basename(path))
+    print('Replaced 1 occurrence in %s%s' % (os.path.basename(path),
+          '; XML valid' if path.endswith('.usx') else ''))
 
 
 def main():
