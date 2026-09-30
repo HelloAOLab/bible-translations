@@ -63,6 +63,14 @@ Cloud sessions start from a fresh clone and cannot see `reference/`; only sessio
 
 **Use them as background only.** They are never named, cited, or alluded to in a footnote, in the Brief, or in a commit message. Footnotes cite Scripture. This rule is absolute.
 
+## Pending review (raised by the owner; not yet changed)
+
+Remove an item once it is decided and applied.
+
+- **Daniel 7:27.** The AAB reads "given to the people, the holy ones of the Most High." The Aramaic is *le'am qaddishe elyonin*, "to the people of the holy ones of the Most High." The apposition makes the people the holy ones, the heavenly council. The construct keeps them distinct: the people belong to the holy ones. Compare 7:18, 22, 25, where "the holy ones of the Most High" stand alone.
+- **Day of Purification notes (Lev 16:10; 16:30; 23:27).** The notes say the Day covers only inadvertent sin, but 16:16 and 16:21 name "rebellious acts." A draft is agreed in substance: the blood cleanses God's house (16:16, 19), the goat bears the iniquities away (16:21-22), the people are made clean (16:30), and the unrepentant are cut off (23:29). The owner is checking Rillera, *Lamb of the Free*, pp. 136-140, first.
+- **Desolation-creature notes (Isa 13:21-22; 34:13-14; Jer 50:39).** The owner is checking the DDD (`reference/DDD.pdf`), Siyyim and Iyyim entries, on the Songs of the Sage (4Q510). Proposed: the Lilith note at Isa 34:14 drops the BDB citation and states the Akkadian *lilitu* background (a demon in Mesopotamian texts from the third millennium BC), noting that the Septuagint renders her *onokentauros* there, as it does the *iyyim*.
+
 ## Workflow
 
 Branch `claude/update-bible-aab-3gE8Q`, PR into `main`.
