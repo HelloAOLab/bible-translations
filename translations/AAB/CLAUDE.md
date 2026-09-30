@@ -1,6 +1,6 @@
 # AAB working notes
 
-The Accessible Ancients Bible (AAB), a public-domain translation derived from the BSB. 66 USX files in this folder, one per file-book.
+The Accessible Ancients Bible (AAB), a public-domain translation derived from the BSB. 66 USX files in this folder, following the standard book division.
 
 **Book count:** the files follow the standard 66-book division, but the AAB counts **70 books**: Psalms is five books by its own internal divisions (1-41, 42-72, 73-89, 90-106, 107-150), and 70 is biblically significant where 66 is not (see the Brief, note 1). Say "70 books" when speaking of the canon, and "66 files" only when speaking of the USX files.
 
