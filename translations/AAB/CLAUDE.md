@@ -72,7 +72,6 @@ Remove an item once it is decided and applied.
 
 - **Desolation-creature notes (Isa 13:21-22; 34:13-14; Jer 50:39).** The owner is checking the DDD (`reference/DDD.pdf`), Siyyim and Iyyim entries, on the Songs of the Sage (4Q510). Proposed: the Lilith note at Isa 34:14 drops the BDB citation and states the Akkadian *lilitu* background (a demon in Mesopotamian texts from the third millennium BC), noting that the Septuagint renders her *onokentauros* there, as it does the *iyyim*.
 
-- **2 Cor 5:21 note.** Owner not satisfied; to revisit. His direction: the point is that Christ became human, God and man at once, the new head of a new body, the last Adam (1 Cor 15:45). John 1:29, 1 Cor 5:7, Lev 3:1 done.
 - **Brief, angel paragraph.** Add one sentence: "messenger of the gods" at 1 Sam 29:9 follows the rule for non-Israelite speakers.
 
 ## Workflow
