@@ -542,7 +542,7 @@ The following section addresses how we rendered terms for spiritual beings other
 | Job 1:6; 2:1; 38:7 | "sons of God" |
 | Psalm 29:1; 89:6 | "sons of God" or "heavenly beings" |
 
-**A note on Genesis 3:5 and 3:22:** The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings," the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular), following the Trinitarian reading. The AAB renders "like gods" because the plural is what the Hebrew says and because Genesis 3:22 confirms it: God himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
+**A note on Genesis 1:26, 3:5, and 3:22:** God's "Let us make man in our image" (1:26) is addressed to the same council, and from v0.20 the AAB prints it lowercase with a note; the making itself is God's alone ("So God created man in His own image," 1:27).  The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings," the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular). The AAB renders "like gods" because the context points to the council and Genesis 3:22 confirms it: God Himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
 
 **A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no alternative was entertained until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth) but did not himself commit to it. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen all read Genesis 6 as describing divine beings taking human wives. The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
 
@@ -975,6 +975,7 @@ A review of every change from v0.1 onward, correcting slips that later rounds le
 - Ecclesiastes headings: "Futile" and "Futility" to "Vapor," matching the text.
 - Judges 19:24 "vile thing" to "outrage" (*nebalah*). Micah 7:18 "pardons iniquity" to "bears iniquity" (*nose' avon*), matching Exod 34:7, with a note. *Tannim* "jackals" to "dragons" in the desolation formula (Isa 35:7; Jer 9:11; 10:22; 49:33; 51:37; Ps 44:19), with pointers to Isa 13:22 replacing "Or serpents or dragons."
 - Notes rewritten: Genesis 6:4 now rests on Scripture (Job 1:6; 38:7; 2 Pet 2:4-5; Jude 6-7) rather than the history of interpretation; Ecclesiastes 2:8 now gives its reason from the text (1 Kgs 10:12) rather than from later commentators; Matthew 10:28 explains why "soul" stands there (Luke 23:43; Rev 6:9); Romans 3:25 now explains for a new reader why hilasterion is a place, the throne seat, rather than a sacrifice.
+- Leviticus 10:17 "take away the guilt" to "bear the iniquity" (*nasa' avon*), the phrase of Exod 34:7. Genesis 18:3, 10: pronouns for the LORD capitalized, since He is one of the three men (18:1). Genesis 1:26 "Let us make man in our image," lowercase, with a note: God speaks to His heavenly council (Job 38:7), as at 3:5, 22. Habakkuk 2:4 "Look, the proud one is puffed up and not upright within." Stale "Literally" notes removed at Lev 17:11 and Col 2:11.
 - Brief: Isaiah 14:12 sections updated to "Shining One, son of Dawn"; Romans 3:25 section updated to "place of purgation"; the Day of Purification rationale and its v0.7 history corrected; change-log rows for Luke 22:31, Rom 16:20, Rev 12:9, 20:2, Matt 20:28, 2 Cor 11:2 and Rom 7:4 rewritten to match the notes; Part 7 added to the table of contents; em dashes removed from Brief prose.
 
 ### Public Draft v0.19 (September 2026\)
@@ -1089,8 +1090,8 @@ Contextual footnotes extending the Levitical framing of v0.7, plus one text chan
 Sacrificial terminology overhaul following the Levitical framing of Milgrom and Rillera (*Lamb of the Free*, 2024):
 
 - כִּפֶּר rendered "effect purgation" throughout (~82 verb forms); "Day of Atonement" renamed "Day of Purgation" (renamed "Day of Purification" in v0.9) with footnotes carrying the traditional name
-- כַּפֹּרֶת re-rendered from "atonement cover" to "throne seat" (24 verses incl. Heb 9:5), on the enthroned-between-the-cherubim texts (1 Sam 4:4; Ps 80:1; 99:1; Ezek 43:7); cf. Heiser
-- אָשָׁם re-rendered from "restitution offering" to "reparation offering" (34 verses), following Milgrom on sacral trespass
+- כַּפֹּרֶת re-rendered from "atonement cover" to "throne seat" (23 verses incl. Heb 9:5), on the enthroned-between-the-cherubim texts (1 Sam 4:4; Ps 80:1; 99:1; Ezek 43:7); cf. Heiser
+- אָשָׁם re-rendered from "restitution offering" to "reparation offering" (35 verses), following Milgrom on sacral trespass
 - עֹלָה rendered "ascension offering" (281 verses); כָּלִיל instances rendered "whole offering"
 - שְׁלָמִים rendered "well-being offering" (85 verses); רֵיחַ נִיחוֹחַ rendered "soothing aroma" (41 verses)
 - Leviticus 17:11 corrected to "for your lives... by means of the life" (nephesh policy)
@@ -1543,8 +1544,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | All שְׁלָמִים occurrences (85 verses) | peace offering | well-being offering (fn at Lev 3:1: Heb. shelamim, fellowship meal, non-atoning) |
 | All רֵיחַ נִיחוֹחַ occurrences (41 verses) | pleasing aroma | soothing aroma (fn at Gen 8:21: Noah/nichoach wordplay) |
 | All cultic כִּפֶּר verb forms (~82 verses) | make atonement / atoned for | effect purgation / purged (fn at Lev 1:4) |
-| All אָשָׁם occurrences (34 verses) | guilt offering (AAB v0.6: restitution offering) | reparation offering (fn at Lev 5:15) |
-| All כַּפֹּרֶת occurrences + Heb 9:5 (24 verses) | mercy seat (AAB v0.6: atonement cover) | throne seat (fn at Exod 25:17: enthroned between the cherubim) |
+| All אָשָׁם occurrences (35 verses) | guilt offering (AAB v0.6: restitution offering) | reparation offering (fn at Lev 5:15) |
+| All כַּפֹּרֶת occurrences + Heb 9:5 (23 verses) | mercy seat (AAB v0.6: atonement cover) | throne seat (fn at Exod 25:17: enthroned between the cherubim) |
 | Day of Atonement (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9) | Day of Atonement | Day of Purification (fn at Lev 23:27: yom hakkippurim, 'day of purgations') |
 | Genesis 8:20–21 | (no footnotes) | (footnotes on olah and nichoach added) |
 | Exodus 30:15–16 | atonement money / to atone for your lives | ransom money / to effect purgation for your lives (fn: kofer, non-cultic ransom register) |
@@ -1589,6 +1590,12 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Micah 7:18 | pardons iniquity | bears iniquity (fn: nose' avon, Exod 34:7; v. 19) |
 | Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37; Psalm 44:19 | jackals (fn: Or serpents or dragons) | dragons (fn: Heb. tannim; see note on Isa 13:22) |
 | Genesis 6:4; Ecclesiastes 2:8; Matthew 10:28; Romans 3:25 | (notes resting on later interpreters, or unclear) | (notes rewritten on Scripture and for a new reader) |
+| Leviticus 10:17 | to take away the guilt | to bear the iniquity |
+| Genesis 18:3, 10 | my lord... your sight; behind him | My Lord... Your sight; behind Him |
+| Genesis 1:26 | Let Us make man in Our image, after Our likeness | Let us make man in our image, after our likeness (fn: the heavenly council; Job 38:7; 3:5, 22) |
+| Habakkuk 2:4 | Look at the proud one; he is not upright within him | Look, the proud one is puffed up and not upright within |
+| Leviticus 17:11; Colossians 2:11 | (fn: Literally the soul / Literally in the cutting away...) | (footnotes removed) |
+| Romans 3:22, 26; Galatians 2:16, 20; 3:22; Ephesians 3:12; Philippians 3:9; James 2:1 | faith in Christ / faith in Jesus | the faithfulness of Christ (changed in v0.10; row added in v0.20) |
 | Footnotes (Gen 8:20; 16:7; 18:1; 22:2; 24:64; 34:7; 46:27; Exod 1:5; 3:14; 11:1; Lev 16:5; 23:27; Ps 51:7; Isa 13:21-22; 34:13-14; 53:10; Jer 50:39; Mal 1:7; Ezek 41:22; John 1:5; 5:3; Rom 3:25; 7:4; Rev 5:9) | (misquotations, wrong citations, stale wording) | (corrected; see v0.20 catalog) |
 | **v0.19** |  |  |
 | Genesis 41:38 | in whom the Spirit of God abides (fn: Or the spirit of the gods) | in whom is the spirit of the gods |
@@ -1767,9 +1774,9 @@ Hebrews 10:6, 10:8
 
 **BSB rendering:** "guilt offering" → **AAB rendering:** "reparation offering"
 
-**34 verses:**
+**35 verses:**
 
-Leviticus 5:15, 5:16, 5:18, 5:19, 6:6, 6:17, 7:1, 7:2, 7:5, 7:7, 7:37, 14:12, 14:13, 14:14, 14:17, 14:21, 14:24, 14:25, 14:28, 19:21, 19:22
+Leviticus 5:6, 5:15, 5:16, 5:18, 5:19, 6:6, 6:17, 7:1, 7:2, 7:5, 7:7, 7:37, 14:12, 14:13, 14:14, 14:17, 14:21, 14:24, 14:25, 14:28, 19:21, 19:22
 
 Numbers 6:12, 18:9
 
