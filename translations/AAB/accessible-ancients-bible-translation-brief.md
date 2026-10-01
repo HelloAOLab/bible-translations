@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.19 | Awaiting Feedback**
+**Status: Public Draft v0.20 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -34,15 +34,16 @@ The AAB is an independent public effort and is not affiliated with any organizat
 10. [Part 4: Spiritual Beings and Idolatry](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-4-spiritual-beings-and-idolatry)  
 11. [Part 5: Human Anthropology](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-5-human-anthropology)  
 12. [Part 6: Sacrificial Terminology](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-6-sacrificial-terminology)  
-13. [Specific Passages](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#specific-passages)  
+13. [Part 7: Faith, Law, and Justification](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#part-7-faith-law-and-justification)  
+14. [Specific Passages](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#specific-passages)  
 - [Final Judgment Passages](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#final-judgment-passages)  
-14. [Text-Critical Adoptions](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#text-critical-adoptions)  
-15. [What This Translation Does Not Do](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#what-this-translation-does-not-do)  
-16. [Complete Verse Catalog](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#complete-verse-catalog)  
-17. [AAB vs ESV vs NIV Comparison](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#aab-vs-esv-vs-niv-comparison)  
+15. [Text-Critical Adoptions](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#text-critical-adoptions)  
+16. [What This Translation Does Not Do](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#what-this-translation-does-not-do)  
+17. [Complete Verse Catalog](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#complete-verse-catalog)  
+18. [AAB vs ESV vs NIV Comparison](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#aab-vs-esv-vs-niv-comparison)  
 - [Overall Assessment](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#overall-assessment)  
 - [Join Us](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#join-us)  
-18. [Scholarly Endorsements](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#scholarly-endorsements)  
+19. [Scholarly Endorsements](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#scholarly-endorsements)  
 - [How Endorsements Work](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#how-endorsements-work)  
 - [How to Add Your Voice](https://docs.google.com/document/d/1nDnDNr5jyD2FIPS4AgbP8J4NDM-vPq-BhrAcn4Qlg1I/edit#how-to-add-your-voice)
 
@@ -232,9 +233,9 @@ The Ancient Voice Translation will make the opposite tradeoff: full foreignizati
 
 One of the most pervasive interpretive lenses imposed on Scripture is Greek philosophical dualism: the idea that humans consist of two fundamentally different substances, an immortal, immaterial soul temporarily housed in a mortal, material body. This framework, rooted in Plato and developed through centuries of Hellenistic philosophy, has profoundly shaped how Western readers understand biblical language about human nature.
 
-**The problem is that this framework is foreign to the biblical authors — and postdates them.**
+**The problem is that this framework is foreign to the biblical authors, and postdates them.**
 
-Even on the latest critical dating schemes, the Torah reached its final form no later than the 5th century BC, contemporary with or before Plato (c. 428–348 BC). Traditional dating places the composition of Genesis and the Pentateuch centuries earlier still. The ANE literature that forms the conceptual world of the biblical authors — Mesopotamian, Egyptian, Ugaritic — predates Plato by a millennium or more. Greek philosophical dualism is therefore not the interpretive background of the biblical authors; it is a later framework imposed backward onto texts written in a completely different conceptual world. The burden of proof falls on those who read Platonic categories into Hebrew Scripture, not on those who read the Hebrew on its own terms.
+Even on the latest critical dating schemes, the Torah reached its final form no later than the 5th century BC, contemporary with or before Plato (c. 428–348 BC). Traditional dating places the composition of Genesis and the Pentateuch centuries earlier still. The ANE literature that forms the conceptual world of the biblical authors (Mesopotamian, Egyptian, Ugaritic) predates Plato by a millennium or more. Greek philosophical dualism is therefore not the interpretive background of the biblical authors; it is a later framework imposed backward onto texts written in a completely different conceptual world. The burden of proof falls on those who read Platonic categories into Hebrew Scripture, not on those who read the Hebrew on its own terms.
 
 When modern readers encounter words like "soul" and "spirit" in English Bibles, they instinctively import Platonic categories: an immortal ghost-part that exists independently of the body and survives death automatically. But the Hebrew terms behind these translations (*nephesh* and *ruach*) do not carry these meanings. Understanding what these words actually meant to the biblical authors is essential for reading Scripture on its own terms.
 
@@ -244,7 +245,7 @@ When modern readers encounter words like "soul" and "spirit" in English Bibles, 
 
 In Platonic thought, the soul (Greek: *psychē*) is the true self: eternal, rational, and divine in origin. The body (Greek: *sōma*) is a prison or tomb for the soul, something to be escaped. Death is liberation: the immortal soul finally freed from its material cage. This view assumes a fundamental opposition between spirit and matter, with spirit being good and matter being inferior or evil.
 
-This framework entered Christian theology through the early church's engagement with Greek philosophy, and it has colored Bible translation ever since. The historical trajectory is traceable: the LXX (3rd–2nd c. BC) translated *nephesh* as Greek *psychē*, beginning the terminological overlap. Philo of Alexandria (c. 20 BC–50 AD) systematically fused Hebrew Scripture with Platonic philosophy. By the second century, Apologists such as Justin Martyr were adopting soul-immortality language in dialogue with Greek culture. Origen (3rd c. AD) applied the Platonic framework extensively — including body-as-prison imagery and the pre-existence of souls. It was Augustine of Hippo (354–430 AD) who synthesized Neoplatonism with Christian theology comprehensively enough that his anthropology became the default framework for the Western church through the medieval period and the Reformation. The Greek dualist reading of *nephesh* and *ruach* is therefore not the position of the biblical authors, the ANE world, or the earliest Christian interpreters; it is the position of a church increasingly shaped by its philosophical environment, systematized through one theologian's enormous influence.
+This framework entered Christian theology through the early church's engagement with Greek philosophy, and it has colored Bible translation ever since. The historical trajectory is traceable: the LXX (3rd–2nd c. BC) translated *nephesh* as Greek *psychē*, beginning the terminological overlap. Philo of Alexandria (c. 20 BC–50 AD) systematically fused Hebrew Scripture with Platonic philosophy. By the second century, Apologists such as Justin Martyr were adopting soul-immortality language in dialogue with Greek culture. Origen (3rd c. AD) applied the Platonic framework extensively, including body-as-prison imagery and the pre-existence of souls. It was Augustine of Hippo (354–430 AD) who synthesized Neoplatonism with Christian theology comprehensively enough that his anthropology became the default framework for the Western church through the medieval period and the Reformation. The Greek dualist reading of *nephesh* and *ruach* is therefore not the position of the biblical authors, the ANE world, or the earliest Christian interpreters; it is the position of a church increasingly shaped by its philosophical environment, systematized through one theologian's enormous influence.
 
 ### Nephesh: What the Hebrew Bible Actually Says About the "Soul"
 
@@ -398,7 +399,7 @@ Having established our hermeneutical framework, the following table summarizes t
 | Category | Standard Translations | This Translation |
 | :---- | :---- | :---- |
 | Divine name | the LORD | the LORD (unchanged) |
-| The Accuser (Job, Zech) | Satan | the Accuser |
+| The Accuser (Job, Zech; Heb. hasatan) | Satan | the Accuser (NT Satanas: Satan) |
 | Underworld (OT) | grave, hell, pit (mixed) | Sheol (default); grave/pit acceptable; never "hell" |
 | Hades (NT) | hell | Hades (always) \[BSB v3 already correct\] |
 | Gehenna (NT) | hell | Gehenna (always) |
@@ -527,7 +528,7 @@ The following section addresses how we rendered terms for spiritual beings other
 
 *Elohim* names beings of the spirit realm: God, a single divine being, the gods of the nations, the heavenly host, and the spirits of the dead (1 Sam 28:13). It can be singular or plural, and context decides which is meant. It is never used of an ordinary living human being. Where Moses is made "like God" to Pharaoh and to Aaron (Exod 4:16; 7:1), he stands in God's place toward them; he is not called a divine being. Psalm 82 addresses heavenly beings, not human judges: they are sentenced to die like mortals (82:7), a sentence carried out at the last judgment (Isa 24:21-22; Rev 20:10, 14), and Jesus argues from the psalm on that basis (John 10:34-36). The one human called elohim is Jesus, who is both God and man (Ps 45:6; Heb 1:8-9). The AAB therefore never reduces *elohim* to "judges," "rulers," or "mighty ones."
 
-**Angel (*mal'ak*, *angelos*).** Both words mean "messenger," one who is sent; they name a task, not a kind of being. Of about 213 uses of *mal'ak* in the Hebrew Bible, roughly half are human messengers (Gen 32:3; Num 20:14), including prophets and priests (Hag 1:13; Mal 2:7). Scripture's names for heavenly beings by nature and rank are others: *elohim*, sons of God, holy ones, the host of heaven, cherubim, seraphim. The Angel of the LORD stands apart from ordinary messengers: again and again He speaks as God Himself, and those who see Him say they have seen God (Gen 16:13; 22:11-16; 31:11-13; Exod 3:2-6; 23:21; Judg 6:22; 13:22), yet He is sent by the LORD and distinct from Him (Zech 3:1-2). He is Jesus, the Son, before His incarnation (John 1:18; 8:56-58), the "Messenger of the covenant" (Mal 3:1); His appearances are Christophanies, visible appearances of the Son before He was born as a man. Where the text identifies the angel of the LORD with God, the AAB capitalizes "Angel" and His pronouns, as it does for God (Gen 16; 21:17; 22:11-18; 31:11-13; 32:24-30; 48:16; Exod 3:2; 14:19; 23:20-23; 32:34; Num 20:16; 22:22-35; Judg 2:1-4; 6:11-22; 13:3-21; Isa 63:9; Hos 12:4; Zech 1:11-12; 3:1-6; 12:8; Acts 7:30-38), in the destroying Angel (2 Sam 24:16-17; 1 Chr 21; 2 Kgs 19:35; Isa 37:36) and the Destroyer of Egypt's firstborn (Exod 12:23; Heb 11:28), in Judges 5:23, and in Psalms 34:7 and 35:5-6. In 2 Kings 1:3, 15 the angel stays lowercase; the Hebrew does not make His identity clear. So do "an angel" in Exodus 33:2, which God sends in place of going up among the people Himself (33:3), and "His angel" in Genesis 24:7, 40. The Destroyer of 1 Corinthians 10:10 is capitalized: Paul has just named Christ as the rock that went with Israel and the one they tested (10:4, 9). At 1 Kings 19 the angel who feeds Elijah stays lowercase, and the note at 19:9 identifies the personal "word of the LORD" who speaks to him as the Word of John 1. A created messenger, the interpreting angel of Zechariah, the idiom "like the angel of God" (2 Sam 14:17; 19:27), and the New Testament's "an angel of the Lord" stay lowercase. Gen 18:1, Josh 5:15 and Judg 13:18 carry notes tying further appearances to Genesis 16:7; Judg 13:18 notes that the Angel's name, "Wonderful," is the name of the child in Isa 9:6. The AAB explains this at Genesis 16:7. The word "angel" itself broadened by stages. Some psalms already use "angels" as a class term in parallel with the heavenly host (Ps 103:20-21; 148:2; Job 4:18). In the Persian period, from the late 500s BC, Zechariah's interpreting angel (Zech 1:9) and Daniel's named and ranked beings (Dan 8:16; 10:13) make angels characters in their own right. By the Hellenistic period, about 250 to 100 BC, "angel" is the general term: the Greek Old Testament renders "sons of God" as "angels of God" (Job 1:6; 2:1; Deut 32:8) and *elohim* as "angels" (Ps 8:5; 97:7; 138:1), and 1 Enoch (oldest parts about 300 to 200 BC), Jubilees (about 150 BC), and the Dead Sea Scrolls use it as the ordinary word for the heavenly host. In the New Testament *angelos* usually means a heavenly being but can still mean a human messenger (Luke 7:24; 9:52; Jas 2:25; Mark 1:2). Later rabbinic Hebrew narrowed *mal'akh* to heavenly beings alone and used *shaliach*, from the same root "to send," for a human agent. Hebrews reads "angels" at 1:6 and 2:7 because it quotes the Greek Old Testament, which already carried the broadened sense; the AAB's Hebrew-based renderings at Ps 8:5 ("heavenly beings") and Ps 97:7 and 138:1 ("gods") give the older word behind it. The AAB renders *mal'ak* "messenger" where the sender is human and "angel" where the messenger is heavenly, with a note on the word's history at Matthew 1:20; the "an angel of the Lord" there is a created messenger who speaks about God, not the Angel of the LORD who speaks as God.
+**Angel (*mal'ak*, *angelos*).** Both words mean "messenger," one who is sent; they name a task, not a kind of being. Of about 213 uses of *mal'ak* in the Hebrew Bible, roughly half are human messengers (Gen 32:3; Num 20:14), including prophets and priests (Hag 1:13; Mal 2:7). Scripture's names for heavenly beings by nature and rank are others: *elohim*, sons of God, holy ones, the host of heaven, cherubim, seraphim. The Angel of the LORD stands apart from ordinary messengers: again and again He speaks as God Himself, and those who see Him say they have seen God (Gen 16:13; 22:11-16; 31:11-13; Exod 3:2-6; 23:21; Judg 6:22; 13:22), yet He is sent by the LORD (Exod 23:20) and distinct from Him (Zech 3:1-2). He is Jesus, the Son, before His incarnation (John 1:18; 8:56-58), the "Messenger of the covenant" (Mal 3:1); His appearances are Christophanies, visible appearances of the Son before He was born as a man. Where the text identifies the angel of the LORD with God, the AAB capitalizes "Angel" and His pronouns, as it does for God (Gen 16; 21:17; 22:11-18; 31:11-13; 32:24-30; 48:16; Exod 3:2; 14:19; 23:20-23; 32:34; Num 20:16; 22:22-35; Judg 2:1-4; 6:11-22; 13:3-21; Isa 63:9; Hos 12:4; Zech 1:11-12; 3:1-6; 12:8; Acts 7:30-38), in the destroying Angel (2 Sam 24:16-17; 1 Chr 21; 2 Kgs 19:35; 2 Chr 32:21; Isa 37:36) and the Destroyer of Egypt's firstborn (Exod 12:23; Heb 11:28), in Judges 5:23, and in Psalms 34:7 and 35:5-6. In 2 Kings 1:3, 15 the angel stays lowercase; the Hebrew does not make the angel's identity clear. So do "an angel" in Exodus 33:2, which God sends in place of going up among the people Himself (33:3), and "His angel" in Genesis 24:7, 40. The Destroyer of 1 Corinthians 10:10 is capitalized: Paul has just named Christ as the rock that went with Israel and the one they tested (10:4, 9). At 1 Kings 19 the angel who feeds Elijah stays lowercase, and the note at 19:9 identifies the personal "word of the LORD" who speaks to him as the Word of John 1. A created messenger, the interpreting angel of Zechariah, the idiom "like the angel of God" (2 Sam 14:17; 19:27), and the New Testament's "an angel of the Lord" stay lowercase. Gen 18:1, Josh 5:15 and Judg 13:18 carry notes tying further appearances to Genesis 16:7; Judg 13:18 notes that the Angel's name, "Wonderful," is the name of the child in Isa 9:6. The AAB explains this at Genesis 16:7. The word "angel" itself broadened by stages. Some psalms, and Job, already use "angels" as a class term in parallel with the heavenly host (Ps 103:20-21; 148:2; Job 4:18). In the Persian period, from the late 500s BC, Zechariah's interpreting angel (Zech 1:9) and Daniel's named and ranked beings (Dan 8:16; 10:13) make angels characters in their own right. By the Hellenistic period, about 250 to 100 BC, "angel" is the general term: the Greek Old Testament renders "sons of God" as "angels of God" (Job 1:6; 2:1; Deut 32:8) and *elohim* as "angels" (Ps 8:5; 97:7; 138:1), and 1 Enoch (oldest parts about 300 to 200 BC), Jubilees (about 150 BC), and the Dead Sea Scrolls use it as the ordinary word for the heavenly host. In the New Testament *angelos* usually means a heavenly being but can still mean a human messenger (Luke 7:24; 9:52; Jas 2:25; Mark 1:2). Later rabbinic Hebrew narrowed *mal'akh* to heavenly beings alone and used *shaliach*, from the same root "to send," for a human agent. Hebrews reads "angels" at 1:6 and 2:7 because it quotes the Greek Old Testament, which already carried the broadened sense; the AAB's Hebrew-based renderings at Ps 8:5 ("heavenly beings") and Ps 97:7 and 138:1 ("gods") give the older word behind it. The AAB renders *mal'ak* "messenger" where the sender is human and "angel" where the messenger is heavenly; in a non-Israelite's mouth it renders what the speaker means, as with Achish's "a messenger of the gods" (1 Sam 29:9), with a note on the word's history at Matthew 1:20; the "an angel of the Lord" there is a created messenger who speaks about God, not the Angel of the LORD who speaks as God.
 
 | Reference | Rendering |
 | :---- | :---- |
@@ -541,7 +542,9 @@ The following section addresses how we rendered terms for spiritual beings other
 | Job 1:6; 2:1; 38:7 | "sons of God" |
 | Psalm 29:1; 89:6 | "sons of God" or "heavenly beings" |
 
-**A note on Genesis 3:5 and 3:22:** The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings" — the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular), following the Trinitarian reading. The AAB renders "like gods" because the plural is what the Hebrew says and because Genesis 3:22 confirms it: God himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
+**Holy Ones and Sons of God: From the Council to the Church.** Scripture moves the name "holy ones" on purpose. In the Old Testament the holy ones (*qedoshim*) are most often heavenly beings: God is feared "in the council of the holy ones" (Ps 89:5-7), the holy ones issue the decree against Nebuchadnezzar (Dan 4:17), and the sons of God present themselves before the LORD (Job 1:6). Adam was made for a seat in that council (Gen 1:26; Job 15:7-8) and lost it. After Babel the nations were given to the sons of God, while the LORD took Israel as His own inheritance (Deut 32:8-9). The Son is promised the nations (Ps 2:8), and when the gods are judged for ruling unjustly He inherits them (Ps 82:1-8). Daniel 7 is the hinge: the kingdom is given to the Son of Man, to the holy ones of the Most High, and to "the people of the holy ones of the Most High" (Dan 7:13-14, 18, 22, 27). The turn is foreshadowed when seventy elders go up the mountain and behold God (Exod 24:9-11) and receive the Spirit (Num 11:16-29), and when Jesus sends out the seventy, who find the spirits subject to them (Luke 10:1, 17-19). In the New Testament the name passes to God's people (*hagioi*). They share the inheritance of the holy ones (Col 1:12), have come to the heavenly assembly where angels and the church gather (Heb 12:22-23), and will judge the world and even angels (1 Cor 6:2-3). The AAB therefore keeps "holy ones" as one name in both Testaments, so the reader can follow it from the council to the church, with notes at Matt 27:52 and Dan 7:27. It renders a different word, *chasid* ("one who keeps covenant loyalty"), as "godly ones," so that "holy ones" is not used for two Hebrew words (note at Ps 30:4). It renders *bene elim* as "sons of God" (Ps 29:1; 89:6), as it does *bene ha-elohim* (Gen 6:2; Job 1:6; 38:7), so the reader can see the same company throughout.
+
+**A note on Genesis 1:26, 3:5, and 3:22:** God's "Let us make man in our image" (1:26) is addressed to the same council, and from v0.20 the AAB prints it lowercase with a note, as it does "let us go down" at Babel (Gen 11:7; cf. Deut 32:8) and "Who will go for us?" in the throne room (Isa 6:8; cf. 1 Kgs 22:19-22); the making itself is God's alone ("So God created man in His own image," 1:27).  The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings," the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular). The AAB renders "like gods" because the context points to the council and Genesis 3:22 confirms it: God Himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
 
 **A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no alternative was entertained until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth) but did not himself commit to it. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen all read Genesis 6 as describing divine beings taking human wives. The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
 
@@ -573,16 +576,7 @@ In Job 1-2 and Zechariah 3, Hebrew has the definite article: הַשָּׂטָן 
 
 **Note on the Job and Zechariah footnote:** The BSB includes a footnote at Job 1:6 reading "that is, the Accuser or the Adversary; here and throughout Job." The AAB replaces this with a footnote that explains the grammatical basis: "Heb. *hasatan*, 'accuser' or 'adversary' (lexical range). The definite article indicates a title, not a proper name. Rendered 'the Accuser' here and throughout Job and Zechariah 3, where the article is consistently present."
 
-**Note on the New Testament:** Greek proper names routinely take the definite article — Jesus, Paul, Peter — without that article signaling a title. The presence of the article with Σατανᾶς in the NT does not carry the same grammatical signal that הַשָּׂטָן carries in Hebrew, where the article marks a title rather than a proper name. The AAB therefore renders Σατανᾶς as "Satan" throughout the NT except in four passages where the NT author is most clearly invoking the specific OT scenes in Job 1–2 and Zechariah 3. The basis for these four exceptions is canonical and intertextual, not grammatical.
-
-| Verse | Rendering |
-| :---- | :---- |
-| Luke 22:31 | "the Accuser" |
-| Romans 16:20 | "the Accuser" |
-| Revelation 12:9 | "the Accuser" |
-| Revelation 20:2 | "the Accuser" |
-
-**Footnote (identical for all four instances):** "Satan" is an equally valid translation here. The AAB renders "the Accuser" in these passages to preserve the explicit connection the NT author is drawing to the heavenly accuser of Job 1–2 and Zechariah 3, where the Hebrew הַשָּׂטָן ("the Accuser") functions as a title. Both renderings are defensible.
+**Note on the New Testament:** Where the Greek has *Satanas*, the AAB renders "Satan" (Luke 22:31; Rom 16:20; Rev 12:9; 20:2), for in the New Testament he is named plainly and *Satanas* and *diabolos* ("the devil") name the same being (Rev 20:2). Where the Hebrew has *hasatan* with the article, a title, the AAB renders "the Accuser" (Job 1-2; Zech 3). Notes at Luke 22:31 and Rev 12:9 show where the New Testament draws on the accuser of Job and Zechariah: he must ask leave to test God's servants (Luke 22:31; Job 1:9-12), and he is "the accuser of our brothers" (Rev 12:10).
 
 ## Part 3: Underworld and Death
 
@@ -654,23 +648,23 @@ Where Hebrew שֵׁדִים (*shedim*) appears (Deut 32:17; Psa 106:37), we rend
 
 ### Keening Creatures / Ohim (אֹחִים / ohim)
 
-Heb. אֹחִים (*ohim*), 'keening ones' or 'keening creatures.' Appears only in Isaiah 13:21. The root points to mournful howling. In Hebrew the -*im* ending marks plural beings rather than abstract qualities; the context places *ohim* alongside a sequence of creatures and spirits none of which is an abstraction; and the ANE material for this desolation formula consistently populates ruins with hostile supernatural beings. The LXX renders it as ἦχος (*echos*, "sound/resonance") rather than a named creature — that reading is the earliest on record, but the -*im* ending, the surrounding company of beings, and Revelation 18:2 all point in the same direction. Revelation reads Babylon's desolation as "a dwelling place of demons, a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *ohim* fill those houses as part of that company. The Songs of the Sage (4Q510, late 1st c. BCE) lists "howlers" alongside demons, Lilith, and spirits of the bastards in a single exorcism formula, confirming that Second Temple readers identified this creature class from the desolation texts as a recognized demonic category.
+Heb. אֹחִים (*ohim*), 'keening ones' or 'keening creatures.' Appears only in Isaiah 13:21. The root points to mournful howling. The context places *ohim* alongside a sequence of creatures and spirits none of which is an abstraction; and the ANE material for this desolation formula consistently populates ruins with hostile supernatural beings. The LXX renders it as ἦχος (*echos*, "sound/resonance") rather than a named creature. That reading is the earliest on record, but the surrounding company of beings and Revelation 18:2 both point in the same direction. Revelation reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *ohim* fill those houses as part of that company. The Songs of the Sage (4Q510, late 1st c. BCE) lists "howlers" alongside demons, Lilith, and spirits of the bastards in a single exorcism formula, confirming that Second Temple readers identified this creature class from the desolation texts as a recognized demonic category.
 
 ### Sirens / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
 
-Heb. בְּנוֹת יַעֲנָה (*benot ya'anah*). Most dictionaries and English translations identify it as "daughters of the ostrich" or simply "ostriches." The LXX translators nonetheless rendered it as σειρῆνες (*seirēnes*): supernatural beings with a woman's head and a bird's body whose wailing voices lured the living to their deaths. The bird-form, the lamenting context (Micah 1:8 uses the term as a figure of mournful wailing; Job 30:29 pairs it with תַּנִּים / *tannim* as a figure of desolation), and the surrounding company of supernatural beings all point in the same direction. Revelation 18:2 reads Babylon's desolation as "a dwelling place of demons, a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34. Whatever *benot ya'anah* names as a creature, Revelation requires that these ruined cities be populated by hostile spiritual beings. "Sirens" is the right English choice precisely because modern English speakers inherit a Greco-Roman cultural frame: the word already carries what the LXX translators were reaching for — bird-woman form, wailing voice, a deadly supernatural presence.
+Heb. בְּנוֹת יַעֲנָה (*benot ya'anah*). Most dictionaries and English translations identify it as "daughters of the ostrich" or simply "ostriches." The LXX translators nonetheless rendered it as σειρῆνες (*seirēnes*): supernatural beings with a woman's head and a bird's body whose wailing voices lured the living to their deaths. The bird-form, the lamenting context (Micah 1:8 uses the term as a figure of mournful wailing; Job 30:29 pairs it with תַּנִּים / *tannim* as a figure of desolation), and the surrounding company of supernatural beings all point in the same direction. Revelation 18:2 reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34. Whatever *benot ya'anah* names as a creature, Revelation requires that these ruined cities be populated by hostile spiritual beings. "Sirens" is the right English choice precisely because modern English speakers inherit a Greco-Roman cultural frame: the word already carries what the LXX translators were reaching for: bird-woman form, wailing voice, a deadly supernatural presence.
 
 Appears at Isaiah 13:21, Isaiah 34:13, and Jeremiah 50:39.
 
 ### Goat-Demons (שְׂעִירִים / se'irim)
 
-Heb. שְׂעִירִים (*se'irim*), 'hairy ones' or 'goat-beings'; singular שָׂעִיר (*sa'ir*). Leviticus 17:7 prohibits Israel from sacrificing to the *se'irim*, which means they were receiving sacrifices. 2 Chronicles 11:15 records Jeroboam appointing priests for them alongside the golden calves. The LXX renders *se'irim* as δαιμόνια (*daimonia*) in both Isaiah 13:21 and 34:14; Revelation 18:2 uses the same word. "Satyr" is not used as the translation because it imports Greek mythology as the primary frame. "Goat demon" names what the canon establishes: a hostile supernatural being associated with the goat complex, receiving worship in YHWH's place.
+Heb. שְׂעִירִים (*se'irim*), 'hairy ones' or 'goat-beings'; singular שָׂעִיר (*sa'ir*). Leviticus 17:7 prohibits Israel from sacrificing to the *se'irim*, which means they were receiving sacrifices. 2 Chronicles 11:15 records Jeroboam appointing priests for them alongside the golden calves. The LXX renders *se'irim* as δαιμόνια (*daimonia*), "demons," at Isaiah 13:21 (at 34:14 the same Greek word stands for the *tsiyyim* in their company), and the Aramaic Targums render *se'irim* "demons" (*shedim*) at Lev 17:7; Isa 13:21; 34:14. Revelation 18:2 uses *daimonia* of fallen Babylon. "Satyr" is not used as the translation because it imports Greek mythology as the primary frame. "Goat demon" names what the canon establishes: a hostile supernatural being associated with the goat complex, receiving worship in YHWH's place.
 
 BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:15. The AAB change applies to Isaiah 13:21 and Isaiah 34:14.
 
 ### Howlers / Iyyim (אִיִּים / iyyim)
 
-Heb. אִיִּים (*iyyim*), 'howlers.' Appear only in this desolation formula (Isa 13:22; 34:14; Jer 50:39), always alongside צִיִּים (*tsiyyim*, 'desert dwellers'). The root points to mournful howling or wailing. The LXX renders the word as ὀνοκένταυρος (*onokentauros*, "donkey-centaur") — not a wild animal but a being of the human-animal hybrid class: part human, part beast, belonging to neither category fully, and therefore uncanny and dangerous. This is the same broad register as the centaur and the satyr in Greek thought, or the composite guardian figures of Mesopotamian iconography — beings that transgress the boundary between the human and animal worlds. That the Greek translators reached for this category rather than any natural creature shows they read *iyyim* as a supernatural being, not a creature of the field. Mizrahi and Patmore (2019) have established that the demon list in the Songs of the Sage (4Q510, late 1st c. BCE) derives its *iyyim* directly from the Isaiah desolation passages through a documented exegetical tradition, confirming that Second Temple readers recognized this creature class as a demonic category. That reading is consistent with the canonical placement of *iyyim* in immediate parallel with *se'irim* (goat demons who received cultic worship, Lev 17:7) and with Lilith in the same verse. Revelation 18:2 reads Babylon's desolation as "a dwelling place of demons, a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *iyyim* fill that company. "Howlers" names what the Hebrew root attests; the LXX's rendering suggests the ancient translators understood them as belonging to the category of composite, boundary-crossing beings.
+Heb. אִיִּים (*iyyim*), 'howlers.' Appear only in this desolation formula (Isa 13:22; 34:14; Jer 50:39), always alongside צִיִּים (*tsiyyim*, 'desert dwellers'). The root points to mournful howling or wailing. The LXX renders the word as ὀνοκένταυρος (*onokentauros*, "donkey-centaur"): not a wild animal but a being of the human-animal hybrid class: part human, part beast, belonging to neither category fully, and therefore uncanny and dangerous. This is the same broad register as the centaur and the satyr in Greek thought, or the composite guardian figures of Mesopotamian iconography, beings that transgress the boundary between the human and animal worlds. That the Greek translators reached for this category rather than any natural creature shows they read *iyyim* as a supernatural being, not a creature of the field. The demon list in the Songs of the Sage (4Q510, late 1st c. BCE) draws on these same Isaiah desolation passages: after Lilith it names the *ohim* (Isa 13:21) and the *tsiyyim* (4Q510 1 5; cf. the parallel 4Q511 10 2), the constant partners of the *iyyim*. Second Temple readers took this company of desolation creatures as demons. That reading is consistent with the canonical placement of *iyyim* in immediate parallel with *se'irim* (goat demons who received cultic worship, Lev 17:7) and with Lilith in the same verse. Revelation 18:2 reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *iyyim* fill that company. "Howlers" names what the Hebrew root attests; the LXX's rendering suggests the ancient translators understood them as belonging to the category of composite, boundary-crossing beings.
 
 ### Dragons / Tannim (תַּנִּים / תַּנִּין / tannim / tannin)
 
@@ -680,7 +674,7 @@ Appears at Isaiah 13:22, Isaiah 34:13, and multiple other desolation texts.
 
 ### Lilith (לִילִית / lilit)
 
-Heb. לִילִית (*lilit*), 'night-demon.' BDB identifies her as "a female night-demon haunting desolate Edom, borrowed from Babylonian tradition." The Babylonian *lilitu* and *ardat lili* are supernatural beings of desolate places and night. The Great Isaiah Scroll from Qumran renders the word in the plural (*liliyyot*), suggesting a class rather than a unique figure. The Songs of the Sage (4Q510, late 1st c. BCE) contains the earliest unambiguous identification of Lilith as a supernatural being within a catalog of demons; the passage lists her alongside "spirits of the bastards, demons, howlers, and desert dwellers" — the precise cluster of beings populating the Isaiah and Jeremiah desolation texts. That text is secondary to the canonical witness, but it confirms that Second Temple readers recognized these figures, Lilith included, as hostile spiritual beings rather than unusual wildlife.
+Heb. לִילִית (*lilit*), 'night-demon.' BDB identifies her as "a female night-demon haunting desolate Edom, borrowed from Babylonian tradition." The Babylonian *lilitu* and *ardat lili* are supernatural beings of desolate places and night. The Great Isaiah Scroll from Qumran renders the word in the plural (*liliyyot*), suggesting a class rather than a unique figure. The Songs of the Sage (4Q510, late 1st c. BCE) contains the earliest unambiguous identification of Lilith as a supernatural being within a catalog of demons; the passage lists her alongside "spirits of the bastards, demons, howlers, and desert dwellers," the precise cluster of beings populating the Isaiah and Jeremiah desolation texts. That text is secondary to the canonical witness, but it confirms that Second Temple readers recognized these figures, Lilith included, as hostile spiritual beings rather than unusual wildlife.
 
 In Isaiah 34:14, we preserved "Lilith" rather than obscuring the term as "screech owl" or "night creature."
 
@@ -738,7 +732,7 @@ We rendered all 34 occurrences of אָשָׁם as "reparation offering."
 
 Traditional translations render כַּפֹּרֶת as "mercy seat" or "atonement cover." The כַּפֹּרֶת is the solid gold lid of the Ark of the Covenant, and Scripture is consistent about what stands above it: the LORD "sits enthroned between the cherubim" (1 Sam 4:4; 2 Sam 6:2; Ps 80:1; 99:1; Isa 37:16). Ezekiel hears it stated outright of the sanctuary: "this is the place of My throne" (Ezek 43:7). David calls the Ark the "footstool of our God" (1 Chr 28:2; cf. Ps 99:5; 132:7), and a footstool presupposes the throne above it. The temple is the deity's house, and every ANE deity's house contained a throne; the כַּפֹּרֶת between the cherubim is where the divine *pater familias* sits in His house (see Heiser, *The Unseen Realm*, on the throne room and the assembly of heavenly beings; Schloen, *The House of the Father*, on the temple as the god's household).
 
-"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation — though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purification the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5). The AAB keeps "throne seat" for the object (Heb 9:5) and renders the function Paul applies to Christ as "place of purgation" (Rom 3:25): Christ is the place where purgation happens, in the presence of the enthroned God.[^3]
+"Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation, though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purification the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5). The AAB keeps "throne seat" for the object (Heb 9:5) and renders the function Paul applies to Christ as "place of purgation" (Rom 3:25): Christ is the place where purgation happens, in the presence of the enthroned God.[^3]
 
 We rendered all occurrences of כַּפֹּרֶת (and ἱλαστήριον in Heb 9:5) as "throne seat."
 
@@ -754,11 +748,11 @@ We rendered cultic כִּפֶּר as "effect purgation" throughout (~82 verb for
 
 Following from the rendering of כִּפֶּר, the festival traditionally called the "Day of Atonement" is rendered the "Day of Purification" (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9). The Hebrew name is plural, "day of purgations," and Leviticus 16 states the day's function explicitly: the sanctuary is purged "of the impurities of the Israelites and their transgressions" (16:16), "because on this day purgation will be made for you to cleanse you, and you will be clean from all your sins before the LORD" (16:30). The day cleanses God's house; the people's cleansing is its stated outcome. Footnotes at every occurrence carry the traditional name so no reader is stranded.
 
-We considered "Day of Decontamination," which captures the Milgrom framing more transparently for a modern reader, since *kipper* / *kuppuru* is exactly the removal of a contaminating agent from a place. We kept "Day of Purification" in the text on two grounds: it preserves the morphological link to the verb "effect purgation" that renders *kipper* everywhere else (the Hebrew day is visibly the *kipper* day), and "decontamination" clashes in register with the surrounding sacrificial vocabulary. Instead the footnotes carry the modern gloss, and they name what is being decontaminated: **death**. Every source of ritual impurity is death or its likeness (a corpse; skin disease, "as one dead," Num 12:12; the loss of life-bearing fluids), and Israel's sins defile the sanctuary by the same logic (Lev 16:16). The purgative is blood because "the life is in the blood" (Lev 17:11): life applied against the encroachment of death. The day is the annual decontamination of God's house from the death that mortal, sinful people deposit on it.
+We considered "Day of Decontamination," which captures the Milgrom framing more transparently for a modern reader, since *kipper* / *kuppuru* is exactly the removal of a contaminating agent from a place. We kept "Day of Purification" in the text on two grounds: it names the day by its result, as "purification offering" names the *chattat*, while the verb "effect purgation" renders the act of *kipper* itself (see Lev 1:4), and "decontamination" clashes in register with the surrounding sacrificial vocabulary. Instead the footnotes carry the modern gloss, and they name what is being decontaminated: the defilement of **mortality**. Every source of ritual impurity belongs to mortal life, at its beginning and its end: childbirth and the discharges tied to begetting (Lev 12; 15), skin disease that leaves a person "like a stillborn infant" (Num 12:12), and above all the corpse (Num 19:11), since death is where mortality ends. To approach the living God, who neither dies nor begets, Israel set these aside (Lev 11:44; 19:2), and Israel's sins defile the sanctuary by the same logic (Lev 16:16). The blood cleanses God's house, not the worshipper's body, which is washed with water (Lev 15; Num 19); and it does not cleanse the land polluted by bloodshed, sexual sin, and idolatry (Num 35:33; Lev 18:24-28). Mortality itself is undone only in the resurrection, when the mortal puts on immortality (1 Cor 15:53-54). The purgative is blood because "the life is in the blood" (Lev 17:11): life applied against the encroachment of death. The day is the annual decontamination of God's house from the death that mortal, sinful people deposit on it.
 
 The footnotes also state what the day **cannot** do, because the law marks its own ceiling. The day purges only ritual impurity and inadvertent sin, the matters the purification offering exists to handle (Num 15:27–28). It does not address deliberate, high-handed sin, which has no sacrifice at all (Num 15:30–31) and which the day's own statute answers by cutting off whoever will not humble himself (Lev 23:29). It does not cleanse the polluted land, which is purged either by justice (Num 35:33) or by the removal of the people, when the land at last keeps its sabbath rest (Lev 26:34–35; 2 Chr 36:21). And it does not lift the guilt of deliberate sin from the offender; for that the law looks beyond the cult, to repentance, restitution, and the LORD's own pardon (Num 5:6–7; 2 Sam 12:13).
 
-The same chapter preserves a distinction most translations flatten. Two goats: one is the purification offering whose blood purges the sanctuary and which carries no sin; the other, the goat for Azazel, receives Israel's sins by a two-handed transfer with confession (the only sin transfer in the Torah) and is precisely *not* sacrificed — it is not slaughtered, its blood is never offered, and it is driven out of the camp. Sin transfer and sacrifice are mutually exclusive operations in Leviticus 16, performed on two different goats. The dispatch of the Azazel goat belongs to a recognized ANE ritual genre of elimination rites (Hittite rituals of Ashella, Ambazzi, and Uhhamuwa; Eblaite goat-dispatch rites), a genre distinct from altar sacrifice — and Leviticus 16 preserves exactly that genre distinction.
+The same chapter preserves a distinction most translations flatten. Two goats: one is the purification offering whose blood purges the sanctuary and which carries no sin; the other, the goat for Azazel, receives Israel's sins by a two-handed transfer with confession (the only sin transfer in the Torah) and is precisely *not* sacrificed: it is not slaughtered, its blood is never offered, and it is driven out of the camp. Sin transfer and sacrifice are mutually exclusive operations in Leviticus 16, performed on two different goats. The dispatch of the Azazel goat belongs to a recognized ANE ritual genre of elimination rites (Hittite rituals of Ashella, Ambazzi, and Uhhamuwa; Eblaite goat-dispatch rites), a genre distinct from altar sacrifice, and Leviticus 16 preserves exactly that genre distinction.
 
 ### The Family as One: Singulars and the Household
 
@@ -780,7 +774,7 @@ Exodus 11:1 reads כִּי כְּשַׁלְּחוֹ כָּלָה, and the conson
 
 **Literary and structural.** The dowry follows immediately (Exod 11:2; 12:35-36), and the pattern is already established in Genesis, where a Pharaoh takes Sarai, is struck with plagues, and sends her away with wealth (Gen 12:14-20).
 
-**Canonical.** God takes Israel with the verb for taking a wife (Exod 6:7), brings her to Himself (Exod 19:4), and binds her at Sinai, which is what makes His jealousy a husband's (Exod 20:5; 34:14). Jeremiah recalls the wilderness as "your love as a bride" (Jer 2:2), Ezekiel as a covenant by which she became His (Ezek 16:8), and both then call her idolatry adultery (Hos 2:2-13; Ezek 16:32). Paul presents the church as a bride to one husband (2 Cor 11:2; Eph 5:31-32), and the canon closes with the marriage of the Lamb (Rev 19:7; 21:2, 9).
+**Canonical.** God takes Israel with the verb for taking a wife (Exod 6:7), brings her to Himself (Exod 19:4), and binds her at Sinai, which is what makes His jealousy a husband's (Exod 20:5; 34:14). Jeremiah recalls the wilderness as "your love as a bride" (Jer 2:2), Ezekiel as a covenant by which she became His (Ezek 16:8), and both then call her idolatry adultery (Jer 3:8-9; Ezek 16:32). Paul presents the church as a bride to one husband (2 Cor 11:2; Eph 5:31-32), and the canon closes with the marriage of the Lamb (Rev 19:7; 21:2, 9).
 
 The AAB does not treat the Masoretic vocalization as binding where the grammatical, structural, and canonical evidence converges against it. Footnotes at Exodus 11:1, 20:5, and 34:14 carry this, and the jealousy note at 20:5 supplies the Old Testament ground for the marriage register the notes at Romans 7:4 and 2 Corinthians 11:2 already use.
 
@@ -794,7 +788,7 @@ The "bulls of Bashan" therefore belong to the Rephaim and the cult of the venera
 
 ### Ascension Offering (עֹלָה / *olah*)
 
-Traditional translations render עֹלָה as "burnt offering." The Hebrew word means "that which ascends," from עָלָה (*alah*, "to go up"); it names the offering's ascent to God in smoke, not its burning. The evidence that "burnt offering" mistranslates the name is internal to the Hebrew Bible. Hebrew has a separate word for "wholly burnt" — כָּלִיל (*kalil*, Deut 13:16; 33:10; Ps 51:19) — and 1 Samuel 7:9 uses both together: עוֹלָה כָּלִיל, "a whole ascension offering." If עֹלָה meant "burnt offering," *kalil* would be redundant there. The two words carry two distinct ideas: עֹלָה names the direction, כָּלִיל the disposal. Judges 13:20 puns on the name — as the flame *went up* (עָלָה) from the altar, the angel of the LORD *ascended* (עָלָה) in the flame of the עֹלָה — a triple wordplay invisible in any translation that says "burnt offering."
+Traditional translations render עֹלָה as "burnt offering." The Hebrew word means "that which ascends," from עָלָה (*alah*, "to go up"); it names the offering's ascent to God in smoke, not its burning. The evidence that "burnt offering" mistranslates the name is internal to the Hebrew Bible. Hebrew has a separate word for "wholly burnt," כָּלִיל (*kalil*, Deut 13:16; 33:10; Ps 51:19), and 1 Samuel 7:9 uses both together: עוֹלָה כָּלִיל, "a whole ascension offering." If עֹלָה meant "burnt offering," *kalil* would be redundant there. The two words carry two distinct ideas: עֹלָה names the direction, כָּלִיל the disposal. Judges 13:20 puns on the name: as the flame *went up* (עָלָה) from the altar, the angel of the LORD *ascended* (עָלָה) in the flame of the עֹלָה, a triple wordplay invisible in any translation that says "burnt offering."
 
 The burning emphasis entered through the LXX's ὁλοκαύτωμα ("wholly burnt"), thence the Vulgate's *holocaustum* and Tyndale's "burnt offering." It is the Greek interpretation, not the Hebrew name. The comparative evidence sharpens the point: Ugaritic, the closest cognate cult, named its equivalent offering *šrp*, from the verb "to burn." Israel's neighbors named this rite by its burning; Israel named it by its ascent.
 
@@ -802,21 +796,21 @@ The burning emphasis entered through the LXX's ὁλοκαύτωμα ("wholly bu
 
 ### Well-Being Offering (שְׁלָמִים / *shelamim*)
 
-Traditional translations render שְׁלָמִים as "peace offering." The word derives from שָׁלוֹם (*shalom*, "wholeness, well-being"), and the offering's defining feature is that the offerer eats it: the rite culminates in a shared meal in God's presence (Lev 7:15–16; Deut 12:7). "Peace offering" suggests reconciliation from estrangement — the wrong register. This is not a sacrifice that repairs a breach; it is a fellowship meal that constitutes and renews communion. The altar is "the table of the LORD" (Mal 1:7, 12; Ezek 41:22), and across the ANE, eating together created and ratified kinship and covenant bonds.
+Traditional translations render שְׁלָמִים as "peace offering." The word derives from שָׁלוֹם (*shalom*, "wholeness, well-being"), and the offering's defining feature is that the offerer eats it: the rite culminates in a shared meal in God's presence (Lev 7:15–16; Deut 12:7). "Peace offering" suggests reconciliation from estrangement, the wrong register. This is not a sacrifice that repairs a breach; it is a fellowship meal that constitutes and renews communion. The altar is "the table of the LORD" (Mal 1:7, 12; Ezek 41:22), and across the ANE, eating together created and ratified kinship and covenant bonds.
 
-The distinction carries doctrinal weight (Rillera). The שְׁלָמִים is explicitly non-atoning: no sin is in view, and no kipper formula attaches to it. The covenant-inauguration rite of Exodus 24 used ascension and well-being offerings — not purification offerings — and culminated in the elders eating and drinking in God's presence (Exod 24:5, 9–11). The Last Supper's "blood of the covenant" (Matt 26:28) cites that rite, and the meal context matches the well-being pattern: the disciples participate by eating and drinking. "Well-being offering" (Milgrom; NRSV "offering of well-being") keeps that register visible. We rendered all 85 occurrences as "well-being offering."
+The distinction carries doctrinal weight (Rillera). The שְׁלָמִים is explicitly non-atoning: no sin is in view, and no kipper formula attaches to it. The covenant-inauguration rite of Exodus 24 used ascension and well-being offerings, not purification offerings, and culminated in the elders eating and drinking in God's presence (Exod 24:5, 9–11). The Last Supper's "blood of the covenant" (Matt 26:28) cites that rite, and the meal context matches the well-being pattern: the disciples participate by eating and drinking. "Well-being offering" (Milgrom; NRSV "offering of well-being") keeps that register visible. We rendered all 85 occurrences as "well-being offering."
 
 ### Soothing Aroma (רֵיחַ נִיחוֹחַ / *reach nichoach*)
 
-Traditional translations render the formula "pleasing aroma." The Hebrew נִיחוֹחַ derives from נוּחַ (*nuach*, "to rest, settle"); the aroma soothes, settles, quiets. "Pleasing" gives the generic effect; "soothing" preserves the Hebrew image — and the canonical wordplay. In Genesis 8:21 it is **Noah** (נֹחַ) whose offering produces the נִיחוֹחַ: the man named Rest offers the aroma of rest, and God's response is a covenant of restraint. The pun is the author's, and "pleasing aroma" erases it. The formula also marks the register of the gift offerings: the ascension offering's stated purpose is this aroma that attracts and entreats the divine presence (Gen 8:21; Lev 1:9) — an invitational function, not a purgative one (so also Eph 5:2, where Christ's self-gift is "a fragrant sacrificial offering," the gift register, footnoted). We rendered all 41 occurrences as "soothing aroma."
+Traditional translations render the formula "pleasing aroma." The Hebrew נִיחוֹחַ derives from נוּחַ (*nuach*, "to rest, settle"); the aroma soothes, settles, quiets. "Pleasing" gives the generic effect; "soothing" preserves the Hebrew image, and the canonical wordplay. In Genesis 8:21 it is **Noah** (נֹחַ) whose offering produces the נִיחוֹחַ: the man named Rest offers the aroma of rest, and God's response is a covenant of restraint. The pun is the author's, and "pleasing aroma" erases it. The formula also marks the register of the gift offerings: the ascension offering's stated purpose is this aroma that attracts and entreats the divine presence (Gen 8:21; Lev 1:9), an invitational function, not a purgative one (so also Eph 5:2, where Christ's self-gift is "a fragrant sacrificial offering," the gift register, footnoted). We rendered all 41 occurrences as "soothing aroma."
 
 ### Atoning and Non-Atoning Sacrifices: The Levitical Framing
 
-The five offerings of Leviticus 1–7 are differentiated, not interchangeable (Rillera, *Lamb of the Free*, following Milgrom). The ascension offering entreats and attracts the divine presence; the grain offering renders tribute (no blood, no death — its existence alone falsifies any definition of sacrifice that requires a victim's death); the well-being offering constitutes fellowship in a shared meal; only the purification and reparation offerings effect purgation in the technical sense. Which offering a New Testament text evokes determines what theological work the image can do.
+The five offerings of Leviticus 1–7 are differentiated, not interchangeable (Rillera, *Lamb of the Free*, following Milgrom). The ascension offering entreats and attracts the divine presence; the grain offering renders tribute (no blood, no death; its existence alone falsifies any definition of sacrifice that requires a victim's death); the well-being offering constitutes fellowship in a shared meal; only the purification and reparation offerings effect purgation in the technical sense. Which offering a New Testament text evokes determines what theological work the image can do.
 
-The system also states its own ceiling: sacrifice covers inadvertent sin and impurity, while the person who sins "with a high hand" (בְּיָד רָמָה, Num 15:30, footnoted) has no sacrifice — defiant covenant-breaking is answered by God Himself, and its remedy is the forgiveness and new heart that God alone provides (Jer 31:31–34; Ezek 36:25–27). This is the gap the new covenant's "forgiveness of sins" language fills; it is covenant-renewal language, not sacrificial-mechanism language.
+The system also states its own ceiling: sacrifice covers inadvertent sin and impurity, while the person who sins "with a high hand" (בְּיָד רָמָה, Num 15:30, footnoted) has no sacrifice; defiant covenant-breaking is answered by God Himself, and its remedy is the forgiveness and new heart that God alone provides (Jer 31:31–34; Ezek 36:25–27). This is the gap the new covenant's "forgiveness of sins" language fills; it is covenant-renewal language, not sacrificial-mechanism language.
 
-The comparative evidence is decisive on what the Levitical cult is not. The ANE possessed genuine ritual substitution — the Mesopotamian substitute king (*šar pūḫi*) absorbed the king's portended fate and was put to death; *namburbi* rituals transferred evil onto figurines and animals that were destroyed. That penalty-transfer machinery was available, named, and practiced in Israel's environment, and the altar cult of Leviticus conspicuously declines to build on it. Where Israel preserves the transfer-and-disposal genre at all, it is the non-sacrificial Azazel goat. The nearest functional analogue to the purification offering is the Hittite *zurki* blood rites (Feder), which run in the purgation direction: blood treats contaminated and consecrated things, not condemned persons.
+The comparative evidence is decisive on what the Levitical cult is not. The ANE possessed genuine ritual substitution: the Mesopotamian substitute king (*šar pūḫi*) absorbed the king's portended fate and was put to death; *namburbi* rituals transferred evil onto figurines and animals that were destroyed. That penalty-transfer machinery was available, named, and practiced in Israel's environment, and the altar cult of Leviticus conspicuously declines to build on it. Where Israel preserves the transfer-and-disposal genre at all, it is the non-sacrificial Azazel goat. The nearest functional analogue to the purification offering is the Hittite *zurki* blood rites (Feder), which run in the purgation direction: blood treats contaminated and consecrated things, not condemned persons.
 
 The New Testament applies the whole repertoire to Jesus, and the AAB's renderings and footnotes preserve which register each text invokes:
 
@@ -832,7 +826,7 @@ The New Testament applies the whole repertoire to Jesus, and the AAB's rendering
 | Eph 5:2 | Fragrant offering | Ascension/gift register | Footnote |
 | 1 Pet 2:21–25 (Isa 53) | Servant bearing sin | Burden-bearing (nasa), non-cultic | "bearing iniquity" renderings (Exod 34:7; Num 14:18; Isa 53) |
 
-Through all of it the New Testament's stated relation between Jesus's death and believers is participatory — baptized into his death (Rom 6:3–8), co-crucified (Gal 2:19–20), conformed to his death (Phil 3:10), sharing the cup (1 Cor 10:16). The translation does not adjudicate atonement theology; it restores the Levitical categories the NT authors were actually using, and lets the footnotes carry the traditional alternatives.
+Through all of it the New Testament's stated relation between Jesus's death and believers is participatory: baptized into his death (Rom 6:3–8), co-crucified (Gal 2:19–20), conformed to his death (Phil 3:10), sharing the cup (1 Cor 10:16). The translation does not adjudicate atonement theology; it restores the Levitical categories the NT authors were actually using, and lets the footnotes carry the traditional alternatives.
 
 **Key sources:** Jacob Milgrom, *Leviticus 1–16*, Anchor Bible (1991); Andrew Remington Rillera, *Lamb of the Free* (Cascade, 2024); Yitzhaq Feder, *Blood Expiation in Hittite and Biblical Ritual* (SBL, 2011); David P. Wright, *The Disposal of Impurity* (Scholars Press, 1987); David M. Moffitt, *Atonement and the Logic of Resurrection in the Epistle to the Hebrews* (Brill, 2011); Jonathan Klawans, *Impurity and Sin in Ancient Judaism* (Oxford, 2000); Michael S. Heiser, *The Unseen Realm* (Lexham, 2015), on the throne seat; J. David Schloen, *The House of the Father as Fact and Symbol* (Eisenbrauns, 2001); Peter Leithart and Everett Fox on the ascension offering.
 
@@ -861,7 +855,7 @@ The AAB keeps the familiar renderings in the main text and carries this reading 
 
 The passages in this section require individual treatment because they involve textual, interpretive, or theological questions that go beyond simple terminology.
 
-### Morning Star, Son of Dawn (Isaiah 14:12)
+### Shining One, Son of Dawn (Isaiah 14:12)
 
 The Hebrew phrase הֵילֵל בֶּן־שָׁחַר (*helel ben shachar*). *Helel* denotes brightness or the morning star (Venus at dawn). *Shachar* ("Dawn") appears in Ugaritic texts (KTU 1.23) as a son of El, the creator-God and chief deity of the Canaanite pantheon, and a member of the divine assembly. The Hebrew "sons of God" (בְּנֵי הָאֱלֹהִים, *bene ha-elohim*) belongs to the same category (cf. Job 1:6; Deut 32:8). The taunt of Isaiah 14 is a *mashal* (v. 4), a proverbial song, and *helel*'s aspiration ("I will ascend to heaven; above the stars of God I will set my throne on high," v. 13) maps onto the divine council cosmology: the fall from heaven is a degradation within the council, a stripping of station among the assembly of the divine sons. Psalm 82 operates on the same structure, where *elohim* are judged and sentenced to die "like men" for corrupting their governance role.
 
@@ -869,9 +863,9 @@ The KJV imported Latin tradition: "O Lucifer, son of the morning\!" But "Lucifer
 
 The *helel* passage is not primarily speculation about the origin of Satan; it is a taunt song that draws on divine council imagery to pronounce the final verdict on the king of Babylon, whose pride replicated the primal pattern of a son of God grasping at the throne above his station.
 
-**Our rendering:** "morning star, son of the dawn"
+**Our rendering:** "Shining One, son of Dawn"
 
-This translates what the Hebrew says while retaining the astronomical image (*helel* = the bright morning star) and preserving the divine council backdrop. Nothing here denies later biblical connections to spiritual rebellion; it simply refuses to replace Isaiah's Hebrew imagery with a Latin label that hides the ancient backdrop.
+This translates *helel*, "shining one," from *halal*, "to shine," and keeps Dawn as a name, preserving the divine council backdrop. "Morning star" is left for Christ, who takes that title (Rev 22:16). Nothing here denies later biblical connections to spiritual rebellion; it simply refuses to replace Isaiah's Hebrew imagery with a Latin label that hides the ancient backdrop.
 
 ### Isaiah 7:14, Virgin
 
@@ -913,7 +907,7 @@ The shift from seventy-five to seventy in the MT is likely connected to the broa
 
 **Our rendering:** seventy-five at both verses.
 
-**Footnote in translation (Gen 46:27 and Exod 1:5):** "The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14)."
+**Footnote in translation (Gen 46:27 and Exod 1:5):** "The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. We follow the reading attested by the NT (Acts 7:14)."
 
 ### Noah's Tent (Genesis 9:21-22)
 
@@ -923,7 +917,7 @@ The phrase "saw his father's nakedness" (Gen 9:22) is not merely visual. Levitic
 
 Noah's wife is not named in Scripture.[^4] The text's reticence invites the reader to discern what happened without spelling it out. We followed the Masoretic text as written.
 
-**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholoh*, notes that the final *he* ordinarily marks "her" so the consonants read "her tent," states that the vowel marks producing "his" were added centuries later and that "her" is as defensible as "his" in the Hebrew itself, names the common rendering with its basis (the later marks and the parallel spellings at Gen 12:8; 13:3; 35:21), and gives the AAB's reason from the idiom in verse 22 and the curse on Canaan. Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
+**Footnotes in translation:** Genesis 9:21 gives the Hebrew *oholoh*, notes that the final *he* ordinarily marks "her" so the consonants read "her tent," states that the vowel marks producing "his" were added centuries later and that "her" is as defensible as "his" in the Hebrew itself, names the common rendering with its basis (the later marks), and gives the AAB's reason from the idiom in verse 22 and the curse on Canaan. Genesis 9:22 explains that "saw his father's nakedness" carries a legal sense in the Torah (Lev 18:8; 20:11), reads it together with "her tent," and notes that this accounts for the curse falling on Canaan rather than on Ham (Gen 9:25).
 
 ## Text-Critical Adoptions
 
@@ -958,6 +952,32 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.20 (September 2026\)
+
+A review of every change from v0.1 onward, correcting slips that later rounds left behind.
+
+- Section headings at Romans 3:21 and Philippians 3 now read "Righteousness through the Faithfulness of Christ," matching Rom 3:22 and Phil 3:9. Leviticus headings now read "Reparation Offering." Ecclesiastes 12:8 now reads "Vapor of vapors," as 1:2 does.
+- Leviticus 5:7 "as restitution" to "as reparation" (*asham*). The stale note at Lev 16:2 ("Or throne seat") removed; "Or mercy seat" at Num 7:89 and 1 Chr 28:11 replaced with pointers to Exod 25:17.
+- The Angel of the LORD: 2 Chronicles 32:21 capitalized with a pointer note (parallel to 2 Kgs 19:35; Isa 37:36); pronouns at Judg 13:11 and Zech 1:8 capitalized; notes at Gen 8:20, 18:1, 22:2 and 16:7 corrected (Gen 16:7 now quotes John 1:18 exactly and cites Exod 23:20 for His being sent).
+- Household: Joshua 7:18 "Zabdi's household," the twin of 7:14; Jeremiah 43:13 "the house of the sun."
+- Footnote quotations brought into line with the AAB's own wording: Rev 18:2 (in the notes at Isa 13:21-22; Jer 50:39), Acts 26:18 (John 1:5), Exod 3:12 (Exod 3:14), Num 12:12 (Lev 23:27), Rom 3:25 ("presented"), Ezek 41:22 (Mal 1:7).
+- Footnote citations and claims corrected: Gen 24:64 (1 Sam 25:23 shows both verbs; 2 Kgs 5:21 used naphal), Exod 11:1 (Jer 3:8-9 for Jeremiah), Gen 34:7 (Hamor's proposal is vv. 21-22), Rom 7:4 (Deut 24 removed; it permits remarriage), Gen 46:27 and Exod 1:5 (the claim that no early witness reads seventy removed, since Deut 10:22 does), Isa 53:10 (LXX paredothē at v. 12), Ps 51:7, Lev 16:5, Rev 5:9, John 5:3 (Codex Alexandrinus), Isa 13:21 (the claim that the -im ending marks beings removed), the tannim notes at Isa 13:22 and 34:13 (the LXX renders "dragons" often, not throughout), and the iyyim notes (the Songs of the Sage list the ohim, not the iyyim).
+- Leviticus 16:8, 10, 26: "for the Azazel" / "as the Azazel" to "for Azazel" / "to Azazel," so the text agrees with the notes: Azazel is the one to whom the goat is sent, not the goat.
+- "Seed" (Gk. *sperma*) carried into the New Testament quotations of the promises to Abraham: Acts 3:25; Rom 4:13, 16, 18; 9:7-8; Heb 11:18, with a note at Acts 3:25 (the promise runs through one Seed, Christ, Gal 3:16). Hebrews 6:14 now reads "multiply you," as the Greek has it, with a note on Gen 22:17.
+- Deuteronomy 2:29 "did for me, until I cross," continuing the Hebrew singular of vv. 27-28; the plural of the last clause ("the LORD our God is giving us") stays. Numbers 31:50 "effect purgation" to "make ransom for our lives" (*kipper* in its ransom sense), matching Exod 30:15-16, with a note.
+- Ecclesiastes headings: "Futile" and "Futility" to "Vapor," matching the text.
+- Judges 19:24 "vile thing" to "outrage" (*nebalah*). Micah 7:18 "pardons iniquity" to "bears iniquity" (*nose' avon*), matching Exod 34:7, with a note. *Tannim* "jackals" to "dragons" in the desolation formula (Isa 35:7; Jer 9:11; 10:22; 49:33; 51:37; Ps 44:19), with pointers to Isa 13:22 replacing "Or serpents or dragons."
+- Notes rewritten: Genesis 6:4 now rests on Scripture (Job 1:6; 38:7; 2 Pet 2:4-5; Jude 6-7) rather than the history of interpretation; Ecclesiastes 2:8 now gives its reason from the text (1 Kgs 10:12) rather than from later commentators; Matthew 10:28 explains why "soul" stands there (Luke 23:43; Rev 6:9); Romans 3:25 now explains for a new reader why hilasterion is a place, the throne seat, rather than a sacrifice.
+- Leviticus 10:17 "take away the guilt" to "bear the iniquity" (*nasa' avon*), the phrase of Exod 34:7. Genesis 18:3, 10: pronouns for the LORD capitalized, since He is one of the three men (18:1). Genesis 1:26 "Let us make man in our image," lowercase, with a note: God speaks to His heavenly council (Job 38:7), as at 3:5, 22. Habakkuk 2:4 "Look, the proud one is puffed up and not upright within." Stale "Literally" notes removed at Lev 17:11 and Col 2:11.
+- Holy ones: *chasid* rendered "godly ones" in place of "holy ones" (Ps 30:4; 31:23; 37:28; 50:5; 52:9; 79:2; 85:8; 97:10; 116:15; 132:9, 16; 145:10; 148:14; 149:5, 9; Prov 2:8; 2 Chr 6:41), with a note at Ps 30:4, so "holy ones" renders *qedoshim* and *hagioi* alone. Daniel 7:27 "the people of the holy ones of the Most High" (Aramaic construct), with a note. Exodus 15:11 "majestic among the holy ones"; Hosea 11:12 "faithful with the holy ones"; Deuteronomy 33:3 "Surely He loves the peoples; all His holy ones are in Your hand"; Psalm 68:17 "the Lord is among them; Sinai is in the holy place"; Psalm 29:1 and 89:6 "sons of God" (*bene elim*); each with a note. Notes added at Ps 16:3; Matt 27:52 (the name "holy ones" from the council to the church); Col 1:12; Eph 2:19; 1 Thess 3:13; Rev 16:16 (*har mo'ed*, Isa 14:13); and Judg 13:18 now cites the Greek of Isa 9:6, "the Angel of great counsel." New Brief paragraph, "Holy Ones and Sons of God: From the Council to the Church."
+- Romans 16:20 "crush the Accuser" to "crush Satan" (Gk. *Satanas*), since the verse echoes Gen 3:15 rather than Job or Zechariah, with a new note. Notes restated positively (rule 2) at John 1:29, 1 Cor 5:7 (the Destroyer of Exod 12:23 is the LORD Himself, the Son), and Lev 3:1.
+- Satan: wherever the Greek has *Satanas*, the text now reads "Satan" (Luke 22:31; Rom 16:20; Rev 12:9; 20:2), with a note for each verse in place of the shared boilerplate; "the Accuser" stays for Hebrew *hasatan* (Job; Zech 3). Day of Purification notes (Lev 16:10; 16:30; 23:27): the blood cleanses God's house, not the worshipper's body; the goat bears the iniquities away; the people stand clean before the LORD once His house is cleansed; the Day does not cleanse the land; the source of ritual impurity is mortality, undone only in the resurrection (1 Cor 15:53-54). The earlier claim that the Day covered only inadvertent sin is removed (Lev 16:16 names rebellious acts).
+- Romans 8:3 "in the likeness of sinful man, as an offering for Sin" to "in the likeness of sinful flesh and concerning Sin" (*sarx*; *peri hamartias*), with a note: Paul's verb is "condemned," not "offered"; the Son takes our flesh and passes sentence on Sin, the power behind which stands the devil (Heb 2:14), breaking its hold for all joined to Him.
+- 2 Corinthians 5:21 note rewritten: "made Him to be sin" as the incarnation; the Son enters our mortal condition under Sin and Death and becomes the head of a new humanity, the last Adam; "for us" (*hyper*) as "for our sake," as in v. 15 of His rising; the purification-offering alternative removed. New note at Romans 5:12 on Sin and Death as ruling powers, with the devil behind them (Heb 2:14), undone by the last Adam (1 Cor 15:22, 26).
+- *Se'irim* notes (Isa 13:21; 34:14): the Aramaic Targums' "demons" added; the claim that the LXX renders *se'irim* as *daimonia* at 34:14 corrected (there *daimonia* renders the *tsiyyim*). Brief: the Songs of the Sage list confirmed as naming the *ohim* and *tsiyyim* (4Q510 1 5; 4Q511 10 2), per the DDD; the angel paragraph notes the non-Israelite rule at 1 Sam 29:9.
+- *Iyyim* ("howlers"): one note at Isa 13:22 resting on the company they keep (with the *tsiyyim*, *se'irim*, and Lilith; LXX *onokentauroi*; Rev 18:2) rather than an uncertain etymology, with pointers at Isa 34:14 and Jer 50:39. Exodus 12:23 note adds the Wisdom of Solomon (Wis 18:15-16), named as not Scripture but an early witness that the Destroyer is God's Word.
+- Brief: Isaiah 14:12 sections updated to "Shining One, son of Dawn"; Romans 3:25 section updated to "place of purgation"; the Day of Purification rationale and its v0.7 history corrected; change-log rows for Luke 22:31, Rom 16:20, Rev 12:9, 20:2, Matt 20:28, 2 Cor 11:2 and Rom 7:4 rewritten to match the notes; Part 7 added to the table of contents; em dashes removed from Brief prose.
+
 ### Public Draft v0.19 (September 2026\)
 
 - Where a non-Israelite speaks of elohim without naming Israel's God, the text renders what the speaker means: Genesis 41:38 "in whom is the spirit of the gods" (Pharaoh); Exodus 8:19 "the finger of a god" (Egypt's magicians); Jonah 1:6 "call upon your god... this god" (the ship's captain, among sailors each crying to his own god, 1:5); 1 Samuel 29:9 "a messenger of the gods" (Achish). Where the narrator confirms that God spoke, or the speaker names the God of Israel, "God" stands (2 Chr 35:21-22; Gen 20:3; Judg 7:14; Jon 3:5-9).
@@ -984,7 +1004,7 @@ This section clarifies the limits of the project.
 - Exodus 21:6, 22:8, 22:9: "judges" corrected to "God," as the Brief already required; footnotes note the common rendering.
 - 1 Samuel 2:25: footnote "Or the judges" removed. 1 Samuel 28:13: "a god" to "a spirit," with a footnote on elohim.
 - Genesis 32:24: a leftover note about capitalizing pronouns replaced with a note on the wrestler (v. 30; Hos 12:3-4).
-- Corporate singulars restored where Hebrew speaks of a people, tribe, or house as one person: Genesis 34:30; Numbers 20:18-20; 21:22; Deuteronomy 2:27-28; Joshua 17:14, 17; Judges 1:3; 11:17, 19; 20:23, 28; 2 Samuel 19:42-43. New Brief section, "Corporate Singulars and the Household."
+- Corporate singulars restored where Hebrew speaks of a people, tribe, or house as one person: Genesis 34:30; Numbers 20:18-20; 21:22; Deuteronomy 2:27-29; Joshua 17:14, 17; Judges 1:3; 11:17, 19; 20:23, 28; 2 Samuel 19:42-43. New Brief section, "Corporate Singulars and the Household."
 - Genesis 15:3: "a servant in my household" to "a son of my house," with a note; Ecclesiastes 2:7 gains a matching note.
 - Audit of Brief against text: the throne seat restored at Exodus 25:19 and 37:8, where it had dropped out of the verse; Psalm 40:6 "burnt offerings" to "ascension offerings," matching its quotation at Hebrews 10:6; Daniel 8:24 "the holy people" to "the people of the holy ones," matching 7:27; Ezra 6:10 "sweet aroma" to "soothing aroma," the Aramaic form of the same formula; Colossians 3 heading "New Self" to "New Man."
 - Gehenna: "hell" to "Gehenna" in all 12 verses, with a primary note at Matthew 5:22 stressing that Isaiah 66:24 describes corpses, not living people, and that the dead now wait in Hades (Luke 16:23, new note). New notes at John 1:5, Matthew 6:13, and Hebrews 2:14 on Satan's power as darkness and death, reached through temptation and sin.
@@ -1008,7 +1028,7 @@ This section clarifies the limits of the project.
 ### Public Draft v0.14 (September 2026\)
 
 - Genesis 22:2 and 22:13: footnotes added on the ascension offering. The note at v. 2 gives the sense of olah, its stated purpose of drawing God's presence near (Lev 1:9), its law (Lev 1:3-9), and the fact that it is not the offering that deals with sin (Lev 4:20; 5:16); it explains the one-handed gesture as marking ownership by contrast with the two-handed transfer with confession (Lev 1:4; 16:21); and it states that the binding is a test (v. 1) of a thing the Torah forbids (Lev 18:21; Deut 12:31), halted by the angel with a ram given in Isaac's place, closing with Moriah as the temple site (2 Chr 3:1) and the echo at Rom 8:32.
-- Genesis 24:64: "she got down from her camel" to "she quickly got down from her camel," with a footnote. The ordinary verb for dismounting is yarad (2 Kgs 5:21); here the text uses naphal, used elsewhere of falling facedown before someone of significance (Gen 17:3; 1 Sam 25:23).
+- Genesis 24:64: "she got down from her camel" to "she quickly got down from her camel," with a footnote. The ordinary verb for dismounting is yarad (1 Sam 25:23); here the text uses naphal, used elsewhere of falling facedown before someone of significance (Gen 17:3; 1 Sam 25:23).
 
 ### Public Draft v0.13 (August 2026\)
 
@@ -1058,7 +1078,7 @@ Household-transfer and ransom register footnotes; "Day of Purification" rename; 
 
 Contextual footnotes extending the Levitical framing of v0.7, plus one text change:
 
-- Isaiah 53:5: "punishment" re-rendered "chastening" (Heb. musar — discipline, instruction, as in Prov 1:2-3; 3:11), with footnote
+- Isaiah 53:5: "punishment" re-rendered "chastening" (Heb. musar: discipline, instruction, as in Prov 1:2-3; 3:11), with footnote
 - Isaiah 53:10: footnote on the LXX reading ("the Lord wills to cleanse Him of His wound") and the handing-over idiom (paredōken) of vv. 6, 12 cited in Rom 4:25 and 8:32
 - Custodial nasaʾ ʿawon footnotes at Lev 10:17; Num 18:1; Exod 28:38 (priestly responsibility idiom, cross-referenced)
 - Lev 16:5: footnote on the two goats as one purification offering with two operations (purge and dispatch), with the Lev 14:4-7 two-bird parallel
@@ -1069,9 +1089,9 @@ Contextual footnotes extending the Levitical framing of v0.7, plus one text chan
 
 Sacrificial terminology overhaul following the Levitical framing of Milgrom and Rillera (*Lamb of the Free*, 2024):
 
-- כִּפֶּר rendered "effect purgation" throughout (~82 verb forms); "Day of Atonement" renamed "Day of Purification" with footnotes carrying the traditional name
-- כַּפֹּרֶת re-rendered from "atonement cover" to "throne seat" (24 verses incl. Heb 9:5), on the enthroned-between-the-cherubim texts (1 Sam 4:4; Ps 80:1; 99:1; Ezek 43:7); cf. Heiser
-- אָשָׁם re-rendered from "restitution offering" to "reparation offering" (34 verses), following Milgrom on sacral trespass
+- כִּפֶּר rendered "effect purgation" throughout (~82 verb forms); "Day of Atonement" renamed "Day of Purgation" (renamed "Day of Purification" in v0.9) with footnotes carrying the traditional name
+- כַּפֹּרֶת re-rendered from "atonement cover" to "throne seat" (23 verses incl. Heb 9:5), on the enthroned-between-the-cherubim texts (1 Sam 4:4; Ps 80:1; 99:1; Ezek 43:7); cf. Heiser
+- אָשָׁם re-rendered from "restitution offering" to "reparation offering" (35 verses), following Milgrom on sacral trespass
 - עֹלָה rendered "ascension offering" (281 verses); כָּלִיל instances rendered "whole offering"
 - שְׁלָמִים rendered "well-being offering" (85 verses); רֵיחַ נִיחוֹחַ rendered "soothing aroma" (41 verses)
 - Leviticus 17:11 corrected to "for your lives... by means of the life" (nephesh policy)
@@ -1104,7 +1124,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 1:15 | expanse | firmament |
 | Genesis 1:17 | expanse | firmament |
 | Genesis 1:20 | expanse | firmament |
-| Genesis 46:27 | seventy | seventy-five (fn: The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
+| Genesis 46:27 | seventy | seventy-five (fn: The LXX, DSS (Exod 1:5), and Acts 7:14 read seventy-five. The MT reads seventy. We follow the reading attested by the NT (Acts 7:14).) |
 | Genesis 3:5 | you will be like God | you will be like gods (fn: Heb. כֵּאלֹהִים, ke'elohim, 'like elohim/divine beings.' The same word used for members of the assembly of heavenly beings. Genesis 3:22 confirms: "the man has become like one of us.") |
 | Genesis 3:22 | like one of Us | like one of us (fn: "One of us" reflects the assembly of heavenly beings who surround God's throne. The sons of God were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The serpent's promise in v. 5, that the man and woman would become "like gods" (ke'elohim), is confirmed here by God himself.) |
 | Genesis 6:4 | "in those days—and afterward as well—when the sons of God had relations with the daughters of men. And they bore them children who became the mighty men of old, men of renown" | "in those days, and also afterward, when the sons of God went in to the daughters of man, who bore children to them. These were the mighty men who were of old, the men of renown" (fn: The reading of "sons of God" as supernatural beings is the unbroken position of every documented interpreter through c. 221 AD. The Sethite interpretation appears first in Julius Africanus (c. 221 AD). Augustine popularized it in City of God (c. 413–426 AD). The DSS and Second Temple sources confirm the supernatural reading as that of the biblical authors themselves.) |
@@ -1115,7 +1135,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 42:38 | grave/Sheol | Sheol |
 | Genesis 44:29 | grave/Sheol | Sheol |
 | Genesis 44:31 | grave/Sheol | Sheol |
-| Exodus 1:5 | seventy | seventy-five (fn: The LXX, DSS, and Acts 7:14 read seventy-five. The MT reads seventy. The 'seventy' reading has no documented attestation before the 2nd century AD; every known pre-2nd-century witness reads seventy-five. We follow the reading attested by the NT (Acts 7:14).) |
+| Exodus 1:5 | seventy | seventy-five (fn: The LXX, DSS, and Acts 7:14 read seventy-five. The MT reads seventy. We follow the reading attested by the NT (Acts 7:14).) |
 | Exodus 25:17 | mercy seat | throne seat |
 | Exodus 25:18 | mercy seat | throne seat |
 | Exodus 25:19 | mercy seat | throne seat |
@@ -1338,19 +1358,19 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Proverbs 23:14 | Sheol/grave | Sheol |
 | Proverbs 30:16 | Sheol/grave | Sheol |
 | Ecclesiastes 1:2 | "Futility of futilities... Everything is futile!" | "Vapor of vapors... Everything is vapor!" (fn: Heb. הֶבֶל, hebel, literally breath/mist/vapor. Rendered "vapor" throughout Ecclesiastes to preserve the concrete image. See rationale.) |
-| Ecclesiastes 2:8 | many concubines | musical instruments (fn: Heb. שִׁדָּה וְשִׁדּוֹת, shiddah wəshiddot, hapax legomenon. Ancient witness tradition converges on luxury/festivity rather than concubinage. See rationale.) |
+| Ecclesiastes 2:8 | many concubines | musical instruments (fn: Heb. שִׁדָּה וְשִׁדּוֹת, shiddah wəshiddot, a phrase found only here; follows the singers, cf. 1 Kgs 10:12; commonly 'concubines.' See rationale.) |
 | Ecclesiastes 2:15; 2:19; 2:21; 2:23; 2:26; 3:19; 4:4; 4:8; 4:16; 5:10; 6:2; 6:9; 7:6; 8:10; 8:14; 11:8; 12:8 (and all other הֶבֶל occurrences) | futile / futility | vapor |
 | Ecclesiastes 3:19 | they all have the same breath | they all have the same breath (fn: Heb. ruach) |
 | Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath (fn: Heb. ruach) of man... the breath (fn: Heb. ruach) of the beast |
 | Ecclesiastes 12:7 | the spirit returns to God | the breath (fn: Heb. ruach) returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
 | Isaiah 13:21 | ostriches / wild goats / howling creatures | Sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / keening creatures (fn: Heb. אֹחִים, ohim) |
-| Isaiah 13:22 | hyenas / jackals | Howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin; LXX δράκοντες) |
+| Isaiah 13:22 | hyenas / jackals | Howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin) |
 | Isaiah 14:9 | the spirits of the dead | the Rephaim |
 | Isaiah 14:12 | Day Star/Lucifer | morning star, son of the dawn (fn: Heb. הֵילֵל בֶּן־שָׁחַר, helel ben shachar; Shachar attested as dawn deity in Ugaritic texts) |
 | Isaiah 26:14 | the departed spirits | the Rephaim |
 | Isaiah 26:19 | her dead | the Rephaim |
-| Isaiah 34:13 | jackals / ostriches | dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin; LXX δράκοντες) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) |
-| Isaiah 34:14 | hyenas / goat / night creature | howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / Lilith (fn: Heb. לִילִית, lilit; BDB 'female night-demon; borrowed from Babylonian tradition') |
+| Isaiah 34:13 | jackals / ostriches | dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) |
+| Isaiah 34:14 | hyenas / goat / night creature | howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / goat demons (fn: Heb. שְׂעִירִים, se'irim; Targums 'demons') / Lilith (fn: Heb. לִילִית, lilit; BDB 'female night-demon; borrowed from Babylonian tradition') |
 | Jeremiah 50:39 | hyenas / ostriches / "it will never" / "lived in" | howlers (fn: Heb. אִיִּים, iyyim) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah) / "she will never" / "settled" |
 | Isaiah 53:10 | his soul is made a guilt offering | his life (fn: Heb. nephesh) is made a reparation offering |
 | Isaiah 53:11 | the anguish of his soul | the anguish of his life (fn: Heb. nephesh) |
@@ -1393,7 +1413,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Matthew 23:33 | hell | hell (fn: Gk. *gehenna*) |
 | Matthew 27:52 | saints | holy ones |
 | Luke 8:55 | her spirit returned | her life (fn: Greek pneuma) returned |
-| Luke 22:31 | Satan | the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
+| Luke 22:31 | Satan | the Accuser (fn: "Satan" equally valid; the AAB keeps the link to the heavenly accuser of Job 1-2 and Zechariah 3) |
 | Luke 23:46 | I commit my spirit | I commit my life (fn: Gk. *pneuma*; act of trust. Cites Psalm 31:5) |
 | John 15:3 | clean | pruned |
 | Acts 2:27 | my soul | me |
@@ -1445,7 +1465,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 15:31 | saints | holy ones |
 | Romans 16:2 | saints | holy ones |
 | Romans 16:15 | saints | holy ones |
-| Romans 16:20 | Satan | the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
+| Romans 16:20 | Satan | the Accuser (fn: "Satan" equally valid; the AAB keeps the link to the heavenly accuser of Job 1-2 and Zechariah 3) |
 | 1 Corinthians 6:1 | saints | holy ones |
 | 1 Corinthians 6:2 | saints | holy ones |
 | 1 Corinthians 8:5 | so-called gods | beings called gods |
@@ -1507,7 +1527,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Revelation 8:4 | saints | holy ones |
 | Revelation 9:1 | bottomless pit/abyss | the Abyss |
 | Revelation 9:2 | bottomless pit/abyss | the Abyss |
-| Revelation 12:9 | called the devil and Satan | called the devil and the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
+| Revelation 12:9 | called the devil and Satan | called the devil and the Accuser (fn: "Satan" equally valid; the AAB keeps the link to the heavenly accuser of Job 1-2 and Zechariah 3) |
 | Revelation 11:18 | saints | holy ones |
 | Revelation 13:7 | saints | holy ones |
 | Revelation 13:10 | saints | holy ones |
@@ -1517,15 +1537,15 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Revelation 18:20 | saints | holy ones |
 | Revelation 18:24 | saints | holy ones |
 | Revelation 19:8 | saints | holy ones |
-| Revelation 20:2 | the devil and Satan | the devil and the Accuser (fn: Canonical intertextual grounds — scene parallels Job 1–2 and Zechariah 3 where the heavenly accuser requests access to a servant of God) |
+| Revelation 20:2 | the devil and Satan | the devil and the Accuser (fn: "Satan" equally valid; the AAB keeps the link to the heavenly accuser of Job 1-2 and Zechariah 3) |
 | Revelation 20:9 | saints | holy ones |
 | **Sacrificial System: Levitical Framing (v0.7)** |  |  |
 | All עֹלָה occurrences (281 verses, incl. Mark 12:33; Heb 10:6, 8) | burnt offering | ascension offering (fn at Gen 8:20: Heb. olah, 'that which ascends'; kalil datum; Judges 13:20 wordplay) |
 | All שְׁלָמִים occurrences (85 verses) | peace offering | well-being offering (fn at Lev 3:1: Heb. shelamim, fellowship meal, non-atoning) |
 | All רֵיחַ נִיחוֹחַ occurrences (41 verses) | pleasing aroma | soothing aroma (fn at Gen 8:21: Noah/nichoach wordplay) |
 | All cultic כִּפֶּר verb forms (~82 verses) | make atonement / atoned for | effect purgation / purged (fn at Lev 1:4) |
-| All אָשָׁם occurrences (34 verses) | guilt offering (AAB v0.6: restitution offering) | reparation offering (fn at Lev 5:15) |
-| All כַּפֹּרֶת occurrences + Heb 9:5 (24 verses) | mercy seat (AAB v0.6: atonement cover) | throne seat (fn at Exod 25:17: enthroned between the cherubim) |
+| All אָשָׁם occurrences (35 verses) | guilt offering (AAB v0.6: restitution offering) | reparation offering (fn at Lev 5:15) |
+| All כַּפֹּרֶת occurrences + Heb 9:5 (23 verses) | mercy seat (AAB v0.6: atonement cover) | throne seat (fn at Exod 25:17: enthroned between the cherubim) |
 | Day of Atonement (Lev 16 heading; Lev 23:27–28; 25:9; Num 29:7; Acts 27:9) | Day of Atonement | Day of Purification (fn at Lev 23:27: yom hakkippurim, 'day of purgations') |
 | Genesis 8:20–21 | (no footnotes) | (footnotes on olah and nichoach added) |
 | Exodus 30:15–16 | atonement money / to atone for your lives | ransom money / to effect purgation for your lives (fn: kofer, non-cultic ransom register) |
@@ -1549,6 +1569,51 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 13:11 | as a sacrifice for sin | as a purification offering (fn: Gk. peri hamartias; Lev 16:27) |
 | 1 John 2:2 | the atoning sacrifice (fn: Or the propitiation) | the purification offering (fn: Gk. hilasmos renders kipper; the picture is cleansing) |
 | 1 John 4:10 | as the atoning sacrifice (fn: Or as a propitiation) | as the purification offering (fn: see 1 John 2:2) |
+| **v0.20** |  |  |
+| Romans 3 and Philippians 3 (headings) | Righteousness through Faith in Christ | Righteousness through the Faithfulness of Christ |
+| Leviticus (headings) | Restitution offering; Purification offering | Reparation Offering; Purification Offering |
+| Leviticus 5:7 | as restitution for his sin | as reparation for his sin |
+| Leviticus 16:2 | (fn: Or throne seat) | (footnote removed) |
+| Numbers 7:89; 1 Chronicles 28:11 | (fn: Or mercy seat) | (fn: Heb. kapporet; see note on Exod 25:17) |
+| Ecclesiastes 12:8 | Futility of vapors | Vapor of vapors |
+| 2 Chronicles 32:21 | an angel | an Angel (fn: 2 Kgs 19:35; Isa 37:36; see Gen 16:7) |
+| Judges 13:11; Zechariah 1:8 | you; him | You; Him |
+| Joshua 7:18 | the family of Zabdi | Zabdi's household |
+| Jeremiah 43:13 | the temple of the sun | the house of the sun |
+| Leviticus 16:8, 10, 26 | for the Azazel / as the Azazel | for Azazel / to Azazel |
+| Acts 3:25; Romans 4:13, 16, 18; 9:7-8; Hebrews 11:18 | offspring / descendants | seed (fn at Acts 3:25: Gk. sperma; one Seed, Christ, Gal 3:16) |
+| Hebrews 6:14 | multiply your descendants | multiply you (fn: Gen 22:17 "your seed"; Hebrews' shorter form) |
+| Ecclesiastes (headings) | Everything Is Futile; The Futility of Pleasure / Work / Power / Wealth / Life | Everything Is Vapor; Pleasure / Work / Power / Wealth / Life Is Vapor |
+| Deuteronomy 2:29 | did for us, until we cross | did for me, until I cross (Hebrew singular) |
+| Numbers 31:50 | to effect purgation for ourselves | to make ransom for our lives (fn: Exod 30:15-16) |
+| Judges 19:24 | such a vile thing | such an outrage |
+| Micah 7:18 | pardons iniquity | bears iniquity (fn: nose' avon, Exod 34:7; v. 19) |
+| Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37; Psalm 44:19 | jackals (fn: Or serpents or dragons) | dragons (fn: Heb. tannim; see note on Isa 13:22) |
+| Genesis 6:4; Ecclesiastes 2:8; Matthew 10:28; Romans 3:25 | (notes resting on later interpreters, or unclear) | (notes rewritten on Scripture and for a new reader) |
+| Leviticus 10:17 | to take away the guilt | to bear the iniquity |
+| Genesis 18:3, 10 | my lord... your sight; behind him | My Lord... Your sight; behind Him |
+| Genesis 1:26 | Let Us make man in Our image, after Our likeness | Let us make man in our image, after our likeness (fn: the heavenly council; Job 38:7; 3:5, 22) |
+| Genesis 11:7; Isaiah 6:8 | let Us; for Us | let us; for us (fn: the council; see Gen 1:26) |
+| Habakkuk 2:4 | Look at the proud one; he is not upright within him | Look, the proud one is puffed up and not upright within |
+| Leviticus 17:11; Colossians 2:11 | (fn: Literally the soul / Literally in the cutting away...) | (footnotes removed) |
+| Romans 3:22, 26; Galatians 2:16, 20; 3:22; Ephesians 3:12; Philippians 3:9; James 2:1 | faith in Christ / faith in Jesus | the faithfulness of Christ (changed in v0.10; row added in v0.20) |
+| Psalms (15 verses); Proverbs 2:8; 2 Chronicles 6:41 | holy ones (Heb. chasid) | godly ones (fn at Ps 30:4) |
+| Daniel 7:27 | the people, the holy ones of the Most High | the people of the holy ones of the Most High (fn) |
+| Exodus 15:11 | majestic in holiness | majestic among the holy ones (fn) |
+| Hosea 11:12 | faithful to the Holy One (fn: Or...) | faithful with the holy ones (fn: qedoshim, plural) |
+| Deuteronomy 33:3 | Surely You love the people; all the holy ones | Surely He loves the peoples; all His holy ones (fn) |
+| Psalm 68:17 | the Lord is in His sanctuary as He was at Sinai | the Lord is among them; Sinai is in the holy place (fn) |
+| Psalm 29:1; 89:6 | heavenly beings (fn: Or sons of God) | sons of God (fn: bene elim) |
+| Psalm 16:3; Matthew 27:52; Colossians 1:12; Ephesians 2:19; 1 Thessalonians 3:13; Revelation 16:16 | (no footnote) | (fn: holy ones; the hourglass from council to church; har mo'ed) |
+| Judges 13:18 | (fn: Isa 9:6) | (fn adds: Greek OT "Angel of great counsel") |
+| Romans 16:20 | crush the Accuser (fn: "Satan" equally valid...) | crush Satan (fn: Gk. Satanas; Gen 3:15) |
+| John 1:29; 1 Corinthians 5:7; Leviticus 3:1 | (notes arguing by denial) | (notes restated positively) |
+| Luke 22:31; Revelation 12:9; 20:2 | the Accuser (fn: "Satan" equally valid...) | Satan (fn: Gk. Satanas; per-verse notes) |
+| Leviticus 16:10; 16:30; 23:27 (notes) | inadvertent sin only; death-contamination | God's house cleansed; rebellious acts included; the land not cleansed; mortality as the source of impurity |
+| Romans 8:3 | in the likeness of sinful man, as an offering for Sin | in the likeness of sinful flesh and concerning Sin (fn: peri hamartias; "condemned," not "offered") |
+| 2 Corinthians 5:21 | (fn: Or a purification offering... solidarity, not a transfer of punishment) | (fn: the incarnation; the last Adam; hyper = for our sake, v. 15) |
+| Romans 5:12 | (no footnote) | (fn: Sin and Death as powers; Heb 2:14; 1 Cor 15:22, 26) |
+| Footnotes (Gen 8:20; 16:7; 18:1; 22:2; 24:64; 34:7; 46:27; Exod 1:5; 3:14; 11:1; Lev 16:5; 23:27; Ps 51:7; Isa 13:21-22; 34:13-14; 53:10; Jer 50:39; Mal 1:7; Ezek 41:22; John 1:5; 5:3; Rom 3:25; 7:4; Rev 5:9) | (misquotations, wrong citations, stale wording) | (corrected; see v0.20 catalog) |
 | **v0.19** |  |  |
 | Genesis 41:38 | in whom the Spirit of God abides (fn: Or the spirit of the gods) | in whom is the spirit of the gods |
 | Exodus 8:19 | the finger of God | the finger of a god |
@@ -1571,7 +1636,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Numbers 20:16 | sent an angel | sent an Angel (fn: the Angel of the LORD, Exod 14:19; Judg 2:1) |
 | 2 Samuel 13:12 | Do not do this disgraceful thing! | Do not commit this outrage! |
 | **Household Vocabulary (v0.18)** |  |  |
-| Judges 9:4 (and 23 other verses) | temple of Baal / Dagon / Rimmon / their gods | house of Baal / Dagon / Rimmon / their gods (fn at Judg 9:4: Heb. bet; the LORD's house and the gods' houses) |
+| Judges 9:4 (and 25 other verses) | temple of Baal / Dagon / Rimmon / their gods | house of Baal / Dagon / Rimmon / their gods (fn at Judg 9:4: Heb. bet; the LORD's house and the gods' houses) |
 | 1 Chronicles 10:9 | in the temple of their idols | to their idols (fn: Heb.; cf. 1 Sam 31:9) |
 | Joshua 7:14 | family by family | household by household |
 | Leviticus 22:10 | No one outside a priest's family | No outsider |
@@ -1634,7 +1699,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | **Lexical (v0.13)** |  |  |
 | Acts 1:18 | he fell headlong | he came to lie face down (fn: Gk. prenes, face down or prostrate; the verb with it is "became," not "fell") |
 | **Text-Critical and Footnotes (v0.12)** |  |  |
-| Genesis 9:21 | (no footnote) | (fn: Heb. oholah, "her tent"; feminine ending; most translations print "his tent") |
+| Genesis 9:21 | (no footnote) | (fn: Heb. oholoh, "her tent"; feminine ending; most translations print "his tent") |
 | Genesis 9:22 | (no footnote) | (fn: uncovering a father's nakedness as Torah legal idiom, Lev 18:8; 20:11; accounts for the curse on Canaan, Gen 9:25) |
 | John 5:3-4 | (5:3b and v.4 omitted; footnote only) | included in the text: 'awaiting the moving of the waters' and the angel stirring the pool (fn: manuscript evidence stated plainly; cf. Rev 16:5; 22:1-2) |
 | **Whole-Person and Hebrew Accuracy (v0.11)** |  |  |
@@ -1657,25 +1722,25 @@ The following table lists every BSB to AAB textual change in canonical order.
 | **Household-Transfer and Ransom Register (v0.9)** |  |  |
 | Romans 3:25 | atonement offering | place of purgation (fn: Gk. hilasterion = kapporet, locus of purgation; "Or as a propitiation" removed) |
 | "Day of Purgation" (all occurrences) | Day of Purgation | Day of Purification (consistent with "purification offering"; verb "effect purgation" unchanged) |
-| Matthew 20:28 | (no footnote) | (fn: Gk. lytron; Satan is jailer not owner, Acts 26:18; Jesus as kinsman-redeemer, hold broken from within, nothing paid to captor) |
+| Matthew 20:28 | (no footnote) | (fn: Gk. lytron; God owns every person by creation, Ezek 18:4; Satan holds them as a jailer, Luke 4:6; Heb 2:14-15; Jesus as kinsman breaks his hold, Matt 12:29; Luke 11:21-22; Rev 5:9) |
 | 1 Timothy 2:6 | (no footnote) | (fn: Gk. antilytron; captor is Satan; Jesus as kinsman-redeemer, Heb 2:14-15) |
 | Revelation 5:9 | (no footnote) | (fn: Gk. agorazo; holy ones acquired for God out of the nations Satan held captive; Luke 4:6 = delegated power, not title) |
-| 2 Corinthians 11:2 | (no footnote) | (fn: betrothal; those joined to Christ were held captive in Satan's house and brought out by His blood, John 8:44; 1 John 5:19; Acts 26:18) |
+| 2 Corinthians 11:2 | (no footnote) | (fn: Paul presents the bride to Christ, Eph 5:25-32; Rev 19:7; sin ties a person to Satan, the prophets' adultery, 1 Cor 6:16; Hos 2:2-13; Ezek 16:32; only a death ends the tie, Rom 7:1-4) |
 | Romans 1:6 | (no footnote) | (fn: before Christ, held captive by Satan, John 8:44; 1 John 3:8; 5:19; gospel = transfer out of his power, Acts 26:18; Col 1:13) |
 | Romans 6:5 | (no footnote) | (fn: Gk. symphytoi; death shared not substituted; transfer passes through death into resurrection) |
-| Romans 7:4 | (no footnote) | (fn: law of marriage releases at death, Deut 24:1-4; shared death dissolves the bond; transfer out of Satan's power into God's, Acts 26:18) |
+| Romans 7:4 | (no footnote) | (fn: law of marriage releases at death, vv. 2-3; shared death dissolves the bond; transfer out of Satan's power into God's, Acts 26:18) |
 | **Contextual Footnotes (v0.8)** |  |  |
-| Leviticus 23:27; 16:30 | (Day of Purification footnotes) | (footnotes expanded: kipper as decontamination; death-contamination and the life/death polarity, Lev 17:11; and the day's limits — no high-handed sin, no land-cleansing, no absolution of deliberate guilt) |
-| Isaiah 53:5 | the punishment that brought us peace | the chastening that brought us peace (fn: Heb. musar — discipline, chastening, instruction, as in Prov 1:2-3; 3:11) |
+| Leviticus 23:27; 16:30 | (Day of Purgation footnotes) | (footnotes expanded: kipper as decontamination; death-contamination and the life/death polarity, Lev 17:11; and the day's limits: no high-handed sin, no land-cleansing, no absolution of deliberate guilt) |
+| Isaiah 53:5 | the punishment that brought us peace | the chastening that brought us peace (fn: Heb. musar: discipline, chastening, instruction, as in Prov 1:2-3; 3:11) |
 | Isaiah 53:10 | (no footnote on v. 10a) | (fn: LXX 'the Lord wills to cleanse Him of His wound'; paredōken idiom of vv. 6, 12 cited in Rom 4:25; 8:32) |
-| Leviticus 10:17 | (no footnote) | (fn: nasaʾ ʿawon — priestly custodial responsibility idiom; cf. Num 18:1; Exod 28:38) |
-| Numbers 18:1 | (no footnote) | (fn: nasaʾ ʿawon — the priestly house answers for the sanctuary in its charge; cf. Lev 10:17; Exod 28:38) |
-| Exodus 28:38 | (no footnote) | (fn: nasaʾ ʿawon — Aaron carries responsibility for the consecrated gifts as steward; cf. Lev 10:17; Num 18:1) |
-| Leviticus 16:5 | (no footnote) | (fn: two goats designated one purification offering — purge limb and dispatch limb; Lev 14:4-7 two-bird parallel) |
+| Leviticus 10:17 | (no footnote) | (fn: nasaʾ ʿawon, priestly custodial responsibility idiom; cf. Num 18:1; Exod 28:38) |
+| Numbers 18:1 | (no footnote) | (fn: nasaʾ ʿawon: the priestly house answers for the sanctuary in its charge; cf. Lev 10:17; Exod 28:38) |
+| Exodus 28:38 | (no footnote) | (fn: nasaʾ ʿawon: Aaron carries responsibility for the consecrated gifts as steward; cf. Lev 10:17; Num 18:1) |
+| Leviticus 16:5 | (no footnote) | (fn: two goats designated one purification offering: purge limb and dispatch limb; Lev 14:4-7 two-bird parallel) |
 | Malachi 1:7 | (no footnote) | (fn: the altar called the table of the LORD; ANE temple-as-house; Ps 50:12-13; Exod 24:9-11; Deut 12:7) |
-| Ezekiel 41:22 | (no footnote) | (fn: cf. Mal 1:7, 12 — the altar named as the table of the LORD) |
-| Romans 4:25 | (no footnote) | (fn: Gk. paredothē — the verb of Isa 53:6, 12 LXX; cf. Acts 2:23; Rom 8:32) |
-| Romans 8:32 | (no footnote) | (fn: Gk. paredōken — the same verb as Rom 4:25 and Isa 53:6, 12 LXX) |
+| Ezekiel 41:22 | (no footnote) | (fn: cf. Mal 1:7, 12, where the altar is named the table of the LORD) |
+| Romans 4:25 | (no footnote) | (fn: Gk. paredothē, the verb of Isa 53:6, 12 LXX; cf. Acts 2:23; Rom 8:32) |
+| Romans 8:32 | (no footnote) | (fn: Gk. paredōken, the same verb as Rom 4:25 and Isa 53:6, 12 LXX) |
 | **Nephesh/Psychē Corrections** |  |  |
 | Deuteronomy 6:5 | (no footnote) | (footnote on nephesh added) |
 | 1 Chronicles 21:1 | (no footnote) | (fn: Heb. *satan*, without the definite article, indicating a proper name rather than a title. Rendered 'Satan' here, as distinct from Job 1-2 and Zechariah 3 where the article is present.) |
@@ -1726,9 +1791,9 @@ Hebrews 10:6, 10:8
 
 **BSB rendering:** "guilt offering" → **AAB rendering:** "reparation offering"
 
-**34 verses:**
+**35 verses:**
 
-Leviticus 5:15, 5:16, 5:18, 5:19, 6:6, 6:17, 7:1, 7:2, 7:5, 7:7, 7:37, 14:12, 14:13, 14:14, 14:17, 14:21, 14:24, 14:25, 14:28, 19:21, 19:22
+Leviticus 5:6, 5:15, 5:16, 5:18, 5:19, 6:6, 6:17, 7:1, 7:2, 7:5, 7:7, 7:37, 14:12, 14:13, 14:14, 14:17, 14:21, 14:24, 14:25, 14:28, 19:21, 19:22
 
 Numbers 6:12, 18:9
 
@@ -1772,7 +1837,7 @@ Leviticus 4:20, 4:26, 4:31, 4:35, 5:10, 5:13, 5:16, 5:18, 6:7
 
 Numbers 15:25, 15:26, 15:28
 
-**Rationale:** The Hebrew סָלַח (*salach*) means pardon or forgiveness and appears exclusively with God as subject throughout the Hebrew Bible. "Forgiven" is the accurate rendering and the AAB retains it unchanged. The question is not whether the word means forgiveness — it does — but what forgiveness means in this specific covenantal context. A footnote at the first occurrence (Lev 4:20) addresses this. The AAB notes *salach* here precisely because it is the word the author of Exodus 34:6-7 did not use when describing God's bearing of iniquity as a character attribute, choosing *nasa* instead. Preserving "forgiven" for *salach* and "bearing" for *nasa* maintains a distinction the biblical authors made with care.[^5]
+**Rationale:** The Hebrew סָלַח (*salach*) means pardon or forgiveness and appears exclusively with God as subject throughout the Hebrew Bible. "Forgiven" is the accurate rendering and the AAB retains it unchanged. The question is not whether the word means forgiveness (it does) but what forgiveness means in this specific covenantal context. A footnote at the first occurrence (Lev 4:20) addresses this. The AAB notes *salach* here precisely because it is the word the author of Exodus 34:6-7 did not use when describing God's bearing of iniquity as a character attribute, choosing *nasa* instead. Preserving "forgiven" for *salach* and "bearing" for *nasa* maintains a distinction the biblical authors made with care.[^5]
 
 But "forgiven" in this context means something precise that the English word can obscure. Three things define what *salach* does and does not mean here.
 
@@ -1788,7 +1853,7 @@ Third, *salach* appears exclusively with God as subject throughout the Hebrew Bi
 
 **89 verses:**
 
-**Old Testament — "saints" or "godly ones" still in BSB (Psalm 16:3 already "holy ones"; the remaining OT passages below still need changing):**
+**Old Testament: "saints" or "godly ones" still in BSB (Psalm 16:3 already "holy ones"; the remaining OT passages below still need changing):**
 
 2 Chronicles 6:41 (BSB v3: "godly ones")
 
@@ -1844,7 +1909,7 @@ Zechariah 3:1, 3:2 (twice in v.2)
 
 **Note:** 1 Chronicles 21:1 retains "Satan" (no definite article, functioning as proper name).
 
-**Rationale:** The Hebrew הַשָּׂטָן with the definite article is grammatically a title ("the adversary/accuser"), not a proper name. A faithful translation reflects the grammar of each passage. The same personal being is in view throughout Scripture. By NT times "Satan" (Gk. Satanas) generally functions as a proper name (John 8:44; 1 John 3:8). Where a New Testament author draws the reader back to the heavenly accuser of Job 1-2 and Zechariah 3, the AAB renders "the Accuser" to keep that connection visible (Luke 22:31; Rev 12:9-10, where "the accuser of our brothers" stands in the very next line; Rev 20:2; Rom 16:20), with a footnote at each noting that "Satan" is an equally valid rendering. The New Testament names him more plainly and brings into fuller view what the Old Testament already shows of him.
+**Rationale:** The Hebrew הַשָּׂטָן with the definite article is grammatically a title ("the adversary/accuser"), not a proper name. A faithful translation reflects the grammar of each passage. The same personal being is in view throughout Scripture. By NT times "Satan" (Gk. Satanas) generally functions as a proper name (Matt 4:10; Mark 1:13). The AAB renders *Satanas* "Satan" (from v0.20), and its notes show where a New Testament author draws on the heavenly accuser of Job 1-2 and Zechariah 3 (Luke 22:31; Rev 12:9-10, where "the accuser of our brothers" stands in the very next line). The New Testament names him more plainly and brings into fuller view what the Old Testament already shows of him.
 
 ### Firmament (רָקִיעַ / raqia)
 
@@ -1982,7 +2047,7 @@ Psalm 89:48
 
 Isaiah 13:21
 
-**Rationale:** The -*im* ending marks plural beings. The ANE desolation formula populates ruins with hostile supernatural beings. The LXX renders ἦχος ('sound/resonance'); but the surrounding company of beings and Revelation 18:2 confirm this is a demonic creature class. See full discussion in the Spiritual Beings section above.
+**Rationale:** The ANE desolation formula populates ruins with hostile supernatural beings. The LXX renders ἦχος ('sound/resonance'); but the surrounding company of beings and Revelation 18:2 confirm this is a demonic creature class. See full discussion in the Spiritual Beings section above.
 
 #### Sirens / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
 
@@ -1992,7 +2057,7 @@ Isaiah 13:21
 
 Isaiah 13:21, Isaiah 34:13, Jeremiah 50:39
 
-**Rationale:** The LXX renders σειρῆνες (seirēnes): supernatural bird-women. Revelation 18:2 requires hostile spiritual beings in these ruins. "Sirens" carries the LXX's meaning into English — bird-woman form, wailing voice, deadly supernatural presence. See full discussion in the Spiritual Beings section above.
+**Rationale:** The LXX renders σειρῆνες (seirēnes): supernatural bird-women. Revelation 18:2 requires hostile spiritual beings in these ruins. "Sirens" carries the LXX's meaning into English: bird-woman form, wailing voice, deadly supernatural presence. See full discussion in the Spiritual Beings section above.
 
 #### Goat-Demons (שְׂעִירִים / se'irim)
 
@@ -2014,17 +2079,17 @@ Isaiah 13:21, 34:14
 
 Isaiah 13:22, Isaiah 34:14, Jeremiah 50:39
 
-**Rationale:** The LXX renders ὀνοκένταυρος ('donkey-centaur'), a composite human-animal hybrid being — not a natural animal. Second Temple readers recognized iyyim as a demonic category (Songs of the Sage, 4Q510). "Howlers" names what the Hebrew root attests. See full discussion in the Spiritual Beings section above.
+**Rationale:** The LXX renders ὀνοκένταυρος ('donkey-centaur'), a composite human-animal hybrid being — not a natural animal. "Howlers" names what the Hebrew root attests. See full discussion in the Spiritual Beings section above.
 
 #### Dragons / Tannim (תַּנִּים / תַּנִּין / tannim / tannin)
 
 **BSB rendering:** "jackals" → **AAB rendering:** "dragons"
 
-**2 verses (desolation texts):**
+**8 verses (desolation texts):**
 
-Isaiah 13:22, Isaiah 34:13
+Isaiah 13:22, Isaiah 34:13 (full notes); Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37; Psalm 44:19 (from v0.20, with pointers to Isa 13:22). Where *tannim* describes an animal's behavior (howling, Mic 1:8; Job 30:29; nursing young, Lam 4:3; honoring God, Isa 43:20) or where the form differs (*tannot*, Mal 1:3), the older rendering stands.
 
-**Rationale:** Throughout the Hebrew Bible *tannin* is overwhelmingly a chaos adversary (Ps 74:13; Isa 27:1; 51:9; Jer 51:34), not a wild dog. The LXX renders δράκοντες throughout; the KJV renders 'dragons.' Most modern translations default to 'jackals,' driven by naturalistic assumptions. See full discussion in the Spiritual Beings section above.
+**Rationale:** Throughout the Hebrew Bible *tannin* is overwhelmingly a chaos adversary (Ps 74:13; Isa 27:1; 51:9; Jer 51:34), not a wild dog. The LXX often renders δράκοντες (Jer 9:11; Mic 1:8); the KJV renders 'dragons.' Most modern translations default to 'jackals,' driven by naturalistic assumptions. See full discussion in the Spiritual Beings section above.
 
 #### Lilith (לִילִית)
 
@@ -2052,7 +2117,7 @@ Leviticus 16:8, 16:10 (twice), 16:26
 
 **BSB rendering (Exod 34:7):** "forgiving iniquity and transgression and sin... He punishes the children and their children for the sin of the fathers to the third and fourth generation."
 
-**AAB rendering (Exod 34:7):** "bearing iniquity and transgression and sin... He visits the iniquity of the fathers upon the children and their children to the third and fourth generation."
+**AAB rendering (Exod 34:7):** "bearing iniquity, transgression, and sin... He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations."
 
 **BSB rendering (Num 14:18):** "forgiving iniquity and transgression... He punishes the children for the sin of the fathers to the third and fourth generation."
 
@@ -2060,7 +2125,7 @@ Leviticus 16:8, 16:10 (twice), 16:26
 
 This formula is the most quoted theological formula in the Hebrew Bible, appearing in whole or part in Numbers 14:18, Psalms 86, 103, and 145, Joel 2:13, Jonah 4:2, Micah 7:18, Nahum 1:3, and Nehemiah 9:17. It is God's own self-disclosure at Sinai, spoken after the golden calf incident as his name is proclaimed. Every translation decision made here propagates through every downstream citation.
 
-**nasa — "bearing," not "forgiving"**
+**nasa: "bearing," not "forgiving"**
 
 The Hebrew verb נֹשֵׂא (*nasa*) means to lift, carry, or bear a physical load. It is not a word for forgiveness. Its semantic range covers carrying objects (Isa 46:7), bearing burdens (Exod 18:22), and carrying guilt where one party takes up what belongs to another (Lev 16:22; Isa 53:4, 11-12). The standard Hebrew word for divine pardon is סָלַח (*salach*), which appears exclusively with God as subject and is precisely what an author would reach for if forgiveness were the intended meaning. The author did not reach for it here.
 
@@ -2070,7 +2135,7 @@ The Leviticus 16 scapegoat passage uses *nasa* in its most concrete cultic form:
 
 The rendering of *nasa* as "bearing" is the AAB's most significant departure from major modern translations, all of which render this word "forgiving" in this context. The case for "bearing" rests on the Hebrew alone.
 
-**paqad — "visits," not "punishes"**
+**paqad: "visits," not "punishes"**
 
 The Hebrew פֹּקֵד (*paqad*) denotes sovereign attentive action: a superior taking notice of and acting upon what is under his governance. Its semantic range covers attending to (Gen 21:1, where God "visits" Sarah and she conceives), mustering (Num 1:3), appointing (Jer 1:10), and reckoning with consequences (Exod 32:34). "Punishes" selects one end of this range and presents it as the whole. The AAB here follows the KJV, NKJV, ESV, NASB, and NRSV, all of which use "visiting" or "visits" against the NIV and NLT's "punishes."
 
@@ -2080,7 +2145,7 @@ The rendering also creates an apparent conflict with Ezekiel 18:20, which states
 
 The Numbers 14 narrative confirms the reading directly. The rebellious generation dies in the wilderness: *paqad* operates. The children inherit the land: they are not judicially penalized for their parents' rebellion. The text itself distinguishes between children living within conditions shaped by their parents' failure and children receiving a verdict for that failure (v.33). "Visits" makes the narrative outcome coherent; "punishes" makes it incoherent.
 
-**avon — "iniquity" in both clauses**
+**avon: "iniquity" in both clauses**
 
 The BSB renders עָוֺן (*avon*) correctly as "iniquity" in the first clause and then as "sin" in the second clause of the same verse. These are the same word. The three sin terms (*avon*, *pesha*, *chatta'ah*) are distinct and used with precision throughout the Hebrew Bible. Rendering the same word two different ways within the same liturgical formula is an internal inconsistency the AAB corrects by using "iniquity" in both clauses.
 
@@ -2098,11 +2163,11 @@ The prophets confirm what the calendar implies. Jeremiah 31:34 presents the forg
 
 Hebrew בְּתוֹךְ אָהֳלָהּ has feminine suffix. "Saw his father's nakedness" is an idiom for sexual violation of one's father's wife (Lev 18:8; 20:11).
 
-#### Isaiah 14:12 (Morning Star, Son of Dawn)
+#### Isaiah 14:12 (Shining One, Son of Dawn)
 
-**BSB rendering:** "Day Star" or "Lucifer" → **AAB rendering:** "morning star, son of the dawn"
+**BSB rendering:** "Day Star" or "Lucifer" → **AAB rendering:** "Shining One, son of Dawn"
 
-Hebrew הֵילֵל בֶּן־שָׁחַר. "Lucifer" is Latin tradition; the Hebrew refers to the morning star (*helel* = Venus at dawn) with ANE mythological backdrop (*Shahar* as dawn deity in Ugaritic texts). The taunt draws on divine council cosmology to pronounce the final verdict on the king of Babylon. See the full discussion in the Specific Passages section above.
+Hebrew הֵילֵל בֶּן־שָׁחַר. "Lucifer" is Latin tradition; the Hebrew *helel* is "shining one" (often identified with Venus at dawn) with ANE mythological backdrop (*Shahar* as dawn deity in Ugaritic texts). The taunt draws on divine council cosmology to pronounce the final verdict on the king of Babylon. See the full discussion in the Specific Passages section above.
 
 #### Ezekiel 31:16; 32:31 (Sheol Inhabitants)
 
@@ -2189,11 +2254,11 @@ The AAB retains the traditional surface reading but provides an extended footnot
 
 The Greek verb καθαίρει (v.2, "he prunes") and adjective καθαροί (v.3, "clean") share the same root. English "clean" loses this wordplay. "You are already *pruned* because of the word I have spoken to you" maintains the agricultural metaphor Jesus established and preserves the Greek paranomasia.
 
-#### Romans 3:25 (Atonement Offering)
+#### Romans 3:25 (Place of Purgation)
 
-**BSB rendering:** "atoning sacrifice" → **AAB rendering:** "atonement offering"
+**BSB rendering:** "atoning sacrifice" → **AAB rendering:** "place of purgation"
 
-Greek ἱλαστήριον (*hilasterion*) is the same word the LXX uses for כַּפֹּרֶת (throne seat). Paul is making a deliberate typological move: Christ is the antitype of the throne seat, the place where God's presence meets humanity and where the accumulated iniquity carried forward under the old administration is finally terminated rather than deferred. "Atonement offering" preserves that connection. The OT system bore iniquity forward under forbearance (*paresis* / πάρεσις); the cross is where what was carried is discharged completely.
+Greek ἱλαστήριον (*hilasterion*) is the same word the LXX uses for כַּפֹּרֶת (throne seat). Paul is making a deliberate typological move: Christ is the antitype of the throne seat, the place where God's presence meets humanity and where the accumulated iniquity carried forward under the old administration is finally terminated rather than deferred. "Place of purgation" preserves that connection and names the function Paul applies to Christ (see Part 6). The OT system bore iniquity forward under forbearance (*paresis* / πάρεσις); the cross is where what was carried is discharged completely.
 
 #### 1 Corinthians 8:5–6 and 2 Thessalonians 2:4 (So-Called Gods)
 
@@ -2436,13 +2501,13 @@ Greek *psychē* in Mark 8:35 is rendered "life" ("whoever loses his *life* for m
 
 The Hebrew הֶבֶל (*hebel*) literally means breath, mist, or vapor: something real and visible for a moment but impossible to grasp or hold. Traditional English translations render it "vanity" (KJV, ESV) or "meaningless" (NIV) or "futility" (BSB), all of which are interpretive abstractions foreign to the word itself. The AAB renders it "vapor" throughout Ecclesiastes to preserve the concrete image the author chose.
 
-This rendering allows the book's two great refrains to work together as the author intended: vapor and chasing the wind are both atmospheric phenomena — things you can see but cannot hold. "Vanity," "meaningless," and "futility" each import a theological or emotional interpretation. "Vapor" leaves the image intact and lets the reader supply the application, which is what a wisdom text invites.
+This rendering allows the book's two great refrains to work together as the author intended: vapor and chasing the wind are both atmospheric phenomena, things you can see but cannot hold. "Vanity," "meaningless," and "futility" each import a theological or emotional interpretation. "Vapor" leaves the image intact and lets the reader supply the application, which is what a wisdom text invites.
 
 **All occurrences of הֶבֶל in Ecclesiastes are rendered "vapor."** The opening and closing refrain ("vapor of vapors, everything is vapor," 1:2; 12:8) sets the frame. Every individual verdict ("this too is vapor") echoes it.
 
 #### Ecclesiastes 2:8: שִׁדָּה וְשִׁדּוֹת Rendered "Musical Instruments"
 
-The Hebrew שִׁדָּה וְשִׁדּוֹת (*shiddah wəshiddot*) is a hapax legomenon — appearing nowhere else in the Hebrew Bible — whose meaning was already disputed in antiquity. Ancient translations diverge: the LXX and Aramaic Targum point toward service and hospitality roles; Babylonian rabbinic tradition reads male and female demons; Palestinian tradition reads carriages; other rabbinic sources treat it as a type of ornate chest. Isaac ibn Ghiyath (d. 1089), the first rabbinic commentator on Qohelet, surveyed all these traditions and concluded the best interpretation is a wondrous musical instrument that existed in the time of the Kingdom and was lost when the First Temple was destroyed (b. Sotah 48b). The Arabic cognate root *shada* carries the sense of something good, pleasant, and desirable. Modern scholarship has proposed "concubines" based on a Hebrew cognate connection, but this reading has the weakest support from the ancient witness tradition and conflicts with the contextual coherence of the list, where every other item is a lawful dominion-oriented acquisition. The AAB renders "musical instruments" as the reading best supported by the ancient evidence while acknowledging the term remains uncertain.
+The Hebrew שִׁדָּה וְשִׁדּוֹת (*shiddah wəshiddot*) is a hapax legomenon, appearing nowhere else in the Hebrew Bible, whose meaning was already disputed in antiquity. Ancient translations diverge: the LXX and Aramaic Targum point toward service and hospitality roles; Babylonian rabbinic tradition reads male and female demons; Palestinian tradition reads carriages; other rabbinic sources treat it as a type of ornate chest. Isaac ibn Ghiyath (d. 1089), the first rabbinic commentator on Qohelet, surveyed all these traditions and concluded the best interpretation is a wondrous musical instrument that existed in the time of the Kingdom and was lost when the First Temple was destroyed (b. Sotah 48b). The Arabic cognate root *shada* carries the sense of something good, pleasant, and desirable. Modern scholarship has proposed "concubines" based on a Hebrew cognate connection, but this reading has the weakest support from the ancient witness tradition and conflicts with the contextual coherence of the list, where every other item is a lawful dominion-oriented acquisition. The AAB renders "musical instruments" as the reading best supported by the ancient evidence while acknowledging the term remains uncertain.
 
 #### 1 Chronicles 21:1 (Satan Without the Article)
 
@@ -2727,9 +2792,9 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | שְׂעִירִים (se'irim, Isa 13:21; 34:14) | goat-like demons | goat demons | wild goats | wild goats | ESV/NIV naturalize; LXX renders δαιμόνια |
 | בְּנוֹת יַעֲנָה (benot ya'anah) | supernatural bird-women | sirens | owls / ostriches | owls / ostriches | LXX renders σειρῆνες; ESV/NIV naturalize |
 | אִיִּים (iyyim, desolation formula) | composite beings | howlers | hyenas | hyenas | LXX renders ὀνοκένταυρος (donkey-centaur); ESV/NIV naturalize |
-| תַּנִּים / תַּנִּין (tannim/tannin) | chaos-creature | dragons | jackals | jackals | LXX renders δράκοντες; ESV/NIV naturalize against canonical weight |
-| אֹחִים (ohim, Isa 13:21) | mournful beings | keening creatures | owls | owls | LXX renders ἦχος; -im ending marks plural beings |
-| Rom 3:25 ἱλαστήριον | place of atonement | atonement offering | propitiation | sacrifice of atonement | AAB preserves LXX typological connection |
+| תַּנִּים / תַּנִּין (tannim/tannin) | chaos-creature | dragons | jackals | jackals | LXX often renders δράκοντες; ESV/NIV naturalize against canonical weight |
+| אֹחִים (ohim, Isa 13:21) | mournful beings | keening creatures | owls | owls | LXX renders ἦχος |
+| Rom 3:25 ἱλαστήριον | place of atonement | place of purgation | propitiation | sacrifice of atonement | AAB preserves LXX typological connection |
 | Heb 6:4 ἀδύνατον | impossible | ultimately impossible | impossible | impossible | AAB qualifier signals ontological register |
 
 ### Internal Consistency Comparison

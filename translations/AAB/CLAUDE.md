@@ -35,8 +35,11 @@ The Accessible Ancients Bible (AAB), a public-domain translation derived from th
 | hilastērion, Rom 3:25 | place of purgation (function) | propitiation, atoning sacrifice |
 | yom hakkippurim | Day of Purification | Day of Atonement |
 | reach nichoach | soothing aroma | pleasing aroma |
-| hasatan (OT, and NT intertexts) | the Accuser | Satan (valid; footnoted at each) |
-| qedoshim / hagioi | holy ones | saints |
+| hasatan (OT, with the article: Job 1-2; Zech 3) | the Accuser | Satan (valid; footnoted at each) |
+| Satanas (NT) | Satan (notes show the link to the accuser of Job and Zechariah where present: Luke 22:31; Rev 12:9-10) | the Accuser |
+| qedoshim / hagioi | holy ones (one name across both Testaments: the council, then the church; see the Brief) | saints |
+| chasid | godly ones | holy ones, saints |
+| bene elim / bene ha-elohim | sons of God | heavenly beings |
 | nephesh / psychē | life, self, person | soul (kept only where it means the inner self) |
 | sarx | flesh | sinful nature |
 | pistis Christou (genitive) | the faithfulness of Christ | faith in Christ |
@@ -55,9 +58,19 @@ The act is "purgation"; the offering and the day are named by their result, "pur
 
 ## Private reference material
 
-`reference/` is gitignored. Working papers (systematic theology, the family/corporate-person framework, Lamb of the Free notes) live there locally.
+`reference/` is gitignored. Working papers (systematic theology, the family/corporate-person framework, the owner's own notes on Lamb of the Free) live there locally. Published books, Rillera's *Lamb of the Free* included, may be cited by name in the Brief; the owner's notes on them may not, along with published reference works:
+
+- `reference/DDD.pdf`: *Dictionary of Deities and Demons in the Bible* (van der Toorn, Becking, van der Horst, 2nd ed., 1999). Use it for gods, demons, and spiritual beings named in the text (e.g. Lilith, the se'irim, siyyim, ohim, iyyim, tannin, Azazel). It is copyrighted: never commit it or move it out of `reference/`. The Brief may cite it by name as published scholarship; footnotes still cite Scripture. Outside books (Wisdom of Solomon, 1 Enoch, Qumran texts) may be cited in footnotes only as early witnesses, named as not Scripture, with a rough date and place. Search it with `pdftotext reference/DDD.pdf - | grep -n -i -A8 "TERM"`.
+
+Cloud sessions start from a fresh clone and cannot see `reference/`; only sessions on the owner's machine can read it.
 
 **Use them as background only.** They are never named, cited, or alluded to in a footnote, in the Brief, or in a commit message. Footnotes cite Scripture. This rule is absolute.
+
+## Pending review (raised by the owner; not yet changed)
+
+Remove an item once it is decided and applied.
+
+(None at present.)
 
 ## Workflow
 
