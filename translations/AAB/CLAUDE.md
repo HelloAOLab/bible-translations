@@ -35,7 +35,7 @@ The Accessible Ancients Bible (AAB), a public-domain translation derived from th
 | hilastērion, Rom 3:25 | place of purgation (function) | propitiation, atoning sacrifice |
 | yom hakkippurim | Day of Purification | Day of Atonement |
 | reach nichoach | soothing aroma | pleasing aroma |
-| hasatan (OT, and NT intertexts) | the Accuser | Satan (valid; footnoted at each) |
+| hasatan (OT, and NT intertexts with Job 1-2 / Zech 3: Luke 22:31; Rev 12:9-10; 20:2) | the Accuser (Rom 16:20 is "Satan": it echoes Gen 3:15) | Satan (valid; footnoted at each) |
 | qedoshim / hagioi | holy ones (one name across both Testaments: the council, then the church; see the Brief) | saints |
 | chasid | godly ones | holy ones, saints |
 | bene elim / bene ha-elohim | sons of God | heavenly beings |
@@ -72,8 +72,8 @@ Remove an item once it is decided and applied.
 - **Day of Purification notes (Lev 16:10; 16:30; 23:27).** The notes say the Day covers only inadvertent sin, but 16:16 and 16:21 name "rebellious acts." A draft is agreed in substance: the blood cleanses God's house (16:16, 19), the goat bears the iniquities away (16:21-22), the people are made clean (16:30), and the unrepentant are cut off (23:29). The owner is checking Rillera, *Lamb of the Free*, pp. 136-140, first.
 - **Desolation-creature notes (Isa 13:21-22; 34:13-14; Jer 50:39).** The owner is checking the DDD (`reference/DDD.pdf`), Siyyim and Iyyim entries, on the Songs of the Sage (4Q510). Proposed: the Lilith note at Isa 34:14 drops the BDB citation and states the Akkadian *lilitu* background (a demon in Mesopotamian texts from the third millennium BC), noting that the Septuagint renders her *onokentauros* there, as it does the *iyyim*.
 
-- **Accuser notes (Luke 22:31; Rom 16:20; Rev 12:9; 20:2).** Replace the shared boilerplate ("Both renderings are defensible") with a note for each verse; Rom 16:20 echoes Gen 3:15. Drafts proposed.
-- **Denial notes (2 Cor 5:21; John 1:29; 1 Cor 5:7; Lev 3:1).** Rewrite to state the positive (rule 2). Drafts proposed.
+- **Accuser notes (Luke 22:31; Rev 12:9; 20:2).** Replace the shared boilerplate ("Both renderings are defensible") with a note for each verse. Drafts proposed. (Rom 16:20 done: now "Satan.")
+- **2 Cor 5:21 note.** Owner not satisfied; to revisit. His direction: the point is that Christ became human, God and man at once, the new head of a new body, the last Adam (1 Cor 15:45). John 1:29, 1 Cor 5:7, Lev 3:1 done.
 - **Brief, angel paragraph.** Add one sentence: "messenger of the gods" at 1 Sam 29:9 follows the rule for non-Israelite speakers.
 
 ## Workflow
