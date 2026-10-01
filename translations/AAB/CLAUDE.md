@@ -60,7 +60,7 @@ The act is "purgation"; the offering and the day are named by their result, "pur
 
 `reference/` is gitignored. Working papers (systematic theology, the family/corporate-person framework, the owner's own notes on Lamb of the Free) live there locally. Published books, Rillera's *Lamb of the Free* included, may be cited by name in the Brief; the owner's notes on them may not, along with published reference works:
 
-- `reference/DDD.pdf`: *Dictionary of Deities and Demons in the Bible* (van der Toorn, Becking, van der Horst, 2nd ed., 1999). Use it for gods, demons, and spiritual beings named in the text (e.g. Lilith, the se'irim, siyyim, ohim, iyyim, tannin, Azazel). It is copyrighted: never commit it or move it out of `reference/`. The Brief may cite it by name as published scholarship; footnotes still cite Scripture. Search it with `pdftotext reference/DDD.pdf - | grep -n -i -A8 "TERM"`.
+- `reference/DDD.pdf`: *Dictionary of Deities and Demons in the Bible* (van der Toorn, Becking, van der Horst, 2nd ed., 1999). Use it for gods, demons, and spiritual beings named in the text (e.g. Lilith, the se'irim, siyyim, ohim, iyyim, tannin, Azazel). It is copyrighted: never commit it or move it out of `reference/`. The Brief may cite it by name as published scholarship; footnotes still cite Scripture. Outside books (Wisdom of Solomon, 1 Enoch, Qumran texts) may be cited in footnotes only as early witnesses, named as not Scripture, with a rough date and place. Search it with `pdftotext reference/DDD.pdf - | grep -n -i -A8 "TERM"`.
 
 Cloud sessions start from a fresh clone and cannot see `reference/`; only sessions on the owner's machine can read it.
 
@@ -70,7 +70,6 @@ Cloud sessions start from a fresh clone and cannot see `reference/`; only sessio
 
 Remove an item once it is decided and applied.
 
-- **Desolation-creature notes (Isa 13:21-22; 34:13-14; Jer 50:39).** The owner is checking the DDD (`reference/DDD.pdf`), Siyyim and Iyyim entries, on the Songs of the Sage (4Q510). Proposed: the Lilith note at Isa 34:14 drops the BDB citation and states the Akkadian *lilitu* background (a demon in Mesopotamian texts from the third millennium BC), noting that the Septuagint renders her *onokentauros* there, as it does the *iyyim*.
 
 - **Brief, angel paragraph.** Add one sentence: "messenger of the gods" at 1 Sam 29:9 follows the rule for non-Israelite speakers.
 
