@@ -36,7 +36,9 @@ The Accessible Ancients Bible (AAB), a public-domain translation derived from th
 | yom hakkippurim | Day of Purification | Day of Atonement |
 | reach nichoach | soothing aroma | pleasing aroma |
 | hasatan (OT, and NT intertexts) | the Accuser | Satan (valid; footnoted at each) |
-| qedoshim / hagioi | holy ones | saints |
+| qedoshim / hagioi | holy ones (one name across both Testaments: the council, then the church; see the Brief) | saints |
+| chasid | godly ones | holy ones, saints |
+| bene elim / bene ha-elohim | sons of God | heavenly beings |
 | nephesh / psychē | life, self, person | soul (kept only where it means the inner self) |
 | sarx | flesh | sinful nature |
 | pistis Christou (genitive) | the faithfulness of Christ | faith in Christ |
@@ -67,9 +69,14 @@ Cloud sessions start from a fresh clone and cannot see `reference/`; only sessio
 
 Remove an item once it is decided and applied.
 
-- **Daniel 7:27.** The AAB reads "given to the people, the holy ones of the Most High." The Aramaic is *le'am qaddishe elyonin*, "to the people of the holy ones of the Most High." The apposition makes the people the holy ones, the heavenly council. The construct keeps them distinct: the people belong to the holy ones. Compare 7:18, 22, 25, where "the holy ones of the Most High" stand alone.
 - **Day of Purification notes (Lev 16:10; 16:30; 23:27).** The notes say the Day covers only inadvertent sin, but 16:16 and 16:21 name "rebellious acts." A draft is agreed in substance: the blood cleanses God's house (16:16, 19), the goat bears the iniquities away (16:21-22), the people are made clean (16:30), and the unrepentant are cut off (23:29). The owner is checking Rillera, *Lamb of the Free*, pp. 136-140, first.
 - **Desolation-creature notes (Isa 13:21-22; 34:13-14; Jer 50:39).** The owner is checking the DDD (`reference/DDD.pdf`), Siyyim and Iyyim entries, on the Songs of the Sage (4Q510). Proposed: the Lilith note at Isa 34:14 drops the BDB citation and states the Akkadian *lilitu* background (a demon in Mesopotamian texts from the third millennium BC), noting that the Septuagint renders her *onokentauros* there, as it does the *iyyim*.
+
+- **Gen 11:7; Isa 6:8.** Lowercase "us" as at Gen 1:26 (the council: Deut 32:8 at Babel; the seraphim and 1 Kgs 22:19-22 at Isa 6)? Proposed, awaiting a yes.
+- **Accuser notes (Luke 22:31; Rom 16:20; Rev 12:9; 20:2).** Replace the shared boilerplate ("Both renderings are defensible") with a note for each verse; Rom 16:20 echoes Gen 3:15. Drafts proposed.
+- **Denial notes (2 Cor 5:21; John 1:29; 1 Cor 5:7; Lev 3:1).** Rewrite to state the positive (rule 2). Drafts proposed.
+- **Brief, angel paragraph.** Add one sentence: "messenger of the gods" at 1 Sam 29:9 follows the rule for non-Israelite speakers.
+- **Rillera in the Brief.** The Brief names *Lamb of the Free* five times; confirm with the owner whether citing the published book is intended.
 
 ## Workflow
 
