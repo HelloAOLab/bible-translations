@@ -70,8 +70,7 @@ Cloud sessions start from a fresh clone and cannot see `reference/`; only sessio
 
 Remove an item once it is decided and applied.
 
-
-- **Brief, angel paragraph.** Add one sentence: "messenger of the gods" at 1 Sam 29:9 follows the rule for non-Israelite speakers.
+(None at present.)
 
 ## Workflow
 
