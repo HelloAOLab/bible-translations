@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.20 | Awaiting Feedback**
+**Status: Public Draft v0.21 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -952,6 +952,10 @@ This section clarifies the limits of the project.
 
 ## Complete Verse Catalog
 
+### Public Draft v0.21 (October 2026\)
+
+- Genesis 34:17: the note on "our daughter" expanded to explain why the brothers, who said "our sister" in verse 14, now say "our daughter": they answer for their father's house, which gives a daughter in marriage (24:50; 34:11).
+
 ### Public Draft v0.20 (September 2026\)
 
 A review of every change from v0.1 onward, correcting slips that later rounds left behind.
@@ -1645,7 +1649,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 34:7 | (fn: Or against Israel) | (fn: nebalah be-yisrael; first use; the head's name names the house; a wrong to one member is a wrong to all; later uses) |
 | Judges 20:6, 10 | lewd and disgraceful act / atrocity in Israel | lewd and outrageous act / outrage in Israel |
 | Hosea 1:4 | the kingdom of Israel | the kingdom of the house of Israel |
-| Genesis 34:17 | our sister | our daughter (fn: the brothers speak for their father's house) |
+| Genesis 34:17 | our sister | our daughter (fn: the brothers speak for their father's house; expanded in v0.21 to explain why they say "daughter": the house answers for the daughter it gives in marriage, 24:50; 34:11) |
 | Joshua 17:14 | only one portion... blessed me abundantly | only one lot and one portion... for until now the LORD has blessed me |
 | **Elohim Doc-Sync (v0.17)** |  |  |
 | Exodus 21:6 | bring him before the judges | bring him to God (fn: Heb. ha-elohim; many read "judges"; cf. Deut 15:17) |
