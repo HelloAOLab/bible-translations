@@ -956,7 +956,7 @@ This section clarifies the limits of the project.
 
 - Genesis 34:17: the note on "our daughter" expanded to explain why the brothers, who said "our sister" in verse 14, now say "our daughter": they answer for their father's house, which gives a daughter in marriage (24:50; 34:11).
 - 2 Samuel 18:9 "he was suspended in midair" to "he was left hanging between heaven and earth" (Heb. *bên haššāmayim ûbên hāʾāreṣ*).
-- Acts 2:41: note added. Pentecost falls in the month Israel reached Sinai (Exod 19:1; Lev 23:15-16); about three thousand died at Sinai after the golden calf (Exod 32:28), and about three thousand receive life when the Spirit is given (2 Cor 3:6).
+- Acts 2:41: "about three thousand" to "about three thousand people" (Gk. *psychai*, rendered as persons under the *nephesh*/*psychē* policy). Note added. Pentecost falls in the month Israel reached Sinai (Exod 19:1; Lev 23:15-16); about three thousand died at Sinai after the golden calf (Exod 32:28), and about three thousand receive life when the Spirit is given (2 Cor 3:6).
 
 ### Public Draft v0.20 (September 2026\)
 
