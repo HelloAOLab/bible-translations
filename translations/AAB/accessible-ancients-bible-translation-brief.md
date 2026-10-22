@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.21 | Awaiting Feedback**
+**Status: Public Draft v0.22 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -951,6 +951,10 @@ This section clarifies the limits of the project.
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.22 (October 2026\)
+
+- Sin capitalized only where Paul speaks of it as a power: Romans 3:9 "all under sin" to "all under Sin" (being "under" Sin is the language of a master, Rom 6:14); Romans 7:7 "Is the law Sin?" to "Is the law sin?" (Paul asks whether the law is sinful; the second "Sin" in the verse stays).
 
 ### Public Draft v0.21 (October 2026\)
 
