@@ -955,6 +955,7 @@ This section clarifies the limits of the project.
 ### Public Draft v0.22 (October 2026\)
 
 - Sin capitalized only where Paul speaks of it as a power: Romans 3:9 "all under sin" to "all under Sin" (being "under" Sin is the language of a master, Rom 6:14); Romans 7:7 "Is the law Sin?" to "Is the law sin?" (Paul asks whether the law is sinful; the second "Sin" in the verse stays).
+- Capitalization rule narrowed: "Sin" and "Death" are capitalized only where Paul personifies them as acting powers. Lowercased: Rom 5:13 (second "sin"), 5:20, 5:21 ("in death"), 6:16 ("leading to death"), 6:23 ("is death"), 7:13 ("exposed as sin"), 7:23, 7:25, 8:2 ("the law of sin and death"). 1 Corinthians 15:21, 26, 54-56 checked and unchanged (Death enters, is the last enemy, is addressed, has a sting).
 - Romans 8:3 returns to "as an offering for sin," lowercase, reversing the v0.20 "concerning Sin": *peri hamartias* is the Greek Old Testament's term for the purification offering, and the offering is for sin, not for the power Sin. "He condemned Sin in the flesh" keeps the capital. The note is rewritten accordingly.
 
 ### Public Draft v0.21 (October 2026\)
@@ -1465,9 +1466,9 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 7:14 | slave to sin | slave to Sin |
 | Romans 7:17 | sin living in me | Sin living in me |
 | Romans 7:20 | sin living in me | Sin living in me |
-| Romans 7:23 | law of sin | law of Sin |
-| Romans 7:25 | law of sin | law of Sin |
-| Romans 8:2 | law of sin and death | law of Sin and Death |
+| Romans 7:23 | law of sin | law of Sin (lowercase again from v0.22) |
+| Romans 7:25 | law of sin | law of Sin (lowercase again from v0.22) |
+| Romans 8:2 | law of sin and death | law of Sin and Death (lowercase again from v0.22) |
 | Romans 8:3 | offering for sin... condemned sin | offering for Sin... condemned Sin |
 | Romans 8:27 | saints | holy ones |
 | Romans 12:13 | saints | holy ones |
@@ -2588,20 +2589,18 @@ In Romans 5-8 and 1 Corinthians 15, Paul personifies Sin (ἁμαρτία) and D
 
 **Criteria for capitalization:**
 
-Capitalize "Sin" when: Sin is subject of active/agentive verbs (entered, reigned, seized, deceived, killed, dwells); Sin is described as master/lord with dominion over slaves; Sin is parallel to Death as ruling power.
+Capitalize "Sin" or "Death" only where Paul personifies it as an acting power: Sin enters, reigns, seizes, deceives, kills, dwells, pays wages, or is master over slaves; Death enters, reigns, has dominion, is the enemy to be destroyed, or is addressed. Pairing alone does not make a word a power.
 
-Capitalize "Death" when: Death is subject of ruling verbs (reigned, has dominion); Death is paired with Sin as co-ruler; Death is described as enemy to be destroyed.
-
-Do NOT capitalize when: referring to plural sins/transgressions (ἁμαρτίαι); referring to physical death as an event; general ethical usage outside personification contexts.
+Keep lowercase: the acts or the concept of sin ("where sin increased," Rom 5:20; "exposed as sin," 7:13); death as an outcome, wage, or realm ("leading to death," 6:16; "the wages of Sin is death," 6:23; "Sin reigned in death," 5:21); "the law of sin (and death)" as a ruling principle (7:23, 25; 8:2); plural sins; physical death as an event.
 
 **\~35 verses corrected across Romans 5-8 and 1 Corinthians 15:**
 
 | Passage | Key Examples |
 | :---- | :---- |
-| Rom 5:12-21 | "Sin entered the world... Death reigned... Sin reigned in Death" |
-| Rom 6:1-23 | "died to Sin... body of Sin... enslaved to Sin... slaves of Sin... wages of Sin is Death" |
+| Rom 5:12-21 | "Sin entered the world... Death reigned... Sin reigned in death" |
+| Rom 6:1-23 | "died to Sin... body of Sin... enslaved to Sin... slaves of Sin... wages of Sin is death" |
 | Rom 7:7-25 | "Sin, seizing an opportunity... Sin deceived me... Sin killed me... Sin living in me" |
-| Rom 8:2-3 | "the law of Sin and Death... he condemned Sin" |
+| Rom 8:3 | "He condemned Sin in the flesh" |
 | 1 Cor 15:21, 26, 56 | "Death came through a man... last enemy is Death... sting of Death is Sin" (15:54–55 already capitalized in BSB v3) |
 
 #### Study Note on σάρξ (Sarx)
