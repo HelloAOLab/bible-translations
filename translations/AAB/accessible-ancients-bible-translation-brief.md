@@ -955,6 +955,7 @@ This section clarifies the limits of the project.
 ### Public Draft v0.22 (October 2026\)
 
 - Sin capitalized only where Paul speaks of it as a power: Romans 3:9 "all under sin" to "all under Sin" (being "under" Sin is the language of a master, Rom 6:14); Romans 7:7 "Is the law Sin?" to "Is the law sin?" (Paul asks whether the law is sinful; the second "Sin" in the verse stays).
+- Romans 8:3 returns to "as an offering for sin," lowercase, reversing the v0.20 "concerning Sin": *peri hamartias* is the Greek Old Testament's term for the purification offering, and the offering is for sin, not for the power Sin. "He condemned Sin in the flesh" keeps the capital. The note is rewritten accordingly.
 
 ### Public Draft v0.21 (October 2026\)
 
