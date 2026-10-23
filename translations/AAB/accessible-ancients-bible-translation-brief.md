@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.22 | Awaiting Feedback**
+**Status: Public Draft v0.23 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -950,7 +950,17 @@ This section clarifies the limits of the project.
 
 **It does not claim finality.** This is a public draft. We welcome correction, pushback, and refinement. The goal is fidelity to Scripture, not novelty for its own sake.
 
+### Known Limitations and Future Revisions
+
+**Literary structure has not yet been worked through systematically.** The biblical authors built their texts with deliberate structures: chiasms that turn on a central line, frames that open and close a unit with the same words (inclusio), parallel lines in poetry, alphabetic acrostics (Ps 119; Lam 1-4), and key words repeated across a passage to bind it together. These structures are part of what the authors wrote, as inspired as the words themselves, and a translation should let the reader see them. The chapter and verse divisions are different: they were added much later (chapters in the 13th century, verses in the 16th) and are not part of the inspired text.
+
+The AAB has not been revised against a dataset of literary structures. Its renderings therefore may not always preserve these structures accurately: a repeated Hebrew or Greek word may be rendered two ways and so lose the link the author built, a chiasm may be obscured by English word order, or a paragraph break may cut across a unit the author meant to hold together. A systematic review of literary structure is planned, and it will lead to revisions in future drafts.
+
 ## Complete Verse Catalog
+
+### Public Draft v0.23 (October 2026\)
+
+- New subsection, "Known Limitations and Future Revisions," under "What This Translation Does Not Do": the AAB has not yet been revised against a dataset of literary structures (chiasm, inclusio, parallelism, acrostics, key-word repetition), which are as inspired as the words; a systematic review is planned and will lead to revisions.
 
 ### Public Draft v0.22 (October 2026\)
 
