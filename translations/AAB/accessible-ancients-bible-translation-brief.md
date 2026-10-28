@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.23 | Awaiting Feedback**
+**Status: Public Draft v0.24 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -734,7 +734,7 @@ Traditional translations render כַּפֹּרֶת as "mercy seat" or "atonement
 
 "Mercy seat" comes from Tyndale via Luther's *Gnadenstuhl*, a theological interpretation rather than a translation, though Tyndale's instinct that this object is a *seat* was correct. "Atonement cover" (NIV, and earlier drafts of the AAB) captures the lexical link to כִּפֶּר (*kipper*, "to purge") and the object's form, but loses the throne entirely, and the throne is the point: on the Day of Purification the high priest enters the house and presents blood before the enthroned LORD (Lev 16:14–15). The NT confirms the identification: ἱλαστήριον, the LXX's word for the כַּפֹּרֶת, is applied to Christ in Romans 3:25 (cf. Heb 9:5). The AAB keeps "throne seat" for the object (Heb 9:5) and renders the function Paul applies to Christ as "place of purgation" (Rom 3:25): Christ is the place where purgation happens, in the presence of the enthroned God.[^3]
 
-We rendered all occurrences of כַּפֹּרֶת (and ἱλαστήριον in Heb 9:5) as "throne seat."
+We rendered all occurrences of כַּפֹּרֶת (and ἱλαστήριον in Heb 9:5) as "throne seat," following Michael Heiser's proposal. The rendering is contextual: the name *kapporet* is usually tied to *kipper*, "purge," and "throne seat" renders the object's place in the throne room rather than the word's derivation, as the note at Exod 25:17 says. The phrase *yōšēb hakkᵉrūbîm* is rendered both "enthroned between the cherubim" and "enthroned above the cherubim"; both are true to the scene, since God speaks "above the throne seat, between the two cherubim" (Exod 25:22), and the AAB keeps both deliberately.
 
 ### Effect Purgation (כִּפֶּר / *kipper*)
 
@@ -957,6 +957,12 @@ This section clarifies the limits of the project.
 The AAB has not been revised against a dataset of literary structures. Its renderings therefore may not always preserve these structures accurately: a repeated Hebrew or Greek word may be rendered two ways and so lose the link the author built, a chiasm may be obscured by English word order, or a paragraph break may cut across a unit the author meant to hold together. A systematic review of literary structure is planned, and it will lead to revisions in future drafts.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.24 (October 2026\)
+
+- Exodus 25:17 note and the Brief's throne-seat section state that "throne seat" is a contextual rendering (the name *kapporet* is usually tied to *kipper*, "purge"); the Brief credits Michael Heiser's proposal and records that "enthroned between" and "enthroned above" the cherubim are both kept deliberately.
+- Romans 7:17, 20 "Sin living in me" to "sin living in me" (the pull of sin within the body); the capitalization criteria updated.
+- Ezekiel 45:19 "the doorposts of the temple" to "the doorposts of the house" (*mᵉzûzat habbayit*), with a note on the echo of the Passover doorposts (Exod 12:7, 22).
 
 ### Public Draft v0.23 (October 2026\)
 
@@ -1474,8 +1480,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 7:11 | sin, seizing | Sin, seizing |
 | Romans 7:13 | sin might be exposed as sin... sin, it produced death | Sin might be exposed as Sin... Sin, it produced death |
 | Romans 7:14 | slave to sin | slave to Sin |
-| Romans 7:17 | sin living in me | Sin living in me |
-| Romans 7:20 | sin living in me | Sin living in me |
+| Romans 7:17 | sin living in me | Sin living in me (lowercase again from v0.24) |
+| Romans 7:20 | sin living in me | Sin living in me (lowercase again from v0.24) |
 | Romans 7:23 | law of sin | law of Sin (lowercase again from v0.22) |
 | Romans 7:25 | law of sin | law of Sin (lowercase again from v0.22) |
 | Romans 8:2 | law of sin and death | law of Sin and Death (lowercase again from v0.22) |
@@ -2599,9 +2605,9 @@ In Romans 5-8 and 1 Corinthians 15, Paul personifies Sin (ἁμαρτία) and D
 
 **Criteria for capitalization:**
 
-Capitalize "Sin" or "Death" only where Paul personifies it as an acting power: Sin enters, reigns, seizes, deceives, kills, dwells, pays wages, or is master over slaves; Death enters, reigns, has dominion, is the enemy to be destroyed, or is addressed. Pairing alone does not make a word a power.
+Capitalize "Sin" or "Death" only where Paul personifies it as an acting power: Sin enters, reigns, seizes, deceives, kills, pays wages, or is master over slaves; Death enters, reigns, has dominion, is the enemy to be destroyed, or is addressed. Pairing alone does not make a word a power.
 
-Keep lowercase: the acts or the concept of sin ("where sin increased," Rom 5:20; "exposed as sin," 7:13); death as an outcome, wage, or realm ("leading to death," 6:16; "the wages of Sin is death," 6:23; "Sin reigned in death," 5:21); "the law of sin (and death)" as a ruling principle (7:23, 25; 8:2); plural sins; physical death as an event.
+Keep lowercase: the acts or the concept of sin ("where sin increased," Rom 5:20; "exposed as sin," 7:13); death as an outcome, wage, or realm ("leading to death," 6:16; "the wages of Sin is death," 6:23; "Sin reigned in death," 5:21); "the law of sin (and death)" as a ruling principle (7:23, 25; 8:2); the pull of sin within the body ("sin living in me," 7:17, 20); plural sins; physical death as an event.
 
 **\~35 verses corrected across Romans 5-8 and 1 Corinthians 15:**
 
@@ -2609,7 +2615,7 @@ Keep lowercase: the acts or the concept of sin ("where sin increased," Rom 5:20;
 | :---- | :---- |
 | Rom 5:12-21 | "Sin entered the world... Death reigned... Sin reigned in death" |
 | Rom 6:1-23 | "died to Sin... body of Sin... enslaved to Sin... slaves of Sin... wages of Sin is death" |
-| Rom 7:7-25 | "Sin, seizing an opportunity... Sin deceived me... Sin killed me... Sin living in me" |
+| Rom 7:7-25 | "Sin, seizing an opportunity... Sin deceived me... Sin killed me" |
 | Rom 8:3 | "He condemned Sin in the flesh" |
 | 1 Cor 15:21, 26, 56 | "Death came through a man... last enemy is Death... sting of Death is Sin" (15:54–55 already capitalized in BSB v3) |
 
