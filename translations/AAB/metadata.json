@@ -6,5 +6,12 @@
   "language": "eng",
   "licenseUrl": "https://github.com/HelloAOLab/bibles/blob/main/AAB/LICENSE",
   "shortName": "AAB",
-  "website": "https://helloao.org/"
+  "website": "https://helloao.org/",
+  "license": {
+      "attribution": "not-required",
+      "commercialUse": "allowed",
+      "derivatives": "allowed",
+      "copyleft": false,
+      "publicDomain": true
+  }
 }
