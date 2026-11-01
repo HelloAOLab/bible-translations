@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.24 | Awaiting Feedback**
+**Status: Public Draft v0.25 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -958,6 +958,10 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 
 ## Complete Verse Catalog
 
+### Public Draft v0.25 (November 2026\)
+
+- Romans 8:3 "He condemned Sin in the flesh" to "He condemned sin in the flesh," so that no reader takes the Son to be Sin, with a new note: the flesh is the Son's, the sin condemned in it is not (2 Cor 5:21; Heb 4:15); He shared our mortal flesh, not our sin. The note on "an offering for sin" now covers only *peri hamartias*.
+
 ### Public Draft v0.24 (October 2026\)
 
 - Exodus 25:17 note and the Brief's throne-seat section state that "throne seat" is a contextual rendering (the name *kapporet* is usually tied to *kipper*, "purge"); the Brief credits Michael Heiser's proposal and records that "enthroned between" and "enthroned above" the cherubim are both kept deliberately.
@@ -1485,7 +1489,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Romans 7:23 | law of sin | law of Sin (lowercase again from v0.22) |
 | Romans 7:25 | law of sin | law of Sin (lowercase again from v0.22) |
 | Romans 8:2 | law of sin and death | law of Sin and Death (lowercase again from v0.22) |
-| Romans 8:3 | offering for sin... condemned sin | offering for Sin... condemned Sin |
+| Romans 8:3 | offering for sin... condemned sin | offering for Sin... condemned Sin (both lowercase again by v0.25) |
 | Romans 8:27 | saints | holy ones |
 | Romans 12:13 | saints | holy ones |
 | Romans 15:25 | saints | holy ones |
@@ -2607,7 +2611,7 @@ In Romans 5-8 and 1 Corinthians 15, Paul personifies Sin (ἁμαρτία) and D
 
 Capitalize "Sin" or "Death" only where Paul personifies it as an acting power: Sin enters, reigns, seizes, deceives, kills, pays wages, or is master over slaves; Death enters, reigns, has dominion, is the enemy to be destroyed, or is addressed. Pairing alone does not make a word a power.
 
-Keep lowercase: the acts or the concept of sin ("where sin increased," Rom 5:20; "exposed as sin," 7:13); death as an outcome, wage, or realm ("leading to death," 6:16; "the wages of Sin is death," 6:23; "Sin reigned in death," 5:21); "the law of sin (and death)" as a ruling principle (7:23, 25; 8:2); the pull of sin within the body ("sin living in me," 7:17, 20); plural sins; physical death as an event.
+Keep lowercase: the acts or the concept of sin ("where sin increased," Rom 5:20; "exposed as sin," 7:13); death as an outcome, wage, or realm ("leading to death," 6:16; "the wages of Sin is death," 6:23; "Sin reigned in death," 5:21); "the law of sin (and death)" as a ruling principle (7:23, 25; 8:2); the pull of sin within the body ("sin living in me," 7:17, 20); and Rom 8:3, "He condemned sin in the flesh," so that no reader takes the Son's flesh to be Sin (note there); plural sins; physical death as an event.
 
 **\~35 verses corrected across Romans 5-8 and 1 Corinthians 15:**
 
@@ -2616,7 +2620,6 @@ Keep lowercase: the acts or the concept of sin ("where sin increased," Rom 5:20;
 | Rom 5:12-21 | "Sin entered the world... Death reigned... Sin reigned in death" |
 | Rom 6:1-23 | "died to Sin... body of Sin... enslaved to Sin... slaves of Sin... wages of Sin is death" |
 | Rom 7:7-25 | "Sin, seizing an opportunity... Sin deceived me... Sin killed me" |
-| Rom 8:3 | "He condemned Sin in the flesh" |
 | 1 Cor 15:21, 26, 56 | "Death came through a man... last enemy is Death... sting of Death is Sin" (15:54–55 already capitalized in BSB v3) |
 
 #### Study Note on σάρξ (Sarx)
