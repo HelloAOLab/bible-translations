@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.25 | Awaiting Feedback**
+**Status: Public Draft v0.26 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -957,6 +957,12 @@ This section clarifies the limits of the project.
 The AAB has not been revised against a dataset of literary structures. Its renderings therefore may not always preserve these structures accurately: a repeated Hebrew or Greek word may be rendered two ways and so lose the link the author built, a chiasm may be obscured by English word order, or a paragraph break may cut across a unit the author meant to hold together. A systematic review of literary structure is planned, and it will lead to revisions in future drafts.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.26 (November 2026\)
+
+- Final judgment: the footnotes the Brief had described but the text never carried are now in place, rewritten under the footnote policy: John 3:16; Isa 66:24; Mark 9:48; Dan 12:2; Matt 25:46; Rev 14:11; 20:10; 20:14; with new notes at Isa 34:10, Rev 18:2, and Rev 21:8, and a sentence added to the Gen 3:22 note (the tree of life guarded so that fallen man would not live forever; 1 Tim 6:16).
+- Ezekiel 27:36 and 28:19 "will be no more" to "will be no more forever" (*wᵉʾênᵉkā ʿad-ʿôlām*), the same clause addressed to the city of Tyre and to its ruler.
+- Brief, "Final Judgment Passages": the stance paragraph now states the AAB's reading and its canonical grounds; the Targum evidence is restated with its dating and sources; a new subsection, "The Ancient Background," surveys Egypt, Mesopotamia, Ugarit, Israel, Persia, Greece, and the Second Temple period.
 
 ### Public Draft v0.25 (November 2026\)
 
@@ -2421,21 +2427,19 @@ Greek ὑστερῶν in this context carries the sense of apostasy, not merely
 
 These passages share a common problem: traditional rendering choices have settled questions the text itself leaves open. In most cases the settlement favors one theological tradition not because the source languages require it but because that tradition has dominated the translation history.
 
-The AAB's goal here is not to take sides in the debate about final judgment. It is to draw the reader into what the text actually says. Where the Greek or Hebrew makes a distinction that popular reading has flattened, the footnote makes that distinction visible. Where an image has an intertextual history that shapes its meaning, the footnote traces it. Where a word has a consistent usage the reader may not be aware of, the footnote states it.
-
-The reader who has only ever encountered one reading of these passages deserves to know the text is richer than they were shown. That is the whole goal. The translation does not resolve what the text does not resolve.
+The AAB keeps the familiar renderings in these passages. The footnotes show what the words mean and where the images come from. The AAB reads these passages as consistent with the rest of the canon. In Genesis, God drives the man out so that he will not live forever in his fallen state (Gen 3:22-24). Paul says God alone has immortality (1 Tim 6:16). Ezekiel says the fallen cherub will be no more forever (Ezek 28:19). Revelation calls the lake of fire the second death (Rev 20:14). Revelation does add new information at the end of the canon. For example, it identifies the serpent of Genesis 3 as Satan (Rev 12:9), and that identification fits everything earlier Scripture says about the serpent. Endless conscious torment of human beings would not fit Genesis 3:22-24, so the AAB does not read Revelation that way.
 
 #### John 3:16 (Perish, Not Torment)
 
-**Traditional rendering:** "...shall not perish but have eternal life." (ESV, NIV, BSB \-- consistent)
+**Traditional rendering:** "...shall not perish but have eternal life." (ESV, NIV, BSB, consistent)
 
 **AAB rendering:** Preserved.
 
-**The issue:** The Greek verb is ἀπόλλυμι (*apollymi*): to destroy, kill, or be lost. It is not a torment word. The word has a consistent meaning across the entire NT with no exceptions. Herod seeks to apollymi the child (Matthew 2:13) \-- he means kill him. The lost sheep, lost coin, and lost son in Luke 15 are all apollymi: the opposite of being lost is being found, not escape from ongoing suffering. The word never describes conscious torment anywhere in scripture.
+**The issue:** The Greek verb is ἀπόλλυμι (*apollymi*): to destroy, kill, or be lost. It is not a torment word. The word has a consistent meaning across the entire NT with no exceptions. Herod seeks to apollymi the child (Matthew 2:13), he means kill him. The lost sheep, lost coin, and lost son in Luke 15 are all apollymi: the opposite of being lost is being found, not escape from ongoing suffering. The word never describes conscious torment anywhere in scripture.
 
-The contrast Jesus draws in this verse is therefore destruction paired against life, not torment paired against life. Popular reading has so thoroughly shaped the assumed meaning of "perish" that most readers do not notice what the text actually says. This is not a translation problem \-- the rendering "perish" is accurate \-- but the word's consistent meaning across scripture deserves to be made visible.
+The contrast Jesus draws in this verse is therefore destruction paired against life, not torment paired against life. Popular reading has so thoroughly shaped the assumed meaning of "perish" that most readers do not notice what the text actually says. This is not a translation problem, the rendering "perish" is accurate, but the word's consistent meaning across scripture deserves to be made visible.
 
-**Footnote added:** "Gk. apollymi: destroy, kill, be lost. The word never describes ongoing conscious suffering anywhere in the NT. Herod seeks to apollymi the child (Matt 2:13), meaning kill him. The lost sheep, coin, and son in Luke 15 are all apollymi \-- the opposite of being lost is being found, not escape from torment. The contrast here is between destruction and life, not torment and life. The text gives no signal that this is an exception to the word's uniform usage."
+**Footnote (v0.26):** "Gk. apollymi, 'to destroy, to be lost.' Matthew uses the same verb when Herod searches for the Child to kill Him (Matt 2:13) and when Jesus says God can 'destroy both soul and body in Gehenna' (Matt 10:28). Luke uses it for the lost sheep, coin, and son (Luke 15:4, 8, 24). In this verse, perishing is set against eternal life, as it is again in John 10:28."
 
 #### Isaiah 66:24 / Mark 9:43–48 (Unquenchable Fire and the Worm)
 
@@ -2447,7 +2451,7 @@ The contrast Jesus draws in this verse is therefore destruction paired against l
 
 **The Isaiah background:** Jesus quotes Isaiah 66:24 three times in Mark 9 without adding interpretive commentary. The Isaiah passage describes corpses (Hebrew פְּגָרִים, *pěgarim*: carcasses, dead bodies) exposed to maggots and fire. The worm does not die and the fire is not quenched because nothing will prevent these bodies from being fully devoured. This is a statement about the completeness and unstoppability of judgment, not about the conscious ongoing experience of the dead.
 
-**Footnote added (both locations):** "Heb. לֹא תִכְבֶּה / Gk. ἄσβεστος: 'cannot be quenched' or 'cannot be extinguished,' not 'burns without end.' The emphasis is on the unstoppability of the judgment, not its duration. The Isaiah 66:24 context describes exposed corpses, not living persons in torment. See also Ezekiel 20:47–48, where the same 'unquenchable' language describes a fire that nonetheless completes its destruction."
+**Footnotes (v0.26):** At Isaiah 66:24: "Heb. pᵉgārîm, 'corpses.' The people who go out of the city are looking at dead bodies. Worms and fire consume them, and nothing stops either one until the bodies are gone. Ezekiel 20:47-48 uses the same words, 'not quenched,' for a fire that burns until it has finished. The word translated 'horror' (dērāʾôn) occurs only here and in Dan 12:2." At Mark 9:48: "Isaiah 66:24. In Isaiah the worm and the fire consume the corpses of the rebels outside Jerusalem. A fire that is 'not quenched' is one no one can put out before it has burned everything (Ezek 20:47-48; compare Matt 3:12). See note on Isa 66:24."
 
 #### Daniel 12:2 (Shame and Everlasting Contempt)
 
@@ -2459,7 +2463,7 @@ The contrast Jesus draws in this verse is therefore destruction paired against l
 
 **The grammatical structure:** The verse places "shame" (בּוֹשֶׁת, *boshet*) and "everlasting contempt" in sequence but does not predicate both eternally. Shame describes what the risen wicked experience at judgment. Contempt describes how they are regarded forever by God and his people. The everlasting modifier attaches to the memory, not to the conscious experience.
 
-**Footnote added:** "Heb. דֵּרָאוֹן (*dera'on*): the only other occurrence is Isaiah 66:24, where it describes the revulsion of the living toward exposed corpses, not the experience of the dead themselves. 'Everlasting contempt' most naturally refers to how the wicked are remembered forever rather than to their ongoing conscious state. Compare Isaiah 66:24."
+**Footnote (v0.26):** "Heb. dērāʾôn, 'contempt' or 'abhorrence.' The only other use is Isa 66:24, where it describes how the living feel when they see the corpses of the rebels. In both verses the word describes how others regard the wicked."
 
 #### Matthew 25:46 (Eternal Punishment / Eternal Life)
 
@@ -2471,7 +2475,7 @@ The contrast Jesus draws in this verse is therefore destruction paired against l
 
 **The adjective αἰώνιος:** In both parallel phrases αἰώνιος ("eternal" or "age-long") modifies the noun, not the subject's experience of it. Eternal life means life that lasts forever. Eternal punishment, on the same logic, means punishment whose effects are permanent and irreversible, not necessarily punishment consciously experienced forever. The translation does not settle this question; it should not be made to.
 
-**Footnote added:** "Gk. κόλασις: punishment, penalty; sometimes specifically capital punishment in the Septuagint and Second Temple literature. The parallel with αἰώνιος ζωή ('eternal life') is deliberate: the righteous receive life that lasts forever. The text does not state that the wicked receive existence that lasts forever, only that their punishment is permanent and irreversible."
+**Footnote (v0.26):** "Gk. kolasis, 'punishment.' Jesus pairs eternal punishment with eternal life. The righteous receive life that lasts forever. The punishment of the wicked is also permanent and cannot be reversed. Earlier Jesus calls the end of the wide road 'destruction' (7:13), and He says God can 'destroy both soul and body in Gehenna' (10:28)."
 
 #### Revelation 14:9–11 (Smoke Rising Forever / No Rest Day or Night)
 
@@ -2479,13 +2483,13 @@ The contrast Jesus draws in this verse is therefore destruction paired against l
 
 **AAB rendering:** Preserved, with footnote added.
 
-**The issue:** The identical imagery cluster \-- drinking God's wrath from a cup, torment in fire, smoke rising forever \-- reappears in Revelation 18:9–19:3 applied to Babylon, where the angel's interpretation is not ongoing conscious torment but total destruction: "she will be found no more" (18:21). The symbols converge in both passages. The interpretive key for one illuminates the other, and the text itself supplies the Babylon interpretation.
+**The issue:** The identical imagery cluster, drinking God's wrath from a cup, torment in fire, smoke rising forever, reappears in Revelation 18:9–19:3 applied to Babylon, where the angel's interpretation is not ongoing conscious torment but total destruction: "she will be found no more" (18:21). The symbols converge in both passages. The interpretive key for one illuminates the other, and the text itself supplies the Babylon interpretation.
 
 **The idiom εἰς αἰῶνας αἰώνων:** "Forever and ever" renders a Greek idiom of emphatic finality whose force is completeness and irreversibility. Its presence does not automatically require literal endlessness in every context; it communicates that the judgment is total and cannot be undone.
 
-**The Isaiah 34 background:** The imagery cluster originates in Isaiah 34:9–10, where the same language \-- fire, sulfur, smoke rising forever \-- describes the destruction of Edom: "its smoke will ascend forever... from generation to generation it will lie desolate; no one will ever again pass through it." Edom is a place now ruined, not a population in ongoing conscious torment. "Forever rising smoke" is Isaiah's idiom for permanent, irreversible destruction \-- a monument of ruin. John's first readers, steeped in the prophets, would have heard Isaiah 34 behind Revelation 14 and 18–19 alike.
+**The Isaiah 34 background:** The imagery cluster originates in Isaiah 34:9–10, where the same language, fire, sulfur, smoke rising forever, describes the destruction of Edom: "its smoke will ascend forever... from generation to generation it will lie desolate; no one will ever again pass through it." Edom is a place now ruined, not a population in ongoing conscious torment. "Forever rising smoke" is Isaiah's idiom for permanent, irreversible destruction, a monument of ruin. John's first readers, steeped in the prophets, would have heard Isaiah 34 behind Revelation 14 and 18–19 alike.
 
-**Footnote added:** "The imagery here \-- cup of wrath, fire, rising smoke \-- originates in Isaiah 34:9–10, where the same language describes the permanent destruction of Edom ('no one will ever again pass through it'). It reappears in Revelation 18:9–19:3 applied to Babylon, where the explicit interpretation is destruction and permanent absence: 'she will be found no more' (18:21). The identical phrase 'smoke rises forever and ever' appears in 19:3 as the response to Babylon's fall. Read the Isaiah background and the Babylon parallel before drawing conclusions from this passage in isolation."
+**Footnotes (v0.26):** At Revelation 14:11: "The cup of wrath comes from Psalm 75:8 and Isaiah 51:17, 22, and the fire, sulfur, and smoke that rises forever come from Isaiah 34:9-10 (compare Gen 19:24, 28). In Isaiah they describe Edom after its destruction, a ruin that no one will pass through again. Revelation uses the same images for Babylon (18:8-9; 19:3), and the angel says Babylon will 'never be seen again' (18:21)." A companion note at Isaiah 34:10 points forward to Revelation 14:11 and 19:3, and a note at Revelation 18:2 traces the demons and unclean spirits to Isaiah 13:21-22 and 34:11-14.
 
 #### Revelation 20:10, 14–15 (The Lake of Fire as the Second Death)
 
@@ -2493,13 +2497,33 @@ The contrast Jesus draws in this verse is therefore destruction paired against l
 
 **AAB rendering:** Preserved, with footnote added.
 
-**The issue:** The text itself supplies its interpretive gloss: "This is the second death, the lake of fire" (v.14). Throughout prophetic and apocalyptic literature, when a visionary symbol is identified as something, that identification interprets the symbol \-- it does not merely label it. The seven fat cows are seven years; the tree is the king; the lake of fire is the second death. The question the text presses is therefore not what happens in the vision but what "second death" means.
+**The issue:** The text itself supplies its interpretive gloss: "This is the second death, the lake of fire" (v.14). Throughout prophetic and apocalyptic literature, when a visionary symbol is identified as something, that identification interprets the symbol, it does not merely label it. The seven fat cows are seven years; the tree is the king; the lake of fire is the second death. The question the text presses is therefore not what happens in the vision but what "second death" means.
 
-**Second death in the Targums:** The phrase does not appear in the canonical Old Testament but occurs in the Aramaic Targums, early Jewish translations of the Hebrew scriptures drawing on oral traditions predating the New Testament. In every occurrence it means dying a second time, the literal death of the whole person. This is the conceptual world John's first readers would have brought to the phrase.
+**Second death in the Targums:** The phrase does not appear in the canonical Old Testament. It occurs in the Aramaic Targums, Jewish translations of the Hebrew Bible whose final form is later than the New Testament, though they carry older interpretive tradition. There it means being put to death at the judgment: Targum Onqelos Deut 33:6 ("let Reuben live and not die the second death"), Targum Isa 22:14; 65:6, 15 ("the Lord GOD will slay you with the second death"), and Targum Jer 51:39, 57 ("they shall die the second death, and shall not live for the world to come").
 
-**Death and Hades thrown in:** The passage also casts Death and Hades \-- personified as the fourth horseman and his companion in Revelation 6 \-- into the lake of fire. Their fate is then interpreted by 21:4: "death shall be no more," drawing on Isaiah 25:8 and 1 Corinthians 15:26. If the lake of fire symbolizes the annihilation of Death as a cosmic power, this shapes how we read the fate of everything else the vision throws into it.
+**Death and Hades thrown in:** The passage also casts Death and Hades, personified as the fourth horseman and his companion in Revelation 6, into the lake of fire. Their fate is then interpreted by 21:4: "death shall be no more," drawing on Isaiah 25:8 and 1 Corinthians 15:26. If the lake of fire symbolizes the annihilation of Death as a cosmic power, this shapes how we read the fate of everything else the vision throws into it.
 
-**Footnote added:** "The phrase 'second death' appears in the Aramaic Targums, where it consistently means dying a second time, the death of the whole person. John's identification of the lake of fire as the second death (v.14) follows the interpretive pattern of apocalyptic literature: the vision symbolizes the reality named, not the reverse. Compare the fate of Death and Hades here with 21:4 ('death shall be no more') and Isaiah 25:8. The lake of fire is the symbol; the second death is the interpretation the text itself supplies."
+**Footnotes (v0.26):** At Revelation 20:10: "In Daniel the beasts stand for kings and their kingdoms (Dan 7:17, 23). The beast and the false prophet are figures of the same kind, head and body together as a corporate person, and the beast 'is going into destruction' (17:8, 11; Dan 7:11). Revelation also uses the language of torment for Babylon, a city that will 'never be seen again' (18:7, 21). Verse 14 says what the lake of fire is: the second death." At Revelation 20:14: "This verse says what the lake of fire is: the second death. The same phrase occurs in the Aramaic Targums, Jewish translations of the Hebrew Bible. The Targums are not Scripture, and their final form is later than the New Testament. In them the phrase means being put to death, as in Targum Isaiah 65:15, 'the Lord GOD will slay you with the second death,' and Targum Jeremiah 51:39, 57, 'they shall die the second death, and shall not live for the world to come.' Death and Hades are also thrown into the lake, and afterward 'there will be no more death' (21:4; Isa 25:8; 1 Cor 15:26)." Revelation 21:8 points to the note at 20:14.
+
+#### The Ancient Background
+
+The question of what happens to the wicked after death was asked across the ancient Near East long before the New Testament. The answers differ by culture, and the differences matter for reading Scripture's words in their setting.
+
+**Egypt.** Egyptian funerary texts are the oldest and fullest source. The Coffin Texts (about 2000 BC) and the Book of the Dead (from about 1550 BC) describe a judgment in which the heart of the dead person is weighed against Maat, the order of truth and justice (Book of the Dead, spell 125). A person whose heart fails the test is given to Ammit, "the Devourer," and does not go on to the afterlife. Spell 126 describes the lake of fire. The texts call the fate of the condemned the "second death" (*mt m wḥm*, "dying again"), and they include spells so that the dead will "not die a second time" (Book of the Dead, spells 44, 175, 176; Coffin Texts, spells 45, 106, 754). The New Kingdom books of the underworld, such as the Amduat and the Book of Gates (about 1500 to 1100 BC), show pits and a lake of fire where the enemies of the sun god are destroyed. The Egyptologist Erik Hornung concluded: "The goal of all these punishments is to inflict not suffering itself, but rather complete elimination. The damned are thus frequently designated as 'eliminated' or 'non-being' and 'negated.' They are not, and they should not be: extinguishing their existence is the 'second' or 'repeated death' frequently mentioned with fear in the religious texts" ("Black Holes Viewed from Within: Hell in Ancient Egyptian Thought," *Diogenes* 42 [1994]: 133-156, at 142; see also his *Altägyptische Höllenvorstellungen*, 1968). The punishment scenes are repeated every night in the sun god's journey, but that repetition belongs to the cosmic defeat of chaos. For the individual condemned person the extinction at judgment is final. Moshe Kline has shown that the Torah takes Egypt's repeating nightly cycle and turns it into a once-for-all covenant in history (*How Leviticus Was Built*, table 11; *The Pentateuch and the Egyptian Ceiling*).
+
+**Mesopotamia.** Mesopotamian texts have no place of punishment for the wicked. In the Epic of Gilgamesh, Enkidu dreams of the underworld as "the house of dust," where the dead sit in darkness and eat clay (tablet VII). The same picture appears in the Descent of Ishtar. Everyone goes there, good or bad. What eases a person's lot is burial and the offerings the living make for them, not the verdict of a judgment.
+
+**Ugarit and Canaan.** The Ugaritic texts (about 1400 to 1200 BC) speak of the dead as the *rapiʾūma*, shades who receive offerings from their descendants. Death itself is the god Mot, who swallows the living. There is no realm where the wicked are punished.
+
+**Israel.** The Hebrew Bible places all the dead in Sheol (Gen 37:35; Ps 89:48; Eccl 9:10). Its two images of a fate set apart for the wicked both describe bodies: the corpses outside the city in Isa 66:24, and the "contempt" with which the risen wicked are regarded in Dan 12:2, a word found only in those two verses.
+
+**Persia.** The Gathas, the oldest Zoroastrian hymns, promise the follower of "the Lie" "a long age of darkness, foul food, and cries of woe" (Yasna 31:20) in "the House of the Lie" (Yasna 46:11; 49:11). This is a conscious punishment that lasts a long time. Later Zoroastrian teaching, recorded in the Middle Persian Bundahishn (34.18-32), ends that punishment at the renewal of the world, when molten metal purifies everyone. The date of the Gathas is debated, with estimates from about 1500 to 600 BC; most scholars place them about 1200 to 1000 BC.
+
+**Greece.** In Homer the dead in Hades are shadows, and only three mythic figures are punished without end: Tityos, Tantalus, and Sisyphus (Odyssey 11). Plato is the first to teach unending punishment for ordinary human souls. In the Gorgias (525c) and the myth of Er (Republic 10.615e), the incurably wicked are punished forever as a warning to others.
+
+**The time of the New Testament.** By the first century, Jews held more than one view. Some texts speak of unending torment: Judith 16:17 (about 100 BC) gives the wicked "fire and worms in their flesh" so that "they will weep in pain forever," and 4 Maccabees speaks of "eternal torment" (9:9; 12:12). Others speak of final destruction: the Psalms of Solomon say "the destruction of the sinner is forever, and he shall not be remembered" (3:11-12), and the Qumran Community Rule describes the end of the wicked as destruction "with no remnant" (1QS 4:12-14). The Aramaic Targums use the phrase "second death" for being put to death at the judgment (see Revelation 20:10, 14-15 above).
+
+**What follows for the AAB.** The oldest context for a lake of fire and a second death is Egypt, and there both mean that the condemned person ceases to exist. Moshe Kline argues that the Torah uses Egyptian literary forms to make Israel's own claims, so Egypt is the background the Torah responds to. John takes his images from Israel's prophets: the ruin of Edom (Isa 34), the end of the cherub (Ezek 28:19), and Daniel's beasts (Dan 7). Revelation then names the lake of fire "the second death" (Rev 20:14), the same phrase the Egyptian texts and the Targums use for a person's end. Unending torment for ordinary people appears first in Plato and later in some Jewish texts of the Hellenistic period. The AAB's footnotes trace the images to their sources so that readers can see this history.
 
 ### Nephesh/Psychē Corrections
 
