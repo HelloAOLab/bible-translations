@@ -105,7 +105,7 @@
   <para style="q2">show me grace and hear my prayer.<verse eid="PSA 4:1"/></para>
   <para style="b"/>
   <para style="q1"><verse number="2" style="v" sid="PSA 4:2"/>How long, O men, will my honor be maligned?</para>
-  <para style="q2">How long will you love vanity and seek after lies <note style="f" caller="+"><char style="fr">4:2 </char><char style="ft">Or false gods</char></note>?</para>
+  <para style="q2">How long will you love vanity and seek after lies<note style="f" caller="+"><char style="fr">4:2 </char><char style="ft">Or false gods</char></note>?</para>
   <para style="qr">Selah<verse eid="PSA 4:2"/></para>
   <para style="q1"><verse number="3" style="v" sid="PSA 4:3"/>Know that the LORD has set apart the godly for Himself;</para>
   <para style="q2">the LORD hears when I call to Him.<verse eid="PSA 4:3"/></para>
@@ -647,7 +647,7 @@
   <para style="b"/>
   <para style="q1"><verse number="13" style="v" sid="PSA 18:13"/>The LORD thundered from heaven;</para>
   <para style="q2">the voice of the Most High resounded—</para>
-  <para style="q2">hailstones and coals of fire.<note style="f" caller="+"><char style="fr">18:13 </char><char style="ft">Most Hebrew manuscripts; some Hebrew manuscripts and LXX do not include—hailstones and coals of fire; see 2 Samuel 22:14.</char></note><verse eid="PSA 18:13"/></para>
+  <para style="q2">hailstones and coals of fire.<note style="f" caller="+"><char style="fr">18:13 </char><char style="ft">Most Hebrew manuscripts; some Hebrew manuscripts and LXX do not include hailstones and coals of fire; see 2 Samuel 22:14.</char></note><verse eid="PSA 18:13"/></para>
   <para style="q1"><verse number="14" style="v" sid="PSA 18:14"/>He shot His arrows and scattered the foes;</para>
   <para style="q2">He hurled lightning and routed them.<verse eid="PSA 18:14"/></para>
   <para style="q1"><verse number="15" style="v" sid="PSA 18:15"/>The channels of the sea appeared,</para>
@@ -2419,7 +2419,7 @@
   <para style="b"/>
   <para style="q1"><verse number="6" style="v" sid="PSA 51:6"/>Surely You desire truth in the inmost being;</para>
   <para style="q2">You teach me wisdom in the inmost place.<verse eid="PSA 51:6"/></para>
-  <para style="q1"><verse number="7" style="v" sid="PSA 51:7"/>Purify me with hyssop,<note style="f" caller="+"><char style="fr">51:7 </char><char style="ft">Heb. literally 'un-sin me' (a verb form of chattat, the purification offering) with hyssop, the applicator of the purification rites (Exod 12:22; Lev 14:4-7; Num 19:18). David reaches for purification idiom precisely where no sacrifice avails for bloodguilt (v. 16).</char></note> and I will be clean;</para>
+  <para style="q1"><verse number="7" style="v" sid="PSA 51:7"/>Purify me with hyssop,<note style="f" caller="+"><char style="fr">51:7 </char><char style="ft">Heb. literally ‘un-sin me’ (a verb form of chattat, the purification offering) with hyssop, the applicator of the purification rites (Exod 12:22; Lev 14:4-7; Num 19:18). David reaches for purification idiom precisely where no sacrifice avails for bloodguilt (v. 16).</char></note> and I will be clean;</para>
   <para style="q2">wash me, and I will be whiter than snow.<verse eid="PSA 51:7"/></para>
   <para style="q1"><verse number="8" style="v" sid="PSA 51:8"/>Let me hear joy and gladness;</para>
   <para style="q2">let the bones You have crushed rejoice.<verse eid="PSA 51:8"/></para>
@@ -4341,7 +4341,7 @@
   <para style="q2">Do the departed rise up to praise You?</para>
   <para style="qr">Selah<verse eid="PSA 88:10"/></para>
   <para style="q1"><verse number="11" style="v" sid="PSA 88:11"/>Can Your loving devotion be proclaimed in the grave,</para>
-  <para style="q2">Your faithfulness in Abaddon <note style="f" caller="+"><char style="fr">88:11 </char><char style="ft">Abaddon means Destruction.</char></note>?<verse eid="PSA 88:11"/></para>
+  <para style="q2">Your faithfulness in Abaddon<note style="f" caller="+"><char style="fr">88:11 </char><char style="ft">Abaddon means Destruction.</char></note>?<verse eid="PSA 88:11"/></para>
   <para style="q1"><verse number="12" style="v" sid="PSA 88:12"/>Will Your wonders be known in the darkness,</para>
   <para style="q2">or Your righteousness in the land of oblivion?<verse eid="PSA 88:12"/></para>
   <para style="b"/>
