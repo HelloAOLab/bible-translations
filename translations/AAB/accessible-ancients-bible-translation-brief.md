@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.27 | Awaiting Feedback**
+**Status: Public Draft v0.28 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -546,7 +546,7 @@ The following section addresses how we rendered terms for spiritual beings other
 
 **A note on Genesis 1:26, 3:5, and 3:22:** God's "Let us make man in our image" (1:26) is addressed to the same council, and from v0.20 the AAB prints it lowercase with a note, as it does "let us go down" at Babel (Gen 11:7; cf. Deut 32:8) and "Who will go for us?" in the throne room (Isa 6:8; cf. 1 Kgs 22:19-22); the making itself is God's alone ("So God created man in His own image," 1:27).  The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings," the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular). The AAB renders "like gods" because the context points to the council and Genesis 3:22 confirms it: God Himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
 
-**A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no alternative was entertained until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth) but did not himself commit to it. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen all read Genesis 6 as describing divine beings taking human wives. The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
+**A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no Christian alternative was offered until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth): "in my opinion," he writes, "the descendants of Seth are called the sons of God." Second-century Jewish readers had already read the sons of God as rulers or nobles (Symmachus; Genesis Rabbah 26:5), though none as the line of Seth. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, and Tertullian all read Genesis 6 as describing divine beings taking human wives; Origen was ambivalent (*Against Celsus* 5.55). The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
 
 ### Holy Ones (קְדֹשִׁים / ἅγιοι)
 
@@ -965,6 +965,13 @@ This section clarifies the limits of the project.
 The AAB has not been revised against a dataset of literary structures. Its renderings therefore may not always preserve these structures accurately: a repeated Hebrew or Greek word may be rendered two ways and so lose the link the author built, a chiasm may be obscured by English word order, or a paragraph break may cut across a unit the author meant to hold together. A systematic review of literary structure is planned, and it will lead to revisions in future drafts.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.28 (November 2026\)
+
+- The giant peoples: one name for each people throughout, so the line Scripture traces stays visible (Gen 6:4; Num 13:33; Deut 2:11, 20-21): Rephaim (Gen 14:5; 15:20), Zuzim and Emim (Gen 14:5; Deut 2:10-11), Anakim (Deut 2:10-11, 21), and Zamzummim (Deut 2:20), matching Deut 1:28, 3:11, and Joshua.
+- Notes tracing the giant peoples from Genesis 6 through Canaan: the Gen 6:4 note now explains "and also afterward"; new notes at Gen 10:8; 14:5; 14:7 (an Amalekite people older than Esau's line); 36:24 (the Samaritan Pentateuch's "the Emim"); Exod 17:16; Num 13:33; 24:7; Deut 2:11; Josh 11:22; Ezek 32:27; Amos 2:9; the Deut 3:11 note adds Og's cities in the Ugaritic texts (with "most scholars read," as now also at Ps 22:12), and the 2 Sam 21:16 note ties "Rapha" to the Rephaim.
+- Notes on the sons of God who sinned: 1 Pet 3:19 (the spirits in prison, heavenly beings of Noah's day), 1 Cor 11:10 (a possible echo of Gen 6), and Jude 6.
+- Brief, "A note on Genesis 6": second-century Jewish readings of the sons of God as rulers noted; Julius Africanus quoted committing to the Sethite reading; Origen marked as ambivalent.
 
 ### Public Draft v0.27 (November 2026\)
 
@@ -1833,6 +1840,14 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Isaiah 14:9 | (no footnote) | (fn: Rephaim, the giant people and the dead; main note) |
 | Isaiah 26:14, 19 | (no footnote) | (fns: the wicked dead will not rise; the LORD's dead will live) |
 | Job 26:5; Psalm 88:10; Proverbs 2:18; 9:18; 21:16 | (no footnote) | (fn: Heb. rᵉpāʾîm, the dead; see note on Isa 14:9) |
+
+| Genesis 14:5 | Rephaites... Zuzites... Emites | Rephaim... Zuzim... Emim (fn: the giant peoples of Deut 2:10-11, 20-21; 3:11) |
+| Genesis 15:20 | Rephaites | Rephaim |
+| Deuteronomy 2:10-11, 21 | Emites... Anakites | Emim... Anakim |
+| Deuteronomy 2:20 | Zamzummites | Zamzummim |
+| Genesis 6:4 | (fn) | (fn expanded: "and also afterward" carries the Nephilim past the flood) |
+| Genesis 10:8; 14:7; 36:24; Exodus 17:16; Numbers 13:33; 24:7; Deuteronomy 2:11; Joshua 11:22; Ezekiel 32:27; Amos 2:9; 1 Corinthians 11:10; 1 Peter 3:19; Jude 6 | (no footnote) | (footnotes on the Nephilim, the giant peoples, Amalek, and the sons of God who sinned) |
+| Deuteronomy 3:11; 2 Samuel 21:16; Psalm 22:12 | (fn) | (fn expanded or qualified: Og's cities in the Ugaritic texts, "most scholars read"; ha-rapha and the Rephaim) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 
