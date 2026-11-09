@@ -964,7 +964,7 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 - Romans 5:19: note on *kathistēmi*, "to appoint, to constitute."
 - 1 Samuel 24:4, 5, 11 "corner" to "hem" (*kānāp*), matching 15:27: in both scenes the hem signals the kingdom.
 - Teraphim rendered "household gods" where the text treats them as gods or as means of seeking answers: Gen 31:19, 34, 35; Judg 17:5; 18:17, 18, 20 (matching 18:14); 1 Sam 15:23 ("the iniquity of household gods"); 1 Sam 19:13, 16; Hos 3:4. "Idols" stays at Ezek 21:21 and Zech 10:2.
-- Isaiah 34:4 "All the stars of heaven will be dissolved" to "All the host of heaven will rot away," and "all their stars" to "all their host" (*ṣᵉbāʾ haššāmayim*, as at 24:21). Isaiah 34:11 "a measuring line of chaos and a plumb line of destruction" to "of formlessness… of void" (*tōhû… bōhû*, as in Gen 1:2; Jer 4:23), with a note; the bird note revised. Isaiah 34:10 note adds verse 17.
+- Isaiah 34:4 "All the stars of heaven will be dissolved" to "All the host of heaven will rot away," and "all their stars" to "all their host" (*ṣᵉbāʾ haššāmayim*, as at 24:21). Isaiah 34:11 "a measuring line of chaos and a plumb line of destruction" to "of formlessness… of void" (*tōhû… bōhû*, as in Gen 1:2; Jer 4:23), with a note; the bird note revised. Isaiah 34:10 note adds verse 17. Isaiah 34:4 note: the sun, moon, stars, and heavenly beings are one "host of heaven" (Deut 4:19; 1 Kgs 22:19; Job 38:7; Judg 5:20; Rev 1:20; 12:4).
 
 ### Public Draft v0.26 (November 2026\)
 
