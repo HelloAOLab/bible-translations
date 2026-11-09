@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.26 | Awaiting Feedback**
+**Status: Public Draft v0.28 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -105,7 +105,7 @@ We must also acknowledge a tension. We have said we will do our best to bring fo
 
 For example, we will not change "Jesus" to "Joshua," even though this would be more faithful to what the original audience heard. The name Ἰησοῦς (Iēsous) is the Greek form of the Hebrew יְהוֹשֻׁעַ (Yehoshua), the same name as the Israelite leader who succeeded Moses and led God's people into the promised land. The theological resonance is profound: Jesus (Joshua) is leading God's people into the promised land of God's kingdom, just as the first Joshua led Israel into Canaan. But changing the name would so disorient modern readers that they would struggle to read the text at all.
 
-This is a compromising translation. We push things as far as we think we can without putting off modern audiences so much they will not read it. We foreignize where theological meaning is at stake (firmament, Sheol, purification offering, the Accuser). We domesticate where only familiarity is at stake (Jesus, Jerusalem, Moses). There are cases where a more accurate rendering exists but would be too disorienting to serve this translation's audience \-- "Gehenna" instead of "hell" is one such case, and the rationale entry for that term explains why the AAB retains "hell" while the AVT will not. We flag these decisions where they arise rather than pretending they do not exist.
+This is a compromising translation. We push things as far as we think we can without putting off modern audiences so much they will not read it. We foreignize where theological meaning is at stake (firmament, Sheol, purification offering, the Accuser). We domesticate where only familiarity is at stake (Jesus, Jerusalem, Moses). There are cases where a more accurate rendering exists but would be too disorienting to serve this translation's audience. The rationale entries name those cases. "Gehenna" was once one of them; from v0.17 the AAB renders it by name (see Underworld Terms). We flag these decisions where they arise rather than pretending they do not exist.
 
 For a more uncompromising and therefore more foreignizing work, we are developing the **Ancient Voice Translation (AVT)**. The AVT will use Yahweh instead of LORD, Yeshua instead of Jesus, measured parataxis to preserve Hebrew narrative rhythm, and stricter root consistency (Leitwort fidelity). It will feel stranger. It will also let readers encounter the text with fewer layers of cultural translation between them and the original. The AAB and AVT share the same textual and theological foundation; they serve different readers with different tolerances for strangeness.
 
@@ -290,7 +290,7 @@ Note that ruach and nephesh overlap significantly and are **not** divisible part
 | Concept | Hebrew/Biblical View | Greek/Platonic View | Key Verse (AAB) | Common Mistranslation | AAB Rendering |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **What is ruach?** | Wind, breath, life-force from God; animating power | The "real you" that survives death consciously; rational soul | Eccl 12:7: "the breath returns to God who gave it" | Read as: immortal spirit departs to conscious heavenly existence | "breath" with footnote: describes mortality and dependence on God, **not** conscious afterlife |
-| **Does ruach \= immortal spirit?** | **NO.** Ruach is given by God and returns to God at death; not inherently immortal | Yes. The spirit/soul is indestructible | Psa 146:4: "When his breath departs, he returns to the earth; on that very day his thoughts perish" | "Spirit" imports Greek assumptions of conscious survival | "breath"; note that "his thoughts perish" indicates consciousness ceases |
+| **Does ruach \= immortal spirit?** | **NO.** Ruach is given by God and returns to God at death; not inherently immortal | Yes. The spirit/soul is indestructible | Psa 146:4: "When his breath departs, he returns to the earth; on that very day his plans perish" | "Spirit" imports Greek assumptions | "breath"; the person waits for the resurrection, when all rise to face judgment (Rev 20:12-13) |
 | **Do animals have ruach?** | **YES.** Eccl 3:19 says humans and animals "all have the same ruach" | No. Only humans have immortal spirits | Eccl 3:19: "They all have the same breath" | Hidden or ignored; challenges the entire dualist framework | "breath" (consistent) |
 | **Ruach and nephesh relationship** | Overlapping terms; both can refer to whole person; **not** separable parts | Soul and spirit sometimes distinguished as different faculties | Job 34:14-15: "his spirit and his breath" | Trichotomy (body/soul/spirit as three parts) imposed on texts | Parallelism preserved; 1 Thess 5:23 footnote clarifies totality language |
 
@@ -304,7 +304,7 @@ Several passages describe nephesh or ruach "departing" at death. These are often
 
 **Psalm 31:5** (quoted by Jesus on the cross, Luke 23:46): "Into your hand I commit my life \[ruach\]." Traditional: "I commit my spirit." This is an act of trust, entrusting one's life to God's care. Jesus used these words at his death. This is not a statement about an immortal spirit departing to conscious existence; it is an expression of trust in the face of death.
 
-**Psalm 146:4**: "When his breath \[ruach\] departs, he returns to the earth; on that very day his thoughts perish." This is critical: when the breath leaves, **thoughts cease**. The person's conscious planning and thinking end at death. This directly contradicts the Platonic framework of conscious survival.
+**Psalm 146:4**: "When his breath \[ruach\] departs, he returns to the earth; on that very day his plans perish." The word is *ʿeshtonot*, "plans," found only here, and the psalm sets it against trusting in princes (v. 3): a ruler's plans die with him. The verse is about what a man can accomplish. Scripture shows the dead waiting (Luke 16:22-23; Rev 6:9-11) until all rise to face judgment (John 5:28-29; Rev 20:12-13). From v0.28 the AAB restores the BSB's "plans" in place of "thoughts."
 
 **Isaiah 53:10-12** (the Suffering Servant): "when his life \[nephesh\] is made an offering for guilt... the anguish of his life \[nephesh\]... he poured out his life \[nephesh\] to death." Traditional: "his soul." But the Servant is not offering a separable soul-part; he is giving his whole self, his life, unto death. The translation "life" captures the totality of the Servant's self-giving.
 
@@ -318,7 +318,7 @@ Several passages describe nephesh or ruach "departing" at death. These are often
 | **Is the soul immortal by nature?** | **NO.** Nephesh can die (Ezek 18:4; Num 6:6) | Yes. Psychē is indestructible | "Immortal soul" is Greek, not biblical |
 | **What is spirit/ruach?** | Life-breath from God; animating force | Often conflated with immortal soul | "Spirit" does not mean "the real you without a body" |
 | **Body's status** | Good; integral to personhood; "very good" (Gen 1:31) | Prison/tomb; inferior matter | Biblical hope is resurrection **OF** the body, not **FROM** it |
-| **Death** | The person dies; breath returns to God; thoughts perish | Soul escapes body; liberation | Greek: death is release. Hebrew: death is enemy to be defeated |
+| **Death** | The person dies; the body returns to dust and the breath to God; the person waits for the resurrection and judgment (Rev 20:12-13) | Soul escapes body; liberation | Greek: death is release. Hebrew: death is enemy to be defeated |
 | **Afterlife hope** | **Resurrection**: re-embodied life in new creation | Disembodied immortality | If soul is already immortal and conscious, resurrection becomes redundant |
 
 ### Why This Matters
@@ -546,7 +546,7 @@ The following section addresses how we rendered terms for spiritual beings other
 
 **A note on Genesis 1:26, 3:5, and 3:22:** God's "Let us make man in our image" (1:26) is addressed to the same council, and from v0.20 the AAB prints it lowercase with a note, as it does "let us go down" at Babel (Gen 11:7; cf. Deut 32:8) and "Who will go for us?" in the throne room (Isa 6:8; cf. 1 Kgs 22:19-22); the making itself is God's alone ("So God created man in His own image," 1:27).  The Hebrew כֵּאלֹהִים (*ke'elohim*) in Genesis 3:5 means "like elohim/divine beings," the same word used throughout for members of the assembly of heavenly beings. Most modern translations render it "like God" (singular). The AAB renders "like gods" because the context points to the council and Genesis 3:22 confirms it: God Himself says the man "has become like one of us." The "us" refers to the assembly of heavenly beings present with God, who were present at creation and shouted for joy when God laid the foundations of the earth (Job 38:7). The Trinitarian reading remains a legitimate one; the text does not exclude it. But the Hebrew plural should not be flattened to a singular when the context supports it.
 
-**A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no alternative was entertained until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth) but did not himself commit to it. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, Tertullian, and Origen all read Genesis 6 as describing divine beings taking human wives. The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
+**A note on Genesis 6 and the history of interpretation:** The reading of "sons of God" in Genesis 6 as supernatural beings is unbroken from the earliest recorded interpretation through approximately the second century AD; no Christian alternative was offered until Julius Africanus (c. 221 AD), who proposed the Sethite reading (sons of God as righteous descendants of Seth): "in my opinion," he writes, "the descendants of Seth are called the sons of God." Second-century Jewish readers had already read the sons of God as rulers or nobles (Symmachus; Genesis Rabbah 26:5), though none as the line of Seth. Second Temple sources are unambiguous: the Book of Watchers (1 Enoch 1–36, 3rd–2nd century BC) builds an entire narrative on this reading; Jubilees (2nd century BC), the Book of Giants (found among the Dead Sea Scrolls), Philo (*De Gigantibus*), and Josephus (*Antiquities* 1.3.1) all identify the sons of God as angelic beings. The early church fathers inherited this reading without controversy: Justin Martyr, Irenaeus, Clement of Alexandria, and Tertullian all read Genesis 6 as describing divine beings taking human wives; Origen was ambivalent (*Against Celsus* 5.55). The broader ANE supplies similar traditions of divine beings interbreeding with humans; the Mesopotamian apkallu tradition is the closest conceptual parallel. These accounts are what one would expect if the sons of God reading is correct: if the event occurred, the memory of it would surface across cultures that inherited the same ancient world, distorted by their own religious frameworks but preserving the basic shape of the story. Augustine popularized the Sethite reading in *City of God* (c. 413–426 AD), after which it became the dominant position in the Western church and has remained so through most of Christian history. That consensus is now shifting. The discovery of the Dead Sea Scrolls, along with broader advances in the study of ancient Jewish literature and the world behind the Old Testament, has brought the original supernatural reading back into serious discussion, and it is increasingly recognized as the correct reading, given that it is what the biblical authors themselves held.
 
 ### Holy Ones (קְדֹשִׁים / ἅγιοι)
 
@@ -650,9 +650,11 @@ Where Hebrew שֵׁדִים (*shedim*) appears (Deut 32:17; Psa 106:37), we rend
 
 Heb. אֹחִים (*ohim*), 'keening ones' or 'keening creatures.' Appears only in Isaiah 13:21. The root points to mournful howling. The context places *ohim* alongside a sequence of creatures and spirits none of which is an abstraction; and the ANE material for this desolation formula consistently populates ruins with hostile supernatural beings. The LXX renders it as ἦχος (*echos*, "sound/resonance") rather than a named creature. That reading is the earliest on record, but the surrounding company of beings and Revelation 18:2 both point in the same direction. Revelation reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *ohim* fill those houses as part of that company. The Songs of the Sage (4Q510, late 1st c. BCE) lists "howlers" alongside demons, Lilith, and spirits of the bastards in a single exorcism formula, confirming that Second Temple readers identified this creature class from the desolation texts as a recognized demonic category.
 
-### Sirens / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
+### Ostriches / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
 
-Heb. בְּנוֹת יַעֲנָה (*benot ya'anah*). Most dictionaries and English translations identify it as "daughters of the ostrich" or simply "ostriches." The LXX translators nonetheless rendered it as σειρῆνες (*seirēnes*): supernatural beings with a woman's head and a bird's body whose wailing voices lured the living to their deaths. The bird-form, the lamenting context (Micah 1:8 uses the term as a figure of mournful wailing; Job 30:29 pairs it with תַּנִּים / *tannim* as a figure of desolation), and the surrounding company of supernatural beings all point in the same direction. Revelation 18:2 reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34. Whatever *benot ya'anah* names as a creature, Revelation requires that these ruined cities be populated by hostile spiritual beings. "Sirens" is the right English choice precisely because modern English speakers inherit a Greco-Roman cultural frame: the word already carries what the LXX translators were reaching for: bird-woman form, wailing voice, a deadly supernatural presence.
+Heb. בְּנוֹת יַעֲנָה (*benot ya'anah*), "daughters of the ostrich," that is, ostriches. The ostrich is a desert bird known for its mournful cry (Mic 1:8; Job 30:29), and it is unclean (Lev 11:16). The Septuagint renders the word σειρῆνες (*seirēnes*), "sirens," at Isaiah 13:21, and "daughters of sirens" at Jeremiah 50:39. At Isaiah 34:13 it gives "sirens" to the *tannim* and renders *benot ya'anah* "ostriches." Jerome's Latin (about AD 400) has "sirens" at Isaiah 13:22. 1 Enoch (not Scripture; about 300-200 BC, Judea) says the wives of the angels who went astray would become sirens (19:2). Ancient readers heard a demonic register in these ruins.
+
+From v0.27 the AAB renders "ostriches," as the Hebrew reads, and gives the siren tradition in one shared note at Isaiah 13:21. The demonic company of the ruins is already in the text through the goat demons (*se'irim*), Lilith, and the keening creatures (*ohim*), and Revelation names that company "demons" and "unclean spirits" (Rev 18:2). The note also cites the Sefire treaty curse (about 750 BC, northern Syria), which hands a rebel city over to gazelles, jackals, hares, wild cats, and owls. Where the Brief quotes Sefire, the restored words in the damaged lines stay in square brackets. The AAB rendered "sirens" from v0.20 through v0.26.
 
 Appears at Isaiah 13:21, Isaiah 34:13, and Jeremiah 50:39.
 
@@ -666,11 +668,11 @@ BSB v3 has already adopted "goat demons" at Leviticus 17:7 and 2 Chronicles 11:1
 
 Heb. אִיִּים (*iyyim*), 'howlers.' Appear only in this desolation formula (Isa 13:22; 34:14; Jer 50:39), always alongside צִיִּים (*tsiyyim*, 'desert dwellers'). The root points to mournful howling or wailing. The LXX renders the word as ὀνοκένταυρος (*onokentauros*, "donkey-centaur"): not a wild animal but a being of the human-animal hybrid class: part human, part beast, belonging to neither category fully, and therefore uncanny and dangerous. This is the same broad register as the centaur and the satyr in Greek thought, or the composite guardian figures of Mesopotamian iconography, beings that transgress the boundary between the human and animal worlds. That the Greek translators reached for this category rather than any natural creature shows they read *iyyim* as a supernatural being, not a creature of the field. The demon list in the Songs of the Sage (4Q510, late 1st c. BCE) draws on these same Isaiah desolation passages: after Lilith it names the *ohim* (Isa 13:21) and the *tsiyyim* (4Q510 1 5; cf. the parallel 4Q511 10 2), the constant partners of the *iyyim*. Second Temple readers took this company of desolation creatures as demons. That reading is consistent with the canonical placement of *iyyim* in immediate parallel with *se'irim* (goat demons who received cultic worship, Lev 17:7) and with Lilith in the same verse. Revelation 18:2 reads Babylon's desolation as "a lair for demons and a haunt for every unclean spirit," drawing directly on Isaiah 13 and 34; the *iyyim* fill that company. "Howlers" names what the Hebrew root attests; the LXX's rendering suggests the ancient translators understood them as belonging to the category of composite, boundary-crossing beings.
 
-### Dragons / Tannim (תַּנִּים / תַּנִּין / tannim / tannin)
+### Jackals / Tannim (תַּנִּים / tannim)
 
-Heb. תַּנִּים / תַּנִּין (*tannim* / *tannin*), 'sea-dragon' or 'chaos-creature.' Canonical range runs from chaos-dragon (Ps 74:13; Isa 27:1; Isa 51:9, where *tannin* parallels Rahab) to the devouring sea-beast of creation (Gen 1:21; Job 7:12). Within the same Babylon oracle corpus, Jeremiah 51:34 applies the word directly to Nebuchadnezzar: "he has swallowed me like a dragon." The LXX renders δράκοντες (*drakontes*) throughout; the KJV renders "dragons." Most modern translations default to "jackals," a choice driven by naturalistic assumptions about the vocabulary of desolation rather than by the canonical weight of the term; throughout the Hebrew Bible *tannin* is overwhelmingly a chaos adversary, not a wild dog.
+Heb. תַּנִּים (*tannim*), "jackals," is a different word from תַּנִּין (*tannin*), "sea monster" or "dragon" (Gen 1:21; Ps 74:13; Isa 27:1; 51:9; Jer 51:34). The two look alike and are sometimes confused in Hebrew manuscripts (Lam 4:3; Ezek 29:3). *Tannim* are desert animals. They howl in ruins (Mic 1:8; Job 30:29), nurse their young (Lam 4:3), and pant for air on bare heights (Jer 14:6). The Septuagint renders them "dragons" only occasionally (Jer 9:11; Mic 1:8; Lam 4:3). Among the ruin passages that happens only at Jeremiah 9:11; at Isaiah 13:22 it has "hedgehogs," and at Isaiah 34:13 "sirens."
 
-Appears at Isaiah 13:22, Isaiah 34:13, and multiple other desolation texts.
+From v0.27 the AAB renders *tannim* "jackals" in the ruin passages (Isa 13:22; 34:13; 35:7; Jer 9:11; 10:22; 49:33; 51:37), with the main note at Isaiah 13:22 and pointers from the others. At Psalm 44:19 it keeps "dragons" and marks the reading as a conjecture: the Hebrew reads *tannim*, possibly written for *tannin*. The AAB rendered "dragons" in all of these places from v0.20 through v0.26. That rendering treated *tannim* and *tannin* as one word and overstated the Septuagint's support for "dragons."
 
 ### Lilith (לִילִית / lilit)
 
@@ -766,6 +768,12 @@ The gods of the nations have houses too. Hebrew uses one word, *bet*, for the ho
 
 The same household logic appears in "son of the house" (ben bayit), a member of the household who is not the head's own offspring. Genesis 15:3-4 sets "a son of my house" against an heir from Abram's own body, and the AAB now keeps the phrase.
 
+**The house in life and in death.** A person's place in the house held after death. Scripture counts descendants as present in their ancestor before they are born (Levi "in the loin" of Abraham, Heb 7:9-10), and it speaks of dying as being "gathered to one's people" or going "to one's fathers" (Gen 15:15; 25:8; 49:29-31; Judg 2:10). Israelite family tombs kept generations together, buried with their belongings, bowls, and lamps. God called Abraham to make a new family on earth (Gen 12:1-3; 18:19), so an Israelite knew himself first as a child of Abraham (Isa 51:1-2), and the faithful dead are pictured at "Abraham's side" (Luke 16:22). This was Israel's worldview, and the AAB presents it as such. Scripture also limits it. Birth into the house did not settle a person's end: "not all who are descended from Israel are Israel" (Rom 9:6). Abraham trusted God and showed that trust by obeying Him (Gen 15:6; 26:5), and Abraham's children do the works of Abraham (John 8:39). Those who give their loyalty to another house leave Abraham's. God, the Maker and Father of all, judges each one (Deut 32:6; Mal 2:10). In Christ the faithful are gathered together at His coming, wherever they are buried (1 Thess 4:14-17). The main note is at Genesis 25:8, with pointers at Genesis 15:15 and Judges 2:10. Any note that speaks of the household and the dead keeps this limit in view, so that faith shown in obedience stays decisive.
+
+**The gods of the nations rule under God.** A household in the nations served its own gods, and those gods ruled under the God of Israel. The Most High divided the nations and set them under the sons of God (Deut 32:8; 4:19), He judges those gods for how they rule (Ps 82:1-8), and He is the Father from whom every family in heaven and on earth is named (Eph 3:14-15). The LORD is Israel's Father and Creator (Deut 32:6; Mal 2:10), and the New Testament names the one God, the Father, from whom all things came, and the one Lord, Jesus Christ, through whom all things came (1 Cor 8:6; Col 1:16). The AAB always presents the gods of the nations as ruling under God and answering to Him. Notes at Deuteronomy 4:19 and 1 Corinthians 8:4 carry this.
+
+**Idols, household gods, and the dead.** An idol was made as a dwelling for an unseen being, so that people could honor it, feed it, and ask it for help. *Elohim* names beings of the spirit realm, including the spirits of the dead (1 Sam 28:13), so a house could call on its gods, its dead, or both. The teraphim (*tᵉrāpîm*, "household gods") were figures kept in the home for this purpose, and wherever Scripture shows them in use, people consult them for a word about what to do (Judg 17:5; 18:5; Ezek 21:21; Zech 10:2). Scripture forbids all of it: consulting mediums and the dead, and feeding the dead (Lev 19:31; Deut 18:10-11; 26:14). The LORD is the God of His house's living and its dead (Exod 3:6; Matt 22:32), and He speaks to His house through the prophet He raises up (Deut 18:15). Asking a household god or a dead ancestor went around Him (1 Sam 15:23; Isa 8:19). Paul grants that the beings behind idols are real and names them demons (1 Cor 8:5; 10:20); an idol is "nothing" because none of them is God (1 Cor 8:4). The AAB renders the teraphim by context ("household gods" where they belong to a house or shrine, "idols" at Ezek 21:21 and Zech 10:2), with the main note at Genesis 31:19 and a pointer at every occurrence. It renders Psalm 106:28 "sacrifices offered to the dead" (*zivḥê mētîm*), not "lifeless gods," so that the cult of the dead stays visible.
+
 ### The Exodus as Marriage (Exodus 11:1)
 
 Exodus 11:1 reads כִּי כְּשַׁלְּחוֹ כָּלָה, and the consonants כלה carry both *kalah*, "completely," and *kallah*, "bride." The Masoretic vocalization gives "completely," which most translations follow. The AAB renders "as a bride," on the convergence of three lines of evidence.
@@ -806,7 +814,7 @@ Traditional translations render the formula "pleasing aroma." The Hebrew נִי�
 
 ### Atoning and Non-Atoning Sacrifices: The Levitical Framing
 
-The five offerings of Leviticus 1–7 are differentiated, not interchangeable (Rillera, *Lamb of the Free*, following Milgrom). The ascension offering entreats and attracts the divine presence; the grain offering renders tribute (no blood, no death; its existence alone falsifies any definition of sacrifice that requires a victim's death); the well-being offering constitutes fellowship in a shared meal; only the purification and reparation offerings effect purgation in the technical sense. Which offering a New Testament text evokes determines what theological work the image can do.
+The five offerings of Leviticus 1–7 are differentiated, not interchangeable (Rillera, *Lamb of the Free*, following Milgrom). The ascension offering entreats and attracts the divine presence and effects purgation for the offerer in the general sense of Lev 1:4; the grain offering renders tribute (no blood, no death; its existence alone falsifies any definition of sacrifice that requires a victim's death); the well-being offering constitutes fellowship in a shared meal; the purification and reparation offerings deal with particular sins and impurities. Which offering a New Testament text evokes determines what theological work the image can do.
 
 The system also states its own ceiling: sacrifice covers inadvertent sin and impurity, while the person who sins "with a high hand" (בְּיָד רָמָה, Num 15:30, footnoted) has no sacrifice; defiant covenant-breaking is answered by God Himself, and its remedy is the forgiveness and new heart that God alone provides (Jer 31:31–34; Ezek 36:25–27). This is the gap the new covenant's "forgiveness of sins" language fills; it is covenant-renewal language, not sacrificial-mechanism language.
 
@@ -826,7 +834,7 @@ The New Testament applies the whole repertoire to Jesus, and the AAB's rendering
 | Eph 5:2 | Fragrant offering | Ascension/gift register | Footnote |
 | 1 Pet 2:21–25 (Isa 53) | Servant bearing sin | Burden-bearing (nasa), non-cultic | "bearing iniquity" renderings (Exod 34:7; Num 14:18; Isa 53) |
 
-Through all of it the New Testament's stated relation between Jesus's death and believers is participatory: baptized into his death (Rom 6:3–8), co-crucified (Gal 2:19–20), conformed to his death (Phil 3:10), sharing the cup (1 Cor 10:16). The translation does not adjudicate atonement theology; it restores the Levitical categories the NT authors were actually using, and lets the footnotes carry the traditional alternatives.
+Through all of it the New Testament's stated relation between Jesus's death and believers is participatory: baptized into his death (Rom 6:3–8), co-crucified (Gal 2:19–20), conformed to his death (Phil 3:10), sharing the cup (1 Cor 10:16). The translation restores the Levitical categories the NT authors were actually using and states its reading of them in the footnotes, which also give the traditional alternatives.
 
 **Key sources:** Jacob Milgrom, *Leviticus 1–16*, Anchor Bible (1991); Andrew Remington Rillera, *Lamb of the Free* (Cascade, 2024); Yitzhaq Feder, *Blood Expiation in Hittite and Biblical Ritual* (SBL, 2011); David P. Wright, *The Disposal of Impurity* (Scholars Press, 1987); David M. Moffitt, *Atonement and the Logic of Resurrection in the Epistle to the Hebrews* (Brill, 2011); Jonathan Klawans, *Impurity and Sin in Ancient Judaism* (Oxford, 2000); Michael S. Heiser, *The Unseen Realm* (Lexham, 2015), on the throne seat; J. David Schloen, *The House of the Father as Fact and Symbol* (Eisenbrauns, 2001); Peter Leithart and Everett Fox on the ascension offering.
 
@@ -957,6 +965,37 @@ This section clarifies the limits of the project.
 The AAB has not been revised against a dataset of literary structures. Its renderings therefore may not always preserve these structures accurately: a repeated Hebrew or Greek word may be rendered two ways and so lose the link the author built, a chiasm may be obscured by English word order, or a paragraph break may cut across a unit the author meant to hold together. A systematic review of literary structure is planned, and it will lead to revisions in future drafts.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.28 (November 2026\)
+
+- The dead before the second death: notes at Eccl 12:7, Rev 6:9, 1 Pet 1:9, and Deut 6:5 now state the positive. The dead wait, and all rise to face judgment (John 5:28-29; Rev 20:12-13). Psalm 146:4 "thoughts perish" restored to the BSB's "plans perish" (*ʿeshtonotav*), with a note; the Brief's anthropology section corrected to match.
+- Ascension offering: the Gen 22:2 note and the Brief now say it effects purgation (Lev 1:4), while the purification and reparation offerings deal with particular sins.
+- Lev 16:21 note: the live goat is presented alive before the LORD and sent away, and both goats belong to the one purification offering (v. 5). Lev 1:4 note: blood is applied "to the altar and the sanctuary."
+- Heb 2:14 and Matt 6:13 notes: Satan holds the power of death only as far as God allows and through the fear of death (Heb 2:15); those who stay in his house share his end in the lake of fire.
+- Psalm 82:8 "are Your inheritance" to "will be Your inheritance" (*tinḥal*), with a note.
+- New notes at Jude 7 (the fire destroyed the cities, 2 Pet 2:6), Heb 6:4 ("ultimately" is not in the Greek; the Father keeps His own; faith alone saves, and saving faith does good works; the thief on the cross), and Eph 3:15 (*patria*). Ps 110:3 note rewritten for readers; Ps 22:12 note now leans on Deut 2:10-11, 20-21; Deut 32:43 note's last sentence clarified.
+- Hebrews 9:10 "regeneration" to "setting all things right" (*diorthōsis*); 12:15 "falls away from" to "falls short of" (*hysterōn*); 9:7 "unintentional sins … in ignorance" to "sins … in ignorance" (*agnoēmata*).
+- Brief: "does not adjudicate atonement theology" now says the notes state the AAB's reading.
+- Genesis 46:27 "with the two sons" to "counting Joseph's descendants born in Egypt, nine persons" (LXX *psychai ennea*), so the verse keeps one reading with its total of seventy-five (Acts 7:14). Notes name the Greek additions at 46:20 (Machir, Gilead, Shuthelah, Tahan, Edem) and correct the Dead Sea Scrolls claim to Exod 1:5. New note at Deut 10:22.
+- Closing quotation marks added at the end of divine speeches: Jer 5:31; 16:21; Isa 41:29; 47:15; Joel 2:27.
+- Mechanical fixes: Isa 57:3 duplicate verse marker removed and Isa 57:13 closing marker added; Eccl 3:21 note labels; 27 stray spaces before footnote markers; em dashes after labels in textual notes; straight quotes in 28 notes made curly. Brief: the "retains hell" sentence, the *apollymi* "no exceptions" claim, and "three times in Mark 9" corrected. Deut 2:11 note: "among the Rephaim."
+- The giant peoples: one name for each people throughout, so the line Scripture traces stays visible (Gen 6:4; Num 13:33; Deut 2:11, 20-21): Rephaim (Gen 14:5; 15:20), Zuzim and Emim (Gen 14:5; Deut 2:10-11), Anakim (Deut 2:10-11, 21), and Zamzummim (Deut 2:20), matching Deut 1:28, 3:11, and Joshua.
+- Notes tracing the giant peoples from Genesis 6 through Canaan: the Gen 6:4 note now explains "and also afterward"; new notes at Gen 10:8; 14:5; 14:7 (an Amalekite people older than Esau's line); 36:24 (the Samaritan Pentateuch's "the Emim"); Exod 17:16; Num 13:33; 24:7; Deut 2:11; Josh 11:22; Ezek 32:27; Amos 2:9; the Deut 3:11 note adds Og's cities in the Ugaritic texts (with "most scholars read," as now also at Ps 22:12), and the 2 Sam 21:16 note ties "Rapha" to the Rephaim.
+- Notes on the sons of God who sinned: 1 Pet 3:19 (the spirits in prison, heavenly beings of Noah's day), 1 Cor 11:10 (a possible echo of Gen 6), and Jude 6.
+- Brief, "A note on Genesis 6": second-century Jewish readings of the sons of God as rulers noted; Julius Africanus quoted committing to the Sethite reading; Origen marked as ambivalent.
+
+### Public Draft v0.27 (November 2026\)
+
+- Romans 7:4 and 2 Corinthians 11:2 notes no longer cite 1 Cor 6:16 for sin joining a person to Satan; they cite John 8:44 and Rom 6:16.
+- Romans 5:19: note on *kathistēmi*, "to appoint, to constitute."
+- 1 Samuel 24:4, 5, 11 "corner" to "hem" (*kānāp*), matching 15:27: in both scenes the hem signals the kingdom.
+- Teraphim rendered "household gods" where the text treats them as gods or as means of seeking answers: Gen 31:19, 34, 35; Judg 17:5; 18:17, 18, 20 (matching 18:14); 1 Sam 15:23 ("stubbornness is like the iniquity of household gods"; "arrogance" changed to "stubbornness" for Heb. *hafṣar*, pressing or insisting, as in Gen 19:3; 33:11); 1 Sam 19:13, 16; Hos 3:4. "Idols" stays at Ezek 21:21 and Zech 10:2.
+- Rephaim as the dead: main note at Isaiah 14:9 (the word names both the giant people and the dead in Sheol; the dead kings of 14:9 are weak and will not rise). Isaiah 26:14 note: the dead "other lords" will not rise, while in the same chapter the LORD's dead will live (26:19), the permanent death of the wicked set against the everlasting life of the righteous (Dan 12:2; John 5:28-29; Rev 20:14-15). Isaiah 26:19 note on *tappîl*. Pointers at Job 26:5; Ps 88:10; Prov 2:18; 9:18; 21:16. 2 Samuel 5:18 note: the Valley of Rephaim, "the valley of the Titans" in the Greek.
+- Ruin passages, Option 1: *tannim* "dragons" to "jackals" (Isa 13:22; 34:13; 35:7; Jer 9:11; 10:22; 49:33; 51:37) and *benot ya'anah* "sirens" to "ostriches" (Isa 13:21; 34:13; Jer 50:39). The main *tannim* note at Isa 13:22 is rewritten: *tannim* and *tannin* are different words, and the Septuagint has "dragons" only occasionally. A shared note at Isa 13:21 gives the siren tradition (Septuagint, Jerome, 1 Enoch 19:2, Rev 18:2, the Sefire curse). Isa 34:13 and Jer 50:39 notes cut to pointers. Psalm 44:19 keeps "dragons," with a note marking it as a conjecture. The Brief's definitions, rationales, change table, and comparison table are corrected.
+- Household, the dead, and the gods: the core logic is now set out in the Brief under "The Family as One." New notes at Genesis 25:8 (identity in the father's house in life and death, limited by faith shown in obedience, Rom 9:6; John 8:39) and Genesis 31:19 (teraphim as household gods: idols as dwellings for unseen beings, the household's gods and its dead, the gods of the nations ruling under God the Father, and why consulting them is forbidden). Pointers at Genesis 15:15; Judges 2:10; 17:5; 1 Samuel 15:23; 19:13; 2 Kings 23:24; Ezekiel 21:21; Hosea 3:4; Zechariah 10:2.
+- Psalm 106:28 "sacrifices offered to lifeless gods" to "sacrifices offered to the dead" (*zivḥê mētîm*), with a note (Deut 26:14).
+- Deuteronomy 4:19: note that the host of heaven rules the nations under God and answers to Him (32:8-9; Ps 82). 1 Corinthians 8:4: note that the beings behind idols are real (8:5; 10:20) and that an idol is nothing because none of them is God (8:6; Col 1:16).
+- Isaiah 34:4 "All the stars of heaven will be dissolved" to "All the host of heaven will rot away," and "all their stars" to "all their host" (*ṣᵉbāʾ haššāmayim*, as at 24:21). Isaiah 34:11 "a measuring line of chaos and a plumb line of destruction" to "of formlessness… of void" (*tōhû… bōhû*, as in Gen 1:2; Jer 4:23), with a note; the bird note revised. Isaiah 34:10 note adds verse 17. Isaiah 34:4 note: the sun, moon, stars, and heavenly beings are one "host of heaven" (Deut 4:19; 1 Kgs 22:19; Job 38:7; Judg 5:20; Rev 1:20; 12:4).
 
 ### Public Draft v0.26 (November 2026\)
 
@@ -1381,7 +1420,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Psalm 139:8 | Sheol/grave | Sheol |
 | Psalm 141:7 | Sheol/grave | Sheol |
 | Psalm 145:10 | saints | holy ones |
-| Psalm 146:4 | when his spirit departs... his plans perish | when his breath (fn: Heb. ruach) departs... his thoughts perish |
+| Psalm 146:4 | when his spirit departs... his plans perish | when his breath (fn: Heb. ruach) departs... his plans perish (fn: Heb. ʿeshtonotav) |
 | Psalm 148:14 | saints | holy ones |
 | Psalm 150:1 | heavens | firmament |
 | Proverbs 1:12 | Sheol/grave | Sheol |
@@ -1401,15 +1440,15 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Ecclesiastes 3:19 | they all have the same breath | they all have the same breath (fn: Heb. ruach) |
 | Ecclesiastes 3:21 | the spirit of man... the spirit of the beast | the breath (fn: Heb. ruach) of man... the breath (fn: Heb. ruach) of the beast |
 | Ecclesiastes 12:7 | the spirit returns to God | the breath (fn: Heb. ruach) returns to God (fn: reversal of Gen 2:7; mortality, not conscious afterlife) |
-| Isaiah 13:21 | ostriches / wild goats / howling creatures | Sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / keening creatures (fn: Heb. אֹחִים, ohim) |
-| Isaiah 13:22 | hyenas / jackals | Howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin) |
+| Isaiah 13:21 | ostriches / wild goats / howling creatures | Ostriches (fn: Heb. benot ya'anah; LXX σειρῆνες, 'sirens'; shared note) / goat demons (fn: Heb. שְׂעִירִים, se'irim; LXX δαιμόνια) / keening creatures (fn: Heb. אֹחִים, ohim) |
+| Isaiah 13:22 | hyenas / jackals | Howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / jackals (fn: Heb. tannim; main note) |
 | Isaiah 14:9 | the spirits of the dead | the Rephaim |
 | Isaiah 14:12 | Day Star/Lucifer | morning star, son of the dawn (fn: Heb. הֵילֵל בֶּן־שָׁחַר, helel ben shachar; Shachar attested as dawn deity in Ugaritic texts) |
 | Isaiah 26:14 | the departed spirits | the Rephaim |
 | Isaiah 26:19 | her dead | the Rephaim |
-| Isaiah 34:13 | jackals / ostriches | dragons (fn: Heb. תַּנִּים/תַּנִּין, tannim/tannin) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah; LXX σειρῆνες) |
+| Isaiah 34:13 | jackals / ostriches | jackals / ostriches (fns: Heb. tannim, benot ya'anah; see notes on 13:21-22) |
 | Isaiah 34:14 | hyenas / goat / night creature | howlers (fn: Heb. אִיִּים, iyyim; LXX ὀνοκένταυρος) / goat demons (fn: Heb. שְׂעִירִים, se'irim; Targums 'demons') / Lilith (fn: Heb. לִילִית, lilit; BDB 'female night-demon; borrowed from Babylonian tradition') |
-| Jeremiah 50:39 | hyenas / ostriches / "it will never" / "lived in" | howlers (fn: Heb. אִיִּים, iyyim) / sirens (fn: Heb. בְּנוֹת יַעֲנָה, benot ya'anah) / "she will never" / "settled" |
+| Jeremiah 50:39 | hyenas / ostriches / "it will never" / "lived in" | howlers (fn: Heb. אִיִּים, iyyim) / ostriches (fn: Heb. benot ya'anah; LXX 'daughters of sirens') / "she will never" / "settled" |
 | Isaiah 53:10 | his soul is made a guilt offering | his life (fn: Heb. nephesh) is made a reparation offering |
 | Isaiah 53:11 | the anguish of his soul | the anguish of his life (fn: Heb. nephesh) |
 | Isaiah 57:3 | (standard reading) | (no change) (fn: This oracle contains pervasive Hebrew wordplay with double meanings. The surface reading addresses idolatry and sexual immorality, but many terms simultaneously evoke necromancy and the cult of the dead) |
@@ -1626,7 +1665,8 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Numbers 31:50 | to effect purgation for ourselves | to make ransom for our lives (fn: Exod 30:15-16) |
 | Judges 19:24 | such a vile thing | such an outrage |
 | Micah 7:18 | pardons iniquity | bears iniquity (fn: nose' avon, Exod 34:7; v. 19) |
-| Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37; Psalm 44:19 | jackals (fn: Or serpents or dragons) | dragons (fn: Heb. tannim; see note on Isa 13:22) |
+| Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37 | jackals (fn: Or serpents or dragons) | jackals (fn: Heb. tannim; see note on Isa 13:22) |
+| Psalm 44:19 | jackals (fn: Or serpents or dragons) | dragons (fn: Heb. tannim, possibly for tannin, 'sea monster'; a conjecture) |
 | Genesis 6:4; Ecclesiastes 2:8; Matthew 10:28; Romans 3:25 | (notes resting on later interpreters, or unclear) | (notes rewritten on Scripture and for a new reader) |
 | Leviticus 10:17 | to take away the guilt | to bear the iniquity |
 | Genesis 18:3, 10 | my lord... your sight; behind him | My Lord... Your sight; behind Him |
@@ -1731,7 +1771,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Amos 4:3 | (fn: possibly Mount Hermon) | (fn: haharmonah a hapax; Greek "mountain Romman"; "Hermon" a conjecture with no Hebrew manuscript support) |
 | Psalm 88:10 | for the the Rephaim | for the Rephaim |
 | **Lexical and Footnotes (v0.14)** |  |  |
-| Genesis 22:2 | (no footnote) | (fn: olah, "that which ascends"; purpose is the soothing aroma drawing God near, Lev 1:9; law at Lev 1:3-9; not the offering that deals with sin, Lev 4:20; 5:16; one hand marks ownership against the two-handed transfer, Lev 1:4; 16:21; a test, v. 1, of what the Torah forbids, Lev 18:21; Deut 12:31; Moriah, 2 Chr 3:1; Rom 8:32) |
+| Genesis 22:2 | (no footnote) | (fn: olah, "that which ascends"; purpose is the soothing aroma drawing God near, Lev 1:9; law at Lev 1:3-9; effects purgation, Lev 1:4, while the purification and reparation offerings deal with particular sins, Lev 4:20; 5:16; one hand marks ownership against the two-handed transfer, Lev 1:4; 16:21; a test, v. 1, of what the Torah forbids, Lev 18:21; Deut 12:31; Moriah, 2 Chr 3:1; Rom 8:32) |
 | Genesis 22:13 | (textual note only) | (added fn: the ram takes Isaac's place in the same offering) |
 | Genesis 24:64 | she got down from her camel | she quickly got down from her camel (fn: Heb. naphal, not the ordinary yarad; cf. Gen 17:3; 1 Sam 25:23) |
 | **Lexical (v0.13)** |  |  |
@@ -1790,6 +1830,41 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Mark 8:36 | forfeit his soul | forfeit his life |
 | Mark 8:37 | in exchange for his soul | in exchange for his life |
 | 1 Thessalonians 5:23 | (no footnote) | (footnote on totality language added) |
+| Genesis 15:15 | (no footnote) | (fn: "go to your fathers"; see note on 25:8) |
+| Genesis 25:8 | (no footnote) | (fn: "gathered to his people": identity in the father's house in life and death, limited by faith shown in obedience) |
+| Genesis 31:19, 34, 35 | household idols | household gods (fn at 31:19: Heb. tᵉrāpîm) |
+| Deuteronomy 4:19 | (no footnote) | (fn: the host of heaven rules the nations under God, 32:8; Ps 82) |
+| Judges 2:10 | (no footnote) | (fn: see note on Gen 25:8) |
+| Judges 17:5; 18:17, 18, 20 | household idols | household gods (fn at 17:5: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| 1 Samuel 15:23 | arrogance is like the wickedness of idolatry | stubbornness is like the iniquity of household gods (fn: Heb. tᵉrāpîm) |
+| 1 Samuel 19:13, 16 | household idol | household god |
+| 1 Samuel 24:4, 5, 11 | corner | hem |
+| 2 Kings 23:24 | (no footnote) | (fn: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| Psalm 106:28 | sacrifices offered to lifeless gods | sacrifices offered to the dead (fn: Heb. zivḥê mētîm) |
+| Isaiah 34:4 | All the stars of heaven will be dissolved / all their stars | All the host of heaven will rot away / all their host (fn: host of heaven) |
+| Isaiah 34:11 | a measuring line of chaos and a plumb line of destruction | a measuring line of formlessness and a plumb line of void (fn: tōhû … bōhû) |
+| Ezekiel 21:21 | (no footnote) | (fn: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| Hosea 3:4 | idol | household gods (fn: Heb. tᵉrāpîm) |
+| Zechariah 10:2 | (no footnote) | (fn: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| 1 Corinthians 8:4 | (no footnote) | (fn: the beings behind idols are real, 8:5; 10:20; an idol is nothing because none of them is God) |
+| 2 Samuel 5:18 | (no footnote) | (fn: Valley of Rephaim; Greek 'valley of the Titans') |
+| Isaiah 14:9 | (no footnote) | (fn: Rephaim, the giant people and the dead; main note) |
+| Isaiah 26:14, 19 | (no footnote) | (fns: the wicked dead will not rise; the LORD's dead will live) |
+| Job 26:5; Psalm 88:10; Proverbs 2:18; 9:18; 21:16 | (no footnote) | (fn: Heb. rᵉpāʾîm, the dead; see note on Isa 14:9) |
+| Genesis 14:5 | Rephaites... Zuzites... Emites | Rephaim... Zuzim... Emim (fn: the giant peoples of Deut 2:10-11, 20-21; 3:11) |
+| Genesis 15:20 | Rephaites | Rephaim |
+| Deuteronomy 2:10-11, 21 | Emites... Anakites | Emim... Anakim |
+| Deuteronomy 2:20 | Zamzummites | Zamzummim |
+| Genesis 6:4 | (fn) | (fn expanded: "and also afterward" carries the Nephilim past the flood) |
+| Genesis 10:8; 14:7; 36:24; Exodus 17:16; Numbers 13:33; 24:7; Deuteronomy 2:11; Joshua 11:22; Ezekiel 32:27; Amos 2:9; 1 Corinthians 11:10; 1 Peter 3:19; Jude 6 | (no footnote) | (footnotes on the Nephilim, the giant peoples, Amalek, and the sons of God who sinned) |
+| Deuteronomy 3:11; 2 Samuel 21:16; Psalm 22:12 | (fn) | (fn expanded or qualified: Og's cities in the Ugaritic texts, "most scholars read"; ha-rapha and the Rephaim) |
+| Genesis 46:27 | the two sons | Joseph's descendants born in Egypt, nine persons (fns: LXX psychai ennea; Greek of 46:20; Acts 7:14) |
+| Psalm 82:8 | all the nations are Your inheritance | all the nations will be Your inheritance (fn: Heb. tinḥal) |
+| Hebrews 9:10 | the time of reformation | the time of setting all things right (AAB earlier: regeneration) |
+| Hebrews 12:15 | falls short of | falls short of (AAB earlier: falls away from) |
+| Hebrews 9:7 | sins the people had committed in ignorance | sins the people had committed in ignorance (AAB earlier: unintentional sins … in ignorance) |
+| Hebrews 6:4; Jude 7; Ephesians 3:15 | (no footnote) | (fns: "ultimately" not in the Greek; the fire as example; patria) |
+| Ecclesiastes 12:7; Revelation 6:9; 1 Peter 1:9; Deuteronomy 6:5; Psalm 110:3; Genesis 22:2; Leviticus 1:4; 16:21; Hebrews 2:14; Matthew 6:13 | (fn) | (fn revised) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 
@@ -2087,15 +2162,15 @@ Isaiah 13:21
 
 **Rationale:** The ANE desolation formula populates ruins with hostile supernatural beings. The LXX renders ἦχος ('sound/resonance'); but the surrounding company of beings and Revelation 18:2 confirm this is a demonic creature class. See full discussion in the Spiritual Beings section above.
 
-#### Sirens / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
+#### Ostriches / Daughters of the Ostrich (בְּנוֹת יַעֲנָה / benot ya'anah)
 
-**BSB rendering:** "ostriches" / "daughters of an ostrich" → **AAB rendering:** "sirens"
+**BSB rendering:** "ostriches" → **AAB rendering:** "ostriches" (from v0.27; "sirens" in v0.20 through v0.26)
 
 **3 verses:**
 
 Isaiah 13:21, Isaiah 34:13, Jeremiah 50:39
 
-**Rationale:** The LXX renders σειρῆνες (seirēnes): supernatural bird-women. Revelation 18:2 requires hostile spiritual beings in these ruins. "Sirens" carries the LXX's meaning into English: bird-woman form, wailing voice, deadly supernatural presence. See full discussion in the Spiritual Beings section above.
+**Rationale:** The Hebrew names a desert bird, and the AAB renders what the Hebrew says. The Septuagint's "sirens" (Isa 13:21; Jer 50:39) and 1 Enoch 19:2 show that ancient readers heard a demonic register here, and the shared note at Isaiah 13:21 gives that tradition. The demonic company of the ruins stays in the text through the goat demons, Lilith, and the keening creatures, which Revelation 18:2 calls demons and unclean spirits. See full discussion in the Spiritual Beings section above.
 
 #### Goat-Demons (שְׂעִירִים / se'irim)
 
@@ -2119,15 +2194,15 @@ Isaiah 13:22, Isaiah 34:14, Jeremiah 50:39
 
 **Rationale:** The LXX renders ὀνοκένταυρος ('donkey-centaur'), a composite human-animal hybrid being — not a natural animal. "Howlers" names what the Hebrew root attests. See full discussion in the Spiritual Beings section above.
 
-#### Dragons / Tannim (תַּנִּים / תַּנִּין / tannim / tannin)
+#### Jackals / Tannim (תַּנִּים / tannim)
 
-**BSB rendering:** "jackals" → **AAB rendering:** "dragons"
+**BSB rendering:** "jackals" → **AAB rendering:** "jackals" (from v0.27; "dragons" in v0.20 through v0.26)
 
-**8 verses (desolation texts):**
+**7 verses (ruin passages):**
 
-Isaiah 13:22, Isaiah 34:13 (full notes); Isaiah 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37; Psalm 44:19 (from v0.20, with pointers to Isa 13:22). Where *tannim* describes an animal's behavior (howling, Mic 1:8; Job 30:29; nursing young, Lam 4:3; honoring God, Isa 43:20) or where the form differs (*tannot*, Mal 1:3), the older rendering stands.
+Isaiah 13:22 (main note); Isaiah 34:13; 35:7; Jeremiah 9:11; 10:22; 49:33; 51:37 (pointers to Isa 13:22). Psalm 44:19 keeps "dragons," with a note marking it as a conjecture (*tannim*, possibly for *tannin*).
 
-**Rationale:** Throughout the Hebrew Bible *tannin* is overwhelmingly a chaos adversary (Ps 74:13; Isa 27:1; 51:9; Jer 51:34), not a wild dog. The LXX often renders δράκοντες (Jer 9:11; Mic 1:8); the KJV renders 'dragons.' Most modern translations default to 'jackals,' driven by naturalistic assumptions. See full discussion in the Spiritual Beings section above.
+**Rationale:** *Tannim* ("jackals") and *tannin* ("sea monster, dragon") are different words. The Septuagint renders *tannim* "dragons" only occasionally (Jer 9:11; Mic 1:8; Lam 4:3); in the ruin passages it has "hedgehogs" (Isa 13:22) and "sirens" (Isa 34:13) as often as "dragons." See full discussion in the Spiritual Beings section above.
 
 #### Lilith (לִילִית)
 
@@ -2435,7 +2510,7 @@ The AAB keeps the familiar renderings in these passages. The footnotes show what
 
 **AAB rendering:** Preserved.
 
-**The issue:** The Greek verb is ἀπόλλυμι (*apollymi*): to destroy, kill, or be lost. It is not a torment word. The word has a consistent meaning across the entire NT with no exceptions. Herod seeks to apollymi the child (Matthew 2:13), he means kill him. The lost sheep, lost coin, and lost son in Luke 15 are all apollymi: the opposite of being lost is being found, not escape from ongoing suffering. The word never describes conscious torment anywhere in scripture.
+**The issue:** The Greek verb is ἀπόλλυμι (*apollymi*): to destroy, kill, or be lost. It is not a torment word. The word has a consistent core meaning across the NT: to destroy, or to lose or be lost. Herod seeks to apollymi the child (Matthew 2:13), he means kill him. The lost sheep, lost coin, and lost son in Luke 15 are all apollymi: the opposite of being lost is being found, not escape from ongoing suffering. The word never describes conscious torment anywhere in scripture.
 
 The contrast Jesus draws in this verse is therefore destruction paired against life, not torment paired against life. Popular reading has so thoroughly shaped the assumed meaning of "perish" that most readers do not notice what the text actually says. This is not a translation problem, the rendering "perish" is accurate, but the word's consistent meaning across scripture deserves to be made visible.
 
@@ -2449,7 +2524,7 @@ The contrast Jesus draws in this verse is therefore destruction paired against l
 
 **The issue:** Two distinct translation pressures cluster around this imagery. First, ἄσβεστος ("unquenchable") does not mean "never dies out." It means "cannot be extinguished from outside." The fire burns until its work is complete; the word says nothing about duration. Second, the verb κατακαίω in Matthew 3:12 and cognate passages means "burn up" or "reduce to ashes," a consummative destruction, not ongoing burning. The combination of ἄσβεστος and κατακαίω in the Baptist's preaching describes fire that cannot be stopped until it has fully consumed its object.
 
-**The Isaiah background:** Jesus quotes Isaiah 66:24 three times in Mark 9 without adding interpretive commentary. The Isaiah passage describes corpses (Hebrew פְּגָרִים, *pěgarim*: carcasses, dead bodies) exposed to maggots and fire. The worm does not die and the fire is not quenched because nothing will prevent these bodies from being fully devoured. This is a statement about the completeness and unstoppability of judgment, not about the conscious ongoing experience of the dead.
+**The Isaiah background:** Jesus quotes Isaiah 66:24 in Mark 9:48 without adding interpretive commentary (later manuscripts repeat the line at vv. 44 and 46). The Isaiah passage describes corpses (Hebrew פְּגָרִים, *pěgarim*: carcasses, dead bodies) exposed to maggots and fire. The worm does not die and the fire is not quenched because nothing will prevent these bodies from being fully devoured. This is a statement about the completeness and unstoppability of judgment, not about the conscious ongoing experience of the dead.
 
 **Footnotes (v0.26):** At Isaiah 66:24: "Heb. pᵉgārîm, 'corpses.' The people who go out of the city are looking at dead bodies. Worms and fire consume them, and nothing stops either one until the bodies are gone. Ezekiel 20:47-48 uses the same words, 'not quenched,' for a fire that burns until it has finished. The word translated 'horror' (dērāʾôn) occurs only here and in Dan 12:2." At Mark 9:48: "Isaiah 66:24. In Isaiah the worm and the fire consume the corpses of the rebels outside Jerusalem. A fire that is 'not quenched' is one no one can put out before it has burned everything (Ezek 20:47-48; compare Matt 3:12). See note on Isa 66:24."
 
@@ -2843,9 +2918,9 @@ Most readers will not be familiar with the Berean Standard Bible (BSB) that serv
 | עֲזָאזֵל (Azazel) | Azazel | Azazel | Azazel ✓ | scapegoat | NIV translates name away |
 | לִילִית (Lilith) | Lilith | Lilith | night bird | night creatures | ESV/NIV translate name away |
 | שְׂעִירִים (se'irim, Isa 13:21; 34:14) | goat-like demons | goat demons | wild goats | wild goats | ESV/NIV naturalize; LXX renders δαιμόνια |
-| בְּנוֹת יַעֲנָה (benot ya'anah) | supernatural bird-women | sirens | owls / ostriches | owls / ostriches | LXX renders σειρῆνες; ESV/NIV naturalize |
+| בְּנוֹת יַעֲנָה (benot ya'anah) | ostriches | ostriches (fn: LXX 'sirens') | owls / ostriches | owls / ostriches | LXX 'sirens' at Isa 13:21 and Jer 50:39; AAB gives the tradition in a note |
 | אִיִּים (iyyim, desolation formula) | composite beings | howlers | hyenas | hyenas | LXX renders ὀνοκένταυρος (donkey-centaur); ESV/NIV naturalize |
-| תַּנִּים / תַּנִּין (tannim/tannin) | chaos-creature | dragons | jackals | jackals | LXX often renders δράκοντες; ESV/NIV naturalize against canonical weight |
+| תַּנִּים (tannim) | jackals | jackals (Ps 44:19 'dragons,' a conjecture) | jackals | jackals | distinct from תַּנִּין (tannin), 'sea monster'; LXX 'dragons' only occasionally |
 | אֹחִים (ohim, Isa 13:21) | mournful beings | keening creatures | owls | owls | LXX renders ἦχος |
 | Rom 3:25 ἱλαστήριον | place of atonement | place of purgation | propitiation | sacrifice of atonement | AAB preserves LXX typological connection |
 | Heb 6:4 ἀδύνατον | impossible | ultimately impossible | impossible | impossible | AAB qualifier signals ontological register |
