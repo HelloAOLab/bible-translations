@@ -766,6 +766,12 @@ The gods of the nations have houses too. Hebrew uses one word, *bet*, for the ho
 
 The same household logic appears in "son of the house" (ben bayit), a member of the household who is not the head's own offspring. Genesis 15:3-4 sets "a son of my house" against an heir from Abram's own body, and the AAB now keeps the phrase.
 
+**The house in life and in death.** A person's place in the house held after death. Scripture counts descendants as present in their ancestor before they are born (Levi "in the loin" of Abraham, Heb 7:9-10), and it speaks of dying as being "gathered to one's people" or going "to one's fathers" (Gen 15:15; 25:8; 49:29-31; Judg 2:10). Israelite family tombs kept generations together, buried with their belongings, bowls, and lamps. God called Abraham to make a new family on earth (Gen 12:1-3; 18:19), so an Israelite knew himself first as a child of Abraham (Isa 51:1-2), and the faithful dead are pictured at "Abraham's side" (Luke 16:22). This was Israel's worldview, and the AAB presents it as such. Scripture also limits it. Birth into the house did not settle a person's end: "not all who are descended from Israel are Israel" (Rom 9:6). Abraham trusted God and showed that trust by obeying Him (Gen 15:6; 26:5), and Abraham's children do the works of Abraham (John 8:39). Those who give their loyalty to another house leave Abraham's. God, the Maker and Father of all, judges each one (Deut 32:6; Mal 2:10). In Christ the faithful are gathered together at His coming, wherever they are buried (1 Thess 4:14-17). The main note is at Genesis 25:8, with pointers at Genesis 15:15 and Judges 2:10. Any note that speaks of the household and the dead keeps this limit in view, so that faith shown in obedience stays decisive.
+
+**The gods of the nations rule under God.** A household in the nations served its own gods, and those gods ruled under the God of Israel. The Most High divided the nations and set them under the sons of God (Deut 32:8; 4:19), He judges those gods for how they rule (Ps 82:1-8), and He is the Father from whom every family in heaven and on earth is named (Eph 3:14-15). The LORD is Israel's Father and Creator (Deut 32:6; Mal 2:10), and the New Testament names the one God, the Father, from whom all things came, and the one Lord, Jesus Christ, through whom all things came (1 Cor 8:6; Col 1:16). The AAB always presents the gods of the nations as ruling under God and answering to Him. Notes at Deuteronomy 4:19 and 1 Corinthians 8:4 carry this.
+
+**Idols, household gods, and the dead.** An idol was made as a dwelling for an unseen being, so that people could honor it, feed it, and ask it for help. *Elohim* names beings of the spirit realm, including the spirits of the dead (1 Sam 28:13), so a house could call on its gods, its dead, or both. The teraphim (*tᵉrāpîm*, "household gods") were figures kept in the home for this purpose, and wherever Scripture shows them in use, people consult them for a word about what to do (Judg 17:5; 18:5; Ezek 21:21; Zech 10:2). Scripture forbids all of it: consulting mediums and the dead, and feeding the dead (Lev 19:31; Deut 18:10-11; 26:14). The LORD is the God of His house's living and its dead (Exod 3:6; Matt 22:32), and He speaks to His house through the prophet He raises up (Deut 18:15). Asking a household god or a dead ancestor went around Him (1 Sam 15:23; Isa 8:19). Paul grants that the beings behind idols are real and names them demons (1 Cor 8:5; 10:20); an idol is "nothing" because none of them is God (1 Cor 8:4). The AAB renders the teraphim by context ("household gods" where they belong to a house or shrine, "idols" at Ezek 21:21 and Zech 10:2), with the main note at Genesis 31:19 and a pointer at every occurrence. It renders Psalm 106:28 "sacrifices offered to the dead" (*zivḥê mētîm*), not "lifeless gods," so that the cult of the dead stays visible.
+
 ### The Exodus as Marriage (Exodus 11:1)
 
 Exodus 11:1 reads כִּי כְּשַׁלְּחוֹ כָּלָה, and the consonants כלה carry both *kalah*, "completely," and *kallah*, "bride." The Masoretic vocalization gives "completely," which most translations follow. The AAB renders "as a bride," on the convergence of three lines of evidence.
@@ -964,6 +970,9 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 - Romans 5:19: note on *kathistēmi*, "to appoint, to constitute."
 - 1 Samuel 24:4, 5, 11 "corner" to "hem" (*kānāp*), matching 15:27: in both scenes the hem signals the kingdom.
 - Teraphim rendered "household gods" where the text treats them as gods or as means of seeking answers: Gen 31:19, 34, 35; Judg 17:5; 18:17, 18, 20 (matching 18:14); 1 Sam 15:23 ("stubbornness is like the iniquity of household gods"; "arrogance" changed to "stubbornness" for Heb. *hafṣar*, pressing or insisting, as in Gen 19:3; 33:11); 1 Sam 19:13, 16; Hos 3:4. "Idols" stays at Ezek 21:21 and Zech 10:2.
+- Household, the dead, and the gods: the core logic is now set out in the Brief under "The Family as One." New notes at Genesis 25:8 (identity in the father's house in life and death, limited by faith shown in obedience, Rom 9:6; John 8:39) and Genesis 31:19 (teraphim as household gods: idols as dwellings for unseen beings, the household's gods and its dead, the gods of the nations ruling under God the Father, and why consulting them is forbidden). Pointers at Genesis 15:15; Judges 2:10; 17:5; 1 Samuel 15:23; 19:13; 2 Kings 23:24; Ezekiel 21:21; Hosea 3:4; Zechariah 10:2.
+- Psalm 106:28 "sacrifices offered to lifeless gods" to "sacrifices offered to the dead" (*zivḥê mētîm*), with a note (Deut 26:14).
+- Deuteronomy 4:19: note that the host of heaven rules the nations under God and answers to Him (32:8-9; Ps 82). 1 Corinthians 8:4: note that the beings behind idols are real (8:5; 10:20) and that an idol is nothing because none of them is God (8:6; Col 1:16).
 - Isaiah 34:4 "All the stars of heaven will be dissolved" to "All the host of heaven will rot away," and "all their stars" to "all their host" (*ṣᵉbāʾ haššāmayim*, as at 24:21). Isaiah 34:11 "a measuring line of chaos and a plumb line of destruction" to "of formlessness… of void" (*tōhû… bōhû*, as in Gen 1:2; Jer 4:23), with a note; the bird note revised. Isaiah 34:10 note adds verse 17. Isaiah 34:4 note: the sun, moon, stars, and heavenly beings are one "host of heaven" (Deut 4:19; 1 Kgs 22:19; Job 38:7; Judg 5:20; Rev 1:20; 12:4).
 
 ### Public Draft v0.26 (November 2026\)
@@ -1798,6 +1807,23 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Mark 8:36 | forfeit his soul | forfeit his life |
 | Mark 8:37 | in exchange for his soul | in exchange for his life |
 | 1 Thessalonians 5:23 | (no footnote) | (footnote on totality language added) |
+| Genesis 15:15 | (no footnote) | (fn: "go to your fathers"; see note on 25:8) |
+| Genesis 25:8 | (no footnote) | (fn: "gathered to his people": identity in the father's house in life and death, limited by faith shown in obedience) |
+| Genesis 31:19, 34, 35 | household idols | household gods (fn at 31:19: Heb. tᵉrāpîm) |
+| Deuteronomy 4:19 | (no footnote) | (fn: the host of heaven rules the nations under God, 32:8; Ps 82) |
+| Judges 2:10 | (no footnote) | (fn: see note on Gen 25:8) |
+| Judges 17:5; 18:17, 18, 20 | household idols | household gods (fn at 17:5: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| 1 Samuel 15:23 | arrogance is like the wickedness of idolatry | stubbornness is like the iniquity of household gods (fn: Heb. tᵉrāpîm) |
+| 1 Samuel 19:13, 16 | household idol | household god |
+| 1 Samuel 24:4, 5, 11 | corner | hem |
+| 2 Kings 23:24 | (no footnote) | (fn: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| Psalm 106:28 | sacrifices offered to lifeless gods | sacrifices offered to the dead (fn: Heb. zivḥê mētîm) |
+| Isaiah 34:4 | All the stars of heaven will be dissolved / all their stars | All the host of heaven will rot away / all their host (fn: host of heaven) |
+| Isaiah 34:11 | a measuring line of chaos and a plumb line of destruction | a measuring line of formlessness and a plumb line of void (fn: tōhû … bōhû) |
+| Ezekiel 21:21 | (no footnote) | (fn: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| Hosea 3:4 | idol | household gods (fn: Heb. tᵉrāpîm) |
+| Zechariah 10:2 | (no footnote) | (fn: Heb. tᵉrāpîm; see note on Gen 31:19) |
+| 1 Corinthians 8:4 | (no footnote) | (fn: the beings behind idols are real, 8:5; 10:20; an idol is nothing because none of them is God) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 
