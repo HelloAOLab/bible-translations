@@ -290,7 +290,7 @@ Note that ruach and nephesh overlap significantly and are **not** divisible part
 | Concept | Hebrew/Biblical View | Greek/Platonic View | Key Verse (AAB) | Common Mistranslation | AAB Rendering |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **What is ruach?** | Wind, breath, life-force from God; animating power | The "real you" that survives death consciously; rational soul | Eccl 12:7: "the breath returns to God who gave it" | Read as: immortal spirit departs to conscious heavenly existence | "breath" with footnote: describes mortality and dependence on God, **not** conscious afterlife |
-| **Does ruach \= immortal spirit?** | **NO.** Ruach is given by God and returns to God at death; not inherently immortal | Yes. The spirit/soul is indestructible | Psa 146:4: "When his breath departs, he returns to the earth; on that very day his thoughts perish" | "Spirit" imports Greek assumptions of conscious survival | "breath"; note that "his thoughts perish" indicates consciousness ceases |
+| **Does ruach \= immortal spirit?** | **NO.** Ruach is given by God and returns to God at death; not inherently immortal | Yes. The spirit/soul is indestructible | Psa 146:4: "When his breath departs, he returns to the earth; on that very day his plans perish" | "Spirit" imports Greek assumptions | "breath"; the person waits for the resurrection, when all rise to face judgment (Rev 20:12-13) |
 | **Do animals have ruach?** | **YES.** Eccl 3:19 says humans and animals "all have the same ruach" | No. Only humans have immortal spirits | Eccl 3:19: "They all have the same breath" | Hidden or ignored; challenges the entire dualist framework | "breath" (consistent) |
 | **Ruach and nephesh relationship** | Overlapping terms; both can refer to whole person; **not** separable parts | Soul and spirit sometimes distinguished as different faculties | Job 34:14-15: "his spirit and his breath" | Trichotomy (body/soul/spirit as three parts) imposed on texts | Parallelism preserved; 1 Thess 5:23 footnote clarifies totality language |
 
@@ -304,7 +304,7 @@ Several passages describe nephesh or ruach "departing" at death. These are often
 
 **Psalm 31:5** (quoted by Jesus on the cross, Luke 23:46): "Into your hand I commit my life \[ruach\]." Traditional: "I commit my spirit." This is an act of trust, entrusting one's life to God's care. Jesus used these words at his death. This is not a statement about an immortal spirit departing to conscious existence; it is an expression of trust in the face of death.
 
-**Psalm 146:4**: "When his breath \[ruach\] departs, he returns to the earth; on that very day his thoughts perish." This is critical: when the breath leaves, **thoughts cease**. The person's conscious planning and thinking end at death. This directly contradicts the Platonic framework of conscious survival.
+**Psalm 146:4**: "When his breath \[ruach\] departs, he returns to the earth; on that very day his plans perish." The word is *ʿeshtonot*, "plans," found only here, and the psalm sets it against trusting in princes (v. 3): a ruler's plans die with him. The verse is about what a man can accomplish. Scripture shows the dead waiting (Luke 16:22-23; Rev 6:9-11) until all rise to face judgment (John 5:28-29; Rev 20:12-13). From v0.28 the AAB restores the BSB's "plans" in place of "thoughts."
 
 **Isaiah 53:10-12** (the Suffering Servant): "when his life \[nephesh\] is made an offering for guilt... the anguish of his life \[nephesh\]... he poured out his life \[nephesh\] to death." Traditional: "his soul." But the Servant is not offering a separable soul-part; he is giving his whole self, his life, unto death. The translation "life" captures the totality of the Servant's self-giving.
 
@@ -318,7 +318,7 @@ Several passages describe nephesh or ruach "departing" at death. These are often
 | **Is the soul immortal by nature?** | **NO.** Nephesh can die (Ezek 18:4; Num 6:6) | Yes. Psychē is indestructible | "Immortal soul" is Greek, not biblical |
 | **What is spirit/ruach?** | Life-breath from God; animating force | Often conflated with immortal soul | "Spirit" does not mean "the real you without a body" |
 | **Body's status** | Good; integral to personhood; "very good" (Gen 1:31) | Prison/tomb; inferior matter | Biblical hope is resurrection **OF** the body, not **FROM** it |
-| **Death** | The person dies; breath returns to God; thoughts perish | Soul escapes body; liberation | Greek: death is release. Hebrew: death is enemy to be defeated |
+| **Death** | The person dies; the body returns to dust and the breath to God; the person waits for the resurrection and judgment (Rev 20:12-13) | Soul escapes body; liberation | Greek: death is release. Hebrew: death is enemy to be defeated |
 | **Afterlife hope** | **Resurrection**: re-embodied life in new creation | Disembodied immortality | If soul is already immortal and conscious, resurrection becomes redundant |
 
 ### Why This Matters
@@ -814,7 +814,7 @@ Traditional translations render the formula "pleasing aroma." The Hebrew נִי�
 
 ### Atoning and Non-Atoning Sacrifices: The Levitical Framing
 
-The five offerings of Leviticus 1–7 are differentiated, not interchangeable (Rillera, *Lamb of the Free*, following Milgrom). The ascension offering entreats and attracts the divine presence; the grain offering renders tribute (no blood, no death; its existence alone falsifies any definition of sacrifice that requires a victim's death); the well-being offering constitutes fellowship in a shared meal; only the purification and reparation offerings effect purgation in the technical sense. Which offering a New Testament text evokes determines what theological work the image can do.
+The five offerings of Leviticus 1–7 are differentiated, not interchangeable (Rillera, *Lamb of the Free*, following Milgrom). The ascension offering entreats and attracts the divine presence and effects purgation for the offerer in the general sense of Lev 1:4; the grain offering renders tribute (no blood, no death; its existence alone falsifies any definition of sacrifice that requires a victim's death); the well-being offering constitutes fellowship in a shared meal; the purification and reparation offerings deal with particular sins and impurities. Which offering a New Testament text evokes determines what theological work the image can do.
 
 The system also states its own ceiling: sacrifice covers inadvertent sin and impurity, while the person who sins "with a high hand" (בְּיָד רָמָה, Num 15:30, footnoted) has no sacrifice; defiant covenant-breaking is answered by God Himself, and its remedy is the forgiveness and new heart that God alone provides (Jer 31:31–34; Ezek 36:25–27). This is the gap the new covenant's "forgiveness of sins" language fills; it is covenant-renewal language, not sacrificial-mechanism language.
 
@@ -834,7 +834,7 @@ The New Testament applies the whole repertoire to Jesus, and the AAB's rendering
 | Eph 5:2 | Fragrant offering | Ascension/gift register | Footnote |
 | 1 Pet 2:21–25 (Isa 53) | Servant bearing sin | Burden-bearing (nasa), non-cultic | "bearing iniquity" renderings (Exod 34:7; Num 14:18; Isa 53) |
 
-Through all of it the New Testament's stated relation between Jesus's death and believers is participatory: baptized into his death (Rom 6:3–8), co-crucified (Gal 2:19–20), conformed to his death (Phil 3:10), sharing the cup (1 Cor 10:16). The translation does not adjudicate atonement theology; it restores the Levitical categories the NT authors were actually using, and lets the footnotes carry the traditional alternatives.
+Through all of it the New Testament's stated relation between Jesus's death and believers is participatory: baptized into his death (Rom 6:3–8), co-crucified (Gal 2:19–20), conformed to his death (Phil 3:10), sharing the cup (1 Cor 10:16). The translation restores the Levitical categories the NT authors were actually using and states its reading of them in the footnotes, which also give the traditional alternatives.
 
 **Key sources:** Jacob Milgrom, *Leviticus 1–16*, Anchor Bible (1991); Andrew Remington Rillera, *Lamb of the Free* (Cascade, 2024); Yitzhaq Feder, *Blood Expiation in Hittite and Biblical Ritual* (SBL, 2011); David P. Wright, *The Disposal of Impurity* (Scholars Press, 1987); David M. Moffitt, *Atonement and the Logic of Resurrection in the Epistle to the Hebrews* (Brill, 2011); Jonathan Klawans, *Impurity and Sin in Ancient Judaism* (Oxford, 2000); Michael S. Heiser, *The Unseen Realm* (Lexham, 2015), on the throne seat; J. David Schloen, *The House of the Father as Fact and Symbol* (Eisenbrauns, 2001); Peter Leithart and Everett Fox on the ascension offering.
 
@@ -968,6 +968,15 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 
 ### Public Draft v0.28 (November 2026\)
 
+- The dead before the second death: notes at Eccl 12:7, Rev 6:9, 1 Pet 1:9, and Deut 6:5 now state the positive. The dead wait, and all rise to face judgment (John 5:28-29; Rev 20:12-13). Psalm 146:4 "thoughts perish" restored to the BSB's "plans perish" (*ʿeshtonotav*), with a note; the Brief's anthropology section corrected to match.
+- Ascension offering: the Gen 22:2 note and the Brief now say it effects purgation (Lev 1:4), while the purification and reparation offerings deal with particular sins.
+- Lev 16:21 note: the live goat is presented alive before the LORD and sent away, and both goats belong to the one purification offering (v. 5). Lev 1:4 note: blood is applied "to the altar and the sanctuary."
+- Heb 2:14 and Matt 6:13 notes: Satan holds the power of death only as far as God allows and through the fear of death (Heb 2:15); those who stay in his house share his end in the lake of fire.
+- Psalm 82:8 "are Your inheritance" to "will be Your inheritance" (*tinḥal*), with a note.
+- New notes at Jude 7 (the fire destroyed the cities, 2 Pet 2:6), Heb 6:4 ("ultimately" is not in the Greek; the Father keeps His own; faith alone saves, and saving faith does good works; the thief on the cross), and Eph 3:15 (*patria*). Ps 110:3 note rewritten for readers; Ps 22:12 note now leans on Deut 2:10-11, 20-21; Deut 32:43 note's last sentence clarified.
+- Hebrews 9:10 "regeneration" to "setting all things right" (*diorthōsis*); 12:15 "falls away from" to "falls short of" (*hysterōn*); 9:7 "unintentional sins … in ignorance" to "sins … in ignorance" (*agnoēmata*).
+- Brief: "does not adjudicate atonement theology" now says the notes state the AAB's reading.
+- Closing quotation marks added at the end of divine speeches: Jer 5:31; 16:21; Isa 41:29; 47:15; Joel 2:27.
 - Mechanical fixes: Isa 57:3 duplicate verse marker removed and Isa 57:13 closing marker added; Eccl 3:21 note labels; 27 stray spaces before footnote markers; em dashes after labels in textual notes; straight quotes in 28 notes made curly. Brief: the "retains hell" sentence, the *apollymi* "no exceptions" claim, and "three times in Mark 9" corrected. Deut 2:11 note: "among the Rephaim."
 - The giant peoples: one name for each people throughout, so the line Scripture traces stays visible (Gen 6:4; Num 13:33; Deut 2:11, 20-21): Rephaim (Gen 14:5; 15:20), Zuzim and Emim (Gen 14:5; Deut 2:10-11), Anakim (Deut 2:10-11, 21), and Zamzummim (Deut 2:20), matching Deut 1:28, 3:11, and Joshua.
 - Notes tracing the giant peoples from Genesis 6 through Canaan: the Gen 6:4 note now explains "and also afterward"; new notes at Gen 10:8; 14:5; 14:7 (an Amalekite people older than Esau's line); 36:24 (the Samaritan Pentateuch's "the Emim"); Exod 17:16; Num 13:33; 24:7; Deut 2:11; Josh 11:22; Ezek 32:27; Amos 2:9; the Deut 3:11 note adds Og's cities in the Ugaritic texts (with "most scholars read," as now also at Ps 22:12), and the 2 Sam 21:16 note ties "Rapha" to the Rephaim.
@@ -1410,7 +1419,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Psalm 139:8 | Sheol/grave | Sheol |
 | Psalm 141:7 | Sheol/grave | Sheol |
 | Psalm 145:10 | saints | holy ones |
-| Psalm 146:4 | when his spirit departs... his plans perish | when his breath (fn: Heb. ruach) departs... his thoughts perish |
+| Psalm 146:4 | when his spirit departs... his plans perish | when his breath (fn: Heb. ruach) departs... his plans perish (fn: Heb. ʿeshtonotav) |
 | Psalm 148:14 | saints | holy ones |
 | Psalm 150:1 | heavens | firmament |
 | Proverbs 1:12 | Sheol/grave | Sheol |
@@ -1761,7 +1770,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Amos 4:3 | (fn: possibly Mount Hermon) | (fn: haharmonah a hapax; Greek "mountain Romman"; "Hermon" a conjecture with no Hebrew manuscript support) |
 | Psalm 88:10 | for the the Rephaim | for the Rephaim |
 | **Lexical and Footnotes (v0.14)** |  |  |
-| Genesis 22:2 | (no footnote) | (fn: olah, "that which ascends"; purpose is the soothing aroma drawing God near, Lev 1:9; law at Lev 1:3-9; not the offering that deals with sin, Lev 4:20; 5:16; one hand marks ownership against the two-handed transfer, Lev 1:4; 16:21; a test, v. 1, of what the Torah forbids, Lev 18:21; Deut 12:31; Moriah, 2 Chr 3:1; Rom 8:32) |
+| Genesis 22:2 | (no footnote) | (fn: olah, "that which ascends"; purpose is the soothing aroma drawing God near, Lev 1:9; law at Lev 1:3-9; effects purgation, Lev 1:4, while the purification and reparation offerings deal with particular sins, Lev 4:20; 5:16; one hand marks ownership against the two-handed transfer, Lev 1:4; 16:21; a test, v. 1, of what the Torah forbids, Lev 18:21; Deut 12:31; Moriah, 2 Chr 3:1; Rom 8:32) |
 | Genesis 22:13 | (textual note only) | (added fn: the ram takes Isaac's place in the same offering) |
 | Genesis 24:64 | she got down from her camel | she quickly got down from her camel (fn: Heb. naphal, not the ordinary yarad; cf. Gen 17:3; 1 Sam 25:23) |
 | **Lexical (v0.13)** |  |  |
@@ -1848,6 +1857,12 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 6:4 | (fn) | (fn expanded: "and also afterward" carries the Nephilim past the flood) |
 | Genesis 10:8; 14:7; 36:24; Exodus 17:16; Numbers 13:33; 24:7; Deuteronomy 2:11; Joshua 11:22; Ezekiel 32:27; Amos 2:9; 1 Corinthians 11:10; 1 Peter 3:19; Jude 6 | (no footnote) | (footnotes on the Nephilim, the giant peoples, Amalek, and the sons of God who sinned) |
 | Deuteronomy 3:11; 2 Samuel 21:16; Psalm 22:12 | (fn) | (fn expanded or qualified: Og's cities in the Ugaritic texts, "most scholars read"; ha-rapha and the Rephaim) |
+| Psalm 82:8 | all the nations are Your inheritance | all the nations will be Your inheritance (fn: Heb. tinḥal) |
+| Hebrews 9:10 | the time of reformation | the time of setting all things right (AAB earlier: regeneration) |
+| Hebrews 12:15 | falls short of | falls short of (AAB earlier: falls away from) |
+| Hebrews 9:7 | sins the people had committed in ignorance | sins the people had committed in ignorance (AAB earlier: unintentional sins … in ignorance) |
+| Hebrews 6:4; Jude 7; Ephesians 3:15 | (no footnote) | (fns: "ultimately" not in the Greek; the fire as example; patria) |
+| Ecclesiastes 12:7; Revelation 6:9; 1 Peter 1:9; Deuteronomy 6:5; Psalm 110:3; Genesis 22:2; Leviticus 1:4; 16:21; Hebrews 2:14; Matthew 6:13 | (fn) | (fn revised) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 

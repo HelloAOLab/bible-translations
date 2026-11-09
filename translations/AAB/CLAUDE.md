@@ -59,6 +59,8 @@ The act is "purgation"; the offering and the day are named by their result, "pur
 - Name Satan plainly; never in-house shorthand.
 - Ground claims in Scripture, not in later theologians.
 - Household logic: identity comes from the father's house in life and death, limited by faith shown in obedience (Rom 9:6; John 8:39); the gods of the nations rule under God the Father, Maker of all. See "The Family as One" in the Brief and the notes at Gen 25:8 and 31:19.
+- The dead wait (Luke 16:22-23; Rev 6:9-11), and all rise to face judgment (John 5:28-29; Rev 20:12-13); the second death follows for the wicked (Rev 20:14). Notes state this positively and never say the dead cease to exist.
+- Salvation: faith alone saves, and saving faith goes on to do good works (Eph 2:8-10; Jas 2:17). Those the Father brings into His family are kept by Him (John 10:28-29; Phil 1:6) and work out their salvation with fear and trembling (Phil 2:12-13); there is no cycle of saved, lost, and saved again. Test readings against the thief on the cross (Luke 23:40-43).
 - In replies to the owner, link every quoted verse to Seed Bible: `https://seedbible.org/?translation=AAB&book=ISA&chapter=13&verse=21` (USFM book code; `verse` takes a single verse, a range like 3-7, or a list like 3,5,7).
 
 ## Private reference material
