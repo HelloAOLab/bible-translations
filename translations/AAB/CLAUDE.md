@@ -44,6 +44,9 @@ The Accessible Ancients Bible (AAB), a public-domain translation derived from th
 | sarx | flesh | sinful nature |
 | pistis Christou (genitive) | the faithfulness of Christ | faith in Christ |
 | raqia | firmament | expanse |
+| teraphim | household gods by context ("idols" at Ezek 21:21; Zech 10:2); main note Gen 31:19 | one word everywhere |
+| tannim (ruin passages) | jackals (Ps 44:19 "dragons," marked a conjecture); main note Isa 13:22 | dragons (tannin is a different word) |
+| benot ya'anah | ostriches; siren tradition in the shared note at Isa 13:21 | sirens |
 | Sheol / Hades / Gehenna / Tartarus / Abyss | each kept by name | hell (modern "hell" suggests a present realm of torment; Sheol/Hades is where the dead wait, Gehenna the judgment to come) |
 
 The act is "purgation"; the offering and the day are named by their result, "purification." Both are deliberate. See the note on Lev 1:4.
@@ -55,6 +58,8 @@ The act is "purgation"; the offering and the day are named by their result, "pur
 - State the positive; do not deny a position to make a point.
 - Name Satan plainly; never in-house shorthand.
 - Ground claims in Scripture, not in later theologians.
+- Household logic: identity comes from the father's house in life and death, limited by faith shown in obedience (Rom 9:6; John 8:39); the gods of the nations rule under God the Father, Maker of all. See "The Family as One" in the Brief and the notes at Gen 25:8 and 31:19.
+- In replies to the owner, link every quoted verse to Seed Bible: `https://seedbible.org/?translation=AAB&book=ISA&chapter=13&verse=21` (USFM book code; `verse` takes a single verse, a range like 3-7, or a list like 3,5,7).
 
 ## Private reference material
 
