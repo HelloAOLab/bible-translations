@@ -972,6 +972,7 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 - Romans 5:19: note on *kathistēmi*, "to appoint, to constitute."
 - 1 Samuel 24:4, 5, 11 "corner" to "hem" (*kānāp*), matching 15:27: in both scenes the hem signals the kingdom.
 - Teraphim rendered "household gods" where the text treats them as gods or as means of seeking answers: Gen 31:19, 34, 35; Judg 17:5; 18:17, 18, 20 (matching 18:14); 1 Sam 15:23 ("stubbornness is like the iniquity of household gods"; "arrogance" changed to "stubbornness" for Heb. *hafṣar*, pressing or insisting, as in Gen 19:3; 33:11); 1 Sam 19:13, 16; Hos 3:4. "Idols" stays at Ezek 21:21 and Zech 10:2.
+- Rephaim as the dead: main note at Isaiah 14:9 (the word names both the giant people and the dead in Sheol; the dead kings of 14:9 are weak and will not rise). Isaiah 26:14 note: the dead "other lords" will not rise, while in the same chapter the LORD's dead will live (26:19), the permanent death of the wicked set against the everlasting life of the righteous (Dan 12:2; John 5:28-29; Rev 20:14-15). Isaiah 26:19 note on *tappîl*. Pointers at Job 26:5; Ps 88:10; Prov 2:18; 9:18; 21:16. 2 Samuel 5:18 note: the Valley of Rephaim, "the valley of the Titans" in the Greek.
 - Ruin passages, Option 1: *tannim* "dragons" to "jackals" (Isa 13:22; 34:13; 35:7; Jer 9:11; 10:22; 49:33; 51:37) and *benot ya'anah* "sirens" to "ostriches" (Isa 13:21; 34:13; Jer 50:39). The main *tannim* note at Isa 13:22 is rewritten: *tannim* and *tannin* are different words, and the Septuagint has "dragons" only occasionally. A shared note at Isa 13:21 gives the siren tradition (Septuagint, Jerome, 1 Enoch 19:2, Rev 18:2, the Sefire curse). Isa 34:13 and Jer 50:39 notes cut to pointers. Psalm 44:19 keeps "dragons," with a note marking it as a conjecture. The Brief's definitions, rationales, change table, and comparison table are corrected.
 - Household, the dead, and the gods: the core logic is now set out in the Brief under "The Family as One." New notes at Genesis 25:8 (identity in the father's house in life and death, limited by faith shown in obedience, Rom 9:6; John 8:39) and Genesis 31:19 (teraphim as household gods: idols as dwellings for unseen beings, the household's gods and its dead, the gods of the nations ruling under God the Father, and why consulting them is forbidden). Pointers at Genesis 15:15; Judges 2:10; 17:5; 1 Samuel 15:23; 19:13; 2 Kings 23:24; Ezekiel 21:21; Hosea 3:4; Zechariah 10:2.
 - Psalm 106:28 "sacrifices offered to lifeless gods" to "sacrifices offered to the dead" (*zivḥê mētîm*), with a note (Deut 26:14).
@@ -1828,6 +1829,10 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hosea 3:4 | idol | household gods (fn: Heb. tᵉrāpîm) |
 | Zechariah 10:2 | (no footnote) | (fn: Heb. tᵉrāpîm; see note on Gen 31:19) |
 | 1 Corinthians 8:4 | (no footnote) | (fn: the beings behind idols are real, 8:5; 10:20; an idol is nothing because none of them is God) |
+| 2 Samuel 5:18 | (no footnote) | (fn: Valley of Rephaim; Greek 'valley of the Titans') |
+| Isaiah 14:9 | (no footnote) | (fn: Rephaim, the giant people and the dead; main note) |
+| Isaiah 26:14, 19 | (no footnote) | (fns: the wicked dead will not rise; the LORD's dead will live) |
+| Job 26:5; Psalm 88:10; Proverbs 2:18; 9:18; 21:16 | (no footnote) | (fn: Heb. rᵉpāʾîm, the dead; see note on Isa 14:9) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 
