@@ -976,6 +976,7 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 - New notes at Jude 7 (the fire destroyed the cities, 2 Pet 2:6), Heb 6:4 ("ultimately" is not in the Greek; the Father keeps His own; faith alone saves, and saving faith does good works; the thief on the cross), and Eph 3:15 (*patria*). Ps 110:3 note rewritten for readers; Ps 22:12 note now leans on Deut 2:10-11, 20-21; Deut 32:43 note's last sentence clarified.
 - Hebrews 9:10 "regeneration" to "setting all things right" (*diorthōsis*); 12:15 "falls away from" to "falls short of" (*hysterōn*); 9:7 "unintentional sins … in ignorance" to "sins … in ignorance" (*agnoēmata*).
 - Brief: "does not adjudicate atonement theology" now says the notes state the AAB's reading.
+- Genesis 46:27 "with the two sons" to "counting Joseph's descendants born in Egypt, nine persons" (LXX *psychai ennea*), so the verse keeps one reading with its total of seventy-five (Acts 7:14). Notes name the Greek additions at 46:20 (Machir, Gilead, Shuthelah, Tahan, Edem) and correct the Dead Sea Scrolls claim to Exod 1:5. New note at Deut 10:22.
 - Closing quotation marks added at the end of divine speeches: Jer 5:31; 16:21; Isa 41:29; 47:15; Joel 2:27.
 - Mechanical fixes: Isa 57:3 duplicate verse marker removed and Isa 57:13 closing marker added; Eccl 3:21 note labels; 27 stray spaces before footnote markers; em dashes after labels in textual notes; straight quotes in 28 notes made curly. Brief: the "retains hell" sentence, the *apollymi* "no exceptions" claim, and "three times in Mark 9" corrected. Deut 2:11 note: "among the Rephaim."
 - The giant peoples: one name for each people throughout, so the line Scripture traces stays visible (Gen 6:4; Num 13:33; Deut 2:11, 20-21): Rephaim (Gen 14:5; 15:20), Zuzim and Emim (Gen 14:5; Deut 2:10-11), Anakim (Deut 2:10-11, 21), and Zamzummim (Deut 2:20), matching Deut 1:28, 3:11, and Joshua.
@@ -1857,6 +1858,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Genesis 6:4 | (fn) | (fn expanded: "and also afterward" carries the Nephilim past the flood) |
 | Genesis 10:8; 14:7; 36:24; Exodus 17:16; Numbers 13:33; 24:7; Deuteronomy 2:11; Joshua 11:22; Ezekiel 32:27; Amos 2:9; 1 Corinthians 11:10; 1 Peter 3:19; Jude 6 | (no footnote) | (footnotes on the Nephilim, the giant peoples, Amalek, and the sons of God who sinned) |
 | Deuteronomy 3:11; 2 Samuel 21:16; Psalm 22:12 | (fn) | (fn expanded or qualified: Og's cities in the Ugaritic texts, "most scholars read"; ha-rapha and the Rephaim) |
+| Genesis 46:27 | the two sons | Joseph's descendants born in Egypt, nine persons (fns: LXX psychai ennea; Greek of 46:20; Acts 7:14) |
 | Psalm 82:8 | all the nations are Your inheritance | all the nations will be Your inheritance (fn: Heb. tinḥal) |
 | Hebrews 9:10 | the time of reformation | the time of setting all things right (AAB earlier: regeneration) |
 | Hebrews 12:15 | falls short of | falls short of (AAB earlier: falls away from) |
