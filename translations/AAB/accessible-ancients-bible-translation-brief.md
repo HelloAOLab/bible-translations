@@ -1882,7 +1882,7 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 6:4; Jude 7; Ephesians 3:15 | (no footnote) | (fns: "ultimately" not in the Greek; the fire as example; patria) |
 | Ecclesiastes 12:7; Revelation 6:9; 1 Peter 1:9; Deuteronomy 6:5; Psalm 110:3; Genesis 22:2; Leviticus 1:4; 16:21; Hebrews 2:14; Matthew 6:13 | (fn) | (fn revised) |
 | Leviticus 4:3, 13, 22, 27; 5:2-5, 17, 19; 6:4, 5, 7; 22:16; Numbers 5:6; Genesis 26:10; Judges 21:22; Ezra 10:19 | guilt / guilty | liability / liable (fns: Heb. ʾasham; main note at Lev 4:13) |
-| Leviticus 5:6-7 | his reparation offering / as restitution | as his reparation (fn: Heb. ʾashamo, the payment owed) |
+| Leviticus 5:6-7 | his guilt offering (AAB before v0.29: his reparation offering / as reparation) | as his reparation (fn: Heb. ʾashamo, the payment owed) |
 | Exodus 28:43; Leviticus 5:17; 19:17; 20:20; 22:9; Numbers 14:34; 15:31; 18:22, 32 | incur guilt / bear the guilt / bear his punishment | bear iniquity / bear sin / bear the consequences of sin |
 | Exodus 34:7; Numbers 14:18 | leave the guilty unpunished | clear the guilty |
 | Lamentations 5:7 | we bear their punishment | we carry the consequences of their iniquities |
