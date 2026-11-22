@@ -267,7 +267,7 @@ The foundational text is Genesis 2:7: "The LORD God formed man from the dust of 
 | Concept | Hebrew/Biblical View | Greek/Platonic View | Key Verse (AAB) | Common Mistranslation | AAB Rendering |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Do animals have nephesh?** | Yes. Gen 1:20, 24; 2:19 all use nephesh for animals | No. Only humans have rational souls | Gen 1:24: "Let the earth bring forth living creatures \[nephesh\]..." | Translations render animal nephesh as "creature" but human nephesh as "soul," hiding the connection | "living creatures" (consistent; footnote notes nephesh is used for both animals and humans) |
-| **What IS a human?** | You are a nephesh (unified whole) | You have a soul (separable part trapped in body) | Gen 2:7: "...the man became a living being \[nephesh\]" | "man became a living soul" (implying a soul was inserted into a body) | "living being" with footnote |
+| **What is a human?** | You are a nephesh (unified whole) | You have a soul (separable part trapped in body) | Gen 2:7: "...the man became a living being \[nephesh\]" | "man became a living soul" (implying a soul was inserted into a body) | "living being" with footnote |
 | **Can nephesh die?** | Yes. Nephesh can die; Num 6:6 speaks of a "dead nephesh" | No. The psychē is indestructible by nature | Ezek 18:4: "The one who sins is the one who will die" | "The soul who sins shall die" (misread as teaching about eternal destiny of immortal souls) | "The one who sins is the one who will die" |
 | **Body's status** | Good; integral to personhood | Prison or tomb; inferior matter to be escaped | Gen 1:31: "God saw all that he had made, and behold, it was very good" | Body devalued; "spiritual" treated as meaning non-physical | No change needed; text already clear |
 
@@ -3082,7 +3082,7 @@ If you later want to revise or withdraw a published endorsement, email [craigbbr
 
 Scholars who disagree substantially with our approach are also welcome to submit a critique for the record. We will publish substantive critiques in a companion section if there is enough interest. The goal is a public, honest record of where the scholarly community stands on these questions, not a curated list of supporters.
 
-[^1]: The AAB counts 70 books, treating Psalms as the five books its own closing doxologies mark (Ps 41:13; 72:19; 89:52; 106:48).
+[^1]: The AAB counts these same books as 70, treating Psalms as the five books its own closing doxologies mark (Ps 41:13; 72:19; 89:52; 106:48).
 
 [^2]: The books commonly called the Apocrypha were not considered Scripture by the wider Jewish or Christian communities in antiquity. The Jewish canon was settled without them; Jerome explicitly distinguished them from canonical books; no ecumenical council of the undivided church defined them as Scripture. The Council of Trent (1546) was a late, contested response to the Reformation. A few early writers favored including 1 Enoch, and Jude 14-15 quotes from it, but no wider movement succeeded in expanding the canon.
 
