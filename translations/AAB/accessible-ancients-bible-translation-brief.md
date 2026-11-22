@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.28 | Awaiting Feedback**
+**Status: Public Draft v0.29 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -166,7 +166,7 @@ The ESV, NIV, NASB, CSB, NLT, and other major translations share common weakness
 
 **Committee conservatism and market pressure.** Translation committees are large, theologically diverse, and funded by publishers who need to sell Bibles. This creates structural incentives toward consensus over accuracy, continuity over correction, and familiarity over fidelity. The result: translations that are cautious, internally inconsistent, and resistant to incorporating scholarly advances that might unsettle readers.
 
-The ESV has become the default "serious" Bible in many evangelical circles. We believe this status is unearned. The ESV is a decent translation, but it has clear internal consistency problems, makes theologically loaded choices while presenting itself as neutral, and obscures source-language meaning in ways that are widely acknowledged by scholars but rarely discussed in churches. We are not saying the ESV is bad. We are saying it does not deserve its reputation as the gold standard, and we want to offer an alternative that takes the problems seriously.
+The ESV has become the default "serious" Bible in many evangelical circles. We think that reputation overstates its consistency. The ESV is a good translation, but it has internal consistency problems, makes theologically loaded choices while presenting itself as neutral, and obscures source-language meaning in places scholars widely recognize. The comparison section shows where. We offer the AAB as an alternative that takes those problems seriously.
 
 The AAB is an attempt to do what all modern translations should have done but have not: incorporate the best available scholarship, prioritize source-language meaning over theological comfort, maintain internal consistency, and be honest about what the texts actually say.
 
@@ -260,15 +260,15 @@ The key Hebrew term is נֶפֶשׁ (*nephesh*), which appears over 750 times in
 
 The last two points are crucial. If *nephesh* meant "immortal soul," the phrase "dead nephesh" would be nonsense. And if only humans had immortal souls, why does Genesis use the same word for fish, birds, and livestock?
 
-**Most Christians do not realize that animals have a nephesh.** Genesis 1:20, 24 and 2:19 all apply *nephesh* to animals, the very same word used for humans in Genesis 2:7. This single fact should immediately disrupt how we process the English word "soul." Whatever nephesh means, it cannot mean "the immortal part that distinguishes humans from animals," because Scripture applies it to animals without qualification.
+**Animals have a nephesh.** Genesis 1:20, 24 and 2:19 all apply *nephesh* to animals, the very same word used for humans in Genesis 2:7. This single fact should immediately disrupt how we process the English word "soul." Whatever nephesh means, it cannot mean "the immortal part that distinguishes humans from animals," because Scripture applies it to animals without qualification.
 
 The foundational text is Genesis 2:7: "The LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living *nephesh*." Notice: Adam does not *receive* a nephesh; he *becomes* one. The human being **is** a nephesh: an integrated, embodied, living self. There is no separable soul inserted into a body.
 
 | Concept | Hebrew/Biblical View | Greek/Platonic View | Key Verse (AAB) | Common Mistranslation | AAB Rendering |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Do animals have nephesh?** | **YES.** Gen 1:20, 24; 2:19 all use nephesh for animals | No. Only humans have rational souls | Gen 1:24: "Let the earth bring forth living creatures \[nephesh\]..." | Translations render animal nephesh as "creature" but human nephesh as "soul," hiding the connection | "living creatures" (consistent; footnote notes nephesh is used for both animals and humans) |
-| **What IS a human?** | You **ARE** a nephesh (unified whole) | You **HAVE** a soul (separable part trapped in body) | Gen 2:7: "...the man became a living being \[nephesh\]" | "man became a living soul" (implying a soul was inserted into a body) | "living being" with footnote |
-| **Can nephesh die?** | **YES.** Nephesh can die; Num 6:6 speaks of a "dead nephesh" | No. The psychē is indestructible by nature | Ezek 18:4: "The one who sins is the one who will die" | "The soul who sins shall die" (misread as teaching about eternal destiny of immortal souls) | "The one who sins is the one who will die" |
+| **Do animals have nephesh?** | Yes. Gen 1:20, 24; 2:19 all use nephesh for animals | No. Only humans have rational souls | Gen 1:24: "Let the earth bring forth living creatures \[nephesh\]..." | Translations render animal nephesh as "creature" but human nephesh as "soul," hiding the connection | "living creatures" (consistent; footnote notes nephesh is used for both animals and humans) |
+| **What is a human?** | You are a nephesh (unified whole) | You have a soul (separable part trapped in body) | Gen 2:7: "...the man became a living being \[nephesh\]" | "man became a living soul" (implying a soul was inserted into a body) | "living being" with footnote |
+| **Can nephesh die?** | Yes. Nephesh can die; Num 6:6 speaks of a "dead nephesh" | No. The psychē is indestructible by nature | Ezek 18:4: "The one who sins is the one who will die" | "The soul who sins shall die" (misread as teaching about eternal destiny of immortal souls) | "The one who sins is the one who will die" |
 | **Body's status** | Good; integral to personhood | Prison or tomb; inferior matter to be escaped | Gen 1:31: "God saw all that he had made, and behold, it was very good" | Body devalued; "spiritual" treated as meaning non-physical | No change needed; text already clear |
 
 ### Ruach: What the Hebrew Bible Actually Says About the "Spirit"
@@ -283,15 +283,15 @@ The Hebrew term רוּחַ (*ruach*) appears over 375 times in the Old Testament
 
 The key insight is that ruach, when applied to humans, refers to the **animating life-breath that comes from God and returns to God at death.** It is not a separable "spirit-part" that constitutes "the real you" and floats off to conscious existence when the body dies. Ecclesiastes 12:7 ("the breath returns to God who gave it") is often read as teaching that an immortal spirit departs to heaven at death. But the verse is teaching **dependence on God for life itself**, not conscious afterlife. When a person dies, they stop breathing. The breath that God gave returns to its source. This is poetic language for mortality, not a technical statement about the intermediate state.
 
-**Most Christians do not realize that animals have ruach.** Ecclesiastes 3:19-21 states explicitly: "For what happens to the children of man and what happens to the beasts is the same; as one dies, so dies the other. **They all have the same ruach.** Man has no advantage over the beasts, for all is vanity. All go to one place. All are from the dust, and to dust all return. Who knows whether the ruach of man goes upward and the ruach of the beast goes down into the earth?" If ruach meant "immortal spirit that consciously survives death," we would have to say animals have immortal spirits too. Qoheleth actually *questions* whether there is any functional difference between human and animal ruach. This text is devastating to the Platonic framework.
+**Animals have ruach.** Ecclesiastes 3:19-21 states explicitly: "For what happens to the children of man and what happens to the beasts is the same; as one dies, so dies the other. **They all have the same ruach.** Man has no advantage over the beasts, for all is vanity. All go to one place. All are from the dust, and to dust all return. Who knows whether the ruach of man goes upward and the ruach of the beast goes down into the earth?" If ruach meant "immortal spirit that consciously survives death," we would have to say animals have immortal spirits too. Qoheleth actually *questions* whether there is any functional difference between human and animal ruach. This text is devastating to the Platonic framework.
 
 Note that ruach and nephesh overlap significantly and are **not** divisible parts of a human being. Both can refer to the whole person. Both can describe emotions and dispositions. The Hebrew conception is of a unified self, not a composite of separable components. Job 34:14-15 demonstrates this clearly: "If he should set his heart to it and gather to himself his *spirit* \[ruach\] and his *breath* \[neshamah\], all flesh would perish together, and man would return to dust." The parallelism shows ruach and neshamah functioning as near-synonyms for the animating life-breath, not as distinct metaphysical parts. Attempts to diagram "which part does what" miss the point entirely.
 
 | Concept | Hebrew/Biblical View | Greek/Platonic View | Key Verse (AAB) | Common Mistranslation | AAB Rendering |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | **What is ruach?** | Wind, breath, life-force from God; animating power | The "real you" that survives death consciously; rational soul | Eccl 12:7: "the breath returns to God who gave it" | Read as: immortal spirit departs to conscious heavenly existence | "breath" with footnote: describes mortality and dependence on God, **not** conscious afterlife |
-| **Does ruach \= immortal spirit?** | **NO.** Ruach is given by God and returns to God at death; not inherently immortal | Yes. The spirit/soul is indestructible | Psa 146:4: "When his breath departs, he returns to the earth; on that very day his plans perish" | "Spirit" imports Greek assumptions | "breath"; the person waits for the resurrection, when all rise to face judgment (Rev 20:12-13) |
-| **Do animals have ruach?** | **YES.** Eccl 3:19 says humans and animals "all have the same ruach" | No. Only humans have immortal spirits | Eccl 3:19: "They all have the same breath" | Hidden or ignored; challenges the entire dualist framework | "breath" (consistent) |
+| **Does ruach \= immortal spirit?** | No. Ruach is given by God and returns to God at death; not inherently immortal | Yes. The spirit/soul is indestructible | Psa 146:4: "When his breath departs, he returns to the earth; on that very day his plans perish" | "Spirit" imports Greek assumptions | "breath"; the person waits for the resurrection, when all rise to face judgment (Rev 20:12-13) |
+| **Do animals have ruach?** | Yes. Eccl 3:19 says humans and animals "all have the same ruach" | No. Only humans have immortal spirits | Eccl 3:19: "They all have the same breath" | Hidden or ignored; challenges the entire dualist framework | "breath" (consistent) |
 | **Ruach and nephesh relationship** | Overlapping terms; both can refer to whole person; **not** separable parts | Soul and spirit sometimes distinguished as different faculties | Job 34:14-15: "his spirit and his breath" | Trichotomy (body/soul/spirit as three parts) imposed on texts | Parallelism preserved; 1 Thess 5:23 footnote clarifies totality language |
 
 ### The "Departing Soul" Passages
@@ -312,10 +312,10 @@ Several passages describe nephesh or ruach "departing" at death. These are often
 
 | Category | Hebrew/Biblical | Greek/Platonic | Translation Implication |
 | :---- | :---- | :---- | :---- |
-| **What is a person?** | A unified whole; you **ARE** a nephesh | Soul trapped in body; two distinct substances | "Soul" imports separability foreign to the text |
-| **Do animals have "souls"?** | **YES.** Animals are nephesh (Gen 1:20, 24\) | No. Only humans have rational souls | Same Hebrew word; different English translations hide this |
-| **Do animals have "spirits"?** | **YES.** Animals have ruach (Eccl 3:19) | No. Only humans have immortal spirits | Qoheleth says humans and animals have "the same ruach" |
-| **Is the soul immortal by nature?** | **NO.** Nephesh can die (Ezek 18:4; Num 6:6) | Yes. Psychē is indestructible | "Immortal soul" is Greek, not biblical |
+| **What is a person?** | A unified whole; you are a nephesh | Soul trapped in body; two distinct substances | "Soul" imports separability foreign to the text |
+| **Do animals have "souls"?** | Yes. Animals are nephesh (Gen 1:20, 24\) | No. Only humans have rational souls | Same Hebrew word; different English translations hide this |
+| **Do animals have "spirits"?** | Yes. Animals have ruach (Eccl 3:19) | No. Only humans have immortal spirits | Qoheleth says humans and animals have "the same ruach" |
+| **Is the soul immortal by nature?** | No. Nephesh can die (Ezek 18:4; Num 6:6) | Yes. Psychē is indestructible | "Immortal soul" is Greek, not biblical |
 | **What is spirit/ruach?** | Life-breath from God; animating force | Often conflated with immortal soul | "Spirit" does not mean "the real you without a body" |
 | **Body's status** | Good; integral to personhood; "very good" (Gen 1:31) | Prison/tomb; inferior matter | Biblical hope is resurrection **OF** the body, not **FROM** it |
 | **Death** | The person dies; the body returns to dust and the breath to God; the person waits for the resurrection and judgment (Rev 20:12-13) | Soul escapes body; liberation | Greek: death is release. Hebrew: death is enemy to be defeated |
@@ -343,7 +343,7 @@ Our approach is **targeted correction**:
      
 2. **Where "departing soul" language imports dualism, we use "life."** BSB v3 has already addressed Genesis 35:18 and 1 Kings 17:21-22 in ways that remove the soul language. The principle still applies at Luke 8:55 and other passages not yet corrected in BSB.  
      
-3. **Where ruach describes the breath returning to God, we use "breath."** Ecclesiastes 12:7 becomes "the breath returns to God who gave it"; Psalm 146:4 becomes "when his breath departs... his thoughts perish." This preserves the connection to Genesis 2:7 without importing conscious-survival assumptions.  
+3. **Where ruach describes the breath returning to God, we use "breath."** Ecclesiastes 12:7 becomes "the breath returns to God who gave it"; Psalm 146:4 becomes "when his breath departs... his plans perish." This preserves the connection to Genesis 2:7.  
      
 4. **Where "spirit" fits an act of trust, we use "life" with footnote.** Psalm 31:5 / Luke 23:46 becomes "Into your hand I commit my life" with a footnote explaining: "Heb. ruach. An act of trust, entrusting one's life to God's care."  
      
@@ -392,6 +392,14 @@ These two pillars, standing on the bedrock of sola scriptura, drive every correc
 
 When choosing between English words, we ask: *If an ancient Israelite (or first-century Jew) who understood English were shown the available options, which word would they say best represents what they meant?* This keeps us accountable to the text rather than to modern comfort. We are not asking what makes contemporary readers feel at ease; we are asking what the biblical authors actually said. The firmament discussion below (Part 1\) illustrates this test in detail.
 
+### Decision Procedure
+
+The AAB reads each text by the historical-grammatical method: the words in their own language, setting, and context. It holds with that a conviction about the whole. God does not contradict Himself, so the canon is one consistent witness, and a rendering of one passage must not set it against another. Two rules follow.
+
+**1. When the New Testament governs an Old Testament rendering.** Where a New Testament writer quotes or explains an Old Testament passage, the AAB reads that as inspired interpretation. Where the Hebrew can bear the sense the New Testament gives, the AAB renders that sense: "virgin" at Isa 7:14 (Matt 1:23), and "seventy-five" at Gen 46:27 and Exod 1:5 (Acts 7:14). Where the New Testament quotes the Greek wording and the Hebrew says the same thing in other words, the AAB renders the Hebrew and notes the Greek, because the two do not conflict: "heavenly beings" at Ps 8:5, where Heb 2:7 has "angels."
+
+**2. When the Septuagint counts as evidence.** All translation is interpretation, and the Septuagint is the earliest translation of the Hebrew Scriptures, made by Jewish scholars about 250 to 100 BC, before the debates between church and synagogue. It shows how the ancient community read its own Scriptures, and the New Testament writers quote it constantly. The AAB treats it as strong evidence for meaning, especially for rare words the Hebrew alone does not settle: *se'irim* is rendered "goat demons" with the Greek *daimonia* (Isa 13:21). The Septuagint carries most weight where it reads a word the same way across books. Where it renders one Hebrew word several different ways, it shows no settled understanding, and the AAB follows the Hebrew and gives the Greek in a note, as with *benot ya'anah* and *tannim* (Isa 13:21-22). Where the Greek reflects a different Hebrew text, the question is textual and falls under the variant criteria (Deut 32:8, 43).
+
 ## Quick Reference: Changes at a Glance
 
 Having established our hermeneutical framework, the following table summarizes the specific corrections this translation makes. The categories below show both the scope and the limits of this project.
@@ -434,9 +442,9 @@ Having established our hermeneutical framework, the following table summarizes t
 | Pruning (John 15:3) | clean | pruned |
 | Son (Heb 1:2) | His Son | a Son |
 | Ultimately Impossible (Heb 6:4) | impossible | ultimately impossible |
-| Unintentional sins (Heb 9:7) | sins committed in ignorance | unintentional sins committed in ignorance |
-| Time of reform (Heb 9:10) | time of reform | time of regeneration |
-| Falls short (Heb 12:15) | falls short | falls away |
+| Sins of ignorance (Heb 9:7) | sins committed in ignorance | sins the people had committed in ignorance |
+| Time of reform (Heb 9:10) | time of reform | time of setting all things right |
+| Falls short (Heb 12:15) | falls short | falls short |
 | Restrainer (2 Thess 2:6-7) | what is now restraining / the one who now restrains | what restrains now / he who now restrains |
 | Stele (Lev 26:30) | lifeless remains | stele |
 | Ba'al of wing (Prov 1:17) | any bird | any bird (with footnote) |
@@ -965,6 +973,16 @@ This section clarifies the limits of the project.
 The AAB has not been revised against a dataset of literary structures. Its renderings therefore may not always preserve these structures accurately: a repeated Hebrew or Greek word may be rendered two ways and so lose the link the author built, a chiasm may be obscured by English word order, or a paragraph break may cut across a unit the author meant to hold together. A systematic review of literary structure is planned, and it will lead to revisions in future drafts.
 
 ## Complete Verse Catalog
+
+### Public Draft v0.29 (November 2026\)
+
+- Liability and bearing (*ʾāšām*, *nāśāʾ ʿāwōn*): "guilt" and "guilty" for *ʾāšam* now read "liability" and "liable" in Lev 4:3, 13, 22, 27; 5:2-5, 17, 19; 6:4, 5, 7; 22:16; Num 5:6; Gen 26:10; Judg 21:22; Ezra 10:19, with notes: *ʾāšam* is the debt of a wrong, often an unknowing one, settled by confession and the offering God prescribes. Lev 5:6-7 "his reparation" for the payment owed, so one animal is no longer called two offerings. The bearing idiom reads "bear iniquity," "bear sin," or "bear the consequences of sin" (Exod 28:43; Lev 5:17; 19:17; 20:20; 22:9; Num 14:34; 15:31; 18:22, 32). Notes at Lev 1:4 (purgation for lay readers), 4:20 ("forgiven"), 10:17, and Num 15:25.
+- Generations: Exod 34:7 and Num 14:18 "He will by no means clear the guilty"; note at Exod 20:5 (children live with the results, each is guilty only for his own sin), with pointers at Exod 34:7; Num 14:18, 33; Deut 5:9; Jer 32:18. Lam 5:7 "we carry the consequences of their iniquities." Notes at Ezek 4:4 and 18:20.
+- Isaiah 53: v. 6 "the LORD caused the iniquity of us all to fall on Him" (*hifgiaʿ*, the verb of "made intercession," v. 12); v. 11 "He will carry the consequences of their iniquities"; v. 12 "He bore the consequences of the sin of many," with notes; v. 10 note ties the reparation offering to Lev 4-5. Notes at Heb 9:28, 1 Pet 2:24, and Gal 3:13.
+- Hebrews 6:4: the Brief's rationale and the note agree. Believers who stumble are restored through repentance, and God is willing to reconcile anyone who turns to Him while they live; the fall of v. 6 treats the one sacrifice as nothing, and there is no cycle of saved, lost, and saved again.
+- Quotation checks: notes now quote the AAB text as it reads (Lev 3:1; 23:27; Gen 14:7; John 1:29; Rev 12:9; 14:11; 20:10), and the ayin in *yaʿanah* is written ʿ (Isa 13:21; 34:13; Jer 50:39). Brief entries for Ps 146:4 and Heb 9:7, 9:10, 12:15 updated to the current renderings.
+- Note wording: "contamination" replaces "stain" in the purgation notes (Lev 1:4; 4:3, 20; 5:2; 10:17; 16:30). The Exod 34:7 and Lev 10:17 notes say that "bearing iniquity," said of God, means forgiving it. The Isa 53:10 note describes the reparation offering as restoring what was wronged, and the Gal 3:13 note notes that Paul leaves out Deuteronomy's "of God."
+- Brief: a Decision Procedure (the historical-grammatical method and the non-contradiction of the canon; when the New Testament governs an Old Testament rendering; when the Septuagint counts as evidence). Footnote 1 now states the 70-book count. The ESV paragraph and the anthropology tables are restated in a plainer register.
 
 ### Public Draft v0.28 (November 2026\)
 
@@ -1591,11 +1609,11 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 6:4 | impossible | ultimately impossible |
 | Hebrews 6:10 | saints | holy ones |
 | Hebrews 9:5 | mercy seat | throne seat |
-| Hebrews 9:7 | sins committed in ignorance | unintentional sins committed in ignorance |
-| Hebrews 9:10 | time of reform | time of regeneration |
+| Hebrews 9:7 | sins committed in ignorance | unintentional sins committed in ignorance (reverted in v0.28) |
+| Hebrews 9:10 | time of reform | time of regeneration (v0.28: time of setting all things right) |
 | Hebrews 10:6 | sin offering | purification offering |
 | Hebrews 10:8 | sin offering | purification offering |
-| Hebrews 12:15 | falls short of | falls away from |
+| Hebrews 12:15 | falls short of | falls away from (reverted in v0.28) |
 | Hebrews 13:24 | saints | holy ones |
 | James 3:6 | hell | hell (fn: Gk. *gehenna*) |
 | Jude 3 | saints | holy ones |
@@ -1865,6 +1883,13 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 9:7 | sins the people had committed in ignorance | sins the people had committed in ignorance (AAB earlier: unintentional sins … in ignorance) |
 | Hebrews 6:4; Jude 7; Ephesians 3:15 | (no footnote) | (fns: "ultimately" not in the Greek; the fire as example; patria) |
 | Ecclesiastes 12:7; Revelation 6:9; 1 Peter 1:9; Deuteronomy 6:5; Psalm 110:3; Genesis 22:2; Leviticus 1:4; 16:21; Hebrews 2:14; Matthew 6:13 | (fn) | (fn revised) |
+| Leviticus 4:3, 13, 22, 27; 5:2-5, 17, 19; 6:4, 5, 7; 22:16; Numbers 5:6; Genesis 26:10; Judges 21:22; Ezra 10:19 | guilt / guilty | liability / liable (fns: Heb. ʾasham; main note at Lev 4:13) |
+| Leviticus 5:6-7 | his guilt offering (AAB before v0.29: his reparation offering / as reparation) | as his reparation (fn: Heb. ʾashamo, the payment owed) |
+| Exodus 28:43; Leviticus 5:17; 19:17; 20:20; 22:9; Numbers 14:34; 15:31; 18:22, 32 | incur guilt / bear the guilt / bear his punishment | bear iniquity / bear sin / bear the consequences of sin |
+| Exodus 34:7; Numbers 14:18 | leave the guilty unpunished | clear the guilty |
+| Lamentations 5:7 | we bear their punishment | we carry the consequences of their iniquities |
+| Isaiah 53:6, 11, 12 | laid upon Him / bear their iniquities / bore the sin of many | caused … to fall on Him / carry the consequences of their iniquities / bore the consequences of the sin of many |
+| Leviticus 1:4; 4:20; 10:17; Numbers 15:25; Exodus 20:5; Numbers 14:33; Deuteronomy 5:9; Jeremiah 32:18; Ezekiel 4:4; 18:20; Isaiah 53:10; Hebrews 9:28; 1 Peter 2:24; Galatians 3:13 | (fn) | (fns added or revised: purgation, forgiveness, bearing iniquity, the generations) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 
@@ -2472,31 +2497,31 @@ Greek ἐν υἱῷ is anarthrous ("in/by a son") rather than articular ("the S
 
 **BSB rendering:** "impossible" → **AAB rendering:** "ultimately impossible"
 
-The Greek ἀδύνατον means "impossible," and we preserve that sense. The author of Hebrews uses ἀδύνατον four times (6:4, 6:18, 10:4, 11:6), and in every instance the impossibility is genuine: it IS impossible for God to lie (6:18); it IS impossible for the blood of bulls and goats to take away sins (10:4); it IS impossible to please God without faith (11:6). We do not soften "impossible" to "difficult" here, as that would break the author's consistent usage.
+The Greek ἀδύνατον means "impossible," and we preserve that sense. The author of Hebrews uses ἀδύνατον four times (6:4, 6:18, 10:4, 11:6), and in every instance the impossibility is genuine: it is impossible for God to lie (6:18); it is impossible for the blood of bulls and goats to take away sins (10:4); it is impossible to please God without faith (11:6). We do not soften "impossible" to "difficult" here, as that would break the author's consistent usage.
 
 However, Scripture demonstrates that impossibility operates in different senses. What is impossible for man is possible for God (Matt 19:26); it is impossible to serve two masters (Matt 6:24); one cannot love both God and money (Matt 6:24; Luke 16:13). These are ontological impossibilities defining the structure of reality, not statements about whether circumstances might ever change.
 
 The impossibility in Hebrews 6:4 is likewise ontological. The author's argument throughout Hebrews centers on Christ's ἐφάπαξ (once-for-all) sacrifice (7:27; 9:12; 10:10). The impossibility in view is the impossibility of recrucifying Christ (v. 6), of demanding a second once-for-all offering, of belonging to Christ while simultaneously treating his blood as worthless.
 
-This is NOT a statement that someone who doubts, struggles, or even walks away from faith cannot later genuinely repent. Christ is not recrucified each time someone believes; the prodigal returned; Peter was restored; the door remains open to all who turn back. The qualifier "ultimately" signals that the impossibility operates at the level of Christ's sufficient work and the either-or nature of covenant belonging, not at the level of individual human experience. The exhortation is to persevere, because there is no Plan B and no second sacrifice waiting if you treat Christ's finished work as nothing.
+Believers stumble, and they are restored through repentance, as Peter was (Luke 22:32; John 21:15-19). God is willing to reconcile anyone who turns to Him while they still live (Ezek 18:23, 32; 2 Pet 3:9; Luke 15:20). The fall in verse 6 is different: it treats Christ's once-for-all sacrifice as nothing, and there is no other sacrifice to turn to. The Father keeps those He has brought into His family (John 10:28-29), and they hold firm to the end (Heb 3:6, 14). "Ultimately" marks where the warning points: there is one sacrifice, and there is no cycle of saved, lost, and saved again.
 
-#### Hebrews 9:7 (Unintentional Sins)
+#### Hebrews 9:7 (Sins of Ignorance)
 
-**BSB rendering:** "sins committed in ignorance" → **AAB rendering:** "unintentional sins committed in ignorance"
+**BSB rendering:** "sins committed in ignorance" → **AAB rendering:** "sins the people had committed in ignorance" (v0.28; earlier "unintentional sins committed in ignorance")
 
-Adding "unintentional" clarifies that the Day of Purification sacrifices addressed שְׁגָגָה (inadvertent, unintentional sins), not high-handed rebellion. This aligns with the Levitical system and the author's argument.
+Greek ἀγνοημάτων names one idea, sins of ignorance, the Greek counterpart of שְׁגָגָה (inadvertent sins) in Lev 4 and Num 15. Adding "unintentional" said the same thing twice, so v0.28 removed it.
 
-#### Hebrews 9:10 (Time of Regeneration)
+#### Hebrews 9:10 (Setting All Things Right)
 
-**BSB rendering:** "time of reform" → **AAB rendering:** "time of regeneration"
+**BSB rendering:** "time of reform" → **AAB rendering:** "time of setting all things right" (v0.28; earlier "time of regeneration")
 
-Greek διορθώσεως can mean "reform" or "new order/regeneration." Given the eschatological thrust of Hebrews and the new creation theology, "regeneration" captures the magnitude of change better than "reform."
+Greek διορθώσεως means correction, setting right. "Regeneration" is the English word for a different Greek word, παλιγγενεσία (Matt 19:28; Titus 3:5), so it suggested a link the Greek does not make. "Setting all things right" keeps the sense of the word and the scope of the change Hebrews describes.
 
-#### Hebrews 12:15 (Falls Away)
+#### Hebrews 12:15 (Falls Short)
 
-**BSB rendering:** "falls short" → **AAB rendering:** "falls away"
+**BSB rendering:** "falls short" → **AAB rendering:** "falls short" (v0.28; earlier "falls away")
 
-Greek ὑστερῶν in this context carries the sense of apostasy, not merely missing a mark. The warning passage context (cf. Heb 6:4–6; 10:26–31) supports "falls away" as the intended meaning.
+Greek ὑστερῶν ἀπό means to fall short of or fail to obtain. The warning is real (Heb 6:4-6; 10:26-31), and the word itself names falling short, so the AAB keeps it.
 
 ### Final Judgment Passages
 
@@ -3059,7 +3084,7 @@ If you later want to revise or withdraw a published endorsement, email [craigbbr
 
 Scholars who disagree substantially with our approach are also welcome to submit a critique for the record. We will publish substantive critiques in a companion section if there is enough interest. The goal is a public, honest record of where the scholarly community stands on these questions, not a curated list of supporters.
 
-[^1]: 66 is not a significant number in Scripture, but 70 is. If Psalms is treated as five books (as the internal divisions indicate), the total is 70, a far more meaningful number biblically. But one battle at a time.
+[^1]: The AAB counts these same books as 70, treating Psalms as the five books its own closing doxologies mark (Ps 41:13; 72:19; 89:52; 106:48).
 
 [^2]: The books commonly called the Apocrypha were not considered Scripture by the wider Jewish or Christian communities in antiquity. The Jewish canon was settled without them; Jerome explicitly distinguished them from canonical books; no ecumenical council of the undivided church defined them as Scripture. The Council of Trent (1546) was a late, contested response to the Reformation. A few early writers favored including 1 Enoch, and Jude 14-15 quotes from it, but no wider movement succeeded in expanding the canon.
 
