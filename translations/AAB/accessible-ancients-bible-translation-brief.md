@@ -343,7 +343,7 @@ Our approach is **targeted correction**:
      
 2. **Where "departing soul" language imports dualism, we use "life."** BSB v3 has already addressed Genesis 35:18 and 1 Kings 17:21-22 in ways that remove the soul language. The principle still applies at Luke 8:55 and other passages not yet corrected in BSB.  
      
-3. **Where ruach describes the breath returning to God, we use "breath."** Ecclesiastes 12:7 becomes "the breath returns to God who gave it"; Psalm 146:4 becomes "when his breath departs... his thoughts perish." This preserves the connection to Genesis 2:7 without importing conscious-survival assumptions.  
+3. **Where ruach describes the breath returning to God, we use "breath."** Ecclesiastes 12:7 becomes "the breath returns to God who gave it"; Psalm 146:4 becomes "when his breath departs... his plans perish." This preserves the connection to Genesis 2:7.  
      
 4. **Where "spirit" fits an act of trust, we use "life" with footnote.** Psalm 31:5 / Luke 23:46 becomes "Into your hand I commit my life" with a footnote explaining: "Heb. ruach. An act of trust, entrusting one's life to God's care."  
      
@@ -442,9 +442,9 @@ Having established our hermeneutical framework, the following table summarizes t
 | Pruning (John 15:3) | clean | pruned |
 | Son (Heb 1:2) | His Son | a Son |
 | Ultimately Impossible (Heb 6:4) | impossible | ultimately impossible |
-| Unintentional sins (Heb 9:7) | sins committed in ignorance | unintentional sins committed in ignorance |
-| Time of reform (Heb 9:10) | time of reform | time of regeneration |
-| Falls short (Heb 12:15) | falls short | falls away |
+| Sins of ignorance (Heb 9:7) | sins committed in ignorance | sins the people had committed in ignorance |
+| Time of reform (Heb 9:10) | time of reform | time of setting all things right |
+| Falls short (Heb 12:15) | falls short | falls short |
 | Restrainer (2 Thess 2:6-7) | what is now restraining / the one who now restrains | what restrains now / he who now restrains |
 | Stele (Lev 26:30) | lifeless remains | stele |
 | Ba'al of wing (Prov 1:17) | any bird | any bird (with footnote) |
@@ -979,6 +979,7 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 - Liability and bearing (*ʾāšām*, *nāśāʾ ʿāwōn*): "guilt" and "guilty" for *ʾāšam* now read "liability" and "liable" in Lev 4:3, 13, 22, 27; 5:2-5, 17, 19; 6:4, 5, 7; 22:16; Num 5:6; Gen 26:10; Judg 21:22; Ezra 10:19, with notes: *ʾāšam* is the debt of a wrong, often an unknowing one, settled by confession and the offering God prescribes. Lev 5:6-7 "his reparation" for the payment owed, so one animal is no longer called two offerings. The bearing idiom reads "bear iniquity," "bear sin," or "bear the consequences of sin" (Exod 28:43; Lev 5:17; 19:17; 20:20; 22:9; Num 14:34; 15:31; 18:22, 32). Notes at Lev 1:4 (purgation for lay readers), 4:20 ("forgiven"), 10:17, and Num 15:25.
 - Generations: Exod 34:7 and Num 14:18 "He will by no means clear the guilty"; note at Exod 20:5 (children live with the results, each is guilty only for his own sin), with pointers at Exod 34:7; Num 14:18, 33; Deut 5:9; Jer 32:18. Lam 5:7 "we carry the consequences of their iniquities." Notes at Ezek 4:4 and 18:20.
 - Isaiah 53: v. 6 "the LORD caused the iniquity of us all to fall on Him" (*hifgiaʿ*, the verb of "made intercession," v. 12); v. 11 "He will carry the consequences of their iniquities"; v. 12 "He bore the consequences of the sin of many," with notes; v. 10 note ties the reparation offering to Lev 4-5. Notes at Heb 9:28, 1 Pet 2:24, and Gal 3:13.
+- Quotation checks: notes now quote the AAB text as it reads (Lev 3:1; 23:27; Gen 14:7; John 1:29; Rev 12:9; 14:11; 20:10), and the ayin in *yaʿanah* is written ʿ (Isa 13:21; 34:13; Jer 50:39). Brief entries for Ps 146:4 and Heb 9:7, 9:10, 12:15 updated to the current renderings.
 - Note wording: "contamination" replaces "stain" in the purgation notes (Lev 1:4; 4:3, 20; 5:2; 10:17; 16:30). The Exod 34:7 and Lev 10:17 notes say that "bearing iniquity," said of God, means forgiving it. The Isa 53:10 note describes the reparation offering as restoring what was wronged, and the Gal 3:13 note notes that Paul leaves out Deuteronomy's "of God."
 - Brief: a Decision Procedure (the historical-grammatical method and the non-contradiction of the canon; when the New Testament governs an Old Testament rendering; when the Septuagint counts as evidence). Footnote 1 now states the 70-book count. The ESV paragraph and the anthropology tables are restated in a plainer register.
 
@@ -1607,11 +1608,11 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Hebrews 6:4 | impossible | ultimately impossible |
 | Hebrews 6:10 | saints | holy ones |
 | Hebrews 9:5 | mercy seat | throne seat |
-| Hebrews 9:7 | sins committed in ignorance | unintentional sins committed in ignorance |
-| Hebrews 9:10 | time of reform | time of regeneration |
+| Hebrews 9:7 | sins committed in ignorance | unintentional sins committed in ignorance (reverted in v0.28) |
+| Hebrews 9:10 | time of reform | time of regeneration (v0.28: time of setting all things right) |
 | Hebrews 10:6 | sin offering | purification offering |
 | Hebrews 10:8 | sin offering | purification offering |
-| Hebrews 12:15 | falls short of | falls away from |
+| Hebrews 12:15 | falls short of | falls away from (reverted in v0.28) |
 | Hebrews 13:24 | saints | holy ones |
 | James 3:6 | hell | hell (fn: Gk. *gehenna*) |
 | Jude 3 | saints | holy ones |
@@ -2503,23 +2504,23 @@ The impossibility in Hebrews 6:4 is likewise ontological. The author's argument 
 
 This is NOT a statement that someone who doubts, struggles, or even walks away from faith cannot later genuinely repent. Christ is not recrucified each time someone believes; the prodigal returned; Peter was restored; the door remains open to all who turn back. The qualifier "ultimately" signals that the impossibility operates at the level of Christ's sufficient work and the either-or nature of covenant belonging, not at the level of individual human experience. The exhortation is to persevere, because there is no Plan B and no second sacrifice waiting if you treat Christ's finished work as nothing.
 
-#### Hebrews 9:7 (Unintentional Sins)
+#### Hebrews 9:7 (Sins of Ignorance)
 
-**BSB rendering:** "sins committed in ignorance" → **AAB rendering:** "unintentional sins committed in ignorance"
+**BSB rendering:** "sins committed in ignorance" → **AAB rendering:** "sins the people had committed in ignorance" (v0.28; earlier "unintentional sins committed in ignorance")
 
-Adding "unintentional" clarifies that the Day of Purification sacrifices addressed שְׁגָגָה (inadvertent, unintentional sins), not high-handed rebellion. This aligns with the Levitical system and the author's argument.
+Greek ἀγνοημάτων names one idea, sins of ignorance, the Greek counterpart of שְׁגָגָה (inadvertent sins) in Lev 4 and Num 15. Adding "unintentional" said the same thing twice, so v0.28 removed it.
 
-#### Hebrews 9:10 (Time of Regeneration)
+#### Hebrews 9:10 (Setting All Things Right)
 
-**BSB rendering:** "time of reform" → **AAB rendering:** "time of regeneration"
+**BSB rendering:** "time of reform" → **AAB rendering:** "time of setting all things right" (v0.28; earlier "time of regeneration")
 
-Greek διορθώσεως can mean "reform" or "new order/regeneration." Given the eschatological thrust of Hebrews and the new creation theology, "regeneration" captures the magnitude of change better than "reform."
+Greek διορθώσεως means correction, setting right. "Regeneration" is the English word for a different Greek word, παλιγγενεσία (Matt 19:28; Titus 3:5), so it suggested a link the Greek does not make. "Setting all things right" keeps the sense of the word and the scope of the change Hebrews describes.
 
-#### Hebrews 12:15 (Falls Away)
+#### Hebrews 12:15 (Falls Short)
 
-**BSB rendering:** "falls short" → **AAB rendering:** "falls away"
+**BSB rendering:** "falls short" → **AAB rendering:** "falls short" (v0.28; earlier "falls away")
 
-Greek ὑστερῶν in this context carries the sense of apostasy, not merely missing a mark. The warning passage context (cf. Heb 6:4–6; 10:26–31) supports "falls away" as the intended meaning.
+Greek ὑστερῶν ἀπό means to fall short of or fail to obtain. The warning is real (Heb 6:4-6; 10:26-31), and the word itself names falling short, so the AAB keeps it.
 
 ### Final Judgment Passages
 
