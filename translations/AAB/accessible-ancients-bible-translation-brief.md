@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.29 | Awaiting Feedback**
+**Status: Public Draft v0.30 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -974,6 +974,11 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 
 ## Complete Verse Catalog
 
+### Public Draft v0.30 (November 2026\)
+
+- Iniquity and its consequence (*ʿāwōn*, *ḥaṭṭāʾt*), from a sweep of every Old Testament verse where the AAB had "punish," "guilt," "unpunished," or "penalty," checked against the Hebrew: "punishment" for *ʿāwōn* now reads "the consequence(s) of iniquity" (Gen 4:13; 19:15; Jer 51:6; Lam 4:22); Job 19:29 "wrath is an iniquity that brings the sword", and Ezekiel's "final punishment" reads "the time when iniquity reaches its end" (21:25, 29; 35:5). Lam 4:6 restores both nouns: "The iniquity of the daughter of my people is greater than the sin of Sodom." Zech 14:19 "the consequence of the sin of Egypt"; Prov 10:16 "leads to sin." Where *ʿāwōn* names the wrong itself, "guilt" became "iniquity" (Job 31:33; Isa 27:9; Jer 2:22; 14:20; 16:17; 18:23; 50:20; Lam 2:14; 4:13; Ezek 21:23, 24; Hos 9:9). "Guilt" stays where the context is culpability (Ps 32:5; Jer 3:13) and where the Hebrew is *ʾašmâ* (Ezra 9:6, 7, 13). Gen 42:21 "we are guilty concerning our brother" (*ʾăšēmîm*, a deliberate wrong). Exod 20:7 and Deut 5:11 "will not hold anyone guiltless" (*lōʾ yᵉnaqqeh*), with a note tying the verb to Exod 34:7.
+- Liability and bearing, verses the v0.29 sweep missed: Nah 1:3 "clear the guilty," the formula of Exod 34:7; Jer 30:11 and 46:28 "will by no means clear you," with a note on the same verb; Ezek 14:10 "they will bear their iniquity" (*nāśʾû ʿăwōnām*); Job 21:19 "God stores up a man's iniquity for his children," with a pointer to Exod 20:5; Lev 26:43 "make amends for their iniquity," matching the same Hebrew in v. 41.
+
 ### Public Draft v0.29 (November 2026\)
 
 - Liability and bearing (*ʾāšām*, *nāśāʾ ʿāwōn*): "guilt" and "guilty" for *ʾāšam* now read "liability" and "liable" in Lev 4:3, 13, 22, 27; 5:2-5, 17, 19; 6:4, 5, 7; 22:16; Num 5:6; Gen 26:10; Judg 21:22; Ezra 10:19, with notes: *ʾāšam* is the debt of a wrong, often an unknowing one, settled by confession and the offering God prescribes. Lev 5:6-7 "his reparation" for the payment owed, so one animal is no longer called two offerings. The bearing idiom reads "bear iniquity," "bear sin," or "bear the consequences of sin" (Exod 28:43; Lev 5:17; 19:17; 20:20; 22:9; Num 14:34; 15:31; 18:22, 32). Notes at Lev 1:4 (purgation for lay readers), 4:20 ("forgiven"), 10:17, and Num 15:25.
@@ -1890,6 +1895,20 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Lamentations 5:7 | we bear their punishment | we carry the consequences of their iniquities |
 | Isaiah 53:6, 11, 12 | laid upon Him / bear their iniquities / bore the sin of many | caused … to fall on Him / carry the consequences of their iniquities / bore the consequences of the sin of many |
 | Leviticus 1:4; 4:20; 10:17; Numbers 15:25; Exodus 20:5; Numbers 14:33; Deuteronomy 5:9; Jeremiah 32:18; Ezekiel 4:4; 18:20; Isaiah 53:10; Hebrews 9:28; 1 Peter 2:24; Galatians 3:13 | (fn) | (fns added or revised: purgation, forgiveness, bearing iniquity, the generations) |
+| Nahum 1:3 | leave the guilty unpunished | clear the guilty (fn: see Exod 34:7) |
+| Jeremiah 30:11; 46:28 | will by no means leave you unpunished | will by no means clear you (fn) |
+| Ezekiel 14:10 | bear their punishment … the punishment of the inquirer | bear their iniquity … the iniquity of the inquirer (fn) |
+| Job 21:19 | lays up one’s punishment for his children | stores up a man’s iniquity for his children (fn) |
+| Leviticus 26:43 | pay the penalty for their iniquity | make amends for their iniquity (fn: as in v. 41) |
+| Genesis 4:13; 19:15; Jeremiah 51:6; Lamentations 4:22 | punishment | the consequence(s) of iniquity (fns) |
+| Job 19:29 | wrath brings punishment by the sword | wrath is an iniquity that brings the sword (fn) |
+| Ezekiel 21:25, 29; 35:5 | final punishment | the time when iniquity reaches its end (fn at 21:25) |
+| Lamentations 4:6 | The punishment … greater than that of Sodom | The iniquity … greater than the sin of Sodom (fn) |
+| Zechariah 14:19 | the punishment of Egypt | the consequence of the sin of Egypt (fn) |
+| Proverbs 10:16 | brings punishment | leads to sin (fn) |
+| Job 31:33; Isaiah 27:9; Jeremiah 2:22; 14:20; 16:17; 18:23; 50:20; Lamentations 2:14; 4:13; Ezekiel 21:23, 24; Hosea 9:9 | guilt | iniquity |
+| Genesis 42:21 | we are being punished | we are guilty (fn: Heb. ʾashemim) |
+| Exodus 20:7; Deuteronomy 5:11 | will not leave anyone unpunished | will not hold anyone guiltless (fn at Exod 20:7) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 
