@@ -2,7 +2,7 @@
 
 ## Translation Brief
 
-**Status: Public Draft v0.29 | Awaiting Feedback**
+**Status: Public Draft v0.30 | Awaiting Feedback**
 
 [**Submit an Endorsement**](https://forms.gle/Ks6KiQ2mhezhXcXf9) · [**Submit a Critique**](https://forms.gle/ePNV2F7V6zMcz98MA)
 
@@ -974,6 +974,10 @@ The AAB has not been revised against a dataset of literary structures. Its rende
 
 ## Complete Verse Catalog
 
+### Public Draft v0.30 (November 2026\)
+
+- Liability and bearing, verses the v0.29 sweep missed: Nah 1:3 "clear the guilty," the formula of Exod 34:7; Jer 30:11 and 46:28 "will by no means leave you uncorrected," with a note on the same verb; Ezek 14:10 "they will bear their iniquity" (*nāśʾû ʿăwōnām*); Job 21:19 "God stores up a man's iniquity for his children," with a pointer to Exod 20:5; Lev 26:43 "make amends for their iniquity," matching the same Hebrew in v. 41.
+
 ### Public Draft v0.29 (November 2026\)
 
 - Liability and bearing (*ʾāšām*, *nāśāʾ ʿāwōn*): "guilt" and "guilty" for *ʾāšam* now read "liability" and "liable" in Lev 4:3, 13, 22, 27; 5:2-5, 17, 19; 6:4, 5, 7; 22:16; Num 5:6; Gen 26:10; Judg 21:22; Ezra 10:19, with notes: *ʾāšam* is the debt of a wrong, often an unknowing one, settled by confession and the offering God prescribes. Lev 5:6-7 "his reparation" for the payment owed, so one animal is no longer called two offerings. The bearing idiom reads "bear iniquity," "bear sin," or "bear the consequences of sin" (Exod 28:43; Lev 5:17; 19:17; 20:20; 22:9; Num 14:34; 15:31; 18:22, 32). Notes at Lev 1:4 (purgation for lay readers), 4:20 ("forgiven"), 10:17, and Num 15:25.
@@ -1890,6 +1894,11 @@ The following table lists every BSB to AAB textual change in canonical order.
 | Lamentations 5:7 | we bear their punishment | we carry the consequences of their iniquities |
 | Isaiah 53:6, 11, 12 | laid upon Him / bear their iniquities / bore the sin of many | caused … to fall on Him / carry the consequences of their iniquities / bore the consequences of the sin of many |
 | Leviticus 1:4; 4:20; 10:17; Numbers 15:25; Exodus 20:5; Numbers 14:33; Deuteronomy 5:9; Jeremiah 32:18; Ezekiel 4:4; 18:20; Isaiah 53:10; Hebrews 9:28; 1 Peter 2:24; Galatians 3:13 | (fn) | (fns added or revised: purgation, forgiveness, bearing iniquity, the generations) |
+| Nahum 1:3 | leave the guilty unpunished | clear the guilty (fn: see Exod 34:7) |
+| Jeremiah 30:11; 46:28 | will by no means leave you unpunished | will by no means leave you uncorrected (fn) |
+| Ezekiel 14:10 | bear their punishment … the punishment of the inquirer | bear their iniquity … the iniquity of the inquirer (fn) |
+| Job 21:19 | lays up one’s punishment for his children | stores up a man’s iniquity for his children (fn) |
+| Leviticus 26:43 | pay the penalty for their iniquity | make amends for their iniquity (fn: as in v. 41) |
 
 **Total: see category rows above \+ 3 footnote-only additions**
 
